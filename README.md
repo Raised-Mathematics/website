@@ -3,7 +3,7 @@
 An open-source project aiming to produce Braille versions of college-level mathematics texts automatically from the source files.
 
 ## Results
- Here is a Braille version of Abstract Algebra: Theory and Applications, by Tom Judson.
+ Here is a [Braille version of Abstract Algebra: Theory and Applications](Results.md), by Tom Judson.
 
 
 
