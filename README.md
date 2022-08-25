@@ -32,17 +32,17 @@ The process to produce Braille is automated. We are using [Speech Rule Engine](h
 
 The diagrams in the textbook source are created using TiKZ package of LaTeX. A series of scripts enlarges these images as much as possible to fit on a Braille page and transcribes the labels into Braille. The files can then be embossed on an embosser capable of using PDF files. We tested the process on View Plus embossers. The diagrams are embossed separately and then inserted into the embossed textbook. For every diagram, the BRF files have a "throw-away" page with an embossed instruction to replace it by the needed diagram.
 
-## Partners
+## Related projects
 
 * [PreTeXt project](https://pretextbook.org/)
-* MathJax
+* [MathJax](https://www.mathjax.org/)
 * [Speech Rule Engine](https://speechruleengine.org/)
-* View Plus
-* American Institute of Mathematics (?)
 
 
-## Sponsors
 
-The work to develop the ability to automatically transcribe the source files was supported by the [American Action Fund for Blind Children and Adults](https://www.actionfund.org/).
+## Supporters
 
+* The work to develop the ability to automatically transcribe the source files was 
+supported by the [American Action Fund for Blind Children and Adults](https://www.actionfund.org/).
 
+* [View Plus Technologies](https://viewplus.com/)
