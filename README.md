@@ -1,7 +1,4 @@
----
-title: Raised Mathematics Project
----
-
+# Raised Mathematics Project
 
 An open-source project aiming to produce Braille versions of college-level mathematics texts automatically from the source files.
 
