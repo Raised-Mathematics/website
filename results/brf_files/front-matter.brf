@@ -1,0 +1,705 @@
+,ac"kl$ge;ts """""""""""""""""""""""" #c
+,preface """""""""""""""""""""""""""" #e
+#a ,prelim9>ies """""""""""""""""""" #ab
+    #a4a ,a ,%ort ,note on ,pro(s "" #ab
+      ,"s ,cau;ns & ,su7es;ns """""" #ag
+    #a4b ,sets & ,equival;e
+    ,rela;ns """"""""""""""""""""""" #ai
+      ,set ,!ory """"""""""""""""""" #ai
+      ,c>tesian ,products &
+      ,mapp+s """""""""""""""""""""" #ca
+      ,equival;e ,rela;ns &
+      ,"pi;ns """""""""""""""""""""" #ef
+    #a4c ,r1d+ ,"qs """""""""""""""" #fg
+    #a4d ,ex}cises """"""""""""""""" #fh
+    #a4e ,ref};es & ,su7e/$ ,r1d+s " #gi
+    #a4f ,sage """"""""""""""""""""" #ha
+      ,execut+ ,sage ,comm&s """"""" #ha
+      ,imm ,help """"""""""""""""""" #hf
+      ,annotat+ ,yr ,"w """""""""""" #hi
+      ,li/s """""""""""""""""""""""" #ij
+      ,li/s ( ,9teg}s """""""""""""" #ie
+      ,sav+ & ,%>+ ,yr ,"w """"""""" #if
+    #a4g ,sage ,ex}cises """"""""""" #ig
+#b ,! ,9teg}s """""""""""""""""""""" #ii
+    #b4a ,ma!matical ,9duc;n "" #ii   #a
+    #b4b ,! ,divi.n ,algori?m """"" #aaj
+      ,! ,euclid1n ,algori?m """""" #aaf
+      ,prime ,numb}s """""""""""""" #abj
+      ,hi/orical ,note """""""""""" #abf
+    #b4c ,r1d+ ,"qs """"""""""""""" #abg
+    #b4d ,ex}cises """""""""""""""" #abh
+    #b4e ,programm+ ,ex}cises """"" #aci
+    #b4f ,ref};es & ,su7e/$ ,r1d+s  #ada
+    #b4g ,sage """""""""""""""""""" #adb
+      ,divi.n ,algori?m """"""""""" #adb
+      ,grte/ ,common ,divisor """"" #ade
+      ,primes & ,factor+ """""""""" #adg
+    #b4h ,sage ,ex}cises """""""""" #aec
+#c ,gr|ps """"""""""""""""""""""""" #aef
+    #c4a ,9teg} ,equival;e
+    ,classes & ,symmetries """""""" #aeg
+      ,! ,9teg}s mod ;n """"""""""" #aeg
+      ,symmetries """"""""""""""""" #afe
+    #c4b ,def9i;ns & ,examples """" #agc
+      ,basic ,prop}ties ( ,gr|ps "" #ahf
+      ,hi/orical ,note """""""""""" #aic
+    #c4c ,subgr|ps """""""""""""""" #aid
+      ,def9i;ns & ,examples """"""" #aid
+      ,"s ,subgr|p ,!orems """""""" #bja
+    #c4d ,r1d+ ,"qs """""""""" #bje   #b
+    #c4e ,ex}cises """""""""""""""" #bje
+    #c4f ,addi;nal ,ex}cises3
+    ,detect+ ,}rors """"""""""""""" #bbc
+    #c4g ,ref};es & ,su7e/$ ,r1d+s  #bbi
+    #c4h ,sage """""""""""""""""""" #bcj
+      ,9teg}s mod ;n """""""""""""" #bcj
+      ,gr|ps ( symmetries """"""""" #bce
+      ,quat}nions """"""""""""""""" #bdc
+      ,subgr|ps """"""""""""""""""" #bdg
+    #c4i ,sage ,ex}cises """""""""" #bdi
+#d ,cyclic ,gr|ps """"""""""""""""" #bec
+    #d4a ,cyclic ,subgr|ps """""""" #bec
+      ,subgr|ps ( ,cyclic ,gr|ps "" #bfa
+    #d4b ,multiplicative ,gr|p (
+    ,complex ,numb}s """""""""""""" #bfh
+      ,! ,circle ,gr|p & ! ,roots
+      ( ,un;y """"""""""""""""""""" #bha
+    #d4c ,! ,me?od ( ,rep1t$
+    ,squ>es """"""""""""""""""""""" #bhg
+    #d4d ,r1d+ ,"qs """"""""""""""" #bib
+    #d4e ,ex}cises """""""""""""""" #bic
+    #d4f ,programm+ ,ex}cises """"" #cjh
+    #d4g ,ref};es & ,su7e/$ ,r1d+s  #cjh
+    #d4h ,sage """""""""""""""""""" #cji
+      ,9f9ite ,cyclic ,gr|ps " #cji   #c
+      ,additive ,cyclic ,gr|ps """" #caj
+      ,ab/ract ,multiplicative
+      ,cyclic ,gr|ps """""""""""""" #cah
+      ,cyclic ,p}muta;n ,gr|ps """" #cbc
+      ,cayley ,tables """"""""""""" #cbf
+      ,complex ,roots ( ,un;y """"" #ccj
+    #d4i ,sage ,ex}cises """""""""" #ccf
+#e ,p}muta;n ,gr|ps """"""""""""""" #cdj
+    #e4a ,def9i;ns & ,nota;n """""" #cda
+      ,cycle ,nota;n """""""""""""" #cdf
+      ,transposi;ns """"""""""""""" #ceg
+      ,! ,alt}nat+ ,gr|ps """"""""" #cfd
+      ,hi/orical ,note """""""""""" #cfg
+    #e4b ,dih$ral ,gr|ps """""""""" #cfh
+      ,! ,mo;n ,gr|p ( a ,cube """" #chj
+    #e4c ,r1d+ ,"qs """"""""""""""" #chh
+    #e4d ,ex}cises """""""""""""""" #chi
+    #e4e ,sage """""""""""""""""""" #dja
+      ,p}muta;n ,gr|ps & ,ele;ts "" #djb
+      ,prop}ties ( ,p}muta;n
+      ,ele;ts """"""""""""""""""""" #daa
+      ,mo;n ,gr|p ( a ,cube """"""" #dai
+    #e4f ,sage ,ex}cises """""""""" #dbb
+#f ,cosets & ,lagrange's ,!orem """ #dbg
+    #f4a ,cosets """"""""""""" #dbg   #d
+    #f4b ,lagrange's ,!orem """"""" #dcf
+    #f4c ,f}mat's & ,eul}'s
+    ,!orems """"""""""""""""""""""" #dde
+      ,hi/orical ,note """""""""""" #ddg
+    #f4d ,r1d+ ,"qs """"""""""""""" #ddh
+    #f4e ,ex}cises """""""""""""""" #ddi
+    #f4f ,sage """""""""""""""""""" #def
+      ,cosets """"""""""""""""""""" #def
+      ,subgr|ps """"""""""""""""""" #dfa
+      ,subgr|ps ( ,cyclic ,gr|ps "" #dff
+      ,eul} ,phi ,func;n """""""""" #dfh
+    #f4g ,sage ,ex}cises """""""""" #dfi
+#g ,9troduc;n to ,cryptography """" #dgf
+    #g4a ,private ,key
+    ,cryptography """"""""""""""""" #dgh
+    #g4b ,public ,key
+    ,cryptography """"""""""""""""" #dhh
+      ,! ,,rsa ,cryptosy/em """"""" #dhi
+      ,message ,v}ifica;n """"""""" #did
+      ,hi/orical ,note """""""""""" #dif
+    #g4c ,r1d+ ,"qs """"""""""""""" #dii
+    #g4d ,ex}cises """""""""""""""" #dii
+    #g4e ,addi;nal ,ex}cises3
+    ,primal;y & ,factor+ """""""""" #ejd
+                                      #e
+    #g4f ,ref};es & ,su7e/$ ,r1d+s  #eji
+    #g4g ,sage """""""""""""""""""" #eaj
+      ,3/ruct+ ,keys """""""""""""" #eaa
+      ,sign+ & ,5cod+ a ,message "" #eaf
+      ,decod+ & ,v}ify+ a ,message  #eah
+    #g4h ,sage ,ex}cises """""""""" #ebc
+#h ,algebraic ,cod+ ,!ory """"""""" #ebf
+    #h4a ,}ror-,detect+ &
+    ,correct+ ,codes """""""""""""" #ebf
+      ,maximum-,likelihood ,decod+  #ecf
+      ,block ,codes """"""""""""""" #edd
+      ,hi/orical ,note """""""""""" #eee
+    #h4b ,l9e> ,codes """"""""""""" #eef
+      ,l9e> ,codes """""""""""""""" #efa
+    #h4c ,p>;y-,*eck & ,g5}ator
+    ,matrices """"""""""""""""""""" #efh
+    #h4d ,e6ici5t ,decod+ """"""""" #ehi
+      ,coset ,decod+ """""""""""""" #eid
+    #h4e ,r1d+ ,"qs """"""""""""""" #fjb
+    #h4f ,ex}cises """""""""""""""" #fjc
+    #h4g ,programm+ ,ex}cises """"" #fba
+    #h4h ,ref};es & ,su7e/$ ,r1d+s  #fba
+    #h4i ,sage """""""""""""""""""" #fbc
+      ,3/ruct+ ,l9e> ,codes """"""" #fbc
+                                      #f
+      ,prop}ties ( ,l9e> ,codes """ #fbd
+      ,decod+ ) a ,l9e> ,code """"" #fbh
+    #h4aj ,sage ,ex}cises """"""""" #fca
+#i ,isomorphisms """""""""""""""""" #fcg
+    #i4a ,def9i;n & ,examples """"" #fcg
+      ,cayley's ,!orem """""""""""" #fdg
+      ,hi/orical ,note """""""""""" #feb
+    #i4b ,direct ,products """""""" #fec
+      ,ext}nal ,direct ,products "" #fed
+      ,9t}nal ,direct ,products """ #fff
+    #i4c ,r1d+ ,"qs """"""""""""""" #fgb
+    #i4d ,ex}cises """""""""""""""" #fgc
+    #i4e ,sage """""""""""""""""""" #fhh
+      ,isomorphism ,te/+ """""""""" #fhh
+      ,classify+ ,f9ite ,gr|ps """" #fib
+      ,9t}nal ,direct ,products """ #fig
+    #i4f ,sage ,ex}cises """""""""" #gjb
+#aj ,normal ,subgr|ps & ,factor
+,gr|ps """""""""""""""""""""""""""" #gjg
+    #aj4a ,factor ,gr|ps & ,normal
+    ,subgr|ps """"""""""""""""""""" #gjg
+      ,normal ,subgr|ps """"""""""" #gjg
+      ,factor ,gr|ps """""""""""""" #gaa
+    #aj4b ,! ,simplic;y ( !
+    ,alt}nat+ ,gr|p """""""""" #gah   #g
+      ,hi/orical ,note """""""""""" #gbi
+    #aj4c ,r1d+ ,"qs """""""""""""" #gca
+    #aj4d ,ex}cises """"""""""""""" #gca
+    #aj4e ,sage """"""""""""""""""" #gch
+      ,multiply+ ,cosets """""""""" #gci
+      ,sage ,me?ods = ,normal
+      ,subgr|ps """"""""""""""""""" #gdf
+    #aj4f ,sage ,ex}cises """"""""" #gej
+#aa ,homomorphisms """""""""""""""" #ged
+    #aa4a ,gr|p ,homomorphisms """" #ged
+    #aa4b ,! ,isomorphism ,!orems " #gfe
+    #aa4c ,r1d+ ,"qs """""""""""""" #ggh
+    #aa4d ,ex}cises """"""""""""""" #ggi
+    #aa4e ,addi;nal ,ex}cises3
+    ,automorphisms """""""""""""""" #ghf
+    #aa4f ,sage """"""""""""""""""" #ghi
+      ,homomorphisms """""""""""""" #gij
+    #aa4g ,sage ,ex}cises """"""""" #hje
+#ab ,matrix ,gr|ps & ,symmetry """" #haj
+    #ab4a ,matrix ,gr|ps """""""""" #haj
+      ,"s ,facts f ,l9e> ,algebra " #haj
+      ,! ,g5}al & ,special ,l9e>
+      ,gr|ps """""""""""""""""""""" #hbj
+      ,! ,or?ogonal ,gr|p
+      _% ,o(n) _: """""""""""" #hbg   #h
+    #ab4b ,symmetry """"""""""""""" #hdh
+      ,! ,wallpap} ,gr|ps """"""""" #hfj
+      ,hi/orical ,note """""""""""" #hha
+    #ab4c ,r1d+ ,"qs """""""""""""" #hhb
+    #ab4d ,ex}cises """"""""""""""" #hhc
+    #ab4e ,ref};es & ,su7e/$
+    ,r1d+s """""""""""""""""""""""" #hid
+    #ab4f ,sage """"""""""""""""""" #hif
+    #ab4g ,sage ,ex}cises """"""""" #hif
+#ac ,! ,/ructure (  ,gr|ps """""""" #hig
+    #ac4a ,f9ite ,abelian ,gr|ps "" #hih
+    #ac4b ,solvable ,gr|ps """""""" #iag
+    #ac4c ,r1d+ ,"qs """""""""""""" #icc
+    #ac4d ,ex}cises """"""""""""""" #icd
+    #ac4e ,programm+ ,ex}cises """" #ida
+    #ac4f ,ref};es & ,su7e/$
+    ,r1d+s """""""""""""""""""""""" #ida
+    #ac4g ,sage """"""""""""""""""" #ida
+      ,classifica;n ( ,f9ite
+      ,gr|ps """""""""""""""""""""" #idb
+      ,gr|ps ( ,small ,ord} z
+      ,p}muta;n ,gr|ps """""""""""" #ide
+    #ac4h ,sage ,ex}cises """"""""" #idi
+#ad ,gr|p ,ac;ns """""""""""""""""" #iea
+                                      #i
+    #ad4a ,gr|ps ,act+ on ,sets """ #iea
+    #ad4b ,! ,class ,equa;n """"""" #ifd
+    #ad4c ,burnside's ,c.t+ ,!orem  #igc
+      ,a ,geometric ,example """""" #iha
+      ,swit*+ ,func;ns """""""""""" #ihg
+      ,hi/orical ,note """"""""""" #ajjj
+    #ad4d ,r1d+ ,"qs """"""""""""" #ajja
+    #ad4e ,ex}cises """""""""""""" #ajja
+    #ad4f ,programm+ ,ex}cise """" #ajab
+    #ad4g ,ref};es & ,su7e/$ ,r1d+ #ajab
+    #ad4h ,sage """""""""""""""""" #ajac
+      ,3juga;n z a ,gr|p ,ac;n """ #ajad
+      ,graph ,automorphisms """""" #ajbj
+    #ad4i ,sage ,ex}cises """""""" #ajbi
+#ae ,! ,syl{ ,!orems """"""""""""" #ajcc
+    #ae4a ,! ,syl{ ,!orems """"""" #ajcc
+      ,hi/orical ,note """"""""""" #ajdf
+    #ae4b ,examples & ,applica;ns  #ajdg
+      ,f9ite ,simple ,gr|ps """""" #ajec
+    #ae4c ,r1d+ ,"qs """"""""""""" #ajfj
+    #ae4d ,ex}cises """""""""""""" #ajfa
+    #ae4e ,a ,project """""""""""" #ajfh
+    #ae4f ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #ajga
+    #ae4g ,sage """""""""""" #ajgb   #aj
+      ,syl{ ,subgr|ps """""""""""" #ajgb
+      ,normaliz}s """""""""""""""" #ajhj
+      ,f9ite ,simple ,gr|ps """""" #ajhe
+      ,,gap ,3sole & ,9t}face """" #ajhi
+    #ae4h ,sage ,ex}cises """""""" #ajic
+#af ,r+s """"""""""""""""""""""""" #ajii
+    #af4a ,r+s """"""""""""""""""" #ajii
+    #af4b ,9tegral ,doma9s &
+    ,fields """""""""""""""""""""" #aaad
+    #af4c ,r+ ,homomorphisms &
+    ,id1ls """"""""""""""""""""""" #aabc
+    #af4d ,maximal & ,prime ,id1ls #aadj
+      ,hi/orical ,note """"""""""" #aadf
+    #af4e ,an ,applica;n to
+    ,s(tw>e ,design """""""""""""" #aadi
+    #af4f ,r1d+ ,"qs """"""""""""" #aafb
+    #af4g ,ex}cises """""""""""""" #aafc
+    #af4h ,programm+ ,ex}cise """" #aagi
+    #af4i ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #aahj
+    #af4aj ,sage """"""""""""""""" #aaha
+      ,cr1t+ ,r+s """""""""""""""" #aaha
+      ,prop}ties ( ,r+s """""""""" #aahg
+      ,quoti5t ,/ructure """"""""" #aaig
+      ,r+ ,homomorphisms """ #abjc   #aa
+    #af4aa ,sage ,ex}cises """"""" #abjf
+#ag ,polynomials """"""""""""""""" #abji
+    #ag4a ,polynomial ,r+s """"""" #abaj
+    #ag4b ,! ,divi.n ,algori?m """ #abbb
+    #ag4c ,irr$ucible ,polynomials #abcf
+      ,id1ls 9 _% ,f`(x`) _: """"" #abea
+      ,hi/orical ,note """"""""""" #abee
+    #ag4d ,r1d+ ,"qs """"""""""""" #abei
+    #ag4e ,ex}cises """""""""""""" #abfj
+    #ag4f ,addi;nal ,ex}cises3
+    ,solv+ ! ,cubic & ,qu>tic
+    ,equa;ns """"""""""""""""""""" #abgj
+    #ag4g ,sage """""""""""""""""" #abgf
+      ,polynomial ,r+s & _!
+      ,ele;ts """""""""""""""""""" #abgg
+      ,irr$ucible ,polynomials """ #abhb
+      ,polynomials ov} ,fields """ #abhh
+    #ag4h ,sage ,ex}cises """""""" #abic
+#ah ,9tegral ,doma9s """"""""""""" #abig
+    #ah4a ,fields ( ,frac;ns """"" #abig
+    #ah4b ,factoriza;n 9 ,9tegral
+    ,doma9s """""""""""""""""""""" #acaa
+      ,pr9cipal ,id1l ,doma9s """" #acaf
+      ,euclid1n ,doma9s """""""""" #acbf
+                                     #ab
+      ,factoriza;n 9 _% ,d`(x`) _: #accc
+      ,hi/orical ,note """"""""""" #acdc
+    #ah4c ,r1d+ ,"qs """"""""""""" #acdf
+    #ah4d ,ex}cises """""""""""""" #acdf
+    #ah4e ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #acee
+    #ah4f ,sage """""""""""""""""" #acee
+      ,field ( ,frac;ns """""""""" #acef
+      ,prime ,subfields """""""""" #aceh
+      ,9tegral ,doma9s """"""""""" #acfj
+      ,pr9cipal ,id1ls """"""""""" #acfc
+    #ah4g ,sage ,ex}cises """""""" #acfd
+#ai ,lattices & ,bool1n ,algebras  #acfe
+    #ai4a ,lattices """""""""""""" #acfe
+      ,"pially ,ord}$ ,sets """""" #acfe
+    #ai4b ,bool1n ,algebras """""" #achc
+      ,f9ite ,bool1n ,algebras """ #acib
+    #ai4c ,! ,algebra (
+    ,electrical ,circuits """""""" #adjb
+      ,hi/orical ,note """"""""""" #adai
+    #ai4d ,r1d+ ,"qs """"""""""""" #adbj
+    #ai4e ,ex}cises """""""""""""" #adbb
+    #ai4f ,programm+ ,ex}cises """ #adch
+    #ai4g ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""" #addj   #ac
+    #ai4h ,sage """""""""""""""""" #addj
+      ,cr1t+ ,"pially ,ord}$ ,sets #adda
+      ,prop}ties ( a ,poset """""" #adde
+      ,lattices """""""""""""""""" #adea
+    #ai4i ,sage ,ex}cises """""""" #adei
+#bj ,vector ,spaces """""""""""""" #adfd
+    #bj4a ,def9i;ns & ,examples "" #adfd
+    #bj4b ,subspaces """"""""""""" #adga
+    #bj4c ,l9e> ,9dep5d;e """""""" #adge
+    #bj4d ,r1d+ ,"qs """"""""""""" #adhd
+    #bj4e ,ex}cises """""""""""""" #adhe
+    #bj4f ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #adig
+    #bj4g ,sage """""""""""""""""" #adih
+      ,vector ,spaces """""""""""" #adih
+      ,subspaces """"""""""""""""" #aejb
+      ,l9e> ,9dep5d;e """""""""""" #aejf
+      ,ab/ract ,vector ,spaces """ #aejh
+      ,l9e> ,algebra """"""""""""" #aeac
+    #bj4h ,sage ,ex}cises """""""" #aeac
+#ba ,fields """""""""""""""""""""" #aebj
+    #ba4a ,ext5.n ,fields """""""" #aeba
+      ,algebraic ,ele;ts """"""""" #aeca
+      ,algebraic ,closure """""""" #aeeh
+    #ba4b ,splitt+ ,fields " #aefc   #ad
+    #ba4c ,geometric ,3/ruc;ns """ #aegd
+      ,3/ructible ,numb}s """""""" #aegf
+      ,d|bl+ ! ,cube & ,squ>+ !
+      ,circle """""""""""""""""""" #aehh
+      ,trisect+ an ,angle """""""" #aeij
+      ,hi/orical ,note """"""""""" #aeia
+    #ba4d ,r1d+ ,"qs """"""""""""" #aeid
+    #ba4e ,ex}cises """""""""""""" #aeid
+    #ba4f ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #afjc
+    #ba4g ,sage """""""""""""""""" #afje
+      ,numb} ,fields """"""""""""" #afje
+      ,relative & ,absolute ,numb}
+      ,fields """""""""""""""""""" #afji
+      ,splitt+ ,fields """"""""""" #afad
+      ,algebraic ,numb}s """"""""" #afbb
+      ,geometric ,3/ruc;ns """"""" #afbf
+    #ba4h ,sage ,ex}cises """""""" #afbf
+#bb ,f9ite ,fields """"""""""""""" #afcb
+    #bb4a ,/ructure ( a ,f9ite
+    ,field """"""""""""""""""""""" #afcb
+    #bb4b ,polynomial ,codes """"" #afej
+      ,polynomial ,codes """"""""" #afed
+      ,,b* ,codes """""""""""""""" #afgf
+    #bb4c ,r1d+ ,"qs """"""" #afhd   #ae
+    #bb4d ,ex}cises """""""""""""" #afhd
+    #bb4e ,addi;nal ,ex}cises3
+    ,}ror ,correc;n = ,,b* ,codes  #afic
+    #bb4f ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #afie
+    #bb4g ,sage """""""""""""""""" #afif
+      ,cr1t+ ,f9ite ,fields """""" #afif
+      ,log>i?ms 9 ,f9ite ,fields " #agjj
+    #bb4h ,sage ,ex}cises """""""" #agjb
+#bc ,galois ,!ory """""""""""""""" #agji
+    #bc4a ,field ,automorphisms "" #agaj
+      ,sep>able ,ext5.ns """"""""" #agbf
+    #bc4b ,! ,funda;tal ,!orem """ #agcb
+      ,hi/orical ,note """"""""""" #agfb
+    #bc4c ,applica;ns """""""""""" #agfc
+      ,solvabil;y by ,radicals """ #agfc
+      ,9solvabil;y ( ! ,qu9tic """ #agge
+      ,! ,funda;tal ,!orem (
+      ,algebra """"""""""""""""""" #agha
+    #bc4d ,r1d+ ,"qs """"""""""""" #aghd
+    #bc4e ,ex}cises """""""""""""" #aghe
+    #bc4f ,ref};es & ,su7e/$
+    ,r1d+s """"""""""""""""""""""" #agie
+    #bc4g ,sage """""""""""""""""" #agif
+      ,galois ,gr|ps """"""" #agif   #af
+      ,fix$ ,fields """""""""""""" #ahjg
+      ,galois ,correspond;e """""" #ahaf
+      ,normal ,ext5.ns """"""""""" #ahcd
+    #bc4h ,sage ,ex}cises """""""" #ahcg
+,a ,,gnu ,free ,docu;ta;n ,lic5se  #ahdg
+;,b ,h9ts & ,answ}s to ,select$
+,ex}cises """""""""""""""""""""""" #ahgj
+;,c ,nota;n """""""""""""""""""""" #ahga
+,9dex """""""""""""""""""""""""""" #ahgb
+,colophon """""""""""""""""""""""" #ahgc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     #ag
+               ,colophon
+
+  ,? book 0 au?or$ & produc$ )
+,pre,te,xt;9#ai 4
+           ,transcrib} ,notes
+
+  ,lit}al1 or v}batim1 comput} code us$
+9 s5t;es is 9dicat$ by a set (
+transcrib}-def9$ emphasis giv5 by !
+foll{+ 9dicators1 : all 2g9 ) ! two
+cells dot-#d & dot-#cdef4  ,s+le lr3
+#d-#cdef-#bc4  ,2g91 5d ~w3 #d-#cdef-#b1
+#d-#cdef-#c4  ,2g91 5d phrase3
+#d-#cdef-#bcef1 #d-#cdef-#c4
+  ,images >e replac$ by au?ors'
+descrip;ns1 & !n 9 an emboss$ v}.n1 a
+full "<numb}$"> page comes next1 : c 2
+manually replac$ by a tactile v}.n ( !
+image4
+  ,a 8side-by-side0 is a horizontal
+lay|t ( docu;t ele;ts4  ,! compon5ts ( a
+side-by-side >e call$ 8panels04
+,typically panels >e images or figures1
+b c al 2 items l program li/+s1 tables1
+or p>agraphs4  ,= brl1 we let ea* panel
+use ! full wid? ( ! page1 s we ann|nce !
+/>t1 9dicat+ ! total numb} ( panels4
+,!n we preface ea* panel ) xs numb} 9 !
+sequ;e4  ,f9ally we ann|nce ! 5d 2c   #a
+x may 2 h>d to 4t+ui% a f9al panel f !
+5su+ text4
+  ,tabul> mat}ial is alw imple;t$ us+ a
+8l9e> table =mat04  ,a human transcrib}
+may 2 able to improve small tables1 or
+l>g} tables t cd use multiple pages :5
+emboss$1 by us+ a di6}5t =mat4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      #b
+              ,ac"kl$ge;ts
+
+  ,i wd l to ac"kl$ge ! foll{+ review}s
+= _! help;l com;ts & su7es;ns4
+_4 4 ,david ,&}son1 ,univ}s;y ( ,t5;see1
+,knoxville
+_4 4 ,rob}t ,beez}1 ,univ}s;y ( ,puget
+,s.d
+_4 4 ,myron ,hood1 ,cali=nia ,polyte*nic
+,/ate ,univ}s;y
+_4 4 ,h}b}t ,kasube1 ,bradley ,univ}s;y
+_4 4 ,john ,kurtzke1 ,univ}s;y ( ,portl&
+_4 4 ,9essa ,levi1 ,univ}s;y (
+,l|isville
+_4 4 ,ge(frey ,mason1 ,univ}s;y (
+,cali=nia1 ,santa ,cruz
+_4 4 ,bruce ,m}icle1 ,mankato ,/ate
+,univ}s;y
+_4 4 ,kimmo ,ros5?al1 ,union ,college
+_4 4 ,m>k ,teply1 ,univ}s;y ( ,wiscons9
+  ,i wd al l to ?ank ,/eve ,quigley1
+,m>nie ,pommett1 ,ca?ie ,gri691 ,kelle
+,k>%ick1 & ! re/ ( ! /aff at ,,pws
+,publi%+ = _! guid.e "?|t ? project4 ,x
+has be5 a pl1sure to "w ) !m4         #c
+  ,rob}t ,beez} 5c|rag$ me to make
+.7,ab/ract ,algebra3 ,!ory &
+,applica;ns.' available z an op5 s|rce
+textbook1 a deci.n t ,i h n"e regrett$4
+,) 8 assi/.e1 ! book has be5 rewritt5 9
+,pre,te,xt "<pretextbook4org;9#b ">1
+mak+ x possible to qkly |tput pr9t1 web1
+,,pdf v}.ns & m f ! same s|rce4 ,! op5
+s|rce v}.n ( ? book has rcvd support f !
+,na;nal ,sci;e ,f.da;n "<,aw>ds
+_?,,due-#ajbjieg1 _?,,due,-#afbebbc1 &
+_?,,due,-#ahbacbi">4
+
+
+
+
+
+
+
+
+
+
+
+
+                                      #d
+                ,preface
+
+  ,? text is 9t5d$ = a "o or two-seme/}
+"ugraduate c|rse 9 ab/ract algebra4
+,tradi;nally1 ~! c|rses h cov}$ !
+!oretical aspects ( gr|ps1 r+s1 &
+fields4 ,h{"e1 ) ! develop;t ( comput+ 9
+! la/ s"eal decades1 applica;ns t 9volve
+ab/ract algebra & 4crete ma!matics h
+2come 9cr1s+ly important1 & _m sci;e1
+5g9e}+1 & comput} sci;e /ud5ts >e n{
+elect+ to m9or 9 ma!matics4 ,?|< !ory /
+o3upies a c5tral role 9 ! subject (
+ab/ract algebra & no /ud5t %d g "? s* a
+c|rse )|t a gd no;n ( :at a pro( is1 !
+import.e ( applica;ns s* z cod+ !ory &
+cryptography has gr{n significantly4
+  ,until rec5tly mo/ ab/ract algebra
+texts 9clud$ few if any applica;ns4
+,h{"e1 "o ( ! major problems 9 t1*+ an
+ab/ract algebra c|rse is t = _m /ud5ts x
+is _! f/ 5c.t} ) an 5viron;t t requires
+!m to d rigor|s pro(s4 ,s* /ud5ts (t5
+f9d x h>d to see ! use ( le>n+ to prove
+!orems & proposi;ns2 appli$           #e
+examples help ! 9/ructor provide
+motiva;n4
+  ,? text 3ta9s m mat}ial ?an c possibly
+2 cov}$ 9 a s+le seme/}4 ,c}ta9ly "! is
+adequate mat}ial = a two-seme/} c|rse1 &
+p}h m2 h{"e1 = a "o-seme/} c|rse x wd 2
+q easy to omit select$ *apt}s & / h a
+use;l text4 ,! ord} ( pres5ta;n ( topics
+is /&>d3 gr|ps1 !n r+s1 & f9ally fields4
+,emphasis c 2 plac$ ei on !ory or on
+applica;ns4 ,a typical "o-seme/} c|rse
+mi<t cov} gr|ps & r+s :ile briefly t|*+
+on field !ory1 us+ ,*apt}s #a "? #f1 #i1
+#aj1 #aa1 #ac "<! f/ "p">1 #af1 #ag1 #ah
+"<! f/ "p">1 #bj1 & #ba4 ,"ps ( ~!
+*apt}s cd 2 delet$ & applica;ns
+sub/itut$ ac to ! 9t}e/s ( ! /ud5ts & !
+9/ructor4 ,a two-seme/} c|rse emphasiz+
+!ory mi<t cov} ,*apt}s #a "? #f1 #i1
+#aj1 #aa1 #ac "? #ah1 #bj1 #ba1 #bb "<!
+f/ "p">1 & #bc4 ,on ! o!r h&1 if
+applica;ns >e to 2 emphasiz$1 ! c|rse
+mi<t cov} ,*apt}s #a "? #ad1 & #af "?
+#bb4 ,9 an appli$ c|rse1 "s ( ! m
+!oretical results cd 2 assum$ or      #f
+omitt$4 ,a *apt} dep5d5cy *>t appe>s 2l4
+"<,a brok5 l9e 9dicates a "pial
+dep5d5cy4">
+       `.<,image3 preface-dep5d5cies4
+     ,*apt} dep5d5cy graph4  ,*apt} #bc
+     dep5ds on ,*apt}s #ac & #ae4 ,*apt}
+     #bb dep5ds on ,*apt} #ba & ,*apt}
+     #h4  ,*apt} #ba dep5ds on ,*apt}
+     #bj4  ,*apt}s #ah-#bj dep5d on
+     ,*apt} #ag4  ,*apt} #ag dep5ds on
+     ,*apt} #af4  ,*apt} #ae dep5ds on
+     ,*apt} #ad4  ,*apt}s #ab1 #ac1 #ad1
+     & #af dep5d on ,*apt} #aa4 ,*apt}
+     #aa dep5ds on ,*apt} #aj1 : dep5ds
+     on ,*apt} #i4 ,*apt}s #g-#i dep5d
+     on ,*apt}s #a-#f`.>
+
+
+
+
+
+
+
+
+                                      #g
+       `.<,replace ? page ) ,image3
+     preface-dep5d5cies4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      #h
+  ,?|< "! >e no specific pr}equisites =
+a c|rse 9 ab/ract algebra1 /ud5ts :o h
+_h o!r hi<}-level c|rses 9 ma!matics w
+g5}ally 2 m prep>$ ?an ~? :o h n1 2c !y
+w possess a bit m ma!matical
+sophi/ica;n4 ,o3a.nally1 we % assume "s
+basic l9e> algebra2 t is1 we % take =
+grant$ an ele;t>y k ( matrices &
+det}m9ants4 ,? %d pres5t no grt problem1
+s9ce mo/ /ud5ts tak+ a c|rse 9 ab/ract
+algebra h be5 9troduc$ to matrices &
+det}m9ants else": 9 _! c>e}1 if !y h n
+alr tak5 a sophomore or junior-level
+c|rse 9 l9e> algebra4
+  ,ex}cise sec;ns >e ! he>t ( any
+ma!matics text4 ,an ex}cise set appe>s
+at ! 5d ( ea* *apt}4 ,! nature ( !
+ex}cises ranges ov} s"eal categories2
+computa;nal1 3ceptual1 & !oretical
+problems >e 9clud$4 ,a sec;n pres5t+
+h9ts & solu;ns to _m ( ! ex}cises appe>s
+at ! 5d ( ! text4 ,(t5 9 ! solu;ns a
+pro( is only sket*$1 & x is up to !
+/ud5t to provide ! details4 ,! ex}cises
+range 9 di6iculty f v easy to v       #i
+*all5g+4 ,_m ( ! m sub/antial problems
+require c>e;l ?"|1 s ! /ud5t %d n 2
+4c|rag$ if ! solu;n is n =?com+ af a few
+m9utes ( "w4
+  ,id1lly1 /ud5ts %d r1d ! relav5t
+mat}ial 2f att5d+ class4 ,r1d+ "qs h be5
+add$ to ea* *apt} 2f ! ex}cises4   ,to
+prep>e = class1 /ud5ts %d r1d ! *apt} 2f
+class & !n answ} ! sec;n's r1d+ "qs to
+prep>e = ! class4
+  ,"! >e addi;nal ex}cises or comput}
+projects at ! 5ds ( _m ( ! *apt}s4 ,!
+comput} projects usually require a k (
+programm+4 ,all ( ~! ex}cises & projects
+>e m sub/antial 9 nature & all{ !
+explora;n ( new results & !ory4
+  ,sage "<sagema?4org;9#c "> is a free1
+op5 s|rce1 s(tw>e sy/em = adv.ed
+ma!matics1 : is id1l = assi/+ ) a /udy (
+ab/ract algebra4 ,sage c 2 us$ ei on yr
+{n comput}1 a local s}v}1 or on ,co,calc
+"<cocalc4com;9#d ">4 ,rob}t ,beez} has
+writt5 a compreh5sive 9troduc;n to ,sage
+& a selec;n ( relevant ex}cises t appe>
+at ! 5d ( ea* *apt}1 9clud+ live     #aj
+,sage cells 9 ! web v}.n ( ! book4 ,all
+( ! ,sage code has be5 subject to
+automat$ te/s ( a3uracy1 us+ ! mo/ rec5t
+v}.n available at ? "t3 ,sage,ma? ,v}.n
+#aj4j "<rel1s$ #bjbc-#je-#bj">4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     #aa
+

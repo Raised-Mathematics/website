@@ -1,0 +1,1401 @@
+          #bj ,vector ,spaces
+
+  ,9 a physical sy/em a quant;y c (t5 2
+describ$ ) a s+le numb}4 ,= example1 we
+ne$ to "k only a s+le numb} to describe
+temp}ature1 mass1 or volume4 ,h{"e1 = "s
+quantities1 s* z loca;n1 we ne$ s"eal
+numb}s4 ,to give ! loca;n ( a po9t 9
+space1 we ne$ ;x1 ;y1 & ;z coord9ates4
+,temp}ature 4tribu;n ov} a solid object
+requires f|r numb}s3 ?ree to id5tify ea*
+po9t )9 ! object & a f|r? to describe !
+temp}ature at t po9t4 ,(t5 ;n-tuples (
+numb}s1 or vectors1 al h c}ta9 algebraic
+prop}ties1 s* z addi;n or scal>
+multiplica;n4
+  ,9 ? *apt} we w exam9e ma!matical
+/ructures call$ vector spaces4 ,z )
+gr|ps & r+s1 x is desirable to give a
+simple li/ ( axioms t m/ 2 satisfi$ to
+make a set ( vectors a /ructure wor?
+/udy+4
+
+    #bj4a ,def9i;ns & ,examples
+  ,a ~1vector ~1space ;,v ov} a    #adfd
+field ;,f is an abelian gr|p ) a ~1scal>
+~1product _% .a*v _: or _% .av _: def9$
+= all _% .a `e ,f _: & all _% v `e ,v _:
+satisfy+ ! foll{+ axioms4
+_4 4 _% .a(.bv) .k (.a.b)v _:2
+_4 4 _% (.a+.b)v .k .av+.bv _:2
+_4 4 _% .a(u+v) .k .au+.av _:2
+_4 4 _% #1v .k v _:2
+": _% .a, .b `e ,f _: & _% u, v `e
+,v _:4
+  ,! ele;ts ( ;,v >e call$ ~1vectors;2 !
+ele;ts ( ;,f >e call$ ~1scal>s4 ,x is
+important to notice t 9 mo/ cases two
+vectors _c 2 multipli$4 ,9 g5}al1 x is
+only possible to multiply a vector ) a
+scal>4 ,to di6}5tiate 2t ! scal> z}o & !
+vector z}o1 we w write !m z #j &
+_% _#0 _:1 respectively4
+  ,let u exam9e s"eal examples ( vector
+spaces4 ,"s ( !m w 2 q famili>2 o!rs w
+seem less s4
+
+
+
+                                   #adfe
+7777777777777777777777777777777777777777
+,example #bj4a
+  ,! ;n-tuples ( r1l numb}s1 d5ot$ by
+_% `;,r~n _:1 =m a vector space ov}
+_% `;,r _:4 ,giv5 vectors _% u .k (u1,
+''', u;n") _: & _% v .k (v1, ''',
+v;n") _: 9 _% `;,r~n _: & _% .a _: 9
+_% `;,r _:1 we c def9e vector addi;n by
+_%
+
+u+v .k (u1, ''', u;n")+(v1, ''', v;n")
+.k (u1+v1, ''', u;n"+v;n")
+
+_:
+& scal> multiplica;n by
+_%
+
+.au .k .a(u1, ''', u;n") .k (.au1, ''',
+.au;n")
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                   #adff
+7777777777777777777777777777777777777777
+,example #bj4b
+  ,if ;,f is a field1 !n _% ,f`(x`) _:
+is a vector space ov} ;,f4 ,! vectors 9
+_% ,f`(x`) _: >e simply polynomials1 &
+vector addi;n is j polynomial addi;n4
+,if _% .a `e ,f _: & _% p(x) `e
+,f`(x`) _:1 !n scal> multiplica;n is
+def9$ by _% .ap(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adfg
+7777777777777777777777777777777777777777
+,example #bj4c
+  ,! set ( all 3t9u|s r1l-valu$ func;ns
+on a clos$ 9t}val _% `(a, b`) _: is a
+vector space ov} _% `;,r _:4 ,if
+_% f(x) _: & _% g(x) _: >e 3t9u|s on
+_% `(a, b`) _:1 !n _% (f+g)(x) _: is
+def9$ to 2 _% f(x)+g(x) _:4 ,scal>
+multiplica;n is def9$ by _% (.af)(x) .k
+.af(x) _: = _% .a `e `;,r _:4 ,=
+example1 if _% f(x) .k sin x _: &
+_% g(x) .k x~2 _:1 !n _% (2f+5g)(x) .k
+#2sin x+5x~2 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                   #adfh
+7777777777777777777777777777777777777777
+,example #bj4d
+  ,let _% ,v .k `;,q(>2}) .k
+.(a+b>2}_3a, b `e `;,q.) _:4 ,!n ;,v is
+a vector space ov} _% `;,q _:4 ,if _% u
+.k a+b>2} _: & _% v .k c+d>2} _:1 !n
+_% u+v .k (a+c)+(b+d)>2} _: is ag 9 ;,v4
+,al1 = _% .a `e `;,q _:1 _% .av _: is 9
+;,v4 ,we w l1ve x z an ex}cise to v}ify
+t all ( ! vector space axioms hold =
+;,v4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,proposi;n #bj4e
+  ,let ;,v 2 a vector space ov} ;,f4 ,!n
+ea* ( ! foll{+ /ate;ts is true4
+#a4 _% #0v .k _#0 _: = all _% v `e
+,v _:4
+#b4 _% .a_#0 .k _#0 _: = all _% .a `e
+,f _:4
+#c4 ,if _% .av .k _#0 _:1 !n ei _% .a .k
+#0 _: or _% v .k _#0 _:4
+#d4 _% (-1)v .k -v _: = all _% v   #adfi
+`e ,v _:4
+#e4 _% -(.av) .k (-.a)v .k .a(-v) _: =
+all _% .a `e ,f _: & all _% v `e ,v _:4
+
+,pro(4 ,to prove "<#a">1 obs}ve t
+_%
+
+#0v .k (0+0)v .k #0v+0v_2
+
+_:
+3sequ5tly1 _% _#0+0v .k #0v+0v _:4 ,s9ce
+;,v is an abelian gr|p1 _% _#0 .k
+#0v _:4
+  ,! pro( ( "<#b"> is alm id5tical to !
+pro( ( "<#a">4 ,= "<#c">1 we >e d"o if
+_% .a .k #0 _:4 ,suppose t _% .a /.k
+#0 _:4 ,multiply+ bo? sides ( _% .av .k
+_#0 _: by _% #1_/.a _:1 we h _% v .k
+_#0 _:4
+  ,to %{ "<#d">1 obs}ve t
+
+
+
+
+                                   #adgj
+_%
+
+v+(-1)v .k #1v+(-1)v .k (1-1)v .k #0v .k
+_#0
+
+_:1
+& s _% -v .k (-1)v _:4 ,we w l1ve ! pro(
+( "<#e"> z an ex}cise4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #bj4b ,subspaces
+  ,j z gr|ps h subgr|ps & r+s h subr+s1
+vector spaces al h sub/ructures4 ,let
+;,v 2 a vector space ov} a field ;,f1 &
+;,w a subset ( ;,v4 ,!n ;,w is a
+~1subspace ( ;,v if x is clos$ "u vector
+addi;n & scal> multiplica;n2 t is1 if
+_% u, v `e ,w _: & _% .a `e ,f _:1 x w
+alw 2 ! case t _% u+v _: & _% .av _: >e
+al 9 ;,w4
+
+7777777777777777777777777777777777777777
+,example #bj4f
+  ,let ;,w 2 ! subspace (          #adga
+_% `;,r~3 _: def9$ by _% ,w .k .((x1,
+2x1+x2, x1-x2)_3x1, x2 `e `;,r.) _:4 ,we
+claim t ;,w is a  subspace (
+_% `;,r~3 _:4 ,s9ce
+_%
+
+.a(x1, 2x1+x2, x1-x2)               .k
+(.ax1, .a(2x1+x2), .a(x1-x2))
+.k (.ax1, #2(.ax1)+.ax2, .ax1-.ax2)
+
+_:1
+;,w is clos$ "u scal> multiplica;n4 ,to
+%{ t ;,w is clos$ "u vector addi;n1 let
+_% u .k (x1, 2x1+x2, x1-x2) _: & _% v .k
+(y1, 2y1+y2, y1-y2) _: 2 vectors 9 ;,w4
+,!n
+_%
+
+u+v .k (x1+y1, 2(x1+y1)+(x2+y2),
+(x1+y1)-(x2+y2))
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #adgb
+7777777777777777777777777777777777777777
+,example #bj4g
+  ,let ;,w 2 ! subset ( polynomials (
+_% ,f`(x`) _: ) no odd-p{} t}ms4 ,if
+_% p(x) _: & _% q(x) _: h no odd-p{}
+t}ms1 !n nei w _% p(x)+q(x) _:4 ,al1
+_% .ap(x) `e ,w _: = _% .a `e ,f _: &
+_% p(x) `e ,w _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let ;,v 2 any vector space ov} a
+field ;,f & suppose t _% v1, v2, ''',
+v;n _: >e vectors 9 ;,v & _% .a1, .a2,
+''', .a;n _: >e scal>s 9 ;,f4 ,any
+vector ;w 9 ;,v ( ! =m
+_%
+
+w .k ".,s%i .k #1<n}.a;i"v;i .k
+.a1v1+.a2v2+''' +.a;n"v;n
+
+_:
+is call$ a ~1l9e> ~1comb9a;n ( ! vectors
+_% v1, v2, ''', v;n _:4 ,! ~1spann+
+~1set ( vectors _% v1, v2, ''', v;n _:
+is ! set ( vectors obta9$ f all    #adgc
+possible l9e> comb9a;ns ( _% v1, v2,
+''', v;n _:4 ,if ;,w is ! spann+ set (
+_% v1, v2, ''', v;n _:1 !n we say t ;,w
+is ~1spann$ by _% v1, v2, ''', v;n _:4
+
+7777777777777777777777777777777777777777
+,proposi;n #bj4h
+  ,let _% ,s .k .(v1, v2, ''', v;n".) _:
+2 vectors 9 a vector space ;,v4 ,!n !
+span ( ;,s is a subspace ( ;,v4
+
+,pro(4 ,let ;u & ;v 2 9 ;,s4 ,we c write
+bo? ( ~! vectors z  l9e> comb9a;ns ( !
+_% v;i _:';s3
+_%
+
+u .k .a1v1+.a2v2+''' +.a;n"v;n"
+v .k .b1v1+.b2v2+''' +.b;n"v;n
+
+_:4
+,!n
+
+
+
+                                   #adgd
+_%
+
+u+v .k (.a1+.b1)v1+(.a2+.b2)v2+'''
++(.a;n"+.b;n")v;n
+
+_:
+is a l9e> comb9a;n ( ! _% v;i _:';s4 ,=
+_% .a `e ,f _:1
+_%
+
+.au .k (.a.a1)v1+(.a.a2)v2+'''
++(.a.a;n")v;n
+
+_:
+is 9 ! span ( ;,s4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #bj4c ,l9e> ,9dep5d;e
+  ,let _% ,s .k .(v1, v2, ''', v;n".) _:
+2 a set ( vectors 9 a vector space ;,v4
+,if "! exi/ scal>s _% .a1, .a2 ''' .a;n"
+`e ,f _: s* t n all ( ! _% .a;i _:';s >e
+z}o &
+                                   #adge
+_%
+
+.a1v1+.a2v2+''' +.a;n"v;n .k _#0
+
+_:1
+!n ;,s is sd to 2 ~1l9e>ly ~1dep5d5t4
+,if ! set ;,s is n l9e>ly dep5d5t1 !n x
+is sd to 2 ~1l9e>ly ~19dep5d5t4 ,m
+specifically1 ;,s is a l9e>ly 9dep5d5t
+set if
+_%
+
+.a1v1+.a2v2+''' +.a;n"v;n .k _#0
+
+_:
+implies t
+_%
+
+.a1 .k .a2 .k '''  .k .a;n .k #0
+
+_:
+= any set ( scal>s _% .(.a1, .a2 '''
+.a;n".) _:4
+
+                                   #adgf
+7777777777777777777777777777777777777777
+,proposi;n #bj4i
+  ,let _% .(v1, v2, ''', v;n".) _: 2 a
+set ( l9e>ly 9dep5d5t vectors 9 a vector
+space4 ,suppose t
+_%
+
+v .k .a1v1+.a2v2+''' +.a;n"v;n .k
+.b1v1+.b2v2+''' +.b;n"v;n
+
+_:4
+,!n _% .a1 .k .b1, .a2 .k .b2, ''', .a;n
+.k .b;n _:4
+
+,pro(4 ,if
+_%
+
+v .k .a1v1+.a2v2+''' +.a;n"v;n .k
+.b1v1+.b2v2+''' +.b;n"v;n
+
+_:1
+!n
+
+
+                                   #adgg
+_%
+
+(.a1-.b1)v1+(.a2-.b2)v2+'''
++(.a;n"-.b;n")v;n .k _#0
+
+_:4
+,s9ce _% v1, ''', v;n _: >e l9e>ly
+9dep5d5t1 _% .a;i"-.b;i .k #0 _: = _% i
+.k #1, ''', n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! def9i;n ( l9e> dep5d;e makes m s5se
+if we 3sid} ! foll{+ proposi;n4
+
+7777777777777777777777777777777777777777
+,proposi;n #bj4aj
+  ,a set _% .(v1, v2, ''', v;n".) _: (
+vectors 9 a vector space ;,v is l9e>ly
+dep5d5t if & only if "o ( ! _% v;i _:';s
+is a l9e> comb9a;n ( ! re/4
+
+,pro(4 ,suppose t _% .(v1, v2, ''',
+v;n".) _: is a set ( l9e>ly dep5d5t
+vectors4 ,!n "! exi/ scal>s _% .a1, ''',
+.a;n _: s* t                       #adgh
+_%
+
+.a1v1+.a2v2+''' +.a;n"v;n .k _#0
+
+_:1
+) at l1/ "o ( ! _% .a;i _:';s n equal to
+z}o4 ,suppose t _% .a;k /.k #0 _:4 ,!n
+_%
+
+v;k .k -?.a1/.a;k"#v1-'''
+-?.a;k-1"/.a;k"#v;k-1"-?.a;k+1"/.a;k"#v-
+;k+1-''' -?.a;n"/.a;k"#v;n
+
+_:4
+  ,3v}sely1 suppose t
+_%
+
+v;k .k .b1v1+'''
++.b;k-1"v;k-1"+.b;k+1"v;k+1+'''
++.b;n"v;n
+
+_:4
+,!n
+
+                                   #adgi
+_%
+
+.b1v1+'''
++.b;k-1"v;k-1"-v;k"+.b;k+1"v;k+1+'''
++.b;n"v;n .k _#0
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ proposi;n is a 3sequ;e ( !
+fact t any sy/em ( homog5e|s l9e>
+equa;ns ) m un"kns ?an equa;ns w h a
+nontrivial solu;n4 ,we l1ve ! details (
+! pro( = ! 5d-(-*apt} ex}cises4
+
+7777777777777777777777777777777777777777
+,proposi;n #bj4aa
+  ,suppose t a vector space ;,v is
+spann$ by ;n vectors4 ,if _% m .1 n _:1
+!n any set ( ;m vectors 9 ;,v m/ 2
+l9e>ly dep5d5t4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a set _% .(e1, e2, ''', e;n".) _: (
+vectors 9 a vector space ;,v is    #adhj
+call$ a ~1basis = ;,v if _% .(e1, e2,
+''', e;n".) _: is a l9e>ly 9dep5d5t set
+t spans ;,v4
+
+7777777777777777777777777777777777777777
+,example #bj4ab
+  ,! vectors _% e1 .k (1, 0, 0) _:1
+_% e2 .k (0, 1, 0) _:1 & _% e3 .k (0, 0,
+1) _: =m a basis = _% `;,r~3 _:4 ,! set
+c}ta9ly spans _% `;,r~3 _:1 s9ce any
+>bitr>y vector _% (x1, x2, x3) _: 9
+_% `;,r~3 _: c 2 writt5 z
+_% x1e1+x2e2+x3e3 _:4 ,al1 n"o ( !
+vectors _% e1, e2, e3 _: c 2 writt5 z a
+l9e> comb9a;n ( ! o!r two2 h;e1 !y >e
+l9e>ly 9dep5d5t4 ,! vectors _% e1, e2,
+e3 _: >e n ! only basis ( _% `;,r~3 _:3
+! set _% .((3, 2, 1), (3, 2, 0), (1, 1,
+1).) _: is al a basis = _% `;,r~3 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                   #adha
+7777777777777777777777777777777777777777
+,example #bj4ac
+  ,let _% `;,q(>2}) .k .(a+b>2}_3a, b `e
+`;,q.) _:4 ,! sets _% .(1, >2}.) _: &
+_% .(1+>2}, 1->2}.) _: >e bo? bases (
+_% `;,q(>2}) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,f ! la/ two examples x %d 2 cle> t a
+giv5 vector space has s"eal bases4 ,9
+fact1 "! >e an 9f9ite numb} ( bases =
+bo? ( ~! examples4 .7,9 g5}al1 "! is no
+unique basis = a vector space4.' ,h{"e1
+e basis ( _% `;,r~3 _: 3si/s ( exactly
+?ree vectors1 & e basis (
+_% `;,q(>2}) _: 3si/s ( exactly two
+vectors4 ,? is a 3sequ;e ( ! next
+proposi;n4
+
+
+
+
+
+
+                                   #adhb
+7777777777777777777777777777777777777777
+,proposi;n #bj4ad
+  ,let _% .(e1, e2, ''', e;m".) _: &
+_% .(f1, f2, ''', f;n".) _: 2 two bases
+= a vector space ;,v4 ,!n _% m .k n _:4
+
+,pro(4 ,s9ce _% .(e1, e2, ''', e;m".) _:
+is a basis1 x is a l9e>ly 9dep5d5t set4
+,by ,proposi;n #bj4aa1 _% n "k: m _:4
+,simil>ly1 _% .(f1, f2, ''', f;n".) _:
+is a l9e>ly 9dep5d5t set1 & ! la/
+proposi;n implies t _% m "k: n _:4
+,3sequ5tly1 _% m .k n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,if _% .(e1, e2, ''', e;n".) _: is a
+basis = a vector space ;,v1 !n we say t
+! ~1dim5.n ( ;,v is ;n & we write _% dim
+,v .k n _:4  ,we w l1ve ! pro( ( !
+foll{+ !orem z an ex}cise4
+
+
+
+
+                                   #adhc
+7777777777777777777777777777777777777777
+,!orem #bj4ae
+  ,let ;,v 2 a vector space ( dim5.n ;n4
+#a4 ,if _% ,s .k .(v1, ''', v;n".) _: is
+a set ( l9e>ly 9dep5d5t vectors = ;,v1
+!n ;,s is a basis = ;,v4
+#b4 ,if _% ,s .k .(v1, ''', v;n".) _:
+spans ;,v1 !n ;,s is a basis = ;,v4
+#c4 ,if _% ,s .k .(v1, ''', v;k".) _: is
+a set ( l9e>ly 9dep5d5t vectors = ;,v )
+_% k "k n _:1 !n "! exi/ vectors
+_% v;k+1, ''', v;n _: s* t
+_%
+
+.(v1, ''', v;k, v;k+1, ''', v;n".)
+
+_:
+is a basis = ;,v4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #bj4d ,r1d+ ,"qs
+
+#a4 ,:y d ! axioms ( a vector space
+appe> to only h f|r 3di;ns1 r      #adhd
+?an ! t5 y may h se5 ! f/ "t y saw an
+axiomatic def9i;n8
+
+#b4 ,! set _% ,v .k `;,q(>11}) .k
+.(a+b>11}|a, b `e `;,q.) _: is a vector
+space4 ,c>e;lly def9e ! op}a;ns on ? set
+t w make ? possible4 ,describe !
+subspace spann$ by _% ,s .k .(_;u.) _:1
+": _% _;u .k #3+?2/7#>11} `e ,v _:4
+
+#c4 ,write a l;g p>agraph1 or a %ort
+essay1 on ! import.e ( l9e> 9dep5d;e 9
+l9e> algebra4
+
+#d4 ,write a l;g p>agraph1 or a %ort
+essay1 on ! import.e ( spann+ sets 9
+l9e> algebra4
+
+#e4 8,l9e> algebra is all ab l9e>
+comb9a;ns40 ,expla9 :y y mi<t say ?4
+
+    #bj4e ,ex}cises
+
+#a4 ,if ;,f is a field1 %{ t
+_% ,f`(x`) _: is a vector space    #adhe
+ov} ;,f1 ": ! vectors 9 _% ,f`(x`) _: >e
+polynomials4 ,vector addi;n is
+polynomial addi;n1 & scal> multiplica;n
+is def9$ by _% .ap(x) _: = _% .a `e
+,f _:4
+
+#b4 ,prove t _% `;,q(>2}) _: is a vector
+space4
+
+#c4 ,let _% `;,q(>2}, >3}) _: 2 ! field
+g5}at$ by ele;ts ( ! =m
+_% a+b>2}+c>3}+d>6} _:1 ": _% a, b, c,
+d _: >e 9 _% `;,q _:4 ,prove t
+_% `;,q(>2}, >3}) _: is a vector space (
+dim5.n #d ov} _% `;,q _:4 ,f9d a basis =
+_% `;,q(>2}, >3}) _:4
+
+,h9t4 _% `;,q(>2}, >3}) _: has basis
+_% .(1, >2}, >3}, >6}.) _: ov}
+_% `;,q _:4
+
+#d4 ,prove t ! complex numb}s >e a
+vector space ( dim5.n #b ov} _% `;,r _:4
+
+#e4 ,prove t ! set _% ,p;n _: (    #adhf
+all polynomials ( degree less ?an ;n =m
+a subspace ( ! vector space
+_% ,f`(x`) _:4 ,f9d a basis = _% ,p;n _:
+& compute ! dim5.n ( _% ,p;n _:4
+
+,h9t4 ,! set _% .(1, x, x~2, ''',
+x~n-1".) _: is a basis = _% ,p;n _:4
+
+#f4 ,let ;,f 2 a field & d5ote ! set (
+;n-tuples ( ;,f by _% ,f~n _:4 ,giv5
+vectors _% u .k (u1, ''', u;n") _: &
+_% v .k (v1, ''', v;n") _: 9 _% ,f~n _:
+& _% .a _: 9 ;,f1 def9e vector addi;n by
+_%
+
+u+v .k (u1, ''', u;n")+(v1, ''', v;n")
+.k (u1+v1, ''', u;n"+v;n")
+
+_:
+& scal> multiplica;n by
+
+
+
+
+                                   #adhg
+_%
+
+.au .k .a(u1, ''', u;n") .k (.au1, ''',
+.au;n")
+
+_:4
+,prove t _% ,f~n _: is a vector space (
+dim5.n ;n "u ~! op}a;ns4
+
+#g4 ,: ( ! foll{+ sets >e subspaces (
+_% `;,r~3 _:;8 ,if ! set is 9de$ a
+subspace1 f9d a basis = ! subspace &
+compute xs dim5.n4
+a4 _% .((x1, x2, x3)_3#3x1-2x2+x3 .k
+#0.) _:
+;b4 _% .((x1, x2, x3)_3#3x1+4x3 .k #0,
+#2x1-x2+x3 .k #0.) _:
+;c4 _% .((x1, x2, x3)_3x1-2x2+2x3 .k
+#2.) _:
+;d4 _% .((x1, x2, x3)_3#3x1-2x2~2" .k
+#0.) _:
+
+,h9t4 "<a"> ,subspace ( dim5.n #b )
+basis _% .((1, 0, -3), (0, 1, 2).) _:2
+"<;d"> n a subspace                #adhh
+#h4 ,%{ t ! set ( all possible solu;ns
+_% (x, y, z) `e `;,r~3 _: ( ! equa;ns
+_%
+
+,ax+,by+,cz .k #0
+,dx+,ey+,cz .k #0
+
+_:
+=m a subspace ( _% `;,r~3 _:4
+
+#i4 ,let ;,w 2 ! subset ( 3t9u|s func;ns
+on _% `(0, 1`) _: s* t _% f(0) .k #0 _:4
+,prove t ;,w is a subspace ( _% ,c`(0,
+1`) _:4
+
+#aj4 ,let ;,v 2 a vector space ov} ;,f4
+,prove t _% -(.av) .k (-.a)v .k
+.a(-v) _: = all _% .a `e ,f _: & all
+_% v `e ,v _:4
+
+,h9t4 ,s9ce _% #0 .k .a#0 .k .a(-v+v) .k
+.a(-v)+.av _:1 x foll{s t _% -.av .k
+.a(-v) _:4
+
+#aa4 ,let ;,v 2 a vector space (   #adhi
+dim5.n ;n4 ,prove ea* ( ! foll{+
+/ate;ts4
+a4 ,if _% ,s .k .(v1, ''', v;n".) _: is
+a set ( l9e>ly 9dep5d5t vectors = ;,v1
+!n ;,s is a basis = ;,v4
+;b4 ,if _% ,s .k .(v1, ''', v;n".) _:
+spans ;,v1 !n ;,s is a basis = ;,v4
+;c4 ,if _% ,s .k .(v1, ''', v;k".) _: is
+a set ( l9e>ly 9dep5d5t vectors = ;,v )
+_% k "k n _:1 !n "! exi/ vectors
+_% v;k+1, ''', v;n _: s* t
+_%
+
+.(v1, ''', v;k, v;k+1, ''', v;n".)
+
+_:
+is a basis = ;,v4
+
+#ab4 ,prove t any set ( vectors 3ta9+
+_% _#0 _: is l9e>ly dep5d5t4
+
+,h9t4 ,let _% v0 .k #0, v1, ''', v;n" `e
+,v _: & _% .a0 /.k #0, .a1, ''', .a;n"
+`e ,f _:4 ,!n _% .a0v0+''' +.a;n"v;n .k
+#0 _:4                             #adij
+#ac4 ,let ;,v 2 a vector space4 ,%{ t
+_% .(_#0.) _: is a subspace ( ;,v (
+dim5.n z}o4
+
+#ad4 ,if a vector space ;,v is spann$ by
+;n vectors1 %{ t any set ( ;m vectors 9
+;,v m/ 2 l9e>ly dep5d5t = _% m .1 n _:4
+
+#ae4 "<,l9e> ,trans=ma;ns4"> ,let ;,v &
+;,w 2 vector spaces ov} a field ;,f1 (
+dim5.ns ;m & ;n1 respectively4 ,if
+_% ,t"1 ,v $o ,w _: is a map satisfy+
+_%
+
+,t(u+v) .k ,t(u)+,t(v)
+,t(.av) .k .a,t(v)
+
+_:
+= all _% .a `e ,f _: & all _% u, v `e
+,v _:1 !n ;,t is call$ a ~1l9e>
+~1trans=ma;n f ;,v 9to ;,w4
+a4 ,prove t ! ~1k}nel ( ;,t1 _% ker (,t)
+.k .(v `e ,v_3,t(v) .k _#0.) _:1 is a
+subspace ( ;,v4 ,! k}nel ( ;,t is "s"ts
+call$ ! ~1null ~1space ( ;,t4      #adia
+;b4 ,prove t ! ~1range or ~1range
+~1space ( ;,t1 _% ,r(,v) .k .(w `e
+,w_3,t(v) .k w for some v `e ,v.) _:1 is
+a subspace ( ;,w4
+;c4 ,%{ t _% ,t"1 ,v $o ,w _: is
+9jective if & only if _% ker (,t) .k
+.(_#0.) _:4
+;d4 ,let _% .(v1, ''', v;k".) _: 2 a
+basis = ! null space ( ;,t4 ,we c ext5d
+? basis to 2 a basis _% .(v1, ''', v;k,
+v;k+1, ''', v;m".) _: ( ;,v4 ,:y8 ,prove
+t _% .(,t(v;k+1), ''', ,t(v;m").) _: is
+a basis = ! range ( ;,t4 ,3clude t !
+range ( ;,t has dim5.n _% m-k _:4
+;e4 ,let _% dim ,v .k dim ,w _:4 ,%{ t a
+l9e> trans=ma;n _% ,t"1 ,v $o ,w _: is
+9jective if & only if x is surjective4
+
+,h9t4 "<a"> ,let _% u, v `e ker (,t) _:
+& _% .a `e ,f _:4 ,!n
+
+
+
+
+                                   #adib
+_%
+
+,t(u+v) .k ,t(u)+,t(v) .k #0
+,t(.av) .k .a,t(v) .k .a"0 .k #0
+
+_:4
+,h;e1 _% u+v, .av `e ker (,t) _:1 &
+_% ker (,t) _: is a subspace ( ;,v4
+  "<;c"> ,! /ate;t t _% ,t(u) .k
+,t(v) _: is equival5t to _% ,t(u-v) .k
+,t(u)-,t(v) .k #0 _:1 : is true if &
+only if _% u-v .k #0 _: or _% u .k v _:4
+
+#af4 ,let ;,v & ;,w 2 f9ite dim5.nal
+vector spaces ( dim5.n ;n ov} a field
+;,f4 ,suppose t _% ,t"1 ,v $o ,w _: is a
+vector space isomorphism4 ,if _% .(v1,
+''', v;n".) _: is a basis ( ;,v1 %{ t
+_% .(,t(v1), ''', ,t(v;n").) _: is a
+basis ( ;,w4 ,3clude t any vector space
+ov} a field ;,f ( dim5.n ;n is
+isomorphic to _% ,f~n _:4
+
+#ag4 "<,direct ,sums4"> ,let ;,u & ;,v 2
+subspaces ( a vector space ;,w4    #adic
+,! sum ( ;,u & ;,v1 d5ot$ _% ,u+,v _:1
+is def9$ to 2 ! set ( all vectors ( ! =m
+_% u+v _:1 ": _% u `e ,u _: & _% v `e
+,v _:4
+a4 ,prove t _% ,u+,v _: & _% ,u.%,v _:
+>e subspaces ( ;,w4
+;b4 ,if _% ,u+,v .k ,w _: & _% ,u.%,v .k
+_#0 _:1 !n ;,w is sd to 2 ! ~1direct
+~1sum4 ,9 ? case1 we write _% ,w .k
+,u$c_$+},v _:4  ,%{ t e ele;t _% w `e
+,w _: c 2 writt5 uniquely z _% w .k
+u+v _:1 ": _% u `e ,u _: & _% v `e
+,v _:4
+;c4 ,let ;,u 2 a subspace ( dim5.n ;k (
+a vector space ;,w ( dim5.n ;n4 ,prove t
+"! exi/s a subspace ;,v ( dim5.n
+_% n-k _: s* t _% ,w .k ,u$c_$+},v _:4
+,is ! subspace ;,v unique8
+;d4 ,if ;,u & ;,v >e >bitr>y subspaces (
+a vector space ;,w1 %{ t
+
+
+
+
+                                   #adid
+_%
+
+dim (,u+,v) .k dim ,u+dim ,v-dim
+(,u.%,v)
+
+_:4
+
+,h9t4 "<a"> ,let _% u, u' `e ,u _: &
+_% v, v' `e ,v _:4 ,!n
+_%
+
+(u+v)+(u'+v~'") .k (u+u~'")+(v+v~'") `e
+,u+,v
+.a(u+v)         .k .au+.av `e ,u+,v
+
+_:4
+
+#ah4 "<,dual ,spaces4"> ,let ;,v & ;,w 2
+f9ite dim5.nal vector spaces ov} a field
+;,f4
+a4 ,%{ t ! set ( all l9e> trans=ma;ns f
+;,v 9to ;,w1 d5ot$ by _% ,hom (,v,
+,w) _:1 is a vector space ov} ;,f1 ": we
+def9e vector addi;n z foll{s3
+                                   #adie
+_%
+
+(,s+,t)(v) .k ,s(v)+,t(v)
+(.a,s)(v)  .k .a,s(v)
+
+_:1
+": _% ,s, ,t `e ,hom (,v, ,w) _:1 _% .a
+`e ,f _:1 & _% v `e ,v _:4
+;b4 ,let ;,v 2 an ;,f-vector space4
+,def9e ! ~1dual ~1space ( ;,v to 2
+_% ,v~`# .k ,hom (,v, ,f) _:4  ,ele;ts 9
+! dual space ( ;,v >e call$ ~1l9e>
+~1func;nals4 ,let _% v1, ''', v;n _: 2
+an ord}$ basis = ;,v4 ,if _% v .k
+.a1v1+''' +.a;n"v;n _: is any vector 9
+;,v1 def9e a l9e> func;nal _% .f;i"1 ,v
+$o ,f _: by _% f;i"(v) .k .a;i _:4 ,%{ t
+! _% .f;i _:';s =m a basis =
+_% ,v~`# _:4 ,? basis is call$ ! ~1dual
+~1basis ( _% v1, ''', v;n _: "<or simply
+! dual basis if ! 3text makes ! m1n+
+cle>">4
+;c4 ,3sid} ! basis _% .((3, 1), (2,
+-2).) _: = _% `;,r~2 _:4 ,:at is ! dual
+basis = _% (`;,r~2")~`# _:;8       #adif
+;d4 ,let ;,v 2 a vector space ( dim5.n
+;n ov} a field ;,f & let _% ,v~`#`# _: 2
+! dual space ( _% ,v~`# _:4 ,%{ t ea*
+ele;t _% v `e ,v _: gives rise to an
+ele;t _% .l;v _: 9 _% ,v~`#`# _: & t !
+map _% v $|33o .l;v _: is an isomorphism
+( ;,v ) _% ,v~`#`# _:4
+
+    #bj4f ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,beez}1 ;,r4 .7,a ,f/ ,c|rse 9
+  ,l9e> ,algebra.' 4 ,available onl9e at
+  l9e>4ups4$u4  #bjjd,-#bjad4
+.<#b.>  ,brets*}1 ,o4 .7,l9e> ,algebra )
+  ,applica;ns.'4 #dth $4 ,pe>son1 ,upp}
+  ,saddle ,riv}1 ,,nj1 #bjji4
+.<#c.>  ,curtis1 ;,c4 ;,w4 .7,l9e>
+  ,algebra3 ,an ,9troductory ,approa*.'4
+  #dth $4 ,spr+}1 ,new ,york1 #aihd4
+.<#d.>  ,h(fman1 ;,k4 & ,kunze1 ;,r4
+  .1,l9e> .1,algebra4 #bnd $4
+  ,pr5tice-,hall1 ,5glewood ,cli6s1
+  ,,nj1 #aiga4
+.<#e.>  ,johnson1 ;,l4 ;,w41 ,riess1
+  ;,r4 ;,d41 & ,>nold1 ;,j4 ;,t4
+  .7,9troduc;n to ,l9e>            #adig
+  ,algebra.'4 #fth $4 ,pe>son1 ,upp}
+  ,saddle ,riv}1 ,,nj1 #bjaa4
+.<#f.>  ,leon1 ;,s4 ;,j4 .7,l9e>
+  ,algebra ) ,applica;ns.'4 #hth $4
+  ,pe>son1 ,upp} ,saddle ,riv}1 ,,nj1
+  #bjaj4
+
+    #bj4g ,sage
+  ,_m computa;ns1 9 seem+ly v di6}5t >1s
+( ma!matics1 c 2 translat$ 9to "qs ab
+l9e> comb9a;ns1 or o!r >1s ( l9e>
+algebra4 ,s ,sage has ext5sive & ?or|<
+support = topics s* z vector spaces4
+
+      ,vector ,spaces
+  ,! simple/ way to cr1te a vector space
+is to 2g9 ) a field & use an expon5t to
+9dicate ! numb} ( 5tries 9 ! vectors ( !
+space4
+
+`#7;,,,v "7 qq`5#d2 ;v,'`#'
+-----------------
+`#7,vector space ( dim5.n #d ov} ,ra;nal
+,field`#'
+                                   #adih
+`#7,f4`<a`> "7 ,f9ite,field"<#c`5#d">`#'
+`#7;,,,w "7 f`5#e2 ;w,'`#'
+-----------------
+`#7,vector space ( dim5.n #e ov} ,f9ite
+,field 9 a ( size #c`5#d`#'
+
+  ,ele;ts c 2 built ) ! vector 3/ructor4
+
+`#7;v "7 vector"<,,qq1 .<#a1 #a_/#b1
+#a_/#c1 #a_/#d.>">2 ;v`#'
+-----------------
+`#7"<#a1 #a_/#b1 #a_/#c1 #a_/#d">`#'
+
+
+`#7;v 9 ;,v`#'
+-----------------
+`#1,true
+
+
+`#7;w "7 vector"<,f1 .<#a1 a`5#b1 a`5#d1
+a`5#f1 a`5#h.>">2 ;w`#'
+-----------------
+`#7"<#a1 a`5#b1 a`5#c "6 #a1 a`5#c "6
+a`5#b "6 a "6 #a1 a`5#b "6 a "6 #b">`#'
+                                   #adii
+`#7;w 9 ;,w`#'
+-----------------
+`#1,true
+
+  ,notice t vectors >e pr9t$ ) p>5!ses1
+: helps 4t+ui% !m f li/s "<?|< !y alos
+look l tuples">4 ,vectors pr9t
+horizontally1 b 9 ,sage "! is no s* ?+ z
+a 8r{ vector0 or a 8column vector10 ?|<
+once matrices get 9volv$ we ne$ to
+address ? 4t9c;n4 ,f9ally1 notice h{ !
+ele;ts ( ! f9ite field h be5 3v}t$ to an
+alt}nate repres5ta;n4
+  ,once we h vector spaces full (
+vectors1 we c p}=m computa;ns ) !m4
+,ultimately1 all ! ac;n 9 a vector space
+comes back to vector addi;n & scal>
+multiplica;n1 : tgr cr1te l9e>
+comb9a;ns4
+
+
+
+
+
+                                   #aejj
+`#7;u "7 vector"<,,qq1 .< #a1 #b1  #c1
+#d1   #e1  #f.>">`#'
+`#7;v "7 vector"<,,qq1 .<-#a1 #b1 -#d1
+#h1 -#af1 #cb.>">`#'
+`#7#c"9u - #b"9v`#'
+-----------------
+`#7"<#e1 #b1 #ag1 -#d1 #dg1 -#df">`#'
+
+
+`#7;w "7 vector"<,f1 .<#a1 a`5#b1 a`5#d1
+a`5#f1  a`5#h.>">`#'
+`#7;x "7 vector"<,f1 .<#a1   a1 #b"9a1 
+a1    #a.>">`#'
+`#7;y "7 vector"<,f1 .<#a1 a`5#c1 a`5#f1
+a`5#i1 a`5#ab.>">`#'
+`#7a`5#be"9w "6 a`5#dc"9x "6
+a`5#ff"9y`#'
+-----------------
+`#7"<a`5#c "6 a`5#b "6 a "6 #b1 a`5#b "6
+#b"9a1 #b"9a`5#c "6 a`5#b "6 #b1
+#b"9a`5#c "6 a`5#b "6 a1`#'
+ `#7a`5#c "6 #b"9a`5#b "6 a "6 #b">`#'
+
+
+                                   #aeja
+      ,subspaces
+  ,sage c cr1te subspaces 9 a v>iety (
+ways1 s* z 9 ! cr1;n ( r{ or column
+spaces ( matrices4 ,h{"e1 ! mo/ direct
+way is to 2g9 ) a set ( vectors to use z
+a spann+ set4
+
+`#7;u "7 vector"<,,qq1 .<#a1 -#a1
+#c.>">`#'
+`#7;v "7 vector"<,,qq1 .<#b1 #a1
+-#a.>">`#'
+`#7;w "7 vector"<,,qq1 .<#c1 #j1
+#b.>">`#'
+`#7;,s "7 "<,,qq`5#c">4subspace"<.<u1
+;v1 ;w.>">2 ;,s`#'
+-----------------
+`#7,vector space ( degree #c & dim5.n #b
+ov} ,ra;nal ,field`#'
+`#1,basis `#1matrix3
+`#7.<   #a    #j  #b_/#c.>`#'
+`#7.<   #j    #a -#g_/#c.>`#'
+
+
+
+                                   #aejb
+`#7#c"9u - #f"9v "6 "<#a_/#b">"9w 9
+;,s`#'
+-----------------
+`#1,true
+
+
+`#7vector"<,,qq1 .<#d1 -#a1 -#b.>"> 9
+;,s`#'
+-----------------
+`#1,false
+
+  ,notice t ! 9=ma;n pr9t$ ab `#2;,s
+9cludes a 8basis matrix40 ,! r{s ( ?
+matrix >e a basis = ! vector space4 ,we
+c get ! basis1 z a li/ ( vectors "<n r{s
+( a matrix">1 ) ! `#1;4basis"<"> me?od4
+
+`#1,s4basis"<">
+-----------------
+`#2.<
+`#7"<#a1 #j1 #b_/#c">1`#'
+`#7"<#j1 #a1 -#g_/#c">`#'
+`#2.>
+
+  ,notice t ,sage has 3v}t$ !      #aejc
+spann+ set ( ?ree vectors 9to a basis )
+two vectors4 ,? is "pially due to ! fact
+t ! orig9al set ( ?ree vectors is l9e>ly
+dep5d5t1 b a m sub/antial *ange has
+o3urr$4
+  ,? is a gd place to 4cuss "s ( !
+ma!matics 2h :at makes ,sage "w4 ,a
+vector space ov} an 9f9ite field1 l !
+ra;nals or ! r1ls1 is an 9f9ite set4 ,no
+matt} h{ expansive comput} memory may
+seem1 x is / f9ite4 ,h{ does ,sage fit
+an 9f9ite set 9to |r f9ite ma*9es8 ,!
+ma9 idea is t a f9ite-dim5.nal vector
+space has a f9ite set ( g5}ators1 : we
+"k z a basis4 ,s ,sage r1lly only ne$s !
+ele;ts ( a basis "<two vectors 9 !
+previ|s example"> to 2 able to "w ) !
+9f9itely _m possibilities = ele;ts ( !
+subspace4
+  ,fur!rmore1 = e basis associat$ ) a
+vector space1 ,sage p}=ms l9e> comb9a;ns
+to 3v}t ! giv5 basis 9to ano!r 8/&>d0
+basis4 ,? new basis has ! prop}ty t z !
+r{s ( a matrix1 ! matrix is 9 r$uc$
+r{-e*elon =m4 ,y c see ? 9 !       #aejd
+basis matrix abv4 ,! r$uc$ r{-e*elon =m
+( a matrix is unique1 s ? /&>d basis
+all{s ,sage to recognize :5 two vector
+spaces >e equal4 ,"h is an example4
+
+`#7;u "7 vector"<,,qq1 .<#a1 -#a1
+#c.>">`#'
+`#7;v "7 vector"<,,qq1 .<#b1  #a1
+-#a.>">`#'
+`#7;w "7 vector"<,,qq1 .<#c1  #j1
+#b.>">`#'
+`#7;u "6 ;v "7"7 ;w`#'
+-----------------
+`#1,true
+
+
+`#7,s#a "7 "<,,qq`5#c">4subspace"<.<u1
+;v1 ;w.>">`#'
+`#7,s#b "7
+"<,,qq`5#c">4subspace"<.<u-;v1 ;v-;w1
+;w-;u.>">`#'
+`#7,s#a "7"7 ,s#b`#'
+-----------------
+`#1,true
+                                   #aeje
+  ,z y mi<t expect1 x is easy to det}m9e
+! dim5.n ( a vector space4
+
+`#7;u "7 vector"<,,qq1 .<#a1 -#a1  #c1
+#d.>">`#'
+`#7;v "7 vector"<,,qq1 .<#b1  #a1 -#a1
+-#b.>">`#'
+`#7;,s "7 "<,,qq`5#d">4subspace"<.<u1
+;v1 #b"9u "6 #c"9v1 -;u "6 #b"9v.>">`#'
+`#1,s4dim5.n"<">
+-----------------
+`#2#b
+
+
+      ,l9e> ,9dep5d;e
+  ,"! >e a v>iety ( ways 9 ,sage to
+det}m9e if a set ( vectors is l9e>ly
+9dep5d5t or n1 & to f9d rela;ns ( l9e>
+dep5d;e if !y exi/4 ,! te*nique we w %{
+"h is a simple te/ to see if a set (
+vectors is l9e>ly 9dep5d5t or n4 ,simply
+use ! vectors z a spann+ set = a
+subspace1 & *eck ! dim5.n ( ! subspace4
+,! dim5.n equals ! numb} ( vectors 9 !
+spann+ set if & only if ! spann+   #aejf
+set is l9e>ly 9dep5d5t4
+
+`#7,f4`<a`> "7 ,f9ite,field"<#c`5#d">`#'
+`#7;u "7 vector"<,f1 .<a`5i = i 9
+range"<#j1  #g1 #a">.>">`#'
+`#7;v "7 vector"<,f1 .<a`5i = i 9
+range"<#j1 #ad1 #b">.>">`#'
+`#7;w "7 vector"<,f1 .<a`5i = i 9
+range"<#j1 #ba1 #c">.>">`#'
+`#7;,s "7 "<,f`5#g">4subspace"<.<u1 ;v1
+;w.>">`#'
+`#1,s4dim5.n"<">
+-----------------
+`#2#c
+
+
+`#7;,s "7 "<,f`5#g">4subspace"<.<u1 ;v1
+a`5#c"9u "6 a`5#aa"9v.>">`#'
+`#1,s4dim5.n"<">
+-----------------
+`#2#b
+
+  ,s ! f/ set ( vectors1 `#7.<;u1 ;v1
+;w.>`#'1 is l9e>ly 9dep5d5t1 :ile !
+second set1 `#7.<;u1 ;v1           #aejg
+a`5#c"9u "6 a`5#aa"9v.>`#'1 is n4
+
+      ,ab/ract ,vector ,spaces
+  ,sage does n imple;t _m ab/ract vector
+spaces directly1 s* z _% ,p;n _:1 !
+vector space ( polynomials ( degree ;n
+or less4 ,? is due 9 "p to ! fact t a
+f9ite-dim5.nal vector space ov} a field
+;,f is isomorphic to ! vector space
+_% ,f~n _:4 ,s ,sage captures all !
+func;nal;y ( f9ite-dim5.nal vector
+spaces1 & x is left to ! us} to p}=m !
+3v}.ns ac to ! isomorphism "<: is (t5
+trivial ) ! *oice ( an obvi|s basis">4
+  ,h{"e1 "! >e 9/.es ": r+s 2have
+naturally z vector spaces & we c exploit
+? extra /ructure4 ,we w see m* m ( ? 9 !
+*apt}s on fields & ,galois !ory4 ,z an
+example1 f9ite fields h a s+le g5}ator1
+& ! f/ few p{}s ( ! g5}ator =m a basis4
+,3sid} cr1t+ a vector space f ! ele;ts (
+a f9ite field ( ord} _% #7~6 .k #117
+649 _:4 ,z ele;ts ( a field we "k !y c 2
+add$1 s we w .1def9e ? to 2 ! addi;n 9
+|r vector space4 ,= any ele;t (    #aejh
+! 9teg}s mod #g1 we c multiply an ele;t
+( ! field by ! 9teg}1 s we .1def9e ? to
+2 |r scal> multiplica;n4 ,lat}1 we w 2
+c}ta9 t ~! two def9i;ns l1d to a vector
+space1 b take t = grant$ n{4 ,s "h >e "s
+op}a;ns 9 |r new vector space4
+
+`#7,f4`<a`> "7 ,f9ite,field"<#g`5#f">`#'
+`#7;u "7 #b"9a`5#e "6 #f"9a`5#d "6
+#b"9a`5#c "6 #c"9a`5#b "6 #b"9a "6 #c`#'
+`#7;v "7 #d"9a`5#e "6 #d"9a`5#d "6
+#d"9a`5#c "6 #f"9a`5#b "6 #e"9a "6 #f`#'
+`#7;u "6 ;v`#'
+-----------------
+`#7#f"9a`5#e "6 #c"9a`5#d "6 #f"9a`5#c
+"6 #b"9a`5#b "6 #b`#'
+
+
+`#1#d"9u
+-----------------
+`#7a`5#e "6 #c"9a`5#d "6 a`5#c "6
+#e"9a`5#b "6 a "6 #e`#'
+
+
+                                   #aeji
+`#7#b"9u "6 #e"9v`#'
+-----------------
+`#7#c"9a`5#e "6 #d"9a`5#d "6 #c"9a`5#c
+"6 a`5#b "6 a "6 #a`#'
+
+  ,y mi<t recognize t ? looks v famili>
+to h{ we add polynomials1 & multiply
+polynomials by scal>s4 ,y wd 2 correct4
+,h{"e1 notice t 9 ? vector space
+3/ruc;n1 we >e totally ignor+ !
+possibil;y ( multiply+ two field ele;ts
+tgr4 ,z a vector space ) scal>s f
+_% `;,z7 _:1 a basis is ! f/ six p{}s (
+! g5}ator1 _% .(1, a, a~2, a~3, a~4,
+a~5".) _:4 "<,notice h{ c.t+ f z}o is
+natural "h4"> ,y may h notic$ h{ ,sage
+3si/5tly rewrites ele;ts ( fields z l9e>
+comb9a;ns ,- n{ y h a gd explana;n4
+  ,"h is :at ,sage "ks ab a f9ite field
+z a vector space4 ,f/1 x "ks t ! f9ite
+field .1is a vector space1 & :at ! field
+( scal>s is4 ,we suppress addi;nal |tput
+) isomorphisms 2t ! f9ite field /ructure
+& ! vector space /ructure4
+                                   #aeaj
+`#7;,v "7
+,f4vector.-space"<map"7,false">2 ;,v`#'
+-----------------
+`#7,vector space ( dim5.n #f ov} ,f9ite
+,field ( size #g`#'
+
+
+`#7;,r "7 ,v4base.-r+"<">2 ;,r`#'
+-----------------
+`#7,f9ite ,field ( size #g`#'
+
+
+`#7;,r "7"7 ,f9ite,field"<#g">`#'
+-----------------
+`#1,true
+
+
+`#1,v4dim5.n"<">
+-----------------
+`#2#f
+
+  ,s ! f9ite field "<z a vector space">
+is isomorphic to ! vector space
+_% (`;,z7)~6 _:4 ,notice ? is n a r+ or
+field isomorphism1 z x does n      #aeaa
+fully address multiplica;n ( ele;ts1 ev5
+?|< t is possible 9 ! field4
+  ,second1 ele;ts ( ! field c 2 3v}t$ to
+ele;ts ( ! vector space easily4
+
+`#7;x "7 ,v"<u">2 ;x`#'
+-----------------
+`#7"<#c1 #b1 #c1 #b1 #f1 #b">`#'
+
+
+`#7;y "7 ,v"<v">2 ;y`#'
+-----------------
+`#7"<#f1 #e1 #f1 #d1 #d1 #d">`#'
+
+  ,notice t ,sage writes field ele;ts )
+hi< p{}s ( ! g5}ator f/1 :ile ! basis 9
+use is ord}$ ) l{ p{}s f/4 ,! computa;ns
+2l illu/rate ! isomorphism pres}v+ !
+/ructure 2t ! f9ite field xf & xs
+9t}preta;n z a vector space1
+_% (`;,z7)~6 _:4
+
+
+
+                                   #aeab
+`#7,v"<u "6 ;v"> "7"7 ,v"<u"> "6
+,v"<v">`#'
+-----------------
+`#1,true
+
+
+`#7two "7 ,r"<#b">`#'
+`#7,v"<two"9u"> "7"7 two"9,v"<u">`#'
+-----------------
+`#1,true
+
+
+      ,l9e> ,algebra
+  ,sage has ext5sive support = l9e>
+algebra1 well 2y :at we h describ$ "h1
+or :at we w ne$ = ! rema9+ *apt}s4
+,cr1te vector spaces & vectors "<)
+di6}5t fields ( scal>s">1 & !n use
+tab-comple;n on ~! objects to explore !
+l>ge sets ( available comm&s4
+
+    #bj4h ,sage ,ex}cises
+
+#a4 ,giv5 two subspaces ;,u & ;,w ( a
+vector space ;,v1 _! sum           #aeac
+_% ,u+,w _: c 2 def9$ z ! .1set _% ,u+,w
+.k .(u+w|u `e ,u,  w `e ,w.) _:1 9 o!r
+~ws1 ! set ( all possible sums ( an
+ele;t f ;,u & an ele;t f ;,w4
+  ,notice ? is n ! direct sum ( yr text1
+nor ! `#1direct.-sum"<"> me?od 9 ,sage4
+,h{"e1 y c build ? subspace 9 ,sage z
+foll{s4 ,grab ! bases ( ;,u & ;,w
+9dividually1 z li/s ( vectors4 ,jo9 !
+two li/s tgr by j us+ a plus sign 2t !m4
+,n{ build ! sum subspace by cr1t+ a
+subspace ( ;,v spann$ by ? set1 by us+ !
+`#1;4subspace"<"> me?od4
+  ,9 ! vector space "<`#1,,qq`5#aj">
+3/ruct two subspaces t y expect to "<a">
+h dim5.n #e or #f or s1 & "<;b"> h an
+9t}sec;n t is a vector space ( dim5.n #b
+or s4 ,comp>e _! 9dividual dim5.ns ) !
+dim5.ns ( ! 9t}sec;n ( ;,u & ;,w "<
+_% ,u.%,w _:1 `#1;49t}sec;n"<"> 9
+,sage"> & ! sum _% ,u+,w _:4
+  ,rep1t ! exp}i;t ) ! two orig9al
+vector spaces hav+ dim5.n #h or s1 & ) !
+9t}sec;n z small z possible4 ,=m a g5}al
+3jecture relat+ ~! f|r dim5.ns     #aead
+bas$ on ! results ( yr two "<or
+more">exp}i;ts4
+
+#b4 ,we c 3/ruct a field 9 ,sage t
+ext5ds ! ra;nals by add+ 9 a f|r? root (
+two1 _% `;,q`(<4>2}`) _:1 ) ! comm&
+`#7,f4`<c`> "7 ,,qq.<#b`5"<#a_/#d">.>`#'
+4 ,? is a vector space ( dim5.n #d ov} !
+ra;nals1 ) a basis t is ! f/ f|r p{}s (
+_% c .k <4>2} _: "</>t+ ) ! z}o p{}">4
+  ,! comm& `#1,f4vector.-space"<"> w
+return ?ree items 9 a triple "<s 2 c>e;l
+h{ y h&le ? |tput to extract :at y
+ne$">4 ,! f/ "p ( ! |tput is a vector
+space ov} ! ra;nals t is isomorphic to
+`#2;,f4 ,! next is a vector space
+isomorphism "<9v}tible l9e> trans=ma;n">
+f ! provid$ vector space to ! field1
+:ile ! ?ird is an isomorphism 9 !
+opposite direc;n4 ,~! two isomorphisms c
+!n 2 us$ l func;ns4 ,notice t ? is
+di6}5t 2havior ?an =
+`#1;4vector.-space"<"> appli$ to f9ite
+fields4 ,cr1te non-trivial examples t %{
+t ~! vector space isomorphisms     #aeae
+2have z an isomorphism %d4 "<,y w h at
+l1/ f|r s* examples 9 a complete
+solu;n4">
+
+#c4 ,build a f9ite field ;,f ( ord}
+_% p~n _: 9 ! usual way4 ,!n 3/ruct !
+"<multiplicative"> gr|p ( all 9v}tible
+"<nons+ul>"> _% m`*m _: matrices ov} ?
+field ) ! comm& `#7;,g "7 ,,gl"<m1
+;,f">`#' "<8! g5}al l9e> gr|p0">4 ,:at
+is ! ord} ( ? gr|p8 ,9 o!r ~ws1 f9d a
+g5}al expres.n = ! ord} ( ? gr|p4
+  ,yr answ} %d 2 a func;n ( ;m1 ;p & ;n4
+,provide a complete explana;n ( ! logic
+2h yr solu;n "<i4e4 "s?+ resembl+ a
+pro(">4 ,al provide te/s 9 ,sage t yr
+answ} is correct4
+  ,h9ts3  `#1,g4ord}"<"> w help y te/ &
+v}ify yr hypo!ses4 ,small examples 9
+,sage "<li/+ all ! ele;ts ( ! gr|p">
+mi<t aid yr 9tui;n,-: is :y ? is a ,sage
+ex}cise4 ,small m1ns _% #2`*2 _: &
+_% #3`*3 _: matrices & f9ite fields )
+_% #2, #3, #4, #5 _: ele;ts1 at mo/4
+,results d n r1lly dep5d on ea*    #aeaf
+( ;p & ;n1 b r j on _% p~n _:4
+  ,r1lize ? gr|p is 9t}e/+ 2c x 3ta9s
+repres5ta;ns ( all ! 9v}tible "<i4e4
+#a-#a & onto"> l9e> trans=ma;ns f !
+"<f9ite"> vector space _% ,f~m _: to xf4
+
+#d4 ,:at happ5s if we try to d l9e>
+algebra ov} a .1r+ t is n al a .1field;8
+,! object t resembles a vector space1 b
+) ? "o 4t9c;n1 is "kn z a ~1module4 ,y c
+build "o easily ) a 3/ruc;n l
+`#1,,zz`5#c4 ,evaluate ! foll{+ to cr1te
+a module & a submodule4
+
+`#7;,m "7 ,,zz`5#c`#'
+`#7;u "7 ,m"<.<#a1 #j1 #j.>">`#'
+`#7;v "7 ,m"<.<#b1 #b1 #j.>">`#'
+`#7;w "7 ,m"<.<#j1 #j1 #d.>">`#'
+`#7;,n "7 ,m4submodule"<.<u1 ;v1
+;w.>">`#'
+
+  ,exam9e ! bases & dim5.ns "<aka
+8rank0"> ( ! module & submodule1 & *eck
+! equal;y ( ! module & submodule4 ,h{ is
+? di6}5t ?an ! situa;n = vector    #aeag
+spaces8 ,c y cr1te a ?ird module1 `#2;,p
+1 t is a prop} subset ( `#2;,m & prop}ly
+3ta9s `#2;,n;8
+
+#e4 ,a f9ite field1 ;,f1 ( ord}
+_% #5~3 _: is a vector space ( dim5.n #c
+ov} _% `;,z5 _:4 ,suppose a is a g5}ator
+( ;,f4 ,let ;,m 2 any _% #3`*3 _: matrix
+) 5tries f _% `;,z5 _: "<c>e;le "h1 !
+ele;ts >e f th field ( scal>s1 n f !
+vector space">4 ,if we 3v}t an ele;t
+_% x `e ,f _: to a vector "<relative to
+! basis _% .(1, a, a~2".) _:">1 !n we c
+multiply x by ;,m "<) ;,m on ! left"> to
+cr1te ano!r vector1 : we c translate to
+a l9e> comb9a;n ( ! basis ele;ts1 & h;e
+ano!r ele;t ( ;,f4 ,? func;n is a vector
+space homomorphism1 bett} "kn z a l9e>
+trans=ma;n "<imple;t$ ) a matrix
+repres5ta;n relative to ! basis _% .(1,
+a, a~2".) _:4 ,notice t ea* "p 2l 2comes
+less g5}al & m specific4
+a4 ,cr1te a non-9v}tible matrix ;,r &
+give examples to %{ t ! mapp+ describ$
+by ;,r is a vector space           #aeah
+homomorphism ( ;,f 9to ;,f4
+;b4 ,cr1te an 9v}tible matrix ;,m4 ,!
+mapp+ w n{ 2 an 9v}tible homomorphism4
+,det}m9e ! 9v}se func;n & give examples
+to v}ify xs prop}ties4
+;c4 ,s9ce a is a g5}ator ( ! field1 !
+mapp+ _% a $|33o a~5 _: c 2 ext5d$ to a
+vector space homomorphism "<i4e4 a l9e>
+trans=ma;n">4 ,f9d a matrix ;,m : e6ects
+? l9e> trans=ma;n1 & f ?1 det}m9e t !
+homomorphism is 9v}tible4
+;d4 ,n"o ( ! previ|s ?ree "ps applies to
+prop}ties ( multiplica;n 9 ! field4
+,h{"e1 ! mapp+ f ! ?ird "p al pres}ves
+multiplica;n 9 ! field1 ?|< a pro( ( ?
+may n 2 obvi|s "r n{4 ,s we >e say+ ?
+mapp+ is a field automorphism1 pres}v+
+bo? addi;n & multiplica;n4 ,give a
+nontrivial example ( !
+multiplica;n-pres}v+ prop}ties ( ?
+mapp+4 "<,? is ! ~1,frob5ius ~1map : w 2
+4cuss$ fur!r 9 ,*apt} #ba4">
+
+
+                                   #aeai
+

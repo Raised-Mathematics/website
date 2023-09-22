@@ -1,0 +1,1701 @@
+          #ah ,9tegral ,doma9s
+
+  ,"o ( ! mo/ important r+s we /udy is !
+r+ ( 9teg}s4 ,x 0 |r f/ example ( an
+algebraic /ructure3 ! f/ polynomial r+ t
+we exam9$ 0 _% `;,z`(x`) _:4 ,we al "k t
+! 9teg}s sit naturally 9side ! field (
+ra;nal numb}s1 _% `;,q _:4 ,! r+ (
+9teg}s is ! model = all 9tegral doma9s4
+,9 ? *apt} we w exam9e 9tegral doma9s 9
+g5}al1 answ}+ "qs ab ! id1l /ructure (
+9tegral doma9s1 polynomial r+s ov}
+9tegral doma9s1 & :e!r or n an 9tegral
+doma9 c 2 emb$d$ 9 a field4
+
+    #ah4a ,fields ( ,frac;ns
+  ,e field is al an 9tegral doma92 h{"e1
+"! >e _m 9tegral doma9s t >e n fields4
+,= example1 ! 9teg}s _% `;,z _: =m an
+9tegral doma9 b n a field4 ,a "q t
+naturally >ises is h{ we mi<t associate
+an 9tegral doma9 ) a field4 ,"! is a
+natural way to 3/ruct ! ra;nals
+_% `;,q _: f ! 9teg}s3 ! ra;nals c 2
+repres5t$ z =mal quoti5ts ( two    #abig
+9teg}s4 ,! ra;nal numb}s >e c}ta9ly a
+field4 ,9 fact1 x c 2 %{n t ! ra;nals >e
+! smalle/ field t 3ta9s ! 9teg}s4 ,giv5
+an 9tegral doma9 ;,d1 |r "q n{ 2comes h{
+to 3/ruct a smalle/ field ;,f 3ta9+ ;,d4
+,we w d ? 9 ! same way z we 3/ruct$ !
+ra;nals f ! 9teg}s4
+  ,an ele;t _% p_/q `e `;,q _: is !
+quoti5t ( two 9teg}s ;p & ;q2 h{"e1
+di6}5t pairs ( 9teg}s c repres5t ! same
+ra;nal numb}4 ,= 9/.e1 _% #1_/2 .k #2_/4
+.k #3_/6 _:4 ,we "k t
+_%
+
+?a/b# .k ?c/d#
+
+_:
+if & only if _% ad .k bc _:4 ,a m =mal
+way ( 3sid}+ ? problem is to exam9e
+frac;ns 9 t}ms ( equival;e rela;ns4 ,we
+c ?9k ( ele;ts 9 _% `;,q _: z ord}$
+pairs 9 _% `;,z`*`;,z _:4 ,a quoti5t
+_% p_/q _: c 2 writt5 z _% (p, q) _:4 ,=
+9/.e1 _% (3, 7) _: wd repres5t ! frac;n
+_% #3_/7 _:4 ,h{"e1 "! >e          #abih
+problems if we 3sid} all possible pairs
+9 _% `;,z`*`;,z _:4 ,"! is no frac;n
+_% #5_/0 _: correspond+ to ! pair _% (5,
+0) _:4 ,al1 ! pairs _% (3, 6) _: &
+_% (2, 4) _: bo? repres5t ! frac;n
+_% #1_/2 _:4 ,! f/ problem is easily
+solv$ if we require ! second coord9ate
+to 2 nonz}o4 ,! second problem is solv$
+by 3sid}+ two pairs _% (a, b) _: &
+_% (c, d) _: to 2 equival5t if _% ad .k
+bc _:4
+  ,if we use ! approa* ( ord}$ pairs
+9/1d ( frac;ns1 !n we c /udy 9tegral
+doma9s 9 g5}al4 ,let ;,d 2 any 9tegral
+doma9 & let
+_%
+
+,s .k .((a, b)_3a, b `e ,d and b /.k
+#0.)
+
+_:4
+,def9e a rela;n on ;,s by _% (a, b) `:
+(c, d) _: if _% ad .k bc _:4
+
+                                   #abii
+7777777777777777777777777777777777777777
+,lemma #ah4a
+  ,! rela;n _% `: _: 2t ele;ts ( ;,s is
+an equival;e rela;n4
+
+,pro(4 ,s9ce ;,d is commutative1 _% ab
+.k ba _:2 h;e1 _% `: _: is reflexive on
+;,d4 ,n{ suppose t _% (a, b) `: (c,
+d) _:4 ,!n _% ad .k bc _: or _% cb .k
+da _:4 ,"!=e1 _% (c, d) `: (a, b) _: & !
+rela;n is symmetric4 ,f9ally1 to %{ t !
+rela;n is transitive1 let _% (a, b) `:
+(c, d) _: & _% (c, d) `: (e, f) _:4 ,9 ?
+case _% ad .k bc _: & _% cf .k de _:4
+,multiply+ bo? sides ( _% ad .k bc _: by
+;f yields
+_%
+
+afd .k adf .k bcf .k bde .k bed
+
+_:4
+,s9ce ;,d is an 9tegral doma91 we c
+d$uce t _% af .k be _: or _% (a, b) `:
+(e, f) _:4
+gggggggggggggggggggggggggggggggg   #acjj
+
+  ,we w d5ote ! set ( equival;e classes
+on ;,s by _% ,f;,d _:4 ,we n{ ne$ to
+def9e ! op}a;ns ( addi;n & multiplica;n
+on _% ,f;,d _:4 ,recall h{ frac;ns >e
+add$ & multipli$ 9 _% `;,q _:3
+_%
+
+?a/b#+?c/d# .k ?ad+bc/bd#_2
+?a/b#*?c/d# .k ?ac/bd#
+
+_:4
+,x seems r1sonable to def9e ! op}a;ns (
+addi;n & multiplica;n on _% ,f;,d _: 9 a
+simil> mann}4 ,if we d5ote ! equival;e
+class ( _% (a, b) `e ,s _: by _% `(a,
+b`) _:1 !n we >e l$ to def9e ! op}a;ns (
+addi;n & multiplica;n on _% ,f;,d _: by
+_%
+
+`(a, b`)+`(c, d`) .k `(ad+bc, bd`)
+
+_:
+&
+                                   #acja
+_%
+
+`(a, b`)*`(c, d`) .k `(ac, bd`)
+
+_:1
+respectively4 ,! next lemma demon/rates
+t ~! op}a;ns >e 9dep5d5t ( ! *oice (
+repres5tatives f ea* equival;e class4
+
+7777777777777777777777777777777777777777
+,lemma #ah4b
+  ,! op}a;ns ( addi;n & multiplica;n on
+_% ,f;,d _: >e well-def9$4
+
+,pro(4 ,we w prove t ! op}a;n ( addi;n
+is well-def9$4 ,! pro( t multiplica;n is
+well-def9$ is left z an ex}cise4 ,let
+_% `(a1, b1`) .k `(a2, b2`) _: &
+_% `(c1, d1`) .k `(c2, d2`) _:4 ,we m/
+%{ t
+
+
+
+
+                                   #acjb
+_%
+
+`(a1d1+b1c1, b1d1`) .k `(a2d2+b2c2,
+b2d2`)
+
+_:
+or1 equival5tly1 t
+_%
+
+(a1d1+b1c1)(b2d2) .k (b1d1)(a2d2+b2c2)
+
+_:4
+,s9ce  _% `(a1, b1`) .k `(a2, b2`) _: &
+_% `(c1, d1`) .k `(c2, d2`) _:1 we "k t
+_% a1b2 .k b1a2 _: & _% c1d2 .k d1c2 _:4
+,"!=e1
+_%
+
+(a1d1+b1c1)(b2d2)    .k
+a1d1b2d2+b1c1b2d2
+.k a1b2d1d2+b1b2c1d2
+.k b1a2d1d2+b1b2d1c2
+.k (b1d1)(a2d2+b2c2)
+
+_:4                                #acjc
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ah4c
+  ,! set ( equival;e classes ( ;,s1
+_% ,f;,d _:1 "u ! equival;e rela;n
+_% `: _:1 tgr ) ! op}a;ns ( addi;n &
+multiplica;n def9$ by
+_%
+
+`(a, b`)+`(c, d`) .k `(ad+bc, bd`)
+`(a, b`)*`(c, d`) .k `(ac, bd`)
+
+_:1
+is a field4
+
+,pro(4 ,! additive & multiplicative
+id5tities >e _% `(0, 1`) _: & _% `(1,
+1`) _:1 respectively4 ,to %{ t _% `(0,
+1`) _: is ! additive id5t;y1 obs}ve t
+
+
+
+                                   #acjd
+_%
+
+`(a, b`)+`(0, 1`) .k `(a"1+b"0, b"1`) .k
+`(a, b`)
+
+_:4
+,x is easy to %{ t _% `(1, 1`) _: is !
+multiplicative id5t;y4 ,let _% `(a, b`)
+`e ,f;,d _: s* t _% a /.k #0 _:4 ,!n
+_% `(b, a`) _: is al 9 _% ,f;,d _: &
+_% `(a, b`)*`(b, a`) .k `(1, 1`) _:2
+h;e1 _% `(b, a`) _: is ! multiplicative
+9v}se = _% `(a, b`) _:4 ,simil>ly1
+_% `(-a, b`) _: is ! additive 9v}se (
+_% `(a, b`) _:4 ,we l1ve z ex}cises !
+v}ifica;n ( ! associative &  commutative
+prop}ties ( multiplica;n 9 _% ,f;,d _:4
+,we al l1ve x to ! r1d} to %{ t
+_% ,f;,d _: is an abelian gr|p "u
+addi;n4
+  ,x rema9s to %{ t ! 4tributive prop}ty
+holds 9 _% ,f;,d _:2 h{"e1
+
+
+                                   #acje
+_%
+
+`(a, b`)`(e, f`)+`(c, d`)`(e, f`) .k
+`(ae, bf`)+`(ce, df`)
+.k `(aedf+bfce, bdf~2"`)
+.k `(aed+bce, bdf`)
+.k `(ade+bce, bdf`)
+.k (`(a, b`)+`(c, d`))`(e, f`)
+
+_:
+& ! lemma is prov$4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! field _% ,f;,d _: 9 ,lemma #ah4c is
+call$ ! ~7field ( frac;ns~' or ~7field (
+quoti5ts~' ( ! 9tegral doma9 ;,d4
+
+7777777777777777777777777777777777777777
+,!orem #ah4d
+  ,let ;,d 2 an 9tegral doma94 ,!n ;,d c
+2 emb$d$ 9 a field ( frac;ns
+_% ,f;,d _:1 ": any ele;t 9 _% ,f;,d _:
+c 2 express$ z ! quoti5t ( two ele;ts 9
+;,d4 ,fur!rmore1 ! field ( frac;ns
+_% ,f;,d _: is unique 9 ! s5se t   #acjf
+if ;,e is any field 3ta9+ ;,d1 !n "!
+exi/s a map _% .y"1 ,f;,d $o ,e _: giv+
+an isomorphism ) a subfield ( ;,e s* t
+_% .y(a) .k a _: = all ele;ts _% a `e
+,d _:1 ": we id5tify a ) xs image 9
+_% ,f;,d _:4
+
+,pro(4 ,we w f/ demon/rate t ;,d c 2
+emb$d$ 9 ! field  _% ,f;,d _:4 ,def9e a
+map _% .f"1 ,d $o ,f;,d _: by _% f(a) .k
+`(a, 1`) _:4 ,!n = a & ;b 9 ;,d1
+_%
+
+f(a+b) .k `(a+b, 1`) .k `(a, 1`)+`(b,
+1`) .k f(a)+f(b)
+
+_:
+&
+_%
+
+f(ab) .k `(ab, 1`) .k `(a, 1`)`(b, 1`)
+.k f(a)f(b)_2
+
+_:
+h;e1 _% .f _: is a homomorphism4   #acjg
+,to %{ t _% .f _: is "o-to-"o1 suppose t
+_% f(a) .k f(b) _:4 ,!n _% `(a, 1`) .k
+`(b, 1`) _:1 or _% a .k a"1 .k #1b .k
+b _:4 ,f9ally1 any ele;t ( _% ,f;,d _: c
+2 express$ z ! quoti5t ( two ele;ts 9
+;,d1 s9ce
+_%
+
+f(a)`(f(b)`)~-1 .k `(a, 1`)`(b, 1`)~-1
+.k `(a, 1`)*`(1, b`) .k `(a, b`)
+
+_:4
+  ,n{ let ;,e 2 a field 3ta9+ ;,d &
+def9e a map _% .y"1 ,f;,d $o ,e _: by
+_% .y(`(a, b`)) .k ab~-1 _:4 ,to %{ t
+_% .y _: is well-def9$1 let _% `(a1,
+b1`) .k `(a2, b2`) _:4 ,!n _% a1b2 .k
+b1a2 _:4 ,"!=e1 _% a1b1~-1 .k a2b2~-1 _:
+& _% .y(`(a1, b1`)) .k .y(`(a2,
+b2`)) _:4
+  ,if _% `(a, b`) _: & _% `(c, d`) _: >e
+9 _% ,f;,d _:1 !n
+
+
+                                   #acjh
+_%
+
+.y(`(a, b`)+`(c, d`))        .k
+.y(`(ad+bc, bd`))
+.k (ad+bc)(bd)~-1"
+.k ab~-1"+cd~-1"
+.k .y(`(a, b`))+.y(`(c, d`))
+
+_:
+&
+_%
+
+.y(`(a, b`)*`(c, d`))       .k .y(`(ac,
+bd`))
+.k (ac)(bd)~-1"
+.k ab~-1"cd~-1"
+.k .y(`(a, b`)).y(`(c, d`))
+
+_:4
+,"!=e1 _% .y _: is a homomorphism4
+  ,to complete ! pro( ( ! !orem1 we ne$
+to %{ t _% .y _: is "o-to-"o4 ,suppose t
+_% .y(`(a, b`)) .k ab~-1 .k #0 _:4 ,!n
+_% a .k #0b .k #0 _: & _% `(a, b`) .k
+`(0, b`) _:4 ,"!=e1 ! k}nel (      #acji
+_% .y _: is ! z}o ele;t _% `(0, b`) _: 9
+_% ,f;,d _:1 & _% .y _: is 9jective4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ah4e
+  ,s9ce _% `;,q _: is a field1
+_% `;,q`(x`) _: is an 9tegral doma94 ,!
+field ( frac;ns ( _% `;,q`(x`) _: is !
+set ( all ra;nal expres.ns
+_% p(x)_/q(x) _:1 ": _% p(x) _: &
+_% q(x) _: >e polynomials ov} ! ra;nals
+& _% q(x) _: is n ! z}o polynomial4 ,we
+w d5ote ? field by _% `;,q(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we w l1ve ! pro(s ( ! foll{+
+coroll>ies ( ,!orem #ah4d z ex}cises4
+
+
+
+
+
+                                   #acaj
+7777777777777777777777777777777777777777
+,coroll>y #ah4f
+  ,let ;,f 2 a field ( "*i/ic z}o4 ,!n
+;,f 3ta9s a subfield isomorphic to
+_% `;,q _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4g
+  ,let ;,f 2 a field ( "*i/ic ;p4 ,!n
+;,f 3ta9s a subfield isomorphic to
+_% `;,z;p _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #ah4b ,factoriza;n 9 ,9tegral
+    ,doma9s
+  ,! build+ blocks ( ! 9teg}s >e ! prime
+numb}s4 ,if ;,f is a field1 !n
+irr$ucible polynomials 9 _% ,f`(x`) _:
+play a role t is v simil> to t ( ! prime
+numb}s 9 ! r+ ( 9teg}s4 ,giv5 an >bitr>y
+9tegral doma91 we >e l$ to ! foll{+
+s}ies ( def9i;ns4                  #acaa
+  ,let ;,r 2 a commutative r+ ) id5t;y1
+& let a & ;b 2 ele;ts 9 ;,r4 ,we say t a
+~1divides ;b1 & write _% a|b _:1 if "!
+exi/s an ele;t _% c `e ,r _: s* t _% b
+.k ac _:4 ,a ~1unit 9 ;,r is an ele;t t
+has a multiplicative 9v}se4 ,two ele;ts
+a & ;b 9 ;,r >e sd to 2 ~1associates if
+"! exi/s a unit ;u 9 ;,r s* t _% a .k
+ub _:4
+  ,let ;,d 2 an 9tegral doma94 ,a nonz}o
+ele;t _% p `e ,d _: t is n a unit is sd
+to 2 ~1irr$ucible provid$ t :5"e _% p .k
+ab _:1 ei a or ;b is a unit4 ,fur!rmore1
+;p is ~1prime if :5"e _% p|ab _: ei
+_% p|a _: or _% p|b _:4
+
+
+
+
+
+
+
+
+
+                                   #acab
+7777777777777777777777777777777777777777
+,example #ah4h
+  ,x is important to notice t prime &
+irr$ucible ele;ts d n alw co9cide4 ,let
+;,r 2 ! subr+ "<) id5t;y"> ( _% `;,q`(x,
+y`) _: g5}at$ by _% x~2 _:1 _% y~2 _:1 &
+_% xy _:4 ,ea* ( ~! ele;ts is irr$ucible
+9 ;,r2 h{"e1 _% xy _: is n prime1 s9ce
+_% xy _: divides _% x~2"y~2 _: b does n
+divide ei _% x~2 _: or _% y~2 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! ,funda;tal ,!orem ( ,>i?metic /ates
+t e positive 9teg} _% n .1 #1 _: c 2
+factor$ 9to a product ( prime numb}s
+_% p1 ''' p;k _:1 ": ! _% p;i _:';s >e n
+necess>ily 4t9ct4 ,we al "k t s*
+factoriza;ns >e unique up to ! ord} ( !
+_% p;i _:';s4 ,we c easily ext5d ?
+result to ! 9teg}s4 ,! "q >ises ( :e!r
+or n s* factoriza;ns >e possible 9 o!r
+r+s4 ,g5}aliz+ ? def9i;n1 we say an
+9tegral doma9 ;,d is a ~7unique
+factoriza;n doma9~'1 or ~1,,ufd1 if ;,d
+satisfies ! foll{+ crit}ia4        #acac
+#a4 ,let _% a `e ,d _: s* t _% a /.k
+#0 _: & a is n a unit4 ,!n a c 2 writt5
+z ! product ( irr$ucible ele;ts 9 ;,d4
+#b4 ,let _% a .k p1 ''' p;r .k q1 '''
+q;s _:1 ": ! _% p;i _:';s & ! _% q;i _:
+';s >e irr$ucible4 ,!n _% r .k s _: & "!
+is a _% .p `e ,s;r _: s* t _% p;i _: &
+_% q;.p(j) _: >e associates = _% j .k
+#1, ''', r _:4
+
+7777777777777777777777777777777777777777
+,example #ah4i
+  ,! 9teg}s >e a unique factoriza;n
+doma9 by ! ,funda;tal ,!orem (
+,>i?metic4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ah4aj
+  ,n e 9tegral doma9 is a unique
+factoriza;n doma94 ,! subr+
+_% `;,z`(>3}i`) .k .(a+b>3}i.) _: ( !
+complex numb}s is an 9tegral doma9
+"<,ex}cise #af4g4ab1               #acad
+,*apt} #af">4 ,let _% z .k a+b>3}i _: &
+def9e _% .n"1 `;,z`(>3}i`) $o
+`;,n.+.(0.) _: by _% .n(z) .k |z|~2 .k
+a~2"+3b~2 _:4 ,x is cle> t _% .n(z) .1:
+#0 _: ) equal;y :5 _% z .k #0 _:4 ,al1 f
+|r k ( complex numb}s we "k t _% .n(zw)
+.k .n(z).n(w) _:4 ,x is easy to %{ t if
+_% .n(z) .k #1 _:1 !n ;z is a unit1 & t
+! only units ( _% `;,z`(>3}i`) _: >e #a
+& _% -#1 _:4
+  ,we claim t #d has two 4t9ct
+factoriza;ns 9to irr$ucible ele;ts3
+_%
+
+#4 .k #2*2 .k (1->3}i)(1+>3}i)
+
+_:4
+,we m/ %{ t ea* ( ~! factors is an
+irr$ucible ele;t 9 _% `;,z`(>3}i`) _:4
+,if #b is n irr$ucible1 !n _% #2 .k
+zw _: = ele;ts _% z, w _: 9
+_% `;,z`(>3}i`) _: ": _% .n(z) .k .n(w)
+.k #2 _:4 ,h{"e1 "! does n exi/ an ele;t
+9 ;z 9 _% `;,z`(>3}i`) _: s* t _% .n(z)
+.k #2 _: 2c ! equa;n               #acae
+_% a~2"+3b~2 .k #2 _: has no 9teg}
+solu;ns4 ,"!=e1 #b m/ 2 irr$ucible4 ,a
+simil> >gu;t %{s t bo? _% #1->3}i _: &
+_% #1+>3}i _: >e irr$ucible4 ,s9ce #b is
+n a unit multiple ( ei _% #1->3}i _: or
+_% #1+>3}i _:1 #d has at l1/ two 4t9ct
+factoriza;ns 9to irr$ucible ele;ts4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,pr9cipal ,id1l ,doma9s
+  ,let ;,r 2 a commutative r+ ) id5t;y4
+,recall t a pr9cipal id1l g5}at$ by _% a
+`e ,r _: is an id1l ( ! =m _% ..(a..) .k
+.(ra_3r `e ,r.) _:4 ,an 9tegral doma9 9
+: e id1l is pr9cipal is call$ a
+~7pr9cipal id1l doma9~'1 or ~1,,pid4
+
+7777777777777777777777777777777777777777
+,lemma #ah4aa
+  ,let ;,d 2 an 9tegral doma9 & let
+_% a, b `e ,d _:4 ,!n
+#a4 _% a|b _: if & only if _% ..(b..)
+_"k ..(a..) _:4
+#b4 a & ;b >e associates if &      #acaf
+only if _% ..(b..) .k ..(a..) _:4
+#c4 a is a unit 9 ;,d if & only if
+_% ..(a..) .k ,d _:4
+
+,pro(4 "<#a"> ,suppose t _% a|b _:4 ,!n
+_% b .k ax _: = "s _% x `e ,d _:4 ,h;e1
+= e ;r 9 ;,d1 _% br .k (ax)r .k a(xr) _:
+& _% ..(b..) _"k ..(a..) _:4 ,3v}sely1
+suppose t _% ..(b..) _"k ..(a..) _:4 ,!n
+_% b `e ..(a..) _:4 ,3sequ5tly1 _% b .k
+ax _: = "s _% x `e ,d _:4 ,?us1
+_% a|b _:4
+  "<#b"> ,s9ce a & ;b >e associates1 "!
+exi/s a unit ;u s* t _% a .k ub _:4
+,"!=e1 _% b|a _: & _% ..(a..) _"k
+..(b..) _:4 ,simil>ly1 _% ..(b..) _"k
+..(a..) _:4 ,x foll{s t _% ..(a..) .k
+..(b..) _:4 ,3v}sely1 suppose t
+_% ..(a..) .k ..(b..) _:4 ,by "p "<#a">1
+_% a|b _: & _% b|a _:4 ,!n _% a .k bx _:
+& _% b .k ay _: = "s _% x, y `e ,d _:4
+,"!=e1 _% a .k bx .k ayx _:4 ,s9ce ;,d
+is an 9tegral doma91 _% xy .k #1 _:2 t
+is1 ;x & ;y >e units & a & ;b >e
+associates4                        #acag
+  "<#c"> ,an ele;t _% a `e ,d _: is a
+unit if & only if a is an associate (
+#a4 ,h{"e1 a is an associate ( #a if &
+only if _% ..(a..) .k ..(1..) .k ,d _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ah4ab
+  ,let ;,d 2 a ,,pid & _% ..(p..) _: 2 a
+nonz}o id1l 9 ;,d4 ,!n _% ..(p..) _: is
+a maximal id1l if & only if ;p is
+irr$ucible4
+
+,pro(4 ,suppose t _% ..(p..) _: is a
+maximal id1l4 ,if "s ele;t a 9 ;,d
+divides ;p1 !n _% ..(p..) _"k
+..(a..) _:4 ,s9ce _% ..(p..) _: is
+maximal1 ei _% ,d .k ..(a..) _: or
+_% ..(p..) .k ..(a..) _:4 ,3sequ5tly1 ei
+a & ;p >e associates or a is a unit4
+,"!=e1 ;p is irr$ucible4
+  ,3v}sely1 let ;p 2 irr$ucible4 ,if
+_% ..(a..) _: is an id1l 9 ;,d s* t
+_% ..(p..) _"k ..(a..) _"k         #acah
+,d _:1 !n _% a|p _:4 ,s9ce ;p is
+irr$ucible1 ei a m/ 2 a unit or a & ;p
+>e associates4 ,"!=e1 ei _% ,d .k
+..(a..) _: or _% ..(p..) .k ..(a..) _:4
+,?us1 _% ..(p..) _: is a maximal id1l4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4ac
+  ,let ;,d 2 a ,,pid4 ,if ;p is
+irr$ucible1 !n ;p is prime4
+
+,pro(4 ,let ;p 2 irr$ucible & suppose t
+_% p|ab _:4 ,!n _% ..(ab..) _"k
+..(p..) _:4 ,by ,coroll>y #af4dj1 s9ce
+_% ..(p..) _: is a maximal id1l1
+_% ..(p..) _: m/ al 2 a prime id1l4
+,?us1 ei _% a `e ..(p..) _: or _% b `e
+..(p..) _:4 ,h;e1 ei _% p|a _: or
+_% p|b _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                   #acai
+7777777777777777777777777777777777777777
+,lemma #ah4ad
+  ,let ;,d 2 a ,,pid4 ,let _% ,i1, ,i2,
+''' _: 2 a set ( id1ls s* t _% ,i1 _"k
+,i2 _"k  ''' _:4 ,!n "! exi/s an 9teg}
+;,n s* t _% ,i;n .k ,i;,n _: = all _% n
+.1: ,n _:4
+
+,pro(4 ,we claim t _% ,i .k ".+%i .k
+#1<,=},i;i _: is an id1l ( ;,d4 ,c}ta9ly
+,i is n empty1 s9ce _% ,i1 _"k ,i _: &
+_% #0 `e ,i _:4 ,if _% a, b `e ,i _:1 !n
+_% a `e ,i;i _: & _% b `e ,i;j _: = "s i
+& ;j 9 _% `;,n _:4 ,)|t loss ( g5}al;y
+we c assume t _% i "k: j _:4 ,h;e1 a &
+;b >e bo? 9 _% ,i;j _: & s _% a-b _: is
+al 9 _% ,i;j _:4 ,n{ let _% r `e ,d _: &
+_% a `e ,i _:4 ,ag1 we note t _% a `e
+,i;i _: = "s positive 9teg} i4 ,s9ce
+_% ,i;i _: is an id1l1 _% ra `e ,i;i _:
+& h;e m/ 2 9 ,i4 ,"!=e1 we h %{n t ,i is
+an id1l 9 ;,d4
+  ,s9ce ;,d is a pr9cipal id1l doma91 "!
+exi/s an ele;t _% a: `e ,d _: t g5}ates
+,i4 ,s9ce _% a: _: is 9            #acbj
+_% ,i;,n _: = "s _% ,n `e `;,n _:1 we "k
+t _% ,i;,n .k ,i .k ..(a:..) _:4
+,3sequ5tly1 _% ,i;n .k ,i;,n _: = _% n
+.1: ,n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,any commutative r+ satisfy+ ! 3di;n 9
+,lemma #ah4ad is sd to satisfy !
+~7asc5d+ *a9 3di;n~'1 or ~1,,acc4 ,s*
+r+s >e call$ ~1,noe!rian ~1r+s1 af ,emmy
+,noe!r4
+
+7777777777777777777777777777777777777777
+,!orem #ah4ae
+  ,e ,,pid is a ,,ufd4
+
+,pro(4
+  ,exi/;e ( a factoriza;n4 ,let ;,d 2 a
+,,pid & a 2 a nonz}o ele;t 9 ;,d t is n
+a unit4 ,if a is irr$ucible1 !n we >e
+d"o4 ,if n1 !n "! exi/s a factoriza;n
+_% a .k a1b1 _:1 ": nei _% a1 _: nor
+_% b1 _: is a unit4 ,h;e1 _% ..(a..) _"k
+..(a1..) _:4 ,by ,lemma #ah4aa1 we "k t
+_% ..(a..) /.k ..(a1..) _:2        #acba
+o!rwise1 a & _% a1 _: wd 2 associates &
+_% b1 _: wd 2 a unit1 : wd 3tradict |r
+assump;n4 ,n{ suppose t _% a1 .k
+a2b2 _:1 ": nei _% a2 _: nor _% b2 _: is
+a unit4 ,by ! same >gu;t z 2f1
+_% ..(a1..) _"k ..(a2..) _:4 ,we c 3t9ue
+) ? 3/ruc;n to obta9 an asc5d+ *a9 (
+id1ls
+_%
+
+..(a..) _"k ..(a1..) _"k ..(a2..) _"k
+'''
+
+_:4
+,by ,lemma #ah4ad1 "! exi/s a positive
+9teg} ;,n s* t _% ..(a;n"..) .k
+..(a;,n"..) _: = all _% n .1: ,n _:4
+,3sequ5tly1 _% a;,n _: m/ 2 irr$ucible4
+,we h n{ %{n t a is ! product ( two
+ele;ts1 "o ( : m/ 2 irr$ucible4
+  ,n{ suppose t _% a .k c1p1 _:1 ":
+_% p1 _: is irr$ucible4 ,if _% c1 _: is
+n a unit1 we c rep1t ! prec$+ >gu;t to
+3clude t _% ..(a..) _"k ..(c1..) _:4 ,ei
+_% c1 _: is irr$ucible or _% c1    #acbb
+.k c2p2 _:1 ": _% p2 _: is irr$ucible &
+_% c2 _: is n a unit4 ,3t9u+ 9 ? mann}1
+we obta9 ano!r *a9 ( id1ls
+_%
+
+..(a..) _"k ..(c1..) _"k ..(c2..) _"k
+'''
+
+_:4
+,? *a9 m/ satisfy ! asc5d+ *a9 3di;n2
+"!=e1
+_%
+
+a .k p1p2 ''' p;r
+
+_:
+= irr$ucible ele;ts _% p1, ''', p;r _:4
+  ,unique;s ( ! factoriza;n4 ,to %{
+unique;s1 let
+_%
+
+a .k p1p2 ''' p;r .k q1q2 ''' q;s
+
+_:1
+": ea* _% p;i _: & ea* _% q;i _:   #acbc
+is irr$ucible4 ,)|t loss ( g5}al;y1 we c
+assume t _% r "k s _:4 ,s9ce _% p1 _:
+divides _% q1q2 ''' q;s _:1 by
+,coroll>y #ah4ac x m/ divide "s
+_% q;i _:4 ,by re>rang+ ! _% q;i _:';s1
+we c assume t _% p1|q1 _:2 h;e1 _% q1 .k
+u1p1 _: = "s unit _% u1 _: 9 ;,d4 ,"!=e1
+_%
+
+a .k p1p2 ''' p;r .k u1p1q2 ''' q;s
+
+_:
+or
+_%
+
+p2 ''' p;r .k u1q2 ''' q;s
+
+_:4
+,3t9u+ 9 ? mann}1 we c >range !
+_% q;i _:';s s* t _% p2 .k q2, p3 .k q3,
+''', p;r .k q;r _:1 to obta9
+
+
+
+                                   #acbd
+_%
+
+u1u2 ''' u;r"q;r+1 ''' q;s .k #1
+
+_:4
+,9 ? case _% q;r+1 ''' q;s _: is a unit1
+: 3tradicts ! fact t _% q;r+1, ''',
+q;s _: >e irr$ucibles4 ,"!=e1 _% r .k
+s _: & ! factoriza;n ( a is unique4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4af
+  ,let ;,f 2 a field4 ,!n _% ,f`(x`) _:
+is a ,,ufd4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+                                   #acbe
+7777777777777777777777777777777777777777
+,example #ah4ag
+  ,e ,,pid is a ,,ufd1 b x is n ! case t
+e ,,ufd is a ,,pid4 ,9 ,coroll>y #ah4ca1
+we w prove t _% `;,z`(x`) _: is a ,,ufd4
+,h{"e1 _% `;,z`(x`) _: is n a ,,pid4
+,let _% ,i .k .(5f(x)+xg(x)_3f(x), g(x)
+`e `;,z`(x`).) _:4 ,we c easily %{ t ,i
+is an id1l ( _% `;,z`(x`) _:4 ,suppose t
+_% ,i .k ..(p(x)..) _:4 ,s9ce _% #5 `e
+,i _:1 _% #5 .k f(x)p(x) _:4 ,9 ? case
+_% p(x) .k p _: m/ 2 a 3/ant4 ,s9ce _% x
+`e ,i _:1 _% x .k pg(x) _:2 3sequ5tly1
+_% p .k +-1 _:4 ,h{"e1 x foll{s f ? fact
+t _% ..(p(x)..) .k `;,z`(x`) _:4 ,b ? wd
+m1n t #c is 9 ,i4 ,"!=e1 we c write
+_% #3 .k #5f(x)+xg(x) _: = "s _% f(x) _:
+& _% g(x) _: 9 _% `;,z`(x`) _:4 ,exam9+
+! 3/ant t}m ( ? polynomial1 we see t
+_% #3 .k #5f(x) _:1 : is impossible4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,euclid1n ,doma9s
+  ,we h rep1t$ly us$ ! divi.n      #acbf
+algori?m :5 prov+ results ab ei
+_% `;,z _: or _% ,f`(x`) _:1 ": ;,f is a
+field4 ,we %d n{ ask :5 a divi.n
+algori?m is available = an 9tegral
+doma94
+  ,let ;,d 2 an 9tegral doma9 s* t "! is
+a func;n _% .n"1 ,d_*.(0.) $o `;,n _:
+satisfy+ ! foll{+ 3di;ns4
+#a4 ,if a & ;b >e nonz}o ele;ts 9 ;,d1
+!n _% .n(a) "k: .n(ab) _:4
+#b4 ,let _% a, b `e ,d _: & suppose t
+_% b /.k #0 _:4 ,!n "! exi/ ele;ts _% q,
+r `e ,d _: s* t _% a .k bq+r _: & ei
+_% r .k #0 _: or _% .n(r) "k .n(b) _:4
+,!n ;,d is call$ a ~1,euclid1n ~1doma9 &
+_% .n _: is call$ a ~1,euclid1n
+~1valua;n4
+
+7777777777777777777777777777777777777777
+,example #ah4ah
+  ,absolute value on _% `;,z _: is a
+,euclid1n valua;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #acbg
+7777777777777777777777777777777777777777
+,example #ah4ai
+  ,let ;,f 2 a field4 ,!n ! degree ( a
+polynomial 9 _% ,f`(x`) _: is a
+,euclid1n valua;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ah4bj
+  ,recall t ! ,gaussian 9teg}s 9
+,example #af4ab ( ,*apt} #af >e def9$ by
+_%
+
+`;,z`(i`) .k .(a+bi_3a, b `e `;,z.)
+
+_:4
+,we usually m1sure ! size ( a complex
+numb} _% a+bi _: by xs absolute value14
+_% |a+bi| .k >a~2"+b~2"} _:2 h{"e1
+_% >a~2"+b~2"} _: may n 2 an 9teg}4 ,=
+|r valua;n we w let _% .n(a+bi) .k
+a~2"+b~2 _: to 5sure t we h an 9teg}4
+  ,we claim t _% .n(a+bi) .k a~2"+b~2 _:
+is a ,euclid1n valua;n on          #acbh
+_% `;,z`(i`) _:4 ,let _% z, w `e
+`;,z`(i`) _:4 ,!n _% .n(zw) .k |zw|~2 .k
+|z|~2"|w|~2 .k .n(z).n(w) _:4 ,s9ce
+_% .n(z) .1: #1 _: = e nonz}o _% z `e
+`;,z`(i`) _:1 _% .n(z) "k:
+.n(z).n(w) _:4
+  ,next1 we m/ %{ t = any _% z .k
+a+bi _: & _% w .k c+di _: 9
+_% `;,z`(i`) _: ) _% w /.k #0 _:1 "!
+exi/ ele;ts ;q & ;r 9  _% `;,z`(i`) _:
+s* t _% z .k qw+r _: ) ei _% r .k #0 _:
+or  _% .n(r) "k .n(w) _:4 ,we c view ;z
+& ;w z ele;ts 9 _% `;,q(i) .k .(p+qi_3p,
+q `e `;,q.) _:1 ! field ( frac;ns (
+_% `;,z`(i`) _:4 ,obs}ve t
+
+
+
+
+
+
+
+
+
+                                   #acbi
+_%
+
+zw~-1"                                 
+    .k (a+bi)?c-di/c~2"+d~2"#
+.k ?ac+bd/c~2"+d~2"#+?bc-ad/c~2"+d~2"#i
+.k
+(m1+?n1/c~2"+d~2"#)+(m2+?n2/c~2"+d~2"#)i
+.k
+(m1+m2i)+(?n1/c~2"+d~2"#+?n2/c~2"+d~2"#-
+i)
+.k (m1+m2i)+(s+ti)
+
+_:
+9 _% `;,q(i) _:4 ,9 ! la/ /eps we >e
+writ+ ! r1l & imag9>y "ps z an 9teg}
+plus a prop} frac;n4 ,t is1 we take !
+close/ 9teg} _% m;i _: s* t ! frac;nal
+"p satisfies _% |n;i"_/(a~2"+b~2")| "k:
+#1_/2 _:4 ,= example1 we write
+_%
+
+?9/8#  .k #1+?1/8#
+?15/8# .k #2-?1/8#
+
+_:4                                #accj
+,?us1 ;s & ;t >e ! 8frac;nal "ps0 (
+_% zw~-1 .k (m1+m2i)+(s+ti) _:4 ,we al
+"k t _% s~2"+t~2 "k: #1_/4+1_/4 .k
+#1_/2 _:4 ,multiply+ by ;w1 we h
+_%
+
+z .k zw~-1"w .k w(m1+m2i)+w(s+ti) .k
+qw+r
+
+_:1
+": _% q .k m1+m2i _: & _% r .k
+w(s+ti) _:4 ,s9ce ;z & _% qw _: >e 9
+_% `;,z`(i`) _:1 ;r m/ 2 9
+_% `;,z`(i`) _:4 ,f9ally1 we ne$ to %{ t
+ei _% r .k #0 _: or _% .n(r) "k
+.n(w) _:4 ,h{"e1
+_%
+
+.n(r) .k .n(w).n(s+ti) "k: ?1/2#.n(w) "k
+.n(w)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #acca
+7777777777777777777777777777777777777777
+,!orem #ah4ba
+  ,e ,euclid1n doma9 is a pr9cipal id1l
+doma94
+
+,pro(4 ,let ;,d 2 a ,euclid1n doma9 &
+let _% .n _: 2 a ,euclid1n valua;n on
+;,d4 ,suppose ,i is a nontrivial id1l 9
+;,d & *oose a nonz}o ele;t _% b `e ,i _:
+s* t _% .n(b) _: is m9imal = all _% a `e
+,i _:4 ,s9ce ;,d is a ,euclid1n doma91
+"! exi/ ele;ts ;q & ;r 9 ;,d s* t _% a
+.k bq+r _: & ei _% r .k #0 _: or
+_% .n(r) "k .n(b) _:4 ,b _% r .k a-bq _:
+is 9 ,i s9ce ,i is an id1l2 "!=e1 _% r
+.k #0 _: by ! m9imal;y ( ;b4 ,x foll{s t
+_% a .k bq _: & _% ,i .k ..(b..) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                   #accb
+7777777777777777777777777777777777777777
+,coroll>y #ah4bb
+  ,e ,euclid1n doma9 is a unique
+factoriza;n doma94
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,factoriza;n 9 _% ,d`(x`) _:
+  ,"o ( ! mo/ important polynomial r+s
+is _% `;,z`(x`) _:4 ,"o ( ! f/ "qs t
+come to m9d ab _% `;,z`(x`) _: is :e!r
+or n x is a ,,ufd4 ,we w prove a m g5}al
+/ate;t "h4 ,|r f/ task is to obta9 a m
+g5}al v}.n ( ,gauss's ,lemma
+"<,!orem #ag4ad">4
+  ,let ;,d 2 a unique factoriza;n doma9
+& suppose t
+_%
+
+p(x) .k a;n"x~n+''' +a1x+a0
+
+_:
+9 _% ,d`(x`) _:4 ,!n ! ~13t5t (
+_% p(x) _: is ! grte/ common divisor (
+_% a0, ''', a;n _:4 ,we say t      #accc
+_% p(x) _: is ~1primitive if _% gcd (a0,
+''', a;n") .k #1 _:4
+
+7777777777777777777777777777777777777777
+,example #ah4bc
+  ,9 _% `;,z`(x`) _: ! polynomial
+_% p(x) .k #5x~4"-3x~3"+x-4 _: is a
+primitive polynomial s9ce ! grte/ common
+divisor ( ! coe6ici5ts is #a2 h{"e1 !
+polynomial _% q(x) .k #4x~2"-6x+8 _: is
+n primitive s9ce ! 3t5t ( _% q(x) _: is
+#b4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ah4bd ,gauss's ,lemma4
+  ,let ;,d 2 a ,,ufd & let _% f(x) _: &
+_% g(x) _: 2 primitive polynomials 9
+_% ,d`(x`) _:4 ,!n _% f(x)g(x) _: is
+primitive4
+
+,pro(4 ,let _% f(x) .k ".,s%i .k
+#0<m}a;i"x~i _: & _% g(x) .k ".,s%i .k
+#0<n}b;i"x~i _:4 ,suppose t ;p     #accd
+is a prime divid+ ! coe6ici5ts (
+_% f(x)g(x) _:4 ,let ;r 2 ! smalle/
+9teg} s* t _% p/|a;r _: & ;s 2 ! smalle/
+9teg} s* t _% p/|b;s _:4 ,! coe6ici5t (
+_% x~r+s _: 9 _% f(x)g(x) _: is
+_%
+
+c;r+s .k a0b;r+s"+a1b;r+s-1+'''
++a;r+s-1"b1+a;r+s"b0
+
+_:4
+,s9ce ;p divides _% a0, ''', a;r-1 _: &
+_% b0, ''', b;s-1 _:1 ;p divides e t}m (
+_% c;r+s _: except = ! t}m
+_% a;r"b;s _:4 ,h{"e1 s9ce
+_% p|c;r+s _:1 ei ;p divides _% a;r _:
+or ;p divides _% b;s _:4 ,b ? is
+impossible4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+                                   #acce
+7777777777777777777777777777777777777777
+,lemma #ah4be
+  ,let ;,d 2 a ,,ufd1 & let _% p(x) _: &
+_% q(x) _: 2 9 _% ,d`(x`) _:4 ,!n ! 3t5t
+( _% p(x)q(x) _: is equal to ! product (
+! 3t5ts ( _% p(x) _: & _% q(x) _:4
+
+,pro(4 ,let _% p(x) .k cp1(x) _: &
+_% q(x) .k dq1(x) _:1 ": ;c & ;d >e !
+3t5ts ( _% p(x) _: & _% q(x) _:1
+respectively4 ,!n _% p1(x) _: &
+_% q1(x) _: >e primitive4 ,we c n{ write
+_% p(x)q(x) .k cdp1(x)q1(x) _:4 ,s9ce
+_% p1(x)q1(x) _: is primitive1 ! 3t5t (
+_% p(x)q(x) _: m/ 2 _% cd _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ah4bf
+  ,let ;,d 2 a ,,ufd & ;,f xs field (
+frac;ns4 ,suppose t _% p(x) `e
+,d`(x`) _: & _% p(x) .k f(x)g(x) _:1 ":
+_% f(x) _: & _% g(x) _: >e 9
+_% ,f`(x`) _:4 ,!n _% p(x) .k      #accf
+f1(x)g1(x) _:1 ": _% f1(x) _: &
+_% g1(x) _: >e 9 _% ,d`(x`) _:4
+,fur!rmore1 _% deg f(x) .k deg f1(x) _:
+& _% deg g(x) .k deg g1(x) _:4
+
+,pro(4 ,let a & ;b 2 nonz}o ele;ts ( ;,d
+s* t _% af(x), bg(x) _: >e 9
+_% ,d`(x`) _:4 ,we c f9d _% a1, b1 `e
+,d _: s* t _% af(x) .k a1f1(x) _: &
+_% bg(x) .k b1g1(x) _:1 ": _% f1(x) _: &
+_% g1(x) _: >e primitive polynomials 9
+_% ,d`(x`) _:4 ,"!=e1 _% abp(x) .k
+(a1f1(x))(b1g1(x)) _:4 ,s9ce _% f1(x) _:
+& _% g1(x) _: >e primitive polynomials1
+x m/ 2 ! case t _% ab|a1b1 _: by
+,gauss's ,lemma4 ,?us "! exi/s a _% c `e
+,d _: s* t _% p(x) .k cf1(x)g1(x) _:4
+,cle>ly1 _% deg f(x) .k deg f1(x) _: &
+_% deg g(x) .k deg g1(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ coroll>ies >e direct
+3sequ;es ( ,lemma #ah4bf4
+
+                                   #accg
+7777777777777777777777777777777777777777
+,coroll>y #ah4bg
+  ,let ;,d 2 a ,,ufd & ;,f xs field (
+frac;ns4 ,a primitive polynomial
+_% p(x) _: 9 _% ,d`(x`) _: is irr$ucible
+9 _% ,f`(x`) _: if & only if x is
+irr$ucible 9 _% ,d`(x`) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4bh
+  ,let ;,d 2 a ,,ufd & ;,f xs field (
+frac;ns4 ,if _% p(x) _: is a monic
+polynomial 9 _% ,d`(x`) _: ) _% p(x) .k
+f(x)g(x) _: 9 _% ,f`(x`) _:1 !n _% p(x)
+.k f1(x)g1(x) _:1 ": _% f1(x) _: &
+_% g1(x) _: >e 9 _% ,d`(x`) _:4
+,fur!rmore1 _% deg f(x) .k deg f1(x) _:
+& _% deg g(x) .k deg g1(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ah4bi                      #acch
+  ,if ;,d is a ,,ufd1 !n _% ,d`(x`) _:
+is a ,,ufd4
+
+,pro(4 ,let _% p(x) _: 2 a nonz}o
+polynomial 9 _% ,d`(x`) _:4 ,if
+_% p(x) _: is a 3/ant polynomial1 !n x
+m/ h a unique factoriza;n s9ce ;,d is a
+,,ufd4 ,n{ suppose t _% p(x) _: is a
+polynomial ( positive degree 9
+_% ,d`(x`) _:4 ,let ;,f 2 ! field (
+frac;ns ( ;,d1 & let _% p(x) .k
+f1(x)f2(x) ''' f;n"(x) _: by a
+factoriza;n ( _% p(x) _:1 ": ea*
+_% f;i"(x) _: is irr$ucible4 ,*oose
+_% a;i" `e ,d _: s* t _% a;i"f;i"(x) _:
+is 9 _% ,d`(x`) _:4 ,"! exi/ _% b1, ''',
+b;n" `e ,d _: s* t _% a;i"f;i"(x) .k
+b;i"g;i"(x) _:1 ": _% g;i"(x) _: is a
+primitive polynomial 9 _% ,d`(x`) _:4
+,by ,coroll>y #ah4bg1 ea* _% g;i"(x) _:
+is irr$ucible 9 _% ,d`(x`) _:4
+,3sequ5tly1 we c write
+
+
+                                   #acci
+_%
+
+a1 ''' a;n"p(x) .k b1 ''' b;n"g1(x) '''
+g;n"(x)
+
+_:4
+,let _% b .k b1 ''' b;n _:4 ,s9ce
+_% g1(x) ''' g;n"(x) _: is primitive1
+_% a1 ''' a;n _: divides ;b4 ,"!=e1
+_% p(x) .k ag1(x) ''' g;n"(x) _:1 ":
+_% a `e ,d _:4 ,s9ce ;,d is a ,,ufd1 we
+c factor a z _% uc1 ''' c;k _:1 ": ;u is
+a unit & ea* ( ! _% c;i _:';s is
+irr$ucible 9 ;,d4
+  ,we w n{ %{ ! unique;s ( ?
+factoriza;n4 ,let
+_%
+
+p(x) .k a1 ''' a;m"f1(x) ''' f;n"(x) .k
+b1 ''' b;r"g1(x) ''' g;s"(x)
+
+_:
+2 two factoriza;ns ( _% p(x) _:1 ": all
+( ! factors >e irr$ucible 9
+_% ,d`(x`) _:4 ,by                 #acdj
+,coroll>y #ah4bg1 ea* ( ! _% f;i _:';s &
+_% g;i _:';s is irr$ucible 9
+_% ,f`(x`) _:4 ,! _% a;i _:';s & !
+_% b;i _:';s >e units 9 ;,f4 ,s9ce
+_% ,f`(x`) _: is a ,,pid1 x is a ,,ufd2
+"!=e1 _% n .k s _:4 ,n{ re>range !
+_% g;i"(x) _:';s s t _% f;i"(x) _: &
+_% g;i"(x) _: >e associates = _% i .k
+#1, ''', n _:4 ,!n "! exi/ _% c1, ''',
+c;n _: & _% d1, ''', d;n _: 9 ;,d s* t
+_% (c;i"_/d;i")f;i"(x) .k g;i"(x) _: or
+_% c;i"f;i"(x) .k d;i"g;i"(x) _:4 ,!
+polynomials _% f;i"(x) _: &
+_% g;i"(x) _: >e primitive2 h;e1
+_% c;i _: & _% d;i _: >e associates 9
+;,d4 ,?us1 _% a1 ''' a;m .k ub1 '''
+b;r _: 9 ;,d1 ": ;u is a unit 9 ;,d4
+,s9ce ;,d is a unique factoriza;n doma91
+_% m .k s _:4 ,f9ally1 we c reord} !
+_% b;i _:';s s t _% a;i _: & _% b;i _:
+>e associates = ea* i4 ,? completes !
+unique;s "p ( ! pro(4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! !orem t we h j prov5 has      #acda
+s"eal obvi|s b important coroll>ies4
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4cj
+  ,let ;,f 2 a field4 ,!n _% ,f`(x`) _:
+is a ,,ufd4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4ca
+  ,! r+ ( polynomials ov} ! 9teg}s1
+_% `;,z`(x`) _:1 is a ,,ufd4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ah4cb
+  ,let ;,d 2 a ,,ufd4 ,!n _% ,d`(x1,
+''', x;n"`) _: is a ,,ufd4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+                                   #acdb
+7777777777777777777777777777777777777777
+,rem>k #ah4cc
+  ,x is important to notice t e
+,euclid1n doma9 is a ,,pid & e ,,pid is
+a ,,ufd4 ,h{"e1 z demon/rat$ by |r
+examples1 ! 3v}se ( ea* ( ~! /ate;ts
+fails4 ,"! >e pr9cipal id1l doma9s t >e
+n ,euclid1n doma9s1 & "! >e unique
+factoriza;n doma9s t >e n pr9cipal id1l
+doma9s "<_% `;,z`(x`) _:">4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,hi/orical ,note
+  ,k>l ,fri$ri* ,gauss1 born 9
+,brunswick1 ,g}_m on ,april #cj1 #aggg1
+is 3sid}$ to 2 "o ( ! grte/ ma!maticians
+:o "e liv$4 ,gauss 0 truly a * prodigy4
+,at ! age ( ?ree he 0 able to detect
+}rors 9 ! books ( 8 "f's busi;s4 ,gauss
+5t}$ college at ! age ( #ae4 ,2f ! age (
+#bj1 ,gauss 0 able to 3/ruct a regul>
+#ag-sid$ polygon ) a rul} & compass4 ,?
+0 ! f/ new 3/ruc;n ( a regul> ;n-sid$
+polygon s9ce ! "t ( ! anci5t       #acdc
+,greeks4 ,gauss su3e$$ 9 %{+ t if _% ,n
+.k #2~2~~n~"+1 _: 0 prime1 !n x 0
+possible to 3/ruct a regul> ;,n-sid$
+polygon4
+  ,gauss obta9$ 8 ,ph4,d4 9 #agii "u !
+direc;n ( ,pfaff at ! ,univ}s;y (
+,helm/$t4 ,9 8 4s}ta;n he gave ! f/
+complete pro( ( ! ,funda;tal ,!orem (
+,algebra1 : /ates t e polynomial ) r1l
+coe6ici5ts c 2 factor$ 9to l9e> factors
+ov} ! complex numb}s4 ,! a3ept.e (
+complex numb}s 0 br"| ab by ,gauss1 :o 0
+! f/ p}son to use ! nota;n ( i =
+_% >-1} _:4
+  ,gauss !n turn$ 8 att5;n t{>d numb}
+!ory2 9 #ahja1 he publi%$ 8 fam|s book
+on numb} !ory1 .1,4quisi;nes
+.1,>i?meticae4 ,"?|t 8 life ,gauss 0
+9trigu$ ) ? bran* ( ma!matics4 ,he once
+wrote1 8,ma!matics is ! que5 ( ! sci;es1
+& ! !ory ( numb}s is ! que5 (
+ma!matics40
+  ,9 #ahjg1 ,gauss 0 appo9t$ director (
+! ,obs}vatory at ! ,univ}s;y (
+,g~3ott+51 a posi;n he held        #acdd
+until 8 d1?4 ,? posi;n requir$ hm to
+/udy applica;ns ( ma!matics to ! sci;es4
+,he su3e$$ 9 mak+ 3tribu;ns to fields s*
+z a/ronomy1 me*anics1 optics1 geodesy1 &
+magnetism4 ,al;g ) ,wilhelm ,web}1 he
+co9v5t$ ! f/ practical electric
+telegraph "s ye>s 2f a bett} v}.n 0
+9v5t$ by ,samuel ;,f4 ;,b4 ,morse4
+  ,gauss 0 cle>ly ! mo/ prom95t
+ma!matician 9 ! _w 9 ! e>ly n9ete5?
+c5tury4 ,8 /atus naturally made 8
+4cov}ies subject to 9t5se scrut9y4
+,gauss's cold & 4tant p}sonal;y _m "ts
+l$ hm to ignore ! "w ( 8 3tempor>ies1
+mak+ hm _m 5emies4 ,he did n 5joy t1*+ v
+m*1 & "y ma!maticians :o s"| hm | =
+5c|rage;t 7 (t5 rebu6$4 ,n"e!.s1 he _h
+_m |t/&+ /ud5ts1 9clud+ ,eis5/e91
+,riemann1 ,kumm}1 ,diri*let1 & ,d$ek9d4
+,gauss al (f}$ a grt d1l ( 5c|rage;t to
+,sophie ,g}ma9 "<#aggf,-#ahca">1 :o
+ov}came ! _m ob/acles fac+ wom5 9 h} "d
+to 2come a v prom95t ma!matician4 ,gauss
+di$ at ! age ( #gh 9 ,g~3ott+5 on
+,febru>y #bc1 #ahee4               #acde
+    #ah4c ,r1d+ ,"qs
+
+#a4 ,9tegral doma9s >e an ab/rac;n ( :
+two funda;tal r+s t we h alr /udi$8
+
+#b4 ,:at >e ! v>i|s types ( 9tegral
+doma9s def9$ 9 ? sec;n8
+
+#c4 ,! field ( frac;ns ( a r+ ab/racts
+:at idea f basic ma!matics8
+
+#d4 ,9 ! previ|s *apt} we _h a !orem ab
+irr$ucible polynomials g5}at+ maximal
+id1ls4 ,: !orem 9 ? *apt} g5}alizes ?
+previ|s result8
+
+#e4 ,describe an example : is a ,,ufd1 b
+n a ,,pid4
+
+    #ah4d ,ex}cises
+
+#a4 ,let _% z .k a+b>3}i _: 2 9
+_% `;,z`(>3}i`) _:4 ,if _% a~2"+3b~2 .k
+#1 _:1 %{ t ;z m/ 2 a unit4 ,%{ t ! only
+units ( _% `;,z`(>3}i`) _: >e #a   #acdf
+& _% -#1 _:4
+
+,h9t4 ,note t _% z~-1 .k #1_/(a+b>3}i)
+.k (a-b>3}i)_/(a~2"+3b~2") _: is 9
+_% `;,z`(>3}i`) _: if & only if
+_% a~2"+3b~2 .k #1 _:4 ,! only 9teg}
+solu;ns to ! equa;n >e _% a .k +-1, b .k
+#0 _:4
+
+#b4 ,! ,gaussian 9teg}s1
+_% `;,z`(i`) _:1 >e a ,,ufd4 ,factor ea*
+( ! foll{+ ele;ts 9 _% `;,z`(i`) _: 9to
+a product ( irr$ucibles4
+a4 #e
+;b4 _% #1+3i _:
+;c4 _% #6+8i _:
+;d4 #b
+
+,h9t4 "<a"> _% #5 .k -i(1+2i)(2+i) _:2
+"<;c"> _% #6+8i .k -i(1+i)~2"(2+i)~2 _:4
+
+#c4 ,let ;,d 2 an 9tegral doma94
+a4 ,prove t _% ,f;,d _: is an abelian
+gr|p "u ! op}a;n ( addi;n4
+;b4 ,%{ t ! op}a;n (               #acdg
+multiplica;n is well-def9$ 9 ! field (
+frac;ns1 _% ,f;,d _:4
+;c4 ,v}ify ! associative & commutative
+prop}ties = multiplica;n 9 _% ,f;,d _:4
+
+#d4 ,prove or 4prove3 ,any subr+ ( a
+field ;,f 3ta9+ #a is an 9tegral doma94
+
+,h9t4 ,true4
+
+#e4 ,prove or 4prove3 ,if ;,d is an
+9tegral doma91 !n e prime ele;t 9 ;,d is
+al irr$ucible 9 ;,d4
+
+#f4 ,let ;,f 2 a field ( "*i/ic z}o4
+,prove t ;,f 3ta9s a subfield isomorphic
+to _% `;,q _:4
+
+#g4 ,let ;,f 2 a field4
+a4 ,prove t ! field ( frac;ns (
+_% ,f`(x`) _:1 d5ot$ by _% ,f(x) _:1 is
+isomorphic to ! set all ra;nal expres.ns
+_% p(x)_/q(x) _:1 ": _% q(x) _: is n !
+z}o polynomial4
+;b4 ,let _% p(x1, ''', x;n") _:    #acdh
+& _% q(x1, ''', x;n") _: 2 polynomials 9
+_% ,f`(x1, ''', x;n"`) _:4 ,%{ t ! set (
+all ra;nal expres.ns _% p(x1, ''',
+x;n")_/q(x1, ''', x;n") _: is isomorphic
+to ! field ( frac;ns ( _% ,f`(x1, ''',
+x;n"`) _:4 ,we d5ote ! field ( frac;ns (
+_% ,f`(x1, ''', x;n"`) _: by _% ,f(x1,
+''', x;n") _:4
+
+#h4 ,let ;p 2 prime & d5ote ! field (
+frac;ns ( _% `;,z;p"`(x`) _: by
+_% `;,z;p"(x) _:4 ,prove t
+_% `;,z;p"(x) _: is an 9f9ite field (
+"*i/ic ;p4
+
+#i4 ,prove t ! field ( frac;ns ( !
+,gaussian 9teg}s1 _% `;,z`(i`) _:1 is
+_%
+
+`;,q(i) .k .(p+qi_3p, q `e `;,q.)
+
+_:4
+
+,h9t4 ,let _% z .k a+bi _: & _% w .k
+c+di /.k #0 _: 2 9                 #acdi
+_% `;,z`(i`) _:4 ,prove t _% z_/w `e
+`;,q(i) _:4
+
+#aj4 ,a field ;,f is call$ a ~1prime
+~1field if x has no prop} subfields4 ,if
+;,e is a subfield ( ;,f & ;,e is a prime
+field1 !n ;,e is a ~1prime ~1subfield (
+;,f4
+a4 ,prove t e field 3ta9s a unique prime
+subfield4
+;b4 ,if ;,f is a field ( "*i/ic #j1
+prove t ! prime subfield ( ;,f is
+isomorphic to ! field ( ra;nal numb}s1
+_% `;,q _:4
+;c4 ,if ;,f is a field ( "*i/ic ;p1
+prove t ! prime subfield ( ;,f is
+isomorphic to _% `;,z;p _:4
+
+#aa4 ,let _% `;,z`(>2}`) .k .(a+b>2}_3a,
+b `e `;,z.) _:4
+a4 ,prove t _% `;,z`(>2}`) _: is an
+9tegral doma94
+;b4 ,f9d all ( ! units 9
+_% `;,z`(>2}`) _:4
+;c4 ,det}m9e ! field ( frac;ns (   #acej
+_% `;,z`(>2}`) _:4
+;d4 ,prove t _% `;,z`(>2}i`) _: is a
+,euclid1n doma9 "u ! ,euclid1n valua;n
+_% .n(a+b>2}i) .k a~2"+2b~2 _:4
+
+#ab4 ,let ;,d 2 a ,,ufd4 ,an ele;t _% d
+`e ,d _: is a ~7grte/ common divisor ( a
+& ;b 9 ;,d~' if _% d|a _: & _% d|b _: &
+;d is divisible by any o!r ele;t divid+
+bo? a & ;b4
+a4 ,if ;,d is a ,,pid & a & ;b >e bo?
+nonz}o ele;ts ( ;,d1 prove "! exi/s a
+unique grte/ common divisor ( a & ;b up
+to associates4 ,t is1 if ;d & _% d' _:
+>e bo? grte/ common divisors ( a & ;b1
+!n ;d & _% d' _: >e associates4 ,we
+write _% gcd (a, b) _: = ! grte/ common
+divisor ( a & ;b4
+;b4 ,let ;,d 2 a ,,pid & a & ;b 2 nonz}o
+ele;ts ( ;,d4 ,prove t "! exi/ ele;ts ;s
+& ;t 9 ;,d s* t _% gcd (a, b) .k
+as+bt _:4
+
+#ac4 ,let ;,d 2 an 9tegral doma94 ,def9e
+a rela;n on ;,d by _% a `: b _:    #acea
+if a & ;b >e associates 9 ;,d4 ,prove t
+_% `: _: is an equival;e rela;n on ;,d4
+
+#ad4 ,let ;,d 2 a ,euclid1n doma9 )
+,euclid1n valua;n _% .n _:4 ,if ;u is a
+unit 9 ;,d1 %{ t _% .n(u) .k .n(1) _:4
+
+#ae4 ,let ;,d 2 a ,euclid1n doma9 )
+,euclid1n valua;n _% .n _:4 ,if a & ;b
+>e associates 9 ;,d1 prove t _% .n(a) .k
+.n(b) _:4
+
+,h9t4 ,let _% a .k ub _: ) ;u a unit4
+,!n _% .n(b) "k: .n(ub) "k: .n(a) _:4
+,simil>ly1 _% .n(a) "k: .n(b) _:4
+
+#af4 ,%{ t _% `;,z`(>5}i`) _: is n a
+unique factoriza;n doma94
+
+,h9t4 ,%{ t #ba c 2 factor$ 9 two di6}5t
+ways4
+
+#ag4 ,prove or 4prove3 ,e subdoma9 ( a
+,,ufd is al a ,,ufd4
+                                   #aceb
+#ah4 ,an id1l ( a commutative r+ ;,r is
+sd to 2 ~1f9itely ~1g5}at$ if "! exi/
+ele;ts _% a1, ''', a;n _: 9 ;,r s* t e
+ele;t ;r 9 ! id1l c 2 writt5 z
+_% a1r1+''' +a;n"r;n _: = "s _% r1, ''',
+r;n _: 9 ;,r4 ,prove t ;,r satisfies !
+asc5d+ *a9 3di;n if & only if e id1l (
+;,r is f9itely g5}at$4
+
+#ai4 ,let ;,d 2 an 9tegral doma9 ) a
+desc5d+ *a9 ( id1ls _% ,i1 _.1 ,i2 _.1
+,i3 _.1  ''' _:4 ,suppose t "! exi/s an
+;,n s* t _% ,i;k .k ,i;,n _: = all _% k
+.1: ,n _:4 ,a r+ satisfy+ ? 3di;n is sd
+to satisfy ! ~7desc5d+ *a9 3di;n~'1 or
+~1,,dcc4 ,r+s satisfy+ ! ,,dcc >e call$
+~1,>t9ian ~1r+s1 af ,emil ,>t94 ,%{ t if
+;,d satisfies ! desc5d+ *a9 3di;n1 x m/
+satisfy ! asc5d+ *a9 3di;n4
+
+#bj4 ,let ;,r 2 a commutative r+ )
+id5t;y4 ,we def9e a ~1multiplicative
+~1subset ( ;,r to 2 a subset ;,s s* t
+_% #1 `e ,s _: & _% ab `e ,s _: if _% a,
+b `e ,s _:4                        #acec
+a4 ,def9e a rela;n _% `: _: on
+_% ,r`*,s _: by _% (a, s) `: (a',
+s~'") _: if "! exi/s an _% s~`#" `e
+,s _: s* t _% s~`#"(s'a-sa~'") .k #0 _:4
+,%{ t _% `: _: is an equival;e rela;n on
+_% ,r`*,s _:4
+;b4 ,let _% a_/s _: d5ote ! equival;e
+class ( _% (a, s) `e ,r`*,s _: & let
+_% ,s~-1",r _: 2 ! set ( all equival;e
+classes ) respect to _% `: _:4 ,def9e !
+op}a;ns ( addi;n & multiplica;n on
+_% ,s~-1",r _: by
+_%
+
+?a/s#+?b/t# .k ?at+bs/st#
+?a/s#?b/t#  .k ?ab/st#
+
+_:1
+respectively4 ,prove t ~! op}a;ns >e
+well-def9$ on _% ,s~-1",r _: & t
+_% ,s~-1",r _: is a r+ ) id5t;y "u ~!
+op}a;ns4 ,! r+ _% ,s~-1",r _: is call$ !
+~7r+ ( quoti5ts~' ( ;,r ) respect to
+;,s4
+;c4 ,%{ t ! map _% .y"1 ,r $o      #aced
+,s~-1",r _: def9$ by _% .y(a) .k a_/1 _:
+is a r+ homomorphism4
+;d4 ,if ;,r has no z}o divisors & _% #0
+/`e ,s _:1 %{ t _% .y _: is "o-to-"o4
+;e4 ,prove t ;,p is a prime id1l ( ;,r
+if & only if _% ,s .k ,r_*,p _: is a
+multiplicative subset ( ;,r4
+;f4 ,if ;,p is a prime id1l ( ;,r &
+_% ,s .k ,r_*,p _:1 %{ t ! r+ ( quoti5ts
+_% ,s~-1",r _: has a unique maximal
+id1l4 ,any r+ t has a unique maximal
+id1l is call$ a ~1local ~1r+4
+
+    #ah4e ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,atiyah1 ;,m4 ;,f4  &
+  ,mac,donald1 ,i4 ;,g4 .7,9troduc;n to
+  ,commutative ,algebra.'4 ,we/view
+  ,press1 ,b|ld}1 ,,co1 #aiid4
+.<#b.>  ,z>iski1 ,o4 & ,samuel1 ;,p4
+  .1,commutative .1,algebra1 vols4 ,i &
+  ,,ii4 ,spr+}1 ,new ,york1 #aige1
+  #aifj4
+
+    #ah4f ,sage
+  ,we h alr se5 "s 9tegral         #acee
+doma9s & unique factoriza;ns 9 ! previ|s
+two *apt}s4 ,9 addi;n to :at we h alr
+se51 ,sage has support = "s ( ! topics f
+? sec;n1 b ! cov}age is limit$4 ,"s
+func;ns w "w = "s r+s & n o!rs1 :ile "s
+func;ns >e n yet "p ( ,sage4 ,s we w
+give "s examples1 b ? is f> f
+compreh5sive4
+
+      ,field ( ,frac;ns
+  ,sage is frequ5tly able to 3/ruct a
+field ( frac;ns1 or id5tify a c}ta9
+field z ! field ( frac;ns4 ,= example1 !
+r+ ( 9teg}s & ! field ( ra;nal numb}s >e
+bo? imple;t$ 9 ,sage1 & ! 9teg}s 8"k0 t
+! ra;nals is x's field ( frac;ns4
+
+`#7;,q "7 ,,zz4frac;n.-field"<">2 ;,q`#'
+-----------------
+`#1,ra;nal `#1,field
+
+
+
+
+                                   #acef
+`#7;,q "7"7 ,,qq`#'
+-----------------
+`#1,true
+
+  ,9 o!r cases ,sage w 3/ruct a frac;n
+field1 9 ! _s ( ,lemma #ah4c4 ,s x is !n
+possible to d basic calcula;ns 9 !
+3/ruct$ field4
+
+`#7,r4`<x`> "7 ,,zz.<.>`#'
+`#7;,p "7 ,r4frac;n.-field"<">2,p`#'
+-----------------
+`#7,frac;n ,field ( ,univ>iate
+,polynomial ,r+ 9 ;x ov} ,9teg} ,r+`#'
+
+
+
+
+
+
+
+
+
+
+                                   #aceg
+`#7;f "7
+,p"<"<x`5#b"6#c">_/"<#g"9x"6#d">">`#'
+`#7;g "7
+,p"<"<#d"9x`5#b">_/"<#c"9x`5#b-#e"9x"6#-
+d">">`#'
+`#7;h "7
+,p"<"<-#b"9x`5#c"6#d"9x`5#b"6#c">_/"<x`-
+5#b"6#a">">`#'
+`#1"<"<f"6g">_/h">4num}ator"<">
+-----------------
+`#7#c"9x`5#f "6 #bc"9x`5#e "6 #cb"9x`5#d
+"6 #h"9x`5#c "6 #da"9x`5#b - #ae"9x "6
+#ab`#'
+
+
+`#1"<"<f"6g">_/h">4d5om9ator"<">
+-----------------
+`#7-#db"9x`5#f "6 #acj"9x`5#e -
+#ajh"9x`5#d "6 #fc"9x`5#c - #e"9x`5#b "6
+#bd"9x "6 #dh`#'
+
+
+      ,prime ,subfields
+  ,coroll>y #ah4g says e field ( "*i/ic
+;p has a subfield isomorphic to    #aceh
+_% `;,z;p _:4 ,= a f9ite field1 ! exact
+nature ( ? subfield is n a surprise1 b
+,sage w all{ u to extract x easily4
+
+`#7,f4`<c`> "7 ,f9ite,field"<#c`5#e">`#'
+`#1,f4"*i/ic"<">
+-----------------
+`#2#c
+
+
+`#7;,g "7 ,f4prime.-subfield"<">2 ;,g`#'
+-----------------
+`#7,f9ite ,field ( size #c`#'
+
+
+`#1,g4li/"<">
+-----------------
+`#7.<#j1 #a1 #b.>`#'
+
+  ,m g5}ally1 ! fields m5;n$ 9 ! 3clu.ns
+( ,coroll>y #ah4f & ,coroll>y #ah4g >e
+"kn z ! 8prime subfield0 ( ! r+ 3ta9+
+!m4 ,"h is an example ( ! "*i/ic z}o
+case4
+                                   #acei
+`#1,k4`<y`>"7,quadratic,field"<-#g">2
+`#2;,k
+-----------------
+`#7,numb} ,field 9 ;y ) def9+ polynomial
+x`5#b "6 #g`#'
+`#7) ;y "7 #b4fdegeacaa4448"9,i`#'
+
+
+`#1,k4prime.-subfield"<">
+-----------------
+`#1,ra;nal `#1,field
+
+  ,9 a r|< s5se1 e "*i/ic z}o field
+3ta9s a copy ( ! ra;nal numb}s "<!
+frac;n field ( ! 9teg}s">1 : c expla9
+,sage's ext5sive support = r+s & fields
+t ext5d ! 9teg}s & ! ra;nals4
+
+      ,9tegral ,doma9s
+  ,sage c det}m9e if "s r+s >e 9tegral
+doma9s & we c te/ products 9 !m4 ,h{"e1
+no;ns ( units1 irr$ucibles or prime
+ele;ts >e n g5}ally support$ "<|tside (
+:at we h se5 = polynomials 9 ! previ|s
+*apt}">4 ,worse1 ! 3/ruc;n 2l      #acfj
+cr1tes a r+ )9 a l>g} field & s "s
+func;ns "<s* z `#1;4is.-unit"<">"> pass
+"? & give misl1d+ results4 ,? is 2c !
+3/ruc;n 2l cr1tes a r+ "kn z an 8ord} 9
+a numb} field40
+
+`#7,k4`<x`> "7 ,,zz.<sqrt"<-#c">.>2
+;,k`#'
+-----------------
+`#7,ord} 9 ,numb} ,field 9 a ) def9+
+polynomial x`5#b "6 #c`#'
+`#7) a "7 #j4;8e-#ah "6
+#a4gcbjejhjg4448"9,i`#'
+
+
+`#1,k4is.-9tegral.-doma9"<">
+-----------------
+`#1,true
+
+
+`#1,k4basis"<">
+-----------------
+`#1.<#a1 `#1a.>
+
+                                   #acfa
+`#2;x
+-----------------
+`#2a
+
+
+`#7"<#a"6x">"9"<#a-;x"> "7"7 #b"9#b`#'
+-----------------
+`#1,true
+
+  ,! foll{+ is a bit misl1d+1 s9ce #d1 z
+an ele;t ( _% `;,z`(>3}i`) _: does n h a
+multiplicative 9v}se1 ?|< seem+ly we c
+compute "o4
+
+`#7f|r "7 ,k"<#d">`#'
+`#1f|r4is.-unit"<">
+-----------------
+`#1,false
+
+
+`#1f|r`5-#a
+-----------------
+`#1#a_/#d
+
+                                   #acfb
+      ,pr9cipal ,id1ls
+  ,:5 a r+ is a pr9cipal id1l doma91 s*
+z ! 9teg}s1 or polynomials ov} a field1
+,sage "ws well4 ,2y t1 support 2g9s to
+w1k54
+
+`#1,t4`<x`>"7,,zz.<.>
+`#1,t4is.-9tegral.-doma9"<">
+-----------------
+`#1,true
+
+
+`#7;,j "7 ,t4id1l"<#e1 ;x">2 ;,j`#'
+-----------------
+`#7,id1l "<#e1 ;x"> ( ,univ>iate
+,polynomial ,r+ 9 ;x ov} ,9teg} ,r+`#'
+
+
+`#7;,q "7 ,t4quoti5t"<,j">2 ;,q`#'
+-----------------
+`#7,quoti5t ( ,univ>iate ,polynomial ,r+
+9 ;x ov}`#'
+`#7,9teg} ,r+ by ! id1l "<#e1 ;x">`#'
+
+                                   #acfc
+`#1,j4is.-pr9cipal"<">
+-----------------
+`#7,traceback "<mo/ rec5t call la/">3`#'
+`#1444
+`#1,not,imple;t$,}ror
+
+
+`#1,q4is.-field"<">
+-----------------
+`#7,traceback "<mo/ rec5t call la/">3`#'
+`#1444
+`#1,not,imple;t$,}ror
+
+
+    #ah4g ,sage ,ex}cises
+  ,"! >e no ,sage ex}cises = ? sec;n4
+
+
+
+
+
+
+
+
+                                   #acfd
+

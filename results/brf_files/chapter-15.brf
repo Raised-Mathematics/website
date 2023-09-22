@@ -1,0 +1,1651 @@
+          #ae ,! ,syl{ ,!orems
+
+  ,we alr "k t ! 3v}se ( ,lagrange's
+,!orem is false4 ,if ;,g is a gr|p (
+ord} ;m & ;n divides ;m1 !n ;,g does n
+necess>ily possess a subgr|p ( ord} ;n4
+,= example1 _% ,a4 _: has ord} #ab b
+does n possess a subgr|p ( ord} #f4
+,h{"e1 ! ,syl{ ,!orems d provide a "pial
+3v}se = ,lagrange's ,!orem,-9 c}ta9
+cases !y gu>antee u subgr|ps ( specific
+ord}s4 ,~! !orems yield a p{};l set (
+tools = ! classifica;n ( all f9ite
+nonabelian gr|ps4
+
+    #ae4a ,! ,syl{ ,!orems
+  ,we w use :at we h le>n$ ab gr|p ac;ns
+to prove ! ,syl{ ,!orems4 ,recall = a
+mo;t :at x m1ns = ;,g to act on xf by
+3juga;n & h{ 3jugacy classes >e 4tribut$
+9 ! gr|p ac to ! class equa;n1 4cuss$ 9
+,*apt} #ad4 ,a gr|p  ;,g acts on xf by
+3juga;n via ! map _% (g, x) $|33o
+gxg~-1 _:4 ,let _% x1, ''', x;k _: 2
+repres5tatives f ea*  ( ! 4t9ct    #ajcc
+3jugacy classes ( ;,g t 3si/ ( m ?an "o
+ele;t4 ,!n ! class equa;n c 2 writt5 z
+_%
+
+|,g| .k |,z(,g)|+`(,g_3,c(x1)`)+'''
++`(,g_3,c(x;k")`)
+
+_:1
+": _% ,z(,g) .k .(g `e ,g_3gx .k xg for
+all x `e ,g.) _: is ! c5t} ( ;,g & _%
+,c(x;i") .k .(g `e ,g_3gx;i" .k x;i"g.)
+_: is ! c5traliz} subgr|p ( _% x;i _:4
+  ,we 2g9 |r 9ve/iga;n ( ! ,syl{ ,!orems
+by exam9+ subgr|ps ( ord} ;p1 ": ;p is
+prime4 ,a gr|p ;,g is a ~1;p-gr|p if e
+ele;t 9 ;,g has z xs ord} a p{} ( ;p1 ":
+;p is a prime numb}4 ,a subgr|p ( a gr|p
+;,g is a ~1;p-subgr|p if x is a ;p-gr|p4
+
+7777777777777777777777777777777777777777
+,!orem #ae4a ,cau*y4
+  ,let ;,g 2 a f9ite gr|p & ;p a prime
+s* t ;p divides ! ord} ( ;,g4 ,!n ;,g
+3ta9s a subgr|p ( ord} ;p4
+                                   #ajcd
+,pro(4 ,we w use 9duc;n on ! ord} ( ;,g4
+,if _% |,g| .k p _:1 !n cle>ly ;,g xf is
+! requir$ subgr|p4 ,we n{ assume t e
+gr|p ( ord} ;k1 ": _% p "k: k "k n _: &
+;p divides ;k1 has an ele;t ( ord} ;p4
+,assume t _% |,g| .k n _: & _% p|n _: &
+3sid} ! class equa;n ( ;,g3
+_%
+
+|,g| .k |,z(,g)|+`(,g_3,c(x1)`)+'''
++`(,g_3,c(x;k")`)
+
+_:4
+,we h two cases4
+  ,case #a4 ,suppose ! ord} ( "o ( !
+c5traliz} subgr|ps1 _% ,c(x;i") _:1 is
+divisible by ;p = "s i1 _% i .k #1, ''',
+k _:4 ,9 ? case1 by |r 9duc;n hypo!sis1
+we >e d"o4 ,s9ce _% ,c(x;i") _: is a
+prop} subgr|p ( ;,g & ;p divides
+_% |,c(x;i")| _:1 _% ,c(x;i") _: m/ 3ta9
+an ele;t ( ord} ;p4 ,h;e1 ;,g m/ 3ta9 an
+ele;t ( ord} ;p4
+  ,case #b4 ,suppose ! ord} ( no
+c5traliz} subgr|p is divisible     #ajce
+by ;p4 ,!n ;p divides
+_% `(,g_3,c(x;i")`) _:1 ! ord} ( ea*
+3jugacy class 9 ! class equa;n2 h;e1 ;p
+m/ divide ! c5t} ( ;,g1 _% ,z(,g) _:4
+,s9ce _% ,z(,g) _: is abelian1 x m/ h a
+subgr|p ( ord} ;p by ! ,funda;tal ,!orem
+( ,f9ite ,abelian ,gr|ps4 ,"!=e1 ! c5t}
+( ;,g 3ta9s an ele;t ( ord} ;p4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ae4b
+  ,let ;,g 2 a f9ite gr|p4 ,!n ;,g is a
+;p-gr|p if & only if _% |,g| .k p~n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+                                   #ajcf
+7777777777777777777777777777777777777777
+,example #ae4c
+  ,let u 3sid} ! gr|p _% ,a5 _:4 ,we "k
+t _% |,a5| .k #60 .k #2~2"*3*5 _:4 ,by
+,cau*y's ,!orem1 we >e gu>ante$ t
+_% ,a5 _: has subgr|ps ( ord}s #b1 #c &
+#e4 ,! ,syl{ ,!orems w give u ev5 m
+9=ma;n ab ! possible subgr|ps (
+_% ,a5 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we >e n{ r1dy to /ate & prove ! f/ (
+! ,syl{ ,!orems4 ,! pro( is v simil> to
+! pro( ( ,cau*y's ,!orem4
+
+7777777777777777777777777777777777777777
+,!orem #ae4d ,f/ ,syl{ ,!orem4
+  ,let ;,g 2 a f9ite gr|p & ;p a prime
+s* t _% p~r _: divides _% |,g| _:4 ,!n
+;,g 3ta9s a subgr|p ( ord} _% p~r _:4
+
+,pro(4 ,we 9duct on ! ord} ( ;,g once
+ag4 ,if _% |,g| .k p _:1 !n we >e d"o4
+,n{ suppose t ! ord} ( ;,g is ;n ) _% n
+.1 p _: & t ! !orem is true =      #ajcg
+all gr|ps ( ord} less ?an ;n1 ": ;p
+divides ;n4 ,we % apply ! class equa;n
+once ag3
+_%
+
+|,g| .k |,z(,g)|+`(,g_3,c(x1)`)+'''
++`(,g_3,c(x;k")`)
+
+_:4
+,f/ suppose t ;p does n divide
+_% `(,g_3,c(x;i")`) _: = "s i4 ,!n
+_% p~r||,c(x;i")| _:1 s9ce _% p~r _:
+divides _% |,g| .k
+|,c(x;i")|*`(,g_3,c(x;i")`) _:4 ,n{ we c
+apply ! 9duc;n hypo!sis to
+_% ,c(x;i") _:4
+  ,h;e1 we may assume t ;p divides
+_% `(,g_3,c(x;i")`) _: = all i4 ,s9ce ;p
+divides _% |,g| _:1 ! class equa;n says
+t ;p m/ divide _% |,z(,g)| _:2 h;e1 by
+,cau*y's ,!orem1 _% ,z(,g) _: has an
+ele;t ( ord} ;p1 say ;g4 ,let ;,n 2 !
+gr|p g5}at$ by ;g4 ,cle>ly1 ;,n is a
+normal subgr|p ( _% ,z(,g) _: s9ce
+_% ,z(,g) _: is abelian2 "!=e1     #ajch
+;,n is normal 9 ;,g s9ce e ele;t 9
+_% ,z(,g) _: commutes ) e ele;t 9 ;,g4
+,n{ 3sid} ! factor gr|p _% ,g_/,n _: (
+ord} _% |,g|_/p _:4 ,by ! 9duc;n
+hypo!sis1 _% ,g_/,n _: 3ta9s a subgr|p
+;,h ( ord} _% p~r-1 _:4 ,! 9v}se image (
+;,h "u ! canonical homomorphism _% .f"1
+,g $o ,g_/,n _: is a subgr|p ( ord}
+_% p~r _: 9 ;,g4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a ~1,syl{ ~1;p-subgr|p ;,p ( a gr|p
+;,g is a maximal ;p-subgr|p ( ;,g4 ,to
+prove ! o!r two ,syl{ ,!orems1 we ne$ to
+3sid} 3jugate subgr|ps z oppos$ to
+3jugate ele;ts 9 a gr|p4 ,= a gr|p ;,g1
+let _% `;,s _: 2 ! collec;n ( all
+subgr|ps ( ;,g4 ,= any subgr|p ;,h1
+_% `;,s _: is a ;,h-set1 ":  ;,h acts on
+_% `;,s _: by 3juga;n4 ,t is1 we h an
+ac;n
+
+
+
+                                   #ajci
+_%
+
+,h`*`;,s $o `;,s
+
+_:
+def9$ by
+_%
+
+h*,k $|33o h,kh~-1
+
+_:
+= ;,k 9 _% `;,s _:4
+  ,! set
+_%
+
+,n(,h) .k .(g `e ,g_3g,hg~-1" .k ,h.)
+
+_:
+is a subgr|p ( ;,g call$ ! ! ~1normaliz}
+( ;,h 9 ;,g4 ,notice t ;,h is a normal
+subgr|p ( _% ,n(,h) _:4 ,9 fact1
+_% ,n(,h) _: is ! l>ge/ subgr|p ( ;,g 9
+: ;,h is normal4
+
+                                   #ajdj
+7777777777777777777777777777777777777777
+,lemma #ae4e
+  ,let ;,p 2 a ,syl{ ;p-subgr|p ( a
+f9ite gr|p ;,g & let ;x h z xs ord} a
+p{} ( ;p4 ,if _% x~-1",px .k ,p _:1 !n
+_% x `e ,p _:4
+
+,pro(4 ,c}ta9ly _% x `e ,n(,p) _:1 & !
+cyclic subgr|p1 _% ..(x,p..) _"k
+,n(,p)_/,p _:1 has z xs ord} a p{} ( ;p4
+,by ! ,correspond;e ,!orem "! exi/s a
+subgr|p ;,h ( _% ,n(,p) _: 3ta9+ ;,p s*
+t _% ,h_/,p .k ..(x,p..) _:4 ,s9ce
+_% |,h| .k |,p|*|..(x,p..)| _:1 ! ord} (
+;,h m/ 2 a p{} ( ;p4 ,h{"e1 ;,p is a
+,syl{ ;p-subgr|p 3ta9$ 9 ;,h4 ,s9ce !
+ord} ( ;,p is ! l>ge/ p{} ( ;p divid+
+_% |,g| _:1 _% ,h .k ,p _:4 ,"!=e1
+_% ,h_/,p _: is ! trivial subgr|p &
+_% x,p .k ,p _:1 or _% x `e ,p _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+                                   #ajda
+7777777777777777777777777777777777777777
+,lemma #ae4f
+  ,let ;,h & ;,k 2 subgr|ps ( ;,g4 ,!
+numb} ( 4t9ct ;,h-3jugates ( ;,k is
+_% `(,h_3,n(,k).%,h`) _:4
+
+,pro(4 ,we def9e a bijec;n 2t ! 3jugacy
+classes ( ;,k & ! "r cosets (
+_% ,n(,k).%,h _: by _% h~-1",kh $|33o
+(,n(,k).%,h)h _:4 ,to %{ t ? map is a
+bijec;n1 let _% h1, h2 `e ,h _: &
+suppose t _% (,n(,k).%,h)h1 .k
+(,n(,k).%,h)h2 _:4 ,!n _% h2h1~-1" `e
+,n(,k) _:4 ,"!=e1 _% ,k .k
+h2h1~-1",kh1h2~-1 _: or _% h1~-1",kh1 .k
+h2~-1",kh2 _:1 & ! map is an 9jec;n4 ,x
+is easy to see t ? map is surjective2
+h;e1 we h a "o-to-"o & onto map 2t !
+;,h-3jugates ( ;,k & ! "r cosets (
+_% ,n(,k).%,h _: 9 ;,h4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ae4g ,second ,syl{         #ajdb
+,!orem4
+  ,let ;,g 2 a f9ite gr|p & ;p a prime
+divid+ _% |,g| _:4 ,!n all ,syl{
+;p-subgr|ps ( ;,g >e 3jugate4 ,t is1 if
+_% ,p1 _: & _% ,p2 _: >e two ,syl{
+;p-subgr|ps1 "! exi/s a _% g `e ,g _: s*
+t _% g,p1g~-1 .k ,p2 _:4
+
+,pro(4 ,let ;,p 2 a ,syl{ ;p-subgr|p (
+;,g & suppose t _% |,g| .k p~r"m _: )
+_% |,p| .k p~r _:4 ,let
+_%
+
+`;,s .k .(,p .k ,p1, ,p2, ''', ,p;k".)
+
+_:
+3si/ ( ! 4t9ct 3jugates ( ;,p 9 ;,g4 ,by
+,lemma #ae4f1 _% k .k `(,g_3,n(,p)`) _:4
+,notice t
+_%
+
+|,g| .k p~r"m .k |,n(,p)|*`(,g_3,n(,p)`)
+.k |,n(,p)|*k
+
+_:4                                #ajdc
+,s9ce _% p~r _: divides _% |,n(,p)| _:1
+;p _c divide ;k4
+  ,giv5 any o!r ,syl{ ;p-subgr|p ;,q1 we
+m/ %{ t _% ,q `e `;,s _:4 ,3sid} !
+;,q-3jugacy classes ( ea* _% ,p;i _:4
+,cle>ly1 ~! 3jugacy classes "pi;n
+_% `;,s _:4 ,! size ( ! "pi;n 3ta9+
+_% ,p;i _: is
+_% `(,q_3,n(,p;i").%,q`) _: by
+,lemma #ae4f1 & ,lagrange's ,!orem tells
+u t _% |,q| .k
+`(,q_3,n(,p;i").%,q`)|,n(,p;i").%,q| _:4
+,?us1 _% `(,q_3,n(,p;i").%,q`) _: m/ 2 a
+divisor ( _% |,q| .k p~r _:4 ,h;e1 !
+numb} ( 3jugates 9 e equival;e class ( !
+"pi;n is a p{} ( ;p4 ,h{"e1 s9ce ;p does
+n divide ;k1 "o ( ~! equival;e classes
+m/ 3ta9 only a s+le ,syl{ ;p-subgr|p1
+say _% ,p;j _:4 ,9 ? case1
+_% x~-1",p;j"x .k ,p;j _: = all _% x `e
+,q _:4 ,by ,lemma #ae4e1 _% ,p;j .k
+,q _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #ajdd
+7777777777777777777777777777777777777777
+,!orem #ae4h ,?ird ,syl{ ,!orem4
+  ,let ;,g 2 a f9ite gr|p & let ;p 2 a
+prime divid+ ! ord} ( ;,g4 ,!n ! numb} (
+,syl{ ;p-subgr|ps is 3gru5t to
+_% #1(m"o"d p) _: & divides _% |,g| _:4
+
+,pro(4 ,let ;,p 2 a ,syl{ ;p-subgr|p
+act+ on ! set ( ,syl{ ;p-subgr|ps1
+_%
+
+`;,s .k .(,p .k ,p1, ,p2, ''', ,p;k".)
+
+_:1
+by 3juga;n4 ,f ! pro( ( ! ,second ,syl{
+,!orem1 ! only ;,p-3jugate ( ;,p is xf &
+! ord} ( ! o!r ;,p-3jugacy classes is a
+p{} ( ;p4 ,ea* ;,p-3jugacy class
+3tributes a positive p{} ( ;p t{>d
+_% |`;,s| _: except ! equival;e class 
+_% .(,p.) _:4 ,s9ce _% |`;,s| _: is !
+sum ( positive p{}s ( ;p & #a1 _% |`;,s|
+_l #1(m"o"d p) _:4
+  ,n{ suppose t ;,g acts on _% `;,s _:
+by 3juga;n4 ,s9ce all ,syl{        #ajde
+;p-subgr|ps >e 3jugate1 "! c 2 only "o
+orbit "u ? ac;n4 ,= _% ,p `e `;,s _:1
+_%
+
+|`;,s| .k |orbit of ,p| .k
+`(,g_3,n(,p)`)
+
+_:
+by ,lemma #ae4f4 ,b _% `(,g_3,n(,p)`) _:
+is a divisor ( _% |,g| _:2 3sequ5tly1 !
+numb} ( ,syl{ ;p-subgr|ps ( a f9ite gr|p
+m/ divide ! ord} ( ! gr|p4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,hi/orical ,note
+  ,pet} ,ludvig ,mejdell ,syl{ 0 born 9
+#ahcb 9 ,*ri/iania1 ,norway "<n{
+,oslo">4 ,af att5d+ ,*ri/iania
+,univ}s;y1 ,syl{ tau<t hi< s*ool4 ,9
+#ahfb he obta9$ a tempor>y appo9t;t at
+,*ri/iania ,univ}s;y4 ,ev5 ?|< 8
+appo9t;t 0 relatively brief1 he 9flu;ed
+/ud5ts s* z ,sophus ,lie
+"<#ahdb,-#ahii">4 ,syl{ _h a *.e   #ajdf
+at a p}man5t *air 9 #ahfi1 b fail$ to
+obta9 ! appo9t;t4 ,9 #ahgb1 he publi%$ a
+#aj-page pap} pres5t+ ! !orems t n{ be>
+8 "n4 ,lat} ,lie & ,syl{ collaborat$ on
+a new $i;n ( ,abel's "ws4 ,9 #ahih1 a
+*air at ,*ri/iania ,univ}s;y 0 f9ally
+cr1t$ = ,syl{ "? ! ef=ts ( 8 /ud5t &
+coll1gue ,lie4 ,syl{ di$ 9 #aiah4
+
+    #ae4b ,examples & ,applica;ns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajdg
+7777777777777777777777777777777777777777
+,example #ae4i
+  ,us+ ! ,syl{ ,!orems1 we c det}m9e t
+_% ,a5 _: has subgr|ps ( ord}s #b1 #c1
+#d1 & #e4 ,! ,syl{ ;p-subgr|ps (
+_% ,a5 _: h ord}s #c1 #d1 & #e4 ,! ,?ird
+,syl{ ,!orem tells u exactly h{ _m ,syl{
+;p-subgr|ps _% ,a5 _: has4 ,s9ce ! numb}
+( ,syl{ #e-subgr|ps m/ divide #fj & al 2
+3gru5t to _% #1(m"o"d #5) _:1 "! >e ei
+"o or six ,syl{ #e-subgr|ps 9 _% ,a5 _:4
+,all ,syl{ #e-subgr|ps >e 3jugate4 ,if
+"! 7 only a s+le ,syl{ #e-subgr|p1 x wd
+2 3jugate to xf2 t is1 x wd 2 a normal
+subgr|p ( _% ,a5 _:4 ,s9ce _% ,a5 _: has
+no normal subgr|ps1 ? is impossible2
+h;e1 we h det}m9$ t "! >e exactly six
+4t9ct ,syl{ #e-subgr|ps ( _% ,a5 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! ,syl{ ,!orems all{ u to prove _m
+use;l results ab f9ite gr|ps4 ,by us+
+!m1 we c (t5 3clude a grt d1l ab gr|ps (
+a "picul> ord} if c}ta9 hypo!ses >e
+satisfi$4                          #ajdh
+7777777777777777777777777777777777777777
+,!orem #ae4aj
+  ,if ;p & ;q >e 4t9ct primes ) _% p "k
+q _:1 !n e gr|p ;,g ( ord} _% pq _: has
+a s+le subgr|p ( ord} ;q & ? subgr|p is
+normal 9 ;,g4 ,h;e1 ;,g _c 2 simple4
+,fur!rmore1 if _% q /_l #1(m"o"d p) _:1
+!n ;,g is cyclic4
+
+,pro(4 ,we "k t ;,g 3ta9s a subgr|p ;,h
+( ord} ;q4 ,! numb} ( 3jugates ( ;,h
+divides _% pq _: & is equal to
+_% #1+kq _: = _% k .k #0, #1, ''' _:4
+,h{"e1 _% #1+q _: is alr too l>ge to
+divide ! ord} ( ! gr|p2 h;e1 ;,h c only
+2 3jugate to xf4 ,t is1 ;,h m/ 2 normal
+9 ;,g4
+  ,! gr|p ;,g al has a ,syl{ ;p-subgr|p1
+say ;,k4 ,! numb} ( 3jugates ( ;,k m/
+divide ;q & 2 equal to _% #1+kp _: =
+_% k .k #0, #1, ''' _:4 ,s9ce ;q is
+prime1 ei _% #1+kp .k q _: or _% #1+kp
+.k #1 _:4 ,if _% #1+kp .k #1 _:1 !n ;,k
+is normal 9 ;,g4 ,9 ? case1 we c easily
+%{ t ;,g satisfies ! crit}ia1      #ajdi
+giv5 9 ,*apt} #i1 = ! 9t}nal direct
+product ( ;,h & ;,k4 ,s9ce ;,h is
+isomorphic to _% `;,z;q _: & ;,k is
+isomorphic to _% `;,z;p _:1 _% ,g `:.k
+`;,z;p"`*`;,z;q `:.k `;,z;pq _: by
+,!orem #i4ba4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ae4aa
+  ,e gr|p ( ord} #ae is cyclic4 ,? is
+true 2c _% #15 .k #5*3 _: & _% #5 /_l
+#1(m"o"d #3) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ae4ab
+  ,let u classify all ( ! gr|ps ( ord}
+_% #99 .k #3~2"*11 _: up to isomorphism4
+,f/ we w %{ t e gr|p ;,g ( ord} #ii is
+abelian4 ,by ! ,?ird ,syl{ ,!orem1 "! >e
+_% #1+3k _: ,syl{ #c-subgr|ps1 ea* (
+ord} #i1 = "s _% k .k #0, #1,      #ajej
+#2, ''' _:4 ,al1 _% #1+3k _: m/ divide
+#aa2 h;e1 "! c only 2 a s+le normal
+,syl{ #c-subgr|p ;,h 9 ;,g4 ,simil>ly1
+"! >e _% #1+11k _: ,syl{ #aa-subgr|ps &
+_% #1+11k _: m/ divide #i4 ,3sequ5tly1
+"! is only "o ,syl{ #aa-subgr|p ;,k 9
+;,g4 ,by ,coroll>y #ad4af1 any gr|p (
+ord} _% p~2 _: is abelian = ;p prime2
+h;e1 ;,h is isomorphic ei to
+_% `;,z3`*`;,z3 _: or to _% `;,z9 _:4
+,s9ce ;,k has ord} #aa1 x m/ 2
+isomorphic to _% `;,z11 _:4 ,"!=e1 !
+only possible gr|ps ( ord} #ii >e
+_% `;,z3`*`;,z3`*`;,z11 _: or
+_% `;,z9`*`;,z11 _: up to isomorphism4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,to det}m9e all ( ! gr|ps ( ord}
+_% #5*7*47 .k #1645 _:1 we ne$ ! foll{+
+!orem4
+
+
+
+
+                                   #ajea
+7777777777777777777777777777777777777777
+,!orem #ae4ac
+  ,let _% ,g' .k ..(aba~-1"b~-1_3a, b `e
+,g..) _: 2 ! subgr|p 3si/+ ( all f9ite
+products ( ele;ts ( ! =m
+_% aba~-1"b~-1 _: 9 a gr|p ;,g4 ,!n
+_% ,g' _: is a normal subgr|p ( ;,g &
+_% ,g_/,g' _: is abelian4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! subgr|p _% ,g' _: ( ;,g is call$ !
+~1commutator ~1subgr|p ( ;,g4 ,we l1ve !
+pro( ( ? !orem z an ex}cise
+"<,ex}cise #aj4d4ad 9 ,*apt} #aj">4
+
+7777777777777777777777777777777777777777
+,example #ae4ad
+  ,we w n{ %{ t e gr|p ( ord} _% #5*7*47
+.k #1645 _: is abelian1 & cyclic by
+,!orem #i4ba4 ,by ! ,?ird ,syl{ ,!orem1
+;,g has only "o subgr|p _% ,h1 _: ( ord}
+#dg4 ,s _% ,g_/,h1 _: has ord} #ce & m/
+2 abelian by ,!orem #ae4aj4 ,h;e1 !
+commutator subgr|p ( ;,g is 3ta9$ 9 ;,h
+: tells u t _% |,g~'"| _: is ei    #ajeb
+#a or #dg4 ,if _% |,g~'"| .k #1 _:1 we
+>e d"o4 ,suppose t _% |,g~'"| .k #47 _:4
+,! ,?ird ,syl{ ,!orem tells u t ;,g has
+only "o subgr|p ( ord} #e & "o subgr|p (
+ord} #g4 ,s "! exi/ normal subgr|ps
+_% ,h2 _: & _% ,h3 _: 9 ;,g1 ": _% |,h2|
+.k #5 _: & _% |,h3| .k #7 _:4 ,9 ei case
+! quoti5t gr|p is abelian2 h;e1
+_% ,g' _: m/ 2 a subgr|p ( _% ,h;i _:1
+_% i .k #1, #2 _:4 ,"!=e1 ! ord} (
+_% ,g' _: is #a1 #e1 or #g4 ,h{"e1 we
+alr h det}m9$ t _% |,g~'"| .k #1 _: or
+#dg4 ,s ! commutator subgr|p ( ;,g is
+trivial1 & 3sequ5tly ;,g is abelian4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,f9ite ,simple ,gr|ps
+  ,giv5 a f9ite gr|p1 "o c ask :e!r or n
+t gr|p has any normal subgr|ps4 ,recall
+t a simple gr|p is "o ) no prop}
+nontrivial normal subgr|ps4 ,z 9 ! case
+( _% ,a5 _:1 prov+ a gr|p to 2 simple c
+2 a v di6icult task2 h{"e1 ! ,syl{
+,!orems >e use;l tools = prov+ t   #ajec
+a gr|p is n simple4 ,usually1 "s sort (
+c.t+ >gu;t is 9volv$4
+
+7777777777777777777777777777777777777777
+,example #ae4ae
+  ,let u %{ t no gr|p ;,g ( ord} #bj c 2
+simple4 ,by ! ,?ird ,syl{ ,!orem1 ;,g
+3ta9s "o or m ,syl{ #e-subgr|ps4 ,!
+numb} ( s* subgr|ps is 3gru5t to
+_% #1(m"o"d #5) _: & m/ al divide #bj4
+,! only possible s* numb} is #a4 ,s9ce
+"! is only a s+le ,syl{ #e-subgr|p & all
+,syl{ #e-subgr|ps >e 3jugate1 ? subgr|p
+m/ 2 normal4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+                                   #ajed
+7777777777777777777777777777777777777777
+,example #ae4af
+  ,let ;,g 2 a f9ite gr|p ( ord}
+_% p~n _:1 _% n .1 #1 _: & ;p prime4 ,by
+,!orem #ad4ae1 ;,g has a nontrivial
+c5t}4 ,s9ce ! c5t} ( any gr|p ;,g is a
+normal subgr|p1 ;,g _c 2 a simple gr|p4
+,"!=e1 gr|ps ( ord}s #d1 #h1 #i1 #af1
+#be1 #bg1 #cb1 #di1 #fd1 & #ha >e n
+simple4 ,9 fact1 ! gr|ps ( ord} #d1 #i1
+#be1 & #di >e abelian by
+,coroll>y #ad4af4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ae4ag
+  ,no gr|p ( ord} _% #56 .k #2~3"*7 _:
+is simple4 ,we h se5 t if we c %{ t "!
+is only "o ,syl{ ;p-subgr|p = "s prime
+;p divid+ #ef1 !n ? m/ 2 a normal
+subgr|p & we >e d"o4 ,by ! ,?ird ,syl{
+,!orem1 "! >e ei "o or ei<t ,syl{
+#g-subgr|ps4 ,if "! is only a s+le ,syl{
+#g-subgr|p1 !n x m/ 2 normal4      #ajee
+  ,on ! o!r h&1 suppose t "! >e ei<t
+,syl{ #g-subgr|ps4 ,!n ea* ( ~! subgr|ps
+m/ 2 cyclic2 h;e1 ! 9t}sec;n ( any two (
+~! subgr|ps 3ta9s only ! id5t;y ( !
+gr|p4 ,? l1ves _% #8*6 .k #48 _: 4t9ct
+ele;ts 9 ! gr|p1 ea* ( ord} #g4 ,n{ let
+u c.t ,syl{ #b-subgr|ps4 ,"! >e ei "o or
+sev5 ,syl{ #b-subgr|ps4 ,any ele;t ( a
+,syl{ #b-subgr|p o!r ?an ! id5t;y m/ h z
+xs ord} a p{} ( #b2 & "!=e _c 2 "o ( !
+#dh ele;ts ( ord} #g 9 ! ,syl{
+#g-subgr|ps4 ,s9ce a ,syl{ #b-subgr|p
+has ord} #h1 "! is only 5 room = a s+le
+,syl{ #b-subgr|p 9 a gr|p ( ord} #ef4
+,if "! is only "o ,syl{ #b-subgr|p1 x m/
+2 normal4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,= o!r gr|ps ;,g1 x is m di6icult to
+prove t ;,g is n simple4 ,suppose ;,g
+has ord} #dh4 ,9 ? case ! te*nique t we
+employ$ 9 ! la/ example w n "w4 ,we ne$
+! foll{+ lemma to prove t no gr|p ( ord}
+#dh is simple4
+                                   #ajef
+7777777777777777777777777777777777777777
+,lemma #ae4ah
+  ,let ;,h & ;,k 2 f9ite subgr|ps ( a
+gr|p ;,g4 ,!n
+_%
+
+|,h,k| .k ?|,h|*|,k|/|,h.%,k|#
+
+_:4
+
+,pro(4 ,recall t
+_%
+
+,h,k .k .(hk_3h `e ,h, k `e ,k.)
+
+_:4
+,c}ta9ly1 _% |,h,k| "k: |,h|*|,k| _:
+s9ce "s ele;t 9 _% ,h,k _: cd 2 writt5 z
+! product ( di6}5t ele;ts 9 ;,h & ;,k4
+,x is q possible t _% h1k1 .k h2k2 _: =
+_% h1, h2 `e ,h _: & _% k1, k2 `e ,k _:4
+,if ? is ! case1 let
+
+
+                                   #ajeg
+_%
+
+a .k (h1)~-1"h2 .k k1(k2)~-1
+
+_:4
+,notice t _% a `e ,h.%,k _:1 s9ce
+_% (h1)~-1"h2 _: is 9 ;,h &
+_% k2(k1)~-1 _: is 9 ;,k2 3sequ5tly1
+_%
+
+h2 .k h1a~-1"
+k2 .k ak1
+
+_:4
+  ,3v}sely1 let _% h .k h1b~-1 _: & _% k
+.k bk1 _: = _% b `e ,h.%,k _:4 ,!n _% hk
+.k h1k1 _:1 ": _% h `e ,h _: & _% k `e
+,k _:4 ,h;e1 any ele;t _% hk `e ,h,k _:
+c 2 writt5 9 ! =m _% h;i"k;i _: =
+_% h;i" `e ,h _: & _% k;i" `e ,k _:1 z
+_m "ts z "! >e ele;ts 9 _% ,h.%,k _:2 t
+is1 _% |,h.%,k| _: "ts4 ,"!=e1 _% |,h,k|
+.k (|,h|*|,k|)_/|,h.%,k| _:4
+gggggggggggggggggggggggggggggggggggggggg
+                                   #ajeh
+7777777777777777777777777777777777777777
+,example #ae4ai
+  ,to demon/rate t a gr|p ;,g ( ord} #dh
+is n simple1 we w %{ t ;,g 3ta9s ei a
+normal subgr|p ( ord} #h or a normal
+subgr|p ( ord} #af4 ,by ! ,?ird ,syl{
+,!orem1 ;,g has ei "o or ?ree ,syl{
+#b-subgr|ps ( ord} #af4 ,if "! is only
+"o subgr|p1 !n x m/ 2 a normal subgr|p4
+  ,suppose t ! o!r case is true1 & two (
+! ?ree ,syl{ #b-subgr|ps >e ;,h & ;,k4
+,we claim t  _% |,h.%,k| .k #8 _:4 ,if
+_% |,h.%,k| "k: #4 _:1 !n by
+,lemma #ae4ah1
+_%
+
+|,h,k| .1: ?16*16/4# .k #64
+
+_:1
+: is impossible4 ,notice t _% ,h.%,k _:
+has 9dex two 9 bo? ( ;,h & ;,k1 s is
+normal 9 bo?1 & ?us ;,h & ;,k >e ea* 9 !
+normaliz} ( _% ,h.%,k _:4 ,2c ;,h is a
+subgr|p ( _% ,n(,h.%,k) _: & 2c
+_% ,n(,h.%,k) _: has /rictly m     #ajei
+?an #af ele;ts1 _% |,n(,h.%,k)| _: m/ 2
+a multiple ( #af grt} ?an #a1 z well z
+divid+ #dh4 ,! only possibil;y is t
+_% |,n(,h.%,k)| .k #48 _:4 ,h;e1
+_% ,n(,h.%,k) .k ,g _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ fam|s 3jecture ( ,burnside 0
+prov$ 9 a l;g & di6icult pap} by ,feit &
+,?ompson .<#b.>4
+
+7777777777777777777777777777777777777777
+,!orem #ae4bj ,odd ,ord} ,!orem4
+  ,e f9ite simple gr|p ( nonprime ord}
+m/ 2 ( ev5 ord}4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! pro( ( ? !orem laid ! gr.d"w = a
+program 9 ! #aifjs & #aigjs t classifi$
+all f9ite simple gr|ps4 ,! su3ess ( ?
+program is "o ( ! |t/&+ a*ieve;ts (
+mod}n ma!matics4
+
+    #ae4c ,r1d+ ,"qs
+                                   #ajfj
+#a4 ,/ate ,syl{'s ,f/ ,!orem4
+
+#b4 ,h{ _m gr|ps >e "! ( ord} #fi8 ,:y8
+
+#c4 ,give two descrip;ns1 funda;tally
+di6}5t 9 "*1 ( ! normaliz} ( a subgr|p4
+
+#d4 ,suppose t ;,g is an abelian gr|p4
+,:at is ! commutator subgr|p ( ;,g1 & h{
+d y "k8
+
+#e4 ,:at's all ! fuss ab ,syl{'s
+,!orems8
+
+    #ae4d ,ex}cises
+
+#a4 ,:at >e ! ord}s ( all ,syl{
+;p-subgr|ps ": ;,g has ord} #ah1 #bd1
+#ed1 #gb1 & #hj8
+
+,h9t4 ,if _% |,g| .k #18 .k #2*3~2 _:1
+!n ! ord} ( a ,syl{ #b-subgr|p is #b1 &
+! ord} ( a ,syl{ #c-subgr|p is #i4
+
+#b4 ,f9d all ! ,syl{ #c-subgr|ps   #ajfa
+( _% ,s4 _: & %{ t !y >e all 3jugate4
+
+,h9t4 ,! f|r ,syl{ #c-subgr|ps (
+_% ,s4 _: >e _% ,p1 .k .((1), (#1 #2
+#3), (#1 #3 #2).) _:1 _% ,p2 .k .((1),
+(#1 #2 #4), (#1 #4 #2).) _:1 _% ,p3 .k
+.((1), (#1 #3 #4), (#1 #4 #3).) _:1 _%
+,p4 .k .((1), (#2 #3 #4), (#2 #4 #3).)
+_:4
+
+#c4 ,%{ t e gr|p ( ord} #de has a normal
+subgr|p ( ord} #i4
+
+#d4 ,let ;,h 2 a ,syl{ ;p-subgr|p ( ;,g4
+,prove t ;,h is ! only ,syl{ ;p-subgr|p
+( ;,g 3ta9$ 9 _% ,n(,h) _:4
+
+#e4 ,prove t no gr|p ( ord} #if is
+simple4
+
+,h9t4 ,s9ce _% |,g| .k #96 .k
+#2~5"*3 _:1 ;,g has ei "o or ?ree ,syl{
+#b-subgr|ps by ! ,?ird ,syl{ ,!orem4 ,if
+"! is only "o subgr|p1 we >e d"o4 ,if "!
+>e ?ree ,syl{ #b-subgr|ps1 let     #ajfb
+;,h & ;,k 2 two ( !m4 ,"!=e1 _% |,h.%,k|
+.1: #16 _:2 o!rwise1 _% ,h,k _: wd h
+_% (32*32)_/8 .k #128 _: ele;ts1 : is
+impossible4 ,?us1 _% ,h.%,k _: is normal
+9 bo? ;,h & ;,k s9ce x has 9dex #b 9 bo?
+gr|ps4
+
+#f4 ,prove t no gr|p ( ord} #afj is
+simple4
+
+#g4 ,if ;,h is a normal subgr|p ( a
+f9ite gr|p ;,g & _% |,h| .k p~k _: = "s
+prime ;p1 %{ t ;,h is 3ta9$ 9 e ,syl{
+;p-subgr|p ( ;,g4
+
+#h4 ,let ;,g 2 a gr|p ( ord}
+_% p~2"q~2 _:1 ": ;p & ;q >e 4t9ct
+primes s* t _% q/|p~2"-1 _: &
+_% p/|q~2"-1 _:4 ,prove t ;,g m/ 2
+abelian4 ,f9d a pair ( primes = : ? is
+true4
+
+,h9t4 ,%{ t ;,g has a normal ,syl{
+;p-subgr|p ( ord} _% p~2 _: & a normal
+,syl{ ;q-subgr|p ( ord}            #ajfc
+_% q~2 _:4
+
+#i4 ,%{ t a gr|p ( ord} #cc has only "o
+,syl{ #c-subgr|p4
+
+#aj4 ,let ;,h 2 a subgr|p ( a gr|p ;,g4
+,prove or 4prove t ! normaliz} ( ;,h is
+normal 9 ;,g4
+
+,h9t4 ,false4
+
+#aa4 ,let ;,g 2 a f9ite gr|p ~: ord} is
+divisible by a prime ;p4 ,prove t if "!
+is only "o ,syl{ ;p-subgr|p 9 ;,g1 x m/
+2 a normal subgr|p ( ;,g4
+
+#ab4 ,let ;,g 2 a gr|p ( ord} _% p~r _:1
+;p prime4 ,prove t ;,g 3ta9s a normal
+subgr|p ( ord} _% p~r-1 _:4
+
+#ac4 ,suppose t ;,g is a f9ite gr|p (
+ord} _% p~n"k _:1 ": _% k "k p _:4 ,%{ t
+;,g m/ 3ta9 a normal subgr|p4
+
+#ad4 ,let ;,h 2 a subgr|p ( a      #ajfd
+f9ite gr|p ;,g4 ,prove t _% g,n(,h)g~-1
+.k ,n(g,hg~-1") _: = any _% g `e ,g _:4
+
+#ae4 ,prove t a gr|p ( ord} #ajh m/ h a
+normal subgr|p4
+
+#af4 ,classify all ! gr|ps ( ord} #age
+up to isomorphism4
+
+#ag4 ,%{ t e gr|p ( ord} #bee is cyclic4
+
+,h9t4 ,if ;,g is abelian1 !n ;,g is
+cyclic1 s9ce _% |,g| .k #3*5*17 _:4 ,n{
+look at ,example #ae4ad4
+
+#ah4 ,let ;,g h ord} _% p1~e1 '''
+p;n~e~;n _: & suppose t ;,g has ;n ,syl{
+;p-subgr|ps _% ,p1, ''', ,p;n _: ":
+_% |,p;i"| .k p;i~e~;i _:4 ,prove t ;,g
+is isomorphic to _% ,p1`*''' `*,p;n _:4
+
+#ai4 ,let ;,p 2 a normal ,syl{
+;p-subgr|p ( ;,g4 ,prove t e 9n}
+automorphism ( ;,g fixes ;,p4
+                                   #ajfe
+#bj4 ,:at is ! smalle/ possible ord} ( a
+gr|p ;,g s* t ;,g is nonabelian &
+_% |,g| _: is odd8 ,c y f9d s* a gr|p8
+
+#ba4 "<,! ,fratt9i ,lemma4"> ,if ;,h is
+a normal subgr|p ( a f9ite gr|p ;,g &
+;,p is a ,syl{ ;p-subgr|p ( ;,h1 = ea*
+_% g `e ,g _: %{ t "! is an ;h 9 ;,h s*
+t _% g,pg~-1 .k h,ph~-1 _:4 ,al1 %{ t if
+;,n is ! normaliz} ( ;,p1 !n _% ,g .k
+,h,n _:4
+
+#bb4 ,%{ t if ! ord} ( ;,g is
+_% p~n"q _:1 ": ;p & ;q >e primes & _% p
+.1 q _:1 !n ;,g 3ta9s a normal subgr|p4
+
+#bc4 ,prove t ! numb} ( 4t9ct 3jugates (
+a subgr|p ;,h ( a f9ite gr|p ;,g is
+_% `(,g_3,n(,h)`) _:4
+
+,h9t4 ,def9e a mapp+ 2t ! "r cosets (
+_% ,n(,h) _: 9 ;,g & ! 3jugates ( ;,h 9
+;,g by _% ,n(,h)g $|33o g~-1",hg _:4
+,prove t ? map is a bijec;n4
+                                   #ajff
+#bd4 ,prove t a ,syl{ #b-subgr|p (
+_% ,s5 _: is isomorphic to _% ,d4 _:4
+
+#be4 "<,ano!r ,pro( ( ! ,syl{ ,!orems4">
+a4 ,suppose ;p is prime & ;p does n
+divide ;m4 ,%{ t
+_%
+
+p/|(p~k"m%p~k)
+
+_:4
+;b4 ,let _% `;,s _: d5ote ! set ( all
+_% p~k _: ele;t subsets ( ;,g4 ,%{ t ;p
+does n divide _% |`;,s| _:4
+;c4 ,def9e an ac;n ( ;,g on _% `;,s _:
+by left multiplica;n1 _% a,t .k .(at_3t
+`e ,t.) _: = _% a `e ,g _: & _% ,t `e
+`;,s _:4 ,prove t ? is a gr|p ac;n4
+;d4 ,prove _% p/||`;,o;,t"| _: = "s
+_% ,t `e `;,s _:4
+;e4 ,let _% .(,t1, ''', ,t;u".) _: 2 an
+orbit s* t _% p/|u _: & _% ,h .k .(g `e
+,g_3g,t1 .k ,t1.) _:4 ,prove t ;,h is a
+subgr|p ( ;,g & %{ t _% |,g| .k
+u|,h| _:4                          #ajfg
+;f4 ,%{ t _% p~k _: divides _% |,h| _: &
+_% p~k "k: |,h| _:4
+;g4 ,%{ t _% |,h| .k |`;,o;,t"| "k:
+p~k _:2 3clude t "!=e _% p~k .k |,h| _:4
+
+#bf4 ,let ;,g 2 a gr|p4 ,prove t _% ,g'
+.k ..(aba~-1"b~-1_3a, b `e ,g..) _: is a
+normal subgr|p ( ;,g & _% ,g_/,g' _: is
+abelian4 ,f9d an example to %{ t
+_% .(aba~-1"b~-1_3a, b `e ,g.) _: is n
+necess>ily a gr|p4
+
+,h9t4 ,let _% a,g', b,g~'" `e
+,g_/,g' _:4 ,!n _% (a,g~'")(b,g~'") .k
+ab,g' .k ab(b~-1"a~-1"ba),g' .k
+(abb~-1"a~-1")ba,g' .k ba,g' _:4
+
+    #ae4e ,a ,project
+  ,! ma9 objective ( f9ite gr|p !ory is
+to classify all possible f9ite gr|ps up
+to isomorphism4 ,? problem is v di6icult
+ev5 if we try to classify ! gr|ps ( ord}
+less ?an or equal to #fj4 ,h{"e1 we c
+br1k ! problem d{n 9to s"eal 9t}m$iate
+problems4 ,? is a *all5g+          #ajfh
+project t requires a "w+ k ( ! gr|p !ory
+y h le>n$ up to ? po9t4 ,ev5 if y d n
+complete x1 x w t1* y a grt d1l ab f9ite
+gr|ps4 ,y c use ,table #ae4ba z a guide4
+
+7777777777777777777777777777777777777777
+      ,table #ae4ba4 ,numb}s ( 4t9ct
+    gr|ps ;,g1 _% |,g| "k: #60 _:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajfi
+  ,ord}3 ,numb}2 ,ord}2 ,numb}2 ,ord}2
+  ,numb}2 ,ord}2 ,numb}
+  #a3 ;82 #af2 #ad2 #ca2 #a2 #df2 #b
+  #b3 ;82 #ag2 #a2 #cb2 #ea2 #dg2 #a
+  #c3 ;82 #ah2 ;82 #cc2 #a2 #dh2 #eb
+  #d3 ;82 #ai2 ;82 #cd2 ;82 #di2 ;8
+  #e3 ;82 #bj2 #e2 #ce2 #a2 #ej2 #e
+  #f3 ;82 #ba2 ;82 #cf2 #ad2 #ea2 ;8
+  #g3 ;82 #bb2 #b2 #cg2 #a2 #eb2 ;8
+  #h3 ;82 #bc2 #a2 #ch2 ;82 #ec2 ;8
+  #i3 ;82 #bd2 ;82 #ci2 #b2 #ed2 #ae
+  #aj3 ;82 #be2 #b2 #dj2 #ad2 #ee2 #b
+  #aa3 ;82 #bf2 #b2 #da2 #a2 #ef2 ;8
+  #ab3 #e2 #bg2 #e2 #db2 ;82 #eg2 #b
+  #ac3 ;82 #bh2 ;82 #dc2 #a2 #eh2 ;8
+  #ad3 ;82 #bi2 #a2 #dd2 #d2 #ei2 #a
+  #ae3 #a2 #cj2 #d2 #de2 ;82 #fj2 #ac
+gggggggggggggggggggggggggggggggggggggggg
+
+
+#a4 ,f9d all simple gr|ps ;,g "< _% |,g|
+"k: #60 _:">4 .7,d n use ! ,odd ,ord}
+,!orem un.s y >e prep>$ to prove x4.'
+
+#b4 ,f9d ! numb} ( 4t9ct gr|ps     #ajgj
+;,g1 ": ! ord} ( ;,g is ;n = _% n .k #1,
+''', #60 _:4
+
+#c4 ,f9d ! actual gr|ps "<up to
+isomorphism"> = ea* ;n4
+
+    #ae4f ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,$w>ds1 ;,h4 8,a ,%ort ,hi/ory (
+  ! ,fields ,m$al10 .1,ma!matical
+  .1,9tellig;er ~2#a "<#aigh">1
+  #abg,-#bi4
+.<#b.>  ,feit1 ;,w4 & ,?ompson1 ;,j4
+  ;,g4 8,solvabil;y ( ,gr|ps ( ,odd
+  ,ord}10 .7,pacific ,j|rnal (
+  ,ma!matics.' ~1#ac "<#aifc">1
+  #gge,-#ajbi4
+.<#c.>  ,gallian1 ;,j4 ,a4 8,! ,se>* =
+  ,f9ite ,simple ,gr|ps10 .1,ma!matics
+  .1,magaz9e ~1#di "<#aigf">1 #afc,-#gi4
+.<#d.>  ,gor5/e91 ;,d4 8,classify+ !
+  ,f9ite ,simple ,gr|ps10 .7,bullet9 ( !
+  ,am}ican ,ma!matical ,society.' ~1#ad
+  "<#aihf">1 #a,-#ih4
+.<#e.>  ,gor5/e91 ;,d4 .1,f9ite .1,gr|ps
+  4 ,,ams ,*elsea ,publi%+1        #ajga
+  ,provid;e ,,ri1 #aifh4
+.<#f.>  ,gor5/e91 ;,d41 ,lyons1 ;,r41 &
+  ,solomon1 ;,r4 .7,! ,classifica;n (
+  ,f9ite ,simple ,gr|ps.'4 ,am}ican
+  ,ma!matical ,society1 ,provid;e ,,ri1
+  #aiid4
+
+    #ae4g ,sage
+
+      ,syl{ ,subgr|ps
+  ,! ,sage p}muta;n gr|p me?od
+`#1;4syl{.-subgr|p"<p"> w return a s+le
+,syl{ ;p-subgr|p4 ,if ! prime is n a
+prop} divisor ( ! gr|p ord} x returns a
+subgr|p ( ord} _% p~0 _:1 9 o!r ~ws1 a
+trivial subgr|p4 ,s 2 c>e;l ab h{ y
+3/ruct yr primes4 ,"s"ts1 y may only
+want .1"o s* ,syl{ subgr|p1 s9ce any two
+,syl{ ;p-subgr|ps >e 3jugate1 & h;e
+isomorphic "<,!orem #ae4g">4 ,? al m1ns
+we c cr1te o!r ,syl{ ;p-subgr|ps by
+3jugat+ ! "o we h4 ,! p}muta;n gr|p
+me?od `#1;4conjugate"<g"> w 3jugate !
+gr|p by `#2;g4
+  ,) rep1t$ 3juga;ns ( a s+le      #ajgb
+,syl{ ;p-subgr|p1 we w alw cr1te
+duplicate subgr|ps4 ,s we ne$ to use a
+sli<tly complicat$ 3/ruc;n to =m a li/ (
+j ! unique subgr|ps z ! li/ ( 3jugates4
+,? r|t9e t computes all ,syl{
+;p-subgr|ps c 2 help;l "?|t ? sec;n4 ,x
+cd 2 made m* m e6ici5t by 3jugat+ by j
+"o ele;t p} coset ( ! normaliz}1 b x w 2
+su6ici5t = |r purposes "h4 ,2 sure to
+execute ! next cell if y >e onl9e1 s !
+func;n is def9$ = use lat}4
+
+`#7def all.-syl{"<,g1 ;p">3`#'
+    `#7''',=m ! set ( all 4t9ct ,syl{
+;p-subgr|ps ( ;,g'''`#'
+    `#7script,p "7 .<.>`#'
+    `#7;,p "7 ,g4syl{.-subgr|p"<p">`#'
+    `#7= ;x 9 ;,g3`#'
+        `#7;,h "7 ,p4conjugate"<x">`#'
+        `#7if not"<,h 9 script,p">3`#'
+            `#1script,p4app5d"<,h">
+    `#1return `#1script,p
+
+  ,lets 9ve/igate ! ,syl{ subgr|ps ( !
+dih$ral gr|p _% ,d18 _:4 ,z a      #ajgc
+gr|p ( ord} _% #36 .k #2~2"*3~2 _:1 we
+"k by ! ,f/ ,syl{ ,!orem t "! is a ,syl{
+#b-subgr|p ( ord} #d & a ,syl{
+#c-subgr|p ( ord} #i4 ,f/ = _% p .k
+#2 _:1 we obta9 "o ,syl{ #b-subgr|p1 =m
+all ! 3jugates1 & =m a li/ (
+non-duplicate subgr|ps4 "<,~! comm&s
+take a :ile to execute1 s 2 pati5t4">
+
+`#7;,g "7 ,dih$ral,gr|p"<#ah">`#'
+`#7,s#b "7 ,g4syl{.-subgr|p"<#b">2
+,s#b`#'
+-----------------
+`#7,subgr|p g5}at$ by`#'
+`#1.<"<#b1ah">"<#c1ag">"<#d1af">"<#e1ae-
+">"<#f1ad">"<#g1ac">"<#h1ab">"<#i1aa">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>
+`#7( "<,dih$ral gr|p ( ord} #cf z a
+p}muta;n gr|p">`#'
+
+
+`#7uniq,s#b "7 all.-syl{"<,g1 #b">`#'
+`#1uniq,s#b                        #ajgd
+-----------------
+`#7.<,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#b1ah">"<#c1ag">"<#d1af">"<#e1ae-
+">"<#f1ad">"<#g1ac">"<#h1ab">"<#i1aa">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1g">"<#b1f">"<#c1e">"<#h1ah">"-
+<#i1ag">"<#aj1af">"<#aa1ae">"<#ab1ad">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac-
+">"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"-
+<#i1ah">1
+`#1"<#a1ac">"<#b1ab">"<#c1aa">"<#d1aj">-
+"<#e1i">"<#f1h">"<#ad1ah">"<#ae1ag">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac-
+">"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"-
+<#i1ah">1
+`#1"<#a1ae">"<#b1ad">"<#c1ac">"<#d1ab">-
+"<#e1aa">"<#f1aj">"<#g1i">"<#af-   #ajge
+1ah">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1c">"<#d1ah">"<#e1ag">"<#f1af"-
+>"<#g1ae">"<#h1ad">"<#i1ac">"<#aj1ab">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1i">"<#b1h">"<#c1g">"<#d1f">"<-
+#aj1ah">"<#aa1ag">"<#ab1af">"<#ac1ae">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac-
+">"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"-
+<#i1ah">1
+`#1"<#a1aa">"<#b1aj">"<#c1i">"<#d1h">"<-
+#e1g">"<#ab1ah">"<#ac1ag">"<#ad1af">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac-
+">"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"-
+<#i1ah">1
+`#1"<#a1ag">"<#b1af">"<#c1ae">"<#d1ad">-
+"<#e1ac">"<#f1ab">"<#g1aa">"<#h-   #ajgf
+1aj">.>1
+ `#7,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1e">"<#b1d">"<#f1ah">"<#g1ag">-
+"<#h1af">"<#i1ae">"<#aj1ad">"<#aa1ac">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>.>
+
+
+`#1l5"<uniq,s#b">
+-----------------
+`#2#i
+
+  ,! ,?ird ,syl{ ,!orem tells u t = _% p
+.k #2 _: we wd expect _% #1, #3 _: or #i
+,syl{ #b-subgr|ps1 s |r computa;nal
+result ( #i subgr|ps is 3si/5t ) :at !
+!ory pr$icts4 ,c y visualize ea* ( ~!
+subgr|ps z symmetries ( an #ah-gon8
+,notice t we al h _m subgr|ps ( ord} #b
+9side ( ~! subgr|ps ( ord} #d4
+  ,n{ = ! case ( _% p .k #3 _:4
+
+
+                                   #ajgg
+`#7;,g "7 ,dih$ral,gr|p"<#ah">`#'
+`#7,s#c "7 ,g4syl{.-subgr|p"<#c">2
+,s#c`#'
+-----------------
+`#7,subgr|p g5}at$ by`#'
+`#1.<"<#a1g1ac">"<#b1h1ad">"<#c1i1ae">"-
+<#d1aj1af">"<#e1aa1ag">"<#f1ab1ah">1
+`#1"<#a1ae1aa1g1c1ag1ac1i1e">"<#b1af1ab-
+1h1d1ah1ad1aj1f">.>
+`#7( "<,dih$ral gr|p ( ord} #cf z a
+p}muta;n gr|p">`#'
+
+
+`#7uniq,s#c "7 all.-syl{"<,g1 #c">`#'
+`#1uniq,s#c
+-----------------
+`#7.<,p}muta;n ,gr|p ) g5}ators`#'
+`#1.<"<#a1g1ac">"<#b1h1ad">"<#c1i1ae">"-
+<#d1aj1af">"<#e1aa1ag">"<#f1ab1ah">1
+`#1"<#a1ae1aa1g1c1ag1ac1i1e">"<#b1af1ab-
+1h1d1ah1ad1aj1f">.>.>
+
+
+
+                                   #ajgh
+`#1l5"<uniq,s#c">
+-----------------
+`#2#a
+
+  ,:at does ! ,?ird ,syl{ ,!orem pr$ict8
+,j #a or #d ,syl{ #c-subgr|ps4 ,hav+ f.d
+j "o subgr|p computa;nally1 we "k t all
+( ! 3jugates ( ! l"o ,syl{ #c-subgr|p >e
+equal4 ,9 o!r ~ws1 ! ,syl{ #c-subgr|p is
+normal 9 _% ,d18 _:4 ,let u *eck anyway4
+
+`#1,s#c4;is.-normal"<,g">
+-----------------
+`#1,true
+
+  ,at l1/ "o ( ! subgr|ps ( ord} #c
+3ta9$ 9 ? ,syl{ #c-subgr|p %d 2 obvi|s
+by look+ at ! ord}s ( ! g5}ators1 & !n y
+may ev5 notice t ! g5}ators giv5 cd 2
+r$uc$1 & "o is a p{} ( ! o!r4
+
+`#1,s#c4;is.-cyclic"<">
+-----------------
+`#1,true
+                                   #ajgi
+  ,rememb} t "! >e _m o!r subgr|ps1 (
+o!r ord}s4 ,= example1 c y 3/ruct a
+subgr|p ( ord} _% #6 .k #2*3 _: 9
+_% ,d18 _:;8
+
+      ,normaliz}s
+  ,a new comm& t is relevant to ? sec;n
+is ! 3/ruc;n ( a normaliz}4 ,! ,sage
+comm& `#1,g4normaliz}"<,h"> w return !
+subgr|p ( `#2;,g 3ta9+ ele;ts t
+normalize ! subgr|p `#2;,h4 ,we
+illu/rate xs use ) ! ,syl{ subgr|ps f
+abv4
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajhj
+`#7;,g "7 ,dih$ral,gr|p"<#ah">`#'
+`#7,s#b "7 ,g4syl{.-subgr|p"<#b">`#'
+`#7,s#c "7 ,g4syl{.-subgr|p"<#c">`#'
+`#7,n#b "7 ,g4normaliz}"<,s#b">2 ,n#b`#'
+-----------------
+`#7,subgr|p g5}at$ by`#'
+`#1.<"<#b1ah">"<#c1ag">"<#d1af">"<#e1ae-
+">"<#f1ad">"<#g1ac">"<#h1ab">"<#i1aa">1
+`#1"<#a1aj">"<#b1aa">"<#c1ab">"<#d1ac">-
+"<#e1ad">"<#f1ae">"<#g1af">"<#h1ag">"<#-
+i1ah">.>
+`#7( "<,dih$ral gr|p ( ord} #cf z a
+p}muta;n gr|p">`#'
+
+
+`#7,n#b "7"7 ,s#b`#'
+-----------------
+`#1,true
+
+
+
+
+
+
+                                   #ajha
+`#7,n#c "7 ,g4normaliz}"<,s#c">2 ,n#c`#'
+-----------------
+`#7,subgr|p g5}at$ by`#'
+`#1.<"<#b1ah">"<#c1ag">"<#d1af">"<#e1ae-
+">"<#f1ad">"<#g1ac">"<#h1ab">"<#i1aa">1
+`#1"<#a1b1c1d1e1f1g1h1i1aj1aa1ab1ac1ad1-
+ae1af1ag1ah">1
+`#1"<#a1g1ac">"<#b1h1ad">"<#c1i1ae">"<#-
+d1aj1af">"<#e1aa1ag">"<#f1ab1ah">1
+`#1"<#a1ae1aa1g1c1ag1ac1i1e">"<#b1af1ab-
+1h1d1ah1ad1aj1f">.>
+`#7( "<,dih$ral gr|p ( ord} #cf z a
+p}muta;n gr|p">`#'
+
+
+`#7,n#c "7"7 ;,g`#'
+-----------------
+`#1,true
+
+  ,! normaliz} ( a subgr|p alw 3ta9s !
+:ole subgr|p1 s ! normaliz} ( `#1,s#b is
+z small z possible4 ,we alr knew `#1,s#c
+is normal 9 `#2;,g1 s x is no surprise t
+xs normaliz} is z big z possible ,- e
+ele;t ( `#2;,g normalizes          #ajhb
+`#1,s#c4 ,let u compute a normaliz} 9
+_% ,d18 _: t is m 89t}e/+40
+
+`#7;,g "7 ,dih$ral,gr|p"<#ah">`#'
+`#7a "7
+,g"<,7"<#a1g1ac">"<#b1h1ad">"<#c1i1ae">-
+"<#d1aj1af">"<#e1aa1ag">"<#f1ab1ah">,7"-
+>`#'
+`#7;b "7
+,g"<,7"<#a1e">"<#b1d">"<#f1ah">"<#g1ag"-
+>"<#h1af">"<#i1ae">"<#aj1ad">"<#aa1ac">-
+,7">`#'
+`#7;,h "7 ,g4subgr|p"<.<a1 ;b.>">`#'
+`#1,h4ord}"<">
+-----------------
+`#2#f
+
+
+
+
+
+
+
+
+                                   #ajhc
+`#7;,n "7 ,g4normaliz}"<,h">`#'
+`#2;,n
+-----------------
+`#7,subgr|p g5}at$ by`#'
+`#1.<"<#a1b">"<#c1ah">"<#d1ag">"<#e1af"-
+>"<#f1ae">"<#g1ad">"<#h1ac">"<#i1ab">"<-
+#aj1aa">1
+`#1"<#a1e">"<#b1d">"<#f1ah">"<#g1ag">"<-
+#h1af">"<#i1ae">"<#aj1ad">"<#aa1ac">1
+`#1"<#a1g1ac">"<#b1h1ad">"<#c1i1ae">"<#-
+d1aj1af">"<#e1aa1ag">"<#f1ab1ah">.>
+`#7( "<,dih$ral gr|p ( ord} #cf z a
+p}muta;n gr|p">`#'
+
+
+`#1,n4ord}"<">
+-----------------
+`#1#ab
+
+  ,s = ? subgr|p ( ord} #f1 ! normaliz}
+is /rictly bi7} ?an ! subgr|p1 b /
+/rictly small} ?an ! :ole gr|p "<& h;e n
+normal 9 ! dih$ral gr|p">4 ,trivially1 a
+subgr|p is normal 9 xs normaliz}3
+                                   #ajhd
+`#1,h4is.-normal"<,g">
+-----------------
+`#1,false
+
+
+`#1,h4is.-normal"<,n">
+-----------------
+`#1,true
+
+
+      ,f9ite ,simple ,gr|ps
+  ,we saw e>li} ,sage's p}muta;n gr|p
+me?od `#1;4is.-simple"<">4
+,example #ae4af tells u t a gr|p ( ord}
+#fd is n"e simple4 ,! dicyclic gr|p
+`#1,di,cyclic,gr|p"<#af"> is a
+non-abelian gr|p ( #fd1 s we c te/ ?
+me?od on ? gr|p4 ,x turns | ? gr|p has
+_m normal subgr|ps ,- ! li/ w alw 3ta9 !
+trivial subgr|p & ! gr|p xf1 s any numb}
+exce$+ #b 9dicates a non-trivial normal
+subgr|p4
+
+
+                                   #ajhe
+`#1,,dc"7,di,cyclic,gr|p"<#af">
+`#1,,dc4ord}"<">
+-----------------
+`#1#fd
+
+
+`#1,,dc4is.-simple"<">
+-----------------
+`#1,false
+
+
+`#7ns "7 ,,dc4normal.-subgr|ps"<">`#'
+`#1l5"<ns">
+-----------------
+`#2#i
+
+  ,"h is a r 9t}e/+ gr|p1 "o ( ! #bf
+sporadic simple gr|ps1 "kn z !
+,higman-,sims gr|p1 _% ,h,s _:4 ,!
+g5}ators us$ 2l come f ! repres5ta;n on
+#ajj po9ts 9 ,,gap =mat1 available (f (
+web4mat4bham4ac4uk_/atlas_/v#b4j_/spor_-
+/,,hs_/;9#ad 4 ,two g5}ators ( j ord} #b
+& ord} #e "<z y c esily see">1 g5}at+
+exactly _% #44 352 000 _:          #ajhf
+ele;ts1 b no normal subgr|ps4 ,amaz+4
+
+`#7;,g "7 ,symmetric,gr|p"<#ajj">`#'
+`#7a "7 ,g"<.<"<#a1fj">1  "<#b1gb">1
+"<#c1ha">1  "<#d1dc">1  "<#e1aa">1
+"<#f1hg">1`#'
+        `#7"<#g1cd">1  "<#i1fc">1
+"<#ab1df">1 "<#ac1bh">1 "<#ad1ga">1
+"<#ae1db">1`#'
+        `#7"<#af1ig">1 "<#ah1eg">1
+"<#ai1eb">1 "<#ba1cb">1 "<#bc1dg">1
+"<#bd1ed">1`#'
+        `#7"<#be1hc">1 "<#bf1gh">1
+"<#bi1hi">1 "<#cj1ci">1 "<#cc1fa">1
+"<#ce1ef">1`#'
+        `#7"<#cg1fg">1 "<#dd1gf">1
+"<#de1hh">1 "<#dh1ei">1 "<#di1hf">1
+"<#ej1gd">1`#'
+        `#7"<#ea1ff">1 "<#ec1ii">1
+"<#ee1ge">1 "<#fb1gc">1 "<#fe1gi">1
+"<#fh1hb">1`#'
+        `#7"<#gg1ib">1 "<#hd1ij">1
+"<#he1ih">1 "<#id1ajj">.>">`#'
+`#7;b "7 ,g"<.<"<#a1hf1ac1aj1dg">1
+"<#b1ec1cj1h1ch">1`#'              #ajhg
+        `#7"<#c1dj1dh1be1ag">1
+"<#d1bi1ib1hh1dc">1   "<#e1ih1ff1ed1
+#fe">1`#'
+        `#7"<#f1bg1ea1gc1bd">1
+"<#g1hc1af1bj1bh">1 
+"<#i1bc1hi1ie1fa">1`#'
+        `#7"<#aa1db1df1ia1cb">1
+"<#ab1ad1 #ha1ee1fh">1
+"<#ae1ij1ca1ef1cg">1`#'
+        `#7"<#ah1fi1de1hd1gf">1
+"<#ai1ei1gi1ce1ic">1
+"<#ba1bb1fd1ci1ajj">1`#'
+        `#7"<#bf1eh1if1he1gg">1
+"<#cc1eb1id1ge1dd">1
+"<#cd1fb1hg1gh1ej">1`#'
+        `#7"<#cf1hb1fj1gd1gb">1
+"<#da1hj1gj1di1fg">1
+"<#eg1fc1ga1ii1ig">.>">`#'
+`#1a4ord}"<">1 `#1b4ord}"<">
+-----------------
+`#1"<#b1 `#1#e">
+
+
+
+                                   #ajhh
+`#7,,hs "7 ,g4subgr|p"<.<a1 ;b.>">`#'
+`#1,,hs4ord}"<">
+-----------------
+`#1#ddcebjjj
+
+
+`#1,,hs4is.-simple"<">
+-----------------
+`#1,true
+
+  ,we saw ? gr|p e>li} 9 ! ex}cises =
+,*apt} #ad on gr|p ac;ns1 ": x 0 ! s+le
+non-trivial normal subgr|p ( !
+automorphism gr|p ( ! ,higman-,sims
+graph1 h;e xs "n4
+
+      ,,gap ,3sole & ,9t}face
+  ,? 3cludes |r exclusive /udy ( gr|p
+!ory1 ?|< we w 2 us+ gr|ps "s 9 !
+subsequ5t sec;ns4 ,z we h rem>k$1 m* (
+,sage's computa;n ) gr|ps is p}=m$ by !
+op5 s|rce program1 8,gr|ps1 ,algori?ms1
+& ,programm+10 : is bett} "k z simply
+,,gap4 ,if af ? c|rse y |tgr{ ,sage's
+support = gr|ps1 !n le>n+ ,,gap    #ajhi
+wd 2 yr next /ep z a gr|p !ori/4 ,e copy
+( ,sage 9cludes a copy ( ,,gap & is easy
+to see : v}.n ( ,,gap is 9clud$3
+
+`#1gap4v}.n"<">
+-----------------
+`#1'#d4ab4b'
+
+  ,y c 9t}act ) ,,gap 9 ,sage 9 s"eal
+ways4 ,! mo/ direct is by cr1t+ a
+p}muta;n gr|p via ,sage's `#1gap"<">
+comm&4
+
+`#7;,g "7 gap"<',gr|p"<
+"<#a1b1c1d1e1f">1 "<#a1c1e"> ">'">`#'
+`#2;,g
+-----------------
+`#7,gr|p"< .< "<#a1b1c1d1e1f">1
+"<#a1c1e"> .> ">`#'
+
+  ,n{ we c use mo/ any ,,gap comm& )
+`#2;,g1 via ! 3v5;n t mo/ ,,gap comm&s
+expect a gr|p z ! f/ >gu;t1 & we 9/1d
+provide ! gr|p by us+ ! object-ori5t$
+`#1;,g4 syntax4 ,if y 3sult !      #ajij
+,,gap docu;ta;n y w see t `#1,c5t} is a
+,,gap comm& t expects a gr|p z xs l"o
+>gu;t1 & `#1,c5traliz} is a ,,gap comm&
+t expects two >gu;ts ,- a gr|p & !n a
+gr|p ele;t4
+
+`#1,g4,c5t}"<">
+-----------------
+`#7,gr|p"< .< "<#a1c1e">"<#b1d1f"> .>
+">`#'
+
+
+`#7,g4,c5traliz}"<'"<#a1 #c1 #e">'">`#'
+-----------------
+`#7,gr|p"< .< "<#a1c1e">1 "<#b1d1f">1
+"<#a1c1e">"<#b1d1f"> .> ">`#'
+
+  ,if y use ! ,sage ,notebook 9t}face y
+c set ! f/ l9e ( a compute cell to
+`#1.0gap & ! 5tire cell w 2 9t}pret$ z
+if y 7 9t}act+ directly ) ,,gap4 ,? m1ns
+y wd n{ use ,,gap's syntax1 : y c see
+abv is sli<tly di6}5t ?an ,sage's
+univ}sal syntax4 ,y c al use ! drop-d{n
+box at ! top ( a "w%eet1 &         #ajia
+select `#1gap z ! sy/em "<r ?an `#1sage
+"> & yr :ole "w%eet w 2 9t}pret$ z ,,gap
+comm&s4 ,"h is "o simple example1 : y %d
+2 able to evaluate 9 yr curr5t "w%eet4
+,? "picul> example w n run prop}ly 9 a
+,sage ,cell 9 a web page v}.n ( ? sec;n4
+
+`#1.0gap
+`#7;,g 3"7 ,gr|p"< "<#a1b1c1d1e1f">1
+"<#a1c1e"> ">2`#'
+`#1,c5traliz}"<,g1 `#1"<#a1c1e">">2
+
+  ,notice t
+_4 4 ,we d n ne$ to wrap ! 9dividual
+p}muta;ns 9 z _m quota;n m>ks z we d 9
+,sage4
+_4 4 ,assign;t is `#13"7 n `#2"74 ,if y
+=get ! colon1 y w get an }ror message s*
+z `#7,v>iable3 ';,g' m/ h a value`#'
+_4 4 ,a l9e .1m/ 5d ) a semi-colon4 ,if
+y =get1 s"eal l9es w 2 m}g$ tgr4
+  ,y c get help ab ,,gap comm&s ) a
+comm& s* z ! foll{+1 ?|< y w soon see t
+,,gap assumes y "k a lot m algebra ?an
+,sage assumes y "k4                #ajib
+`#1pr9t"<gap4help"<',symmetric,gr|p'1
+`#1pag}"7,false">">
+
+  ,9 ! comm&-l9e v}.n ( ,sage1 y c al
+use ! ,,gap 83sole40 ,ag1 y ne$ to use
+,,gap syntax1 & y d n h _m ( ! 3v5i;es (
+! ,sage notebook4 ,x is al gd to "k 9
+adv.e t `#1quit2 is h{ y c l1ve ! ,,gap
+3sole & get back to ,sage4 ,if y run
+,sage at ! comm&-l9e1 use ! comm&
+`#1gap.-console"<"> to />t ,,gap runn+4
+  ,x is a com=t to "k t ) ,sage y get a
+complete copy ( ,,gap1 9/all$ & all r1dy
+to run4 ,h{"e1 ? is n a tutorial on
+,,gap1 s 3sult ! docu;ta;n available at
+! ma9 ,,gap website3
+www4gap-sy/em4org;9#ae  to le>n h{ to
+get ! mo/ | ( ,,gap4
+
+    #ae4h ,sage ,ex}cises
+
+#a4 ,? ex}cise v}ifies ,!orem #ae4ac4 ,!
+commutator subgr|p is comput$ ) !
+p}muta;n gr|p me?od `#1;4commutator"<">4
+,= ! dih$ral gr|p ( ord} #dj1      #ajic
+_% ,d20 _: "<`#1,dih$ral,gr|p"<#bj"> 9
+,sage">1 compute ! commutator subgr|p &
+=m ! quoti5t ) ! dih$ral gr|p4 ,!n v}ify
+t ? quoti5t is abelian4 ,c y id5tify !
+quoti5t gr|p exactly "<9 o!r ~ws1 up to
+isomorphism">8
+
+#b4 ,= ea* possible prime1 f9d all ( !
+4t9ct ,syl{ ;p-subgr|ps ( ! alt}nat+
+gr|p _% ,a5 _:4 ,3firm t yr results >e
+3si/5t ) ! ,?ird ,syl{ ,!orem = ea*
+prime4 ,we "k t _% ,a5 _: is a simple
+gr|p4 ,expla9 h{ ? wd expla9 or pr$ict
+"s aspects ( yr answ}s4
+  ,c.t ! numb} ( 4t9ct ele;ts 3ta9$ 9 !
+union ( all ! ,syl{ subgr|ps y j f.d4
+,:at is 9t}e/+ ab ? c.t8
+
+#c4 ,= ! dih$ral gr|p _% ,d36 _:
+"<symmetries ( a #cf-gon"> & ea*
+possible prime1 det}m9e ! possibilities
+= ! numb} ( 4t9ct ,syl{ ;p-subgr|ps z
+pr$ict$ by ! ,?ird ,syl{ ,!orem
+"<,!orem #ae4h">4 ,n{ compute ! actual
+numb} ( 4t9ct ,syl{ ;p-subgr|ps    #ajid
+= ea* prime & com;t on ! result4
+  ,x c 2 prov$ t .1any .1gr|p ) ord} #gb
+is n a simple gr|p1 us+ te*niques s* z
+~? us$ 9 ! lat} examples 9 ? *apt}4
+,4cuss ? result 9 ! 3text ( yr
+computa;ns ) ,sage4
+
+#d4 ,? ex}cise v}ifies ,lemma #ae4f4
+,let ;,g 2 ! dih$ral gr|p ( ord} #cf1
+_% ,d18 _:4 ,let ;,h 2 ! "o ,syl{
+#c-subgr|p4 ,let ;,k 2 ! subgr|p ( ord}
+#f g5}at$ by ! two p}muta;ns `#2a &
+`#2;b giv5 2l4 ,f/1 =m a li/ ( ! 4t9ct
+3jugates ( ;,k by ! ele;ts ( ;,h1 &
+det}m9e ! numb} ( subgr|ps 9 ? li/4
+,comp>e ? ) ! 9dex giv5 9 ! /ate;t ( !
+lemma1 employ+ a s+le "<l;g"> /ate;t
+mak+ use ( ! `#1;4ord}"<">1
+`#1;4normaliz}"<"> & `#1;49t}sec;n"<">
+me?ods ) `#2;,g1 ;,h & ;,k1 .1only4
+
+
+
+
+                                   #ajie
+`#7;,g "7 ,dih$ral,gr|p"<#ah">`#'
+`#7a "7
+,g"<,7"<#a1g1ac">"<#b1h1ad">"<#c1i1ae">-
+"<#d1aj1af">"<#e1aa1ag">"<#f1ab1ah">,7"-
+>`#'
+`#7;b "7
+,g"<,7"<#a1e">"<#b1d">"<#f1ah">"<#g1ag"-
+>"<#h1af">"<#i1ae">"<#aj1ad">"<#aa1ac">-
+,7">`#'
+
+
+#e4 ,example #ae4ai %{s t e gr|p ( ord}
+#dh has a normal subgr|p4 ,! dicyclic
+gr|ps >e an 9f9ite family ( non-abelian
+gr|ps ) ord} _% #4n _:1 : 9cludes !
+quat}nions "<! case ( _% n .k #2 _:">4
+,s ! p}muta;n gr|p
+`#1,di,cyclic,gr|p"<#ab"> has ord} #dh4
+,use ,sage to foll{ ! logic ( ! pro( 9
+,example #ae4ai & 3/ruct a normal
+subgr|p 9 ? gr|p4 "<,9 o!r ~ws1 d n j
+ask = a li/ ( ! normal subgr|ps f ,sage1
+b 9/1d trace "? ! implica;ns 9 ! example
+to >rive at a normal subgr|p1 & !n *eck
+yr answ}4">                        #ajif
+#f4 ,! pro(s ( ! ,second & ,?ird ,syl{
+,!orems "<,!orem #ae4g1 ,!orem #ae4h">
+employ a gr|p ac;n on sets ( ,syl{
+;p-subgr|ps1 ,= ! ,second ,!orem1 ! li/
+is propos$ z 9complete & is prov$ to 2
+.1all ( ! ,syl{ ;p-subgr|ps4 ,9 ?
+ex}cise we w see h{ ~! ac;ns 2have1 & h{
+!y >e di6}5t :5 we use di6}5t gr|ps act+
+on ! same set4
+  ,3/ruct ! six ,syl{ #e-subgr|ps ( !
+alt}nat+ gr|p _% ,a5 _:4 ,? w 2 ! set (
+objects = bo? ( |r ac;ns4 ,3jugat+ "o (
+~! ,syl{ #e-subgr|ps by an ele;t (
+_% ,a5 _: w produce ano!r ,syl{
+#e-subgr|p1 & s c 2 us$ to cr1te a gr|p
+ac;n4 ,= s* an ac;n1 f ea* gr|p ele;t =m
+a ,sage p}muta;n ( ! subgr|ps by numb}+
+! six subgr|ps & us+ ~! 9teg}s z m>k}s =
+! subgr|ps4 ,y w f9d ! ,py?on li/ me?od
+`#1;49dex"<"> v help;l4 ,n{ use all ( ~!
+p}muta;ns to g5}ate a p}muta;n gr|p "<a
+subgr|p ( _% ,s6 _:">4 ,f9ally1 use
+p}muta;n gr|p me?ods = orbits &
+/abilis}s1 etc4 to explore ! ac;ns4
+  ,= ! f/ ac;n1 use all (          #ajig
+_% ,a5 _: z ! gr|p4 ,%{ t ! result+ ac;n
+is transitive4 ,9 o!r ~ws1 "! is exactly
+"o s+le orbit4
+  ,= ! second ac;n1 use j "o ( ! ,syl{
+#e-subgr|ps z ! gr|p4 ,write ! class
+equa;n = ? ac;n 9 a =mat t su7e/s !
+83gru5t to #a mod ;p0 "p ( ! 3clu.n ( !
+,?ird ,!orem4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajih
+

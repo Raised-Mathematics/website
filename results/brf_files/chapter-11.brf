@@ -1,0 +1,1401 @@
+           #aa ,homomorphisms
+
+  ,"o ( ! basic id1s ( algebra is !
+3cept ( a homomorphism1 a natural
+g5}aliza;n ( an isomorphism4 ,if we
+relax ! require;t t an isomorphism (
+gr|ps 2 bijective1 we h a homomorphism4
+
+    #aa4a ,gr|p ,homomorphisms
+  ,a ~1homomorphism 2t gr|ps _% (,g,
+*) _: & _% (,h, .*) _: is a map _% .f"1
+,g $o ,h _: s* t
+_%
+
+f(g1*g2) .k f(g1).*f(g2)
+
+_:
+= _% g1, g2 `e ,g _:4 ,! range (
+_% .f _: 9 ;,h is call$ ! ~1homomorphic
+~1image ( _% .f _:4
+  ,two gr|ps >e relat$ 9 ! /r;ge/
+possible way if !y >e isomorphic2 h{"e1
+a w1k} rela;n%ip may exi/ 2t two gr|ps4
+,= example1 ! symmetric gr|p _% ,s;n _:
+& ! gr|p _% `;,z2 _: >e relat$ by   #ged
+! fact t _% ,s;n _: c 2 divid$ 9to ev5 &
+odd p}muta;ns t exhibit a gr|p /ructure
+l t _% `;,z2 _:1 z %{n 9 ! foll{+
+multiplica;n table4
+_%
+
+      even  odd
+      "333  "333
+even  even  odd
+odd   odd   even
+
+_:
+  ,we use homomorphisms to /udy
+rela;n%ips s* z ! "o we h j describ$4
+
+
+
+
+
+
+
+
+
+
+                                    #gee
+7777777777777777777777777777777777777777
+,example #aa4a
+  ,let ;,g 2 a gr|p & _% g `e ,g _:4
+,def9e a map _% .f"1 `;,z $o ,g _: by
+_% f(n) .k g~n _:4 ,!n _% .f _: is a
+gr|p homomorphism1 s9ce
+_%
+
+f(m+n) .k g~m+n .k g~m"g~n .k f(m)f(n)
+
+_:4
+,? homomorphism maps _% `;,z _: onto !
+cyclic subgr|p ( ;,g g5}at$ by ;g4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                    #gef
+7777777777777777777777777777777777777777
+,example #aa4b
+  ,let _% ,g .k ,g,l2(`;,r) _:4 ,if
+_%
+
+,a .k ,(a b,)
+      ,(c d,)
+
+_:
+is 9 ;,g1 !n ! det}m9ant is  nonz}o2 t
+is1 _% det (,a) .k ad-bc /.k #0 _:4 ,al1
+= any two ele;ts ,a & ;,b 9 ;,g1 _% det
+(,a,b) .k det (,a)det (,b) _:4 ,us+ !
+det}m9ant1 we c def9e a homomorphism
+_% .f"1 ,g,l2(`;,r) $o `;,r~`# _: by
+_% ,a $|33o det (,a) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #aa4c
+  ,recall t ! circle gr|p _% `;,t _:
+3si/s ( all complex numb}s ;z s* t
+_% |z| .k #1 _:4 ,we c def9e a
+homomorphism _% .f _: f !           #geg
+additive gr|p ( r1l numb}s _% `;,r _: to
+_% `;,t _: by _% .f"1 .? $|33o cos
+.?+isin .? _:4 ,9de$1
+_%
+
+f(.a+.b)                               
+                   .k cos (.a+.b)+isin
+(.a+.b)
+.k (cos .acos .b-sin .asin .b)+i(sin
+.acos .b+cos .asin .b)
+.k (cos .a+isin .a)(cos .b+isin .b)
+.k f(.a)f(.b)
+
+_:4
+,geometrically1 we >e simply wrapp+ !
+r1l l9e >.d ! circle 9 a gr|p-!oretic
+fa%ion4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ proposi;n li/s "s basic
+prop}ties ( gr|p homomorphisms4
+
+7777777777777777777777777777777777777777
+,proposi;n #aa4d
+  ,let _% .f"1 ,g1 $o ,g2 _: 2 a    #geh
+homomorphism ( gr|ps4 ,!n
+#a4 ,if ;e is ! id5t;y ( _% ,g1 _:1 !n
+_% f(e) _: is ! id5t;y ( _% ,g2 _:2
+#b4 ,= any ele;t _% g `e ,g1 _:1
+_% f(g~-1") .k `(f(g)`)~-1 _:2
+#c4 ,if _% ,h1 _: is a subgr|p (
+_% ,g1 _:1 !n _% f(,h1) _: is a subgr|p
+( _% ,g2 _:2
+#d4 ,if _% ,h2 _: is a subgr|p (
+_% ,g2 _:1 !n _% f~-1"(,h2) .k .(g `e
+,g1 "1 f(g) `e ,h2.) _: is a subgr|p (
+_% ,g1 _:4 ,fur!rmore1 if _% ,h2 _: is
+normal 9 _% ,g2 _:1 !n _% f~-1"(,h2) _:
+is normal 9 _% ,g1 _:4
+
+,pro(4 "<#a"> ,suppose t ;e & _% e' _:
+>e ! id5tities ( _% ,g1 _: & _% ,g2 _:1
+respectively2 !n
+_%
+
+e'f(e) .k f(e) .k f(ee) .k f(e)f(e)
+
+_:4
+,by c.ella;n1 _% f(e) .k e' _:4
+  "<#b"> ,? /ate;t foll{s f !       #gei
+fact t
+_%
+
+f(g~-1")f(g) .k f(g~-1"g) .k f(e) .k e'
+
+_:4
+  "<#c"> ,! set _% f(,h1) _: is nonempty
+s9ce ! id5t;y ( _% ,g2 _: is 9
+_% f(,h1) _:4 ,suppose t _% ,h1 _: is a
+subgr|p ( _% ,g1 _: & let ;x & ;y 2 9
+_% f(,h1) _:4 ,"! exi/ ele;ts _% a, b `e
+,h1 _: s* t _% f(a) .k x _: & _% f(b) .k
+y _:4 ,s9ce
+_%
+
+xy~-1 .k f(a)`(f(b)`)~-1 .k f(ab~-1") `e
+f(,h1)
+
+_:1
+_% f(,h1) _: is a subgr|p ( _% ,g2 _: by
+,proposi;n #c4ca4
+  "<#d"> ,let _% ,h2 _: 2 a subgr|p (
+_% ,g2 _: & def9e _% ,h1 _: to 2
+_% f~-1"(,h2) _:2 t is1 _% ,h1 _: is !
+set ( all _% g `e ,g1 _: s* t       #gfj
+_% f(g) `e ,h2 _:4 ,! id5t;y is 9
+_% ,h1 _: s9ce _% f(e) .k e' _:4 ,if a &
+;b >e 9 _% ,h1 _:1 !n _% f(ab~-1") .k
+f(a)`(f(b)`)~-1 _: is 9 _% ,h2 _: s9ce
+_% ,h2 _: is a subgr|p ( _% ,g2 _:4
+,"!=e1 _% ab~-1" `e ,h1 _: & _% ,h1 _:
+is a subgr|p ( _% ,g1 _:4 ,if _% ,h2 _:
+is normal 9 _% ,g2 _:1 we m/ %{ t
+_% g~-1"hg `e ,h1 _: = _% h `e ,h1 _: &
+_% g `e ,g1 _:4 ,b
+_%
+
+f(g~-1"hg) .k `(f(g)`)~-1"f(h)f(g) `e
+,h2
+
+_:1
+s9ce _% ,h2 _: is a normal subgr|p (
+_% ,g2 _:4 ,"!=e1 _% g~-1"hg `e ,h1 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let _% .f"1 ,g $o ,h _: 2 a gr|p
+homomorphism & suppose t ;e is ! id5t;y
+( ;,h4 ,by ,proposi;n #aa4d1
+_% f~-1"(.(e.)) _: is a subgr|p ( ;,g4
+,? subgr|p is call$ ! ~1k}nel (     #gfa
+_% .f _: & w 2 d5ot$ by _% ker .f _:4
+,9 fact1 ? subgr|p is a normal subgr|p (
+;,g s9ce ! trivial subgr|p is normal 9
+;,h4 ,we /ate ? result 9 ! foll{+ !orem1
+: says t ) e homomorphism ( gr|ps we c
+naturally associate a normal subgr|p4
+
+7777777777777777777777777777777777777777
+,!orem #aa4e
+  ,let _% .f"1 ,g $o ,h _: 2 a gr|p
+homomorphism4 ,!n ! k}nel ( _% .f _: is
+a normal subgr|p ( ;,g4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                    #gfb
+7777777777777777777777777777777777777777
+,example #aa4f
+  ,let u exam9e ! homomorphism _% .f"1
+,g,l2(`;,r) $o `;,r~`# _: def9$ by _% ,a
+$|33o det (,a) _:4 ,s9ce #a is ! id5t;y
+( _% `;,r~`# _:1 ! k}nel ( ?
+homomorphism is all _% #2`*2 _: matrices
+hav+ det}m9ant "o4 ,t is1 _% ker .f .k
+,s,l2(`;,r) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #aa4g
+  ,! k}nel ( ! gr|p homomorphism _% .f"1
+`;,r $o `;,c~`# _: def9$ by _% f(.?) .k
+cos .?+isin .? _: is _% .(2.pn_3n `e
+`;,z.) _:4 ,notice t _% ker .f `:.k
+`;,z _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                    #gfc
+7777777777777777777777777777777777777777
+,example #aa4h
+  ,suppose t we wi% to det}m9e all
+possible homomorphisms _% .f _: f
+_% `;,z7 _: to _% `;,z12 _:4 ,s9ce !
+k}nel ( _% .f _: m/ 2 a subgr|p (
+_% `;,z7 _:1 "! >e only two possible
+k}nels1 _% .(0.) _: & all ( _% `;,z7 _:4
+,! image ( a subgr|p ( _% `;,z7 _: m/ 2
+a subgr|p ( _% `;,z12 _:4 ,h;e1 "! is no
+9jective homomorphism2 o!rwise1
+_% `;,z12 _: wd h a subgr|p ( ord} #g1 :
+is impossible4 ,3sequ5tly1 ! only
+possible homomorphism f _% `;,z7 _: to
+_% `;,z12 _: is ! "o mapp+ all ele;ts to
+z}o4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+                                    #gfd
+7777777777777777777777777777777777777777
+,example #aa4i
+  ,let ;,g 2 a gr|p4 ,suppose t _% g `e
+,g _: & _% .f _: is ! homomorphism f
+_% `;,z _: to ;,g giv5 by _% f(n) .k
+g~n _:4 ,if ! ord} ( ;g is 9f9ite1 !n !
+k}nel ( ? homomorphism is _% .(0.) _:
+s9ce _% .f _: maps _% `;,z _: onto !
+cyclic subgr|p ( ;,g g5}at$ by ;g4
+,h{"e1 if ! ord} ( ;g is f9ite1 say ;n1
+!n ! k}nel ( _% .f _: is _% n`;,z _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #aa4b ,! ,isomorphism ,!orems
+  ,al? x is n evid5t at f/1 factor gr|ps
+correspond exactly to homomorphic
+images1 & we c use factor gr|ps to /udy
+homomorphisms4 ,we alr "k t ) e gr|p
+homomorphism _% .f"1 ,g $o ,h _: we c
+associate a normal subgr|p ( ;,g1 _% ker
+.f _:4 ,! 3v}se is al true2 t is1 e
+normal subgr|p ( a gr|p ;,g gives rise
+to homomorphism ( gr|ps4
+  ,let ;,h 2 a normal subgr|p (     #gfe
+;,g4 ,def9e ! ~1natural or ~1canonical
+~1homomorphism
+_%
+
+.f"1 ,g $o ,g_/,h
+
+_:
+by
+_%
+
+f(g) .k g,h
+
+_:4
+,? is 9de$ a homomorphism1 s9ce
+_%
+
+f(g1g2) .k g1g2,h .k g1,hg2,h .k
+f(g1)f(g2)
+
+_:4
+,! k}nel ( ? homomorphism is ;,h4 ,!
+foll{+ !orems describe ! rela;n%ips 2t
+gr|p homomorphisms1 normal subgr|ps1 &
+factor gr|ps4
+                                    #gff
+7777777777777777777777777777777777777777
+,!orem #aa4aj ,f/ ,isomorphism ,!orem4
+  ,if _% .y"1 ,g $o ,h _: is a gr|p
+homomorphism ) _% ,k .k ker .y _:1 !n
+;,k is normal 9 ;,g4 ,let _% .f"1 ,g $o
+,g_/,k _: 2 ! canonical homomorphism4
+,!n "! exi/s a unique isomorphism
+_% .:"1 ,g_/,k $o .y(,g) _: s* t _% .y
+.k .:.f _:4
+
+,pro(4 ,we alr "k t ;,k is normal 9 ;,g4
+,def9e _% .:"1 ,g_/,k $o .y(,g) _: by
+_% .:(g,k) .k .y(g) _:4 ,we f/ %{ t
+_% .: _: is a well-def9$ map4 ,if
+_% g1,k .k g2,k _:1 !n = "s _% k `e
+,k _:1 _% g1k .k g2 _:2 3sequ5tly1
+_%
+
+.:(g1,k) .k .y(g1) .k .y(g1).y(k) .k
+.y(g1k) .k .y(g2) .k .:(g2,k)
+
+_:4
+,?us1 _% .: _: does n dep5d on ! *oice (
+coset repres5tatives & ! map _% .:"1
+,g_/,k $o .y(,g) _: is uniquely     #gfg
+def9$ s9ce _% .y .k .:.f _:4 ,we m/ al
+%{ t _% .: _: is a homomorphism4 ,9de$1
+_%
+
+.:(g1,kg2,k)        .k .:(g1g2,k)
+.k .y(g1g2)
+.k .y(g1).y(g2)
+.k .:(g1,k).:(g2,k)
+
+_:4
+,cle>ly1 _% .: _: is onto _% .y(,g) _:4
+,to %{ t _% .: _: is "o-to-"o1 suppose t
+_% .:(g1,k) .k .:(g2,k) _:4 ,!n
+_% .y(g1) .k .y(g2) _:4 ,? implies t
+_% .y(g1~-1"g2) .k e _:1 or
+_% g1~-1"g2 _: is 9 ! k}nel ( _% .y _:2
+h;e1 _% g1~-1"g2,k .k ,k _:2 t is1
+_% g1,k .k g2,k _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,ma!maticians (t5 use diagrams call$
+~1commutative ~1diagrams to describe s*
+!orems4 ,! foll{+ diagram 8commutes0
+s9ce _% .y .k .:.f _:4
+       `.<,image3                   #gfh
+     homomorphs-f/-isomorphism4 ,a
+     diagram ) ;,g mapp$ ) an >r{ to ;,h
+     by psi on ! top r{4  ;,g gets mapp$
+     ) an >r{ d{n & "r to ,g_/,k by phi4
+      ,g_/,k gets mapp$ ) an >r{ up & "r
+     to ;,h by eta4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #gfi
+       `.<,replace ? page ) ,image3
+     homomorphs-f/-isomorphism4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ggj
+7777777777777777777777777777777777777777
+,example #aa4aa
+  ,let ;,g 2 a cyclic gr|p ) g5}ator ;g4
+,def9e a map _% .f"1 `;,z $o ,g _: by
+_% n $|33o g~n _:4 ,? map is a
+surjective homomorphism s9ce
+_%
+
+f(m+n) .k g~m+n .k g~m"g~n .k f(m)f(n)
+
+_:4
+,cle>ly _% .f _: is onto4 ,if _% |g| .k
+m _:1 !n  _% g~m .k e _:4 ,h;e1 _% ker
+.f .k m`;,z _: & _% `;,z_/ker .f .k
+`;,z_/m`;,z `:.k ,g _:4 ,on ! o!r h&1 if
+! ord} ( ;g is 9f9ite1 !n _% ker .f .k
+#0 _: & _% .f _: is an isomorphism ( ;,g
+& _% `;,z _:4 ,h;e1 two cyclic gr|ps >e
+isomorphic exactly :5 !y h ! same ord}4
+,up to isomorphism1 ! only cyclic gr|ps
+>e _% `;,z _: & _% `;,z;n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                    #gga
+7777777777777777777777777777777777777777
+,!orem #aa4ab ,second ,isomorphism
+,!orem4
+  ,let  ;,h 2 a subgr|p ( a gr|p ;,g "<n
+necess>ily normal 9 ;,g"> & ;,n a normal
+subgr|p ( ;,g4 ,!n _% ,h,n _: is a
+subgr|p ( ;,g1 _% ,h.%,n _: is a normal
+subgr|p ( ;,h1 &
+_%
+
+,h_/,h.%,n `:.k ,h,n_/,n
+
+_:4
+
+,pro(4 ,we w f/ %{ t _% ,h,n .k .(hn_3h
+`e ,h, n `e ,n.) _: is a subgr|p ( ;,g4
+,suppose t  _% h1n1, h2n2 `e ,h,n _:4
+,s9ce ;,n is normal1 _% (h2)~-1"n1h2 `e
+,n _:4 ,s
+_%
+
+(h1n1)(h2n2) .k h1h2((h2)~-1"n1h2)n2
+
+_:
+is 9 _% ,h,n _:4 ,! 9v}se ( _% hn   #ggb
+`e ,h,n _: is 9 _% ,h,n _: s9ce
+_%
+
+(hn)~-#1 .k n~-1"h~-1 .k
+h~-1"(hn~-1"h~-1")
+
+_:4
+  ,next1 we prove t _% ,h.%,n _: is
+normal 9 ;,h4 ,let _% h `e ,h _: & _% n
+`e ,h.%,n _:4 ,!n _% h~-1"nh `e ,h _:
+s9ce ea* ele;t is 9 ;,h4 ,al1 _% h~-1"nh
+`e ,n _: s9ce ;,n is normal 9 ;,g2 "!=e1
+_% h~-1"nh `e ,h.%,n _:4
+  ,n{ def9e a map _% .f _: f ;,h to
+_% ,h,n_/,n _: by _% h $|33o h,n _:4 ,!
+map _% .f _: is onto1 s9ce any coset
+_% hn,n .k h,n _: is ! image ( ;h 9 ;,h4
+,we al "k t _% .f _: is a homomorphism
+2c
+_%
+
+f(hh~'") .k hh',n .k h,nh',n .k
+f(h)f(h~'")
+
+_:4                                 #ggc
+,by ! ,f/ ,isomorphism ,!orem1 ! image (
+_% .f _: is isomorphic to _% ,h_/ker
+.f _:2 t is1
+_%
+
+,h,n_/,n .k f(,h) `:.k ,h_/ker f
+
+_:4
+,s9ce
+_%
+
+ker .f .k .(h `e ,h "1 h `e ,n.) .k
+,h.%,n
+
+_:1
+_% ,h,n_/,n .k f(,h) `:.k ,h_/,h.%,n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #aa4ac ,correspond;e ,!orem4
+  ,let ;,n 2 a normal subgr|p ( a gr|p
+;,g4 ,!n _% ,h $|33o ,h_/,n _: is a
+"o-to-"o correspond;e 2t ! set (
+subgr|ps ;,h ( ;,g 3ta9+ ;,n & !    #ggd
+set ( subgr|ps ( _% ,g_/,n _:4
+,fur!rmore1 ! normal subgr|ps ( ;,g
+3ta9+ ;,n correspond to normal subgr|ps
+( _% ,g_/,n _:4
+
+,pro(4 ,let ;,h 2 a subgr|p ( ;,g 3ta9+
+;,n4 ,s9ce ;,n is normal 9 ;,h1
+_% ,h_/,n _: is a factor gr|p4 ,let
+_% a,n _: & _% b,n _: 2 ele;ts (
+_% ,h_/,n _:4 ,!n _% (a,n)(b~-1",n) .k
+ab~-1",n `e ,h_/,n _:2 h;e1 _% ,h_/,n _:
+is a subgr|p ( _% ,g_/,n _:4
+  ,let ;,s 2 a subgr|p ( _% ,g_/,n _:4
+,? subgr|p is a set ( cosets ( ;,n4 ,if
+_% ,h .k .(g `e ,g "1 g,n `e ,s.) _:1 !n
+= _% h1, h2 `e ,h _:1 we h t
+_% (h1,n)(h2,n) .k h1h2,n `e ,s _: &
+_% h1~-1",n `e ,s _:4 ,"!=e1 ;,h m/ 2 a
+subgr|p ( ;,g4 ,cle>ly1 ;,h 3ta9s ;,n4
+,"!=e1 _% ,s .k ,h_/,n _:4 ,3sequ5tly1 !
+map _% ,h $|33o ,h_/,n _: is onto4
+  ,suppose t _% ,h1 _: & _% ,h2 _: >e
+subgr|ps ( ;,g 3ta9+ ;,n s* t _% ,h1_/,n
+.k ,h2_/,n _:4 ,if _% h1 `e ,h1 _:1 !n
+_% h1,n `e ,h1_/,n _:4 ,h;e1        #gge
+_% h1,n .k h2,n _"k ,h2 _: = "s _% h2 _:
+9 _% ,h2 _:4 ,h{"e1 s9ce ;,n is 3ta9$ 9
+_% ,h2 _:1 we "k t _% h1 `e ,h2 _: or
+_% ,h1 _"k ,h2 _:4 ,simil>ly1 _% ,h2 _"k
+,h1 _:4 ,s9ce _% ,h1 .k ,h2 _:1 ! map
+_% ,h $|33o ,h_/,n _: is "o-to-"o4
+  ,suppose t ;,h is normal 9 ;,g & ;,n
+is a subgr|p ( ;,h4 ,!n x is easy to
+v}ify t ! map _% ,g_/,n $o ,g_/,h _:
+def9$ by _% g,n $|33o g,h _: is a
+homomorphism4 ,! k}nel ( ? homomorphism
+is _% ,h_/,n _:1 : proves t _% ,h_/,n _:
+is normal 9 _% ,g_/,n _:4
+  ,3v}sely1 suppose t _% ,h_/,n _: is
+normal 9 _% ,g_/,n _:4 ,! homomorphism
+giv5 by
+_%
+
+,g $o ,g_/,n $o ?,g_/,n/,h_/,n#
+
+_:
+has k}nel ;,h4 ,h;e1 ;,h m/ 2 normal 9
+;,g4
+gggggggggggggggggggggggggggggggggggggggg
+                                    #ggf
+  ,notice t 9 ! c|rse ( ! pro( (
+,!orem #aa4ac1 we h al prov$ ! foll{+
+!orem4
+
+7777777777777777777777777777777777777777
+,!orem #aa4ad ,?ird ,isomorphism ,!orem4
+  ,let ;,g 2 a gr|p & ;,n & ;,h 2 normal
+subgr|ps ( ;,g ) _% ,n _"k ,h _:4 ,!n
+_%
+
+,g_/,h `:.k ?,g_/,n/,h_/,n#
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                    #ggg
+7777777777777777777777777777777777777777
+,example #aa4ae
+  ,by ! ,?ird ,isomorphism ,!orem1
+_%
+
+`;,z_/m`;,z `:.k
+(`;,z_/mn`;,z)_/(m`;,z_/mn`;,z)
+
+_:4
+,s9ce _% |`;,z_/mn`;,z| .k mn _: & 
+_% |`;,z_/m`;,z| .k m _:1 we h
+_% |m`;,z_/mn`;,z| .k n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #aa4c ,r1d+ ,"qs
+
+#a4 ,3sid} ! func;n _% .f"1 `;,z10 $o
+`;,z10 _: def9$ by _% f(x) .k x+x _:4
+,prove t _% .f _: is a gr|p
+homomorphism4
+
+#b4 ,= _% .f _: def9$ 9 ! previ|s "q1
+expla9 :y _% .f _: is n a gr|p
+isomorphism4                        #ggh
+#c4 ,comp>e & 3tra/ isomorphisms &
+homomorphisms4
+
+#d4 ,p>aphrase ! ,f/ ,isomorphism ,!orem
+us+ .1only .1~ws4 ,no symbols all{$ .1at
+.1all4
+
+#e4 8,= e normal subgr|p "! is a
+homomorphism1 & = e homomorphism "! is a
+normal subgr|p40 ,expla9 ! "<precise">
+basis = ? "<vague"> /ate;t4
+
+    #aa4d ,ex}cises
+
+#a4 ,prove t _% det (,a,b) .k det
+(,a)det (,b) _: = _% ,a, ,b `e
+,g,l2(`;,r) _:4 ,? %{s t ! det}m9ant is
+a homomorphism f _% ,g,l2(`;,r) _: to
+_% `;,r~`# _:4
+
+#b4 ,: ( ! foll{+ maps >e homomorphisms8
+,if ! map is a homomorphism1 :at is !
+k}nel8
+a4 _% .f"1 `;,r~`# $o ,g,l2(`;,r) _:
+def9$ by                            #ggi
+_%
+
+f(a) .k ,(#1 #0,)
+        ,(#0 a ,)
+
+_:
+;b4 _% .f"1 `;,r $o ,g,l2(`;,r) _: def9$
+by
+_%
+
+f(a) .k ,(#1 #0,)
+        ,(a  #1,)
+
+_:
+;c4 _% .f"1 ,g,l2(`;,r) $o `;,r _: def9$
+by
+_%
+
+f(,(a b,)) .k a+d
+  ,(c d,)
+
+_:
+;d4 _% .f"1 ,g,l2(`;,r) $o `;,r~`# _:
+def9$ by
+                                    #ghj
+_%
+
+f(,(a b,)) .k ad-bc
+  ,(c d,)
+
+_:
+;e4 _% .f"1 `;,m2(`;,r) $o `;,r _: def9$
+by
+_%
+
+f(,(a b,)) .k b
+  ,(c d,)
+
+_:1
+": _% `;,m2(`;,r) _: is ! additive gr|p
+( _% #2`*2 _: matrices ) 5tries 9
+_% `;,r _:4
+
+,h9t4 "<a"> is a homomorphism ) k}nel
+_% .(1.) _:2 "<;c"> is n a homomorphism4
+
+#c4 ,let ,a 2 an _% m`*n _: matrix4 ,%{
+t matrix multiplica;n1 _% x $|33o
+,ax _:1 def9es a homomorphism _% .f"1
+`;,r~n $o `;,r~m _:4                #gha
+#d4 ,let _% .f"1 `;,z $o `;,z _: 2 giv5
+by _% f(n) .k #7n _:4 ,prove t _% .f _:
+is a gr|p homomorphism4 ,f9d ! k}nel & !
+image ( _% .f _:4
+
+,h9t4 ,s9ce _% f(m+n) .k #7(m+n) .k
+#7m+7n .k f(m)+f(n) _:1 _% .f _: is a
+homomorphism4
+
+#e4 ,describe all ( ! homomorphisms f
+_% `;,z24 _: to _% `;,z18 _:4
+
+,h9t4 ,= any homomorphism _% .f"1 `;,z24
+$o `;,z18 _:1 ! k}nel ( _% .f _: m/ 2 a
+subgr|p ( _% `;,z24 _: & ! image (
+_% .f _: m/ 2 a subgr|p ( _% `;,z18 _:4
+,n{ use ! fact t a g5}ator m/ map to a
+g5}ator4
+
+#f4 ,describe all ( ! homomorphisms f
+_% `;,z _: to _% `;,z12 _:4
+
+#g4 ,9 ! gr|p _% `;,z24 _:1 let _% ,h .k
+..(4..) _: & _% ,n .k ..(6..) _:4
+a4 ,li/ ! ele;ts 9 _% ,h,n _:       #ghb
+"<we usually write _% ,h+,n _: = ~!
+additive gr|ps"> & _% ,h.%,n _:4
+;b4 ,li/ ! cosets 9 _% ,h,n_/,n _:1 %{+
+! ele;ts 9 ea* coset4
+;c4 ,li/ ! cosets 9 _% ,h_/(,h.%,n) _:1
+%{+ ! ele;ts 9 ea* coset4
+;d4 ,give ! correspond;e 2t
+_% ,h,n_/,n _: & _% ,h_/(,h.%,n) _:
+describ$ 9 ! pro( ( ! ,second
+,isomorphism ,!orem4
+
+#h4 ,if ;,g is an abelian gr|p & _% n `e
+`;,n _:1 %{ t _% .f"1 ,g $o ,g _: def9$
+by _% g $|33o g~n _: is a gr|p
+homomorphism4
+
+#i4 ,if _% .f"1 ,g $o ,h _: is a gr|p
+homomorphism & ;,g is abelian1 prove t
+_% f(,g) _: is al abelian4
+
+,h9t4 ,let _% a, b `e ,g _:4 ,!n _%
+f(a)f(b) .k f(ab) .k f(ba) .k f(b)f(a)
+_:4
+
+#aj4 ,if _% .f"1 ,g $o ,h _: is a   #ghc
+gr|p homomorphism & ;,g is cyclic1 prove
+t _% f(,g) _: is al cyclic4
+
+#aa4 ,%{ t a homomorphism def9$ on a
+cyclic gr|p is completely det}m9$ by xs
+ac;n on ! g5}ator ( ! gr|p4
+
+#ab4 ,if a gr|p ;,g has exactly "o
+subgr|p ;,h ( ord} ;k1 prove t ;,h is
+normal 9 ;,g4
+
+#ac4 ,prove or 4prove3 _% `;,q_/`;,z
+`:.k `;,q _:4
+
+#ad4 ,let ;,g 2 a f9ite gr|p & ;,n a
+normal subgr|p ( ;,g4 ,if ;,h is a
+subgr|p ( _% ,g_/,n _:1 prove t
+_% f~-1"(,h) _: is a subgr|p 9 ;,g (
+ord} _% |,h|*|,n| _:1 ": _% .f"1 ,g $o
+,g_/,n _: is ! canonical homomorphism4
+
+#ae4 ,let _% ,g1 _: & _% ,g2 _: 2 gr|ps1
+& let _% ,h1 _: & _% ,h2 _: 2 normal
+subgr|ps ( _% ,g1 _: & _% ,g2 _:
+respectively4 ,let _% .f"1 ,g1 $o   #ghd
+,g2 _: 2 a homomorphism4 ,%{ t _% .f _:
+9duces a homomorphism _% .f:"1
+(,g1_/,h1) $o (,g2_/,h2) _: if _% f(,h1)
+_"k ,h2 _:4
+
+#af4 ,if ;,h & ;,k >e normal subgr|ps (
+;,g & _% ,h.%,k .k .(e.) _:1 prove t ;,g
+is isomorphic to a subgr|p (
+_% ,g_/,h`*,g_/,k _:4
+
+#ag4 ,let _% .f"1 ,g1 $o ,g2 _: 2 a
+surjective gr|p homomorphism4 ,let
+_% ,h1 _: 2 a normal subgr|p ( _% ,g1 _:
+& suppose t _% f(,h1) .k ,h2 _:4 ,prove
+or 4prove t _% ,g1_/,h1 `:.k
+,g2_/,h2 _:4
+
+,h9t4 ,f9d a c.t}example4
+
+#ah4 ,let _% .f"1 ,g $o ,h _: 2 a gr|p
+homomorphism4 ,%{ t _% .f _: is "o-to-"o
+if & only if _% f~-1"(e) .k .(e.) _:4
+
+#ai4 ,giv5 a homomorphism _% .f"1 ,g $o
+,h _: def9e a rela;n _% `: _: on    #ghe
+;,g by _% a `: b _: if _% f(a) .k
+f(b) _: = _% a, b `e ,g _:4 ,%{ ? rela;n
+is an equival;e rela;n & describe !
+equival;e classes4
+
+    #aa4e ,addi;nal ,ex}cises3
+    ,automorphisms
+
+#a4 ,let _% ,aut(,g) _: 2 ! set ( all
+automorphisms ( ;,g2 t is1 isomorphisms
+f ;,g to xf4 ,prove ? set =ms a gr|p &
+is a subgr|p ( ! gr|p ( p}muta;ns ( ;,g2
+t is1 _% ,aut(,g) "k: ,s;,g _:4
+
+#b4 ,an ~19n} ~1automorphism ( ;,g1
+_%
+
+i;g"1 ,g $o ,g
+
+_:1
+is def9$ by ! map
+
+
+
+                                    #ghf
+_%
+
+i;g"(x) .k gxg~-1
+
+_:1
+= _% g `e ,g _:4 ,%{ t _% i;g" `e
+,aut(,g) _:4
+
+#c4 ,! set ( all 9n} automorphisms is
+d5ot$ by _% ,inn(,g) _:4 ,%{ t
+_% ,inn(,g) _: is a subgr|p (
+_% ,aut(,g) _:4
+
+#d4 ,f9d an automorphism ( a gr|p ;,g t
+is n an 9n} automorphism4
+
+#e4 ,let ;,g 2 a gr|p & _% i;g _: 2 an
+9n} automorphism ( ;,g1 & def9e a map
+_%
+
+,g $o ,aut(,g)
+
+_:
+by
+                                    #ghg
+_%
+
+g $|33o i;g
+
+_:4
+,prove t ? map is a homomorphism ) image
+_% ,inn(,g) _: & k}nel _% ,z(,g) _:4
+,use ? result to 3clude t
+_%
+
+,g_/,z(,g) `:.k ,inn(,g)
+
+_:4
+
+#f4 ,compute _% ,aut(,s3) _: &
+_% ,inn(,s3) _:4 ,d ! same ?+ =
+_% ,d4 _:4
+
+#g4 ,f9d all ( ! homomorphisms _% .f"1
+`;,z $o `;,z _:4 ,:at is
+_% ,aut(`;,z) _:;8
+
+#h4 ,f9d all ( ! automorphisms (
+_% `;,z8 _:4 ,prove t _% ,aut(`;,z8)
+`:.k ,u(8) _:4                      #ghh
+#i4 ,= _% k `e `;,z;n _:1 def9e a map
+_% .f;k"1 `;,z;n $o `;,z;n _: by _% a
+$|33o ka _:4 ,prove t _% .f;k _: is a
+homomorphism4
+
+#aj4 ,prove t _% .f;k _: is an
+isomorphism if & only if ;k is a g5}ator
+( _% `;,z;n _:4
+
+#aa4 ,%{ t e automorphism ( _% `;,z;n _:
+is ( ! =m _% .f;k _:1 ": ;k is a g5}ator
+( _% `;,z;n _:4
+
+#ab4 ,prove t _% .y"1 ,u(n) $o
+,aut(`;,z;n") _: is an isomorphism1 ":
+_% .y"1 k $|33o .f;k _:4
+
+    #aa4f ,sage
+  ,sage is able to cr1te homomorphisms
+"<& by ext5.n1 isomorphisms &
+automorphisms"> 2t f9ite p}muta;n gr|ps4
+,"! is a limit$ supply ( comm&s !n
+available to manipulate ~! func;ns1 b we
+c / illu/rate _m ( ! id1s 9 ? *apt}4
+                                    #ghi
+      ,homomorphisms
+  ,! pr9cipal device = cr1t+ a
+homomorphism is to specify ! specific
+images ( ! set ( g5}ators = ! doma94
+,3sid} cyclic gr|ps ( ord} #ab & #bj3
+_%
+
+,g .k .(a~i|a~12 .k e.) ,h .k .(x~i|x~20
+.k e.)
+
+_:
+& def9e a homomorphism by j def9+ !
+image ( ! g5}ator ( ;,g1 & def9e ! re/ (
+! mapp+ by ext5d+ ! mapp+ via !
+op}a;n-pres}v+ prop}ty ( a homomorphism4
+_%
+
+f"1 ,g $o ,h,  f(a) .k x~5"
+$33oo          f(a~i") .k f(a)~i" .k
+(x~5")~i .k x~5i
+
+_:
+,! 3/ructor `#1,p}muta;n,gr|p,morphism
+requires ! two gr|ps1 !n a li/ ( images
+= ea* g5}ator "<9 ord}6">1 & !n w   #gij
+cr1te ! homomorphism4 ,note t we c !n
+use ! result z a func;n4 ,9 ! example
+2l1 we f/ v}ify t `#1,c#ab has a s+le
+g5}ator "<no surprise "!">1 : we !n s5d
+to a "picul> ele;t ( ord} #d 9 !
+codoma94 ,sage !n 3/ructs ! unique
+homomorphism t is 3si/5t ) ? require;t4
+
+`#7,c#ab "7
+,cyclic,p}muta;n,gr|p"<#ab">`#'
+`#7,c#bj "7
+,cyclic,p}muta;n,gr|p"<#bj">`#'
+`#7doma9.-g5s "7 ,c#ab4;gens"<">`#'
+`#7.<g4ord}"<"> = ;g 9 doma9.-g5s.>`#'
+-----------------
+`#1.<#ab.>
+
+
+`#7;x "7 ,c#bj4;gen"<#j">`#'
+`#7;y "7 x`5#e`#'
+`#1y4ord}"<">
+-----------------
+`#2#d
+
+                                    #gia
+`#7phi "7
+,p}muta;n,gr|p,morphism"<,c#ab1 ,c#bj1
+.<;y.>">`#'
+`#1phi
+-----------------
+`#7,p}muta;n gr|p morphism3`#'
+  `#7,f3 ,cyclic gr|p ( ord} #ab z a
+p}muta;n gr|p`#'
+  `#7,to3   ,cyclic gr|p ( ord} #bj z a
+p}muta;n gr|p`#'
+  `#7,defn3
+.<"<#a1b1c1d1e1f1g1h1i1aj1aa1ab">.>
+-`>`#'
+      
+`#1.<"<#a1f1aa1af">"<#b1g1ab1ag">"<#c1h-
+1ac1ah">"<#d1i1ad1ai">"<#e1aj1ae1bj">.>
+
+
+
+
+
+
+
+
+                                    #gib
+`#7a "7
+,c#ab"<,7"<#a1f1aa1d1i1b1g1ab1e1aj1c1h"-
+>,7">`#'
+`#1phi"<a">
+-----------------
+`#1"<#a1f1aa1af">"<#b1g1ab1ag">"<#c1h1a-
+c1ah">"<#d1i1ad1ai">"<#e1aj1ae1bj">
+
+
+`#7;b "7
+,c#ab"<,7"<#a1c1e1g1i1aa">"<#b1d1f1h1aj-
+1ab">,7">`#'
+`#1phi"<b">
+-----------------
+`#1"<#a1aa">"<#b1ab">"<#c1ac">"<#d1ad">-
+"<#e1ae">"<#f1af">"<#g1ag">"<#h1ah">"<#-
+i1ai">"<#aj1bj">
+
+
+
+
+
+
+
+                                    #gic
+`#7;c "7
+,c#ab"<,7"<#a1i1e">"<#b1aj1f">"<#c1aa1g-
+">"<#d1ab1h">,7">`#'
+`#1phi"<c">
+-----------------
+`#1"<">
+
+  ,note t ! ele;t `#2;c m/ "!=e 2 9 !
+k}nel ( `#1phi4
+  ,we c !n compute ! subgr|p ( ! doma9 t
+is ! k}nel1 9 ? case a cyclic gr|p (
+ord} #c 9side ! cyclic gr|p ( ord} #ab4
+,we c compute ! image ( .1any subgr|p1 b
+"h we w build ! :ole homomorphic image
+by supply+ ! :ole doma9 to !
+`#1;4image"<"> me?od4 ,"h ! image is a
+cyclic subgr|p ( ord} #d 9side ! cyclic
+gr|p ( ord} #bj4 ,!n we c v}ify ! ,f/
+,isomorphism ,!orem4
+
+
+
+
+
+                                    #gid
+`#7;,k "7 phi4k}nel"<">2 ;,k`#'
+-----------------
+`#7,subgr|p g5}at$ by
+.<"<#a1e1i">"<#b1f1aj">"<#c1g1aa">"<#d1-
+h1ab">.>`#'
+`#7( "<,cyclic gr|p ( ord} #ab z a
+p}muta;n gr|p">`#'
+
+
+`#7,im "7 phi4image"<,c#ab">2 ,im`#'
+-----------------
+`#7,subgr|p g5}at$ by
+.<"<#a1f1aa1af">"<#b1g1ab1ag">"<#c1h1ac-
+1ah">"<#d1i1ad1ai">"<#e1aj1ae1bj">.>`#'
+`#7( "<,cyclic gr|p ( ord} #bj z a
+p}muta;n gr|p">`#'
+
+
+`#1,im4is.-isomorphic"<,c#ab4quotient"<-
+,k">">
+-----------------
+`#1,true
+
+  ,"h is a sli<tly m complicat$ example4
+,! dih$ral gr|p _% ,d20 _: is !     #gie
+symmetry gr|p ( a #bj-gon4 ,9side ? gr|p
+is a subgr|p t is isomorphic to !
+symmetry gr|p ( a #e-gon "<p5tagon">4
+,is ? a surprise1 or is ? obvi|s8 ,"h is
+a way to make precise ! /ate;t 8
+_% ,d20 _: 3ta9s a copy ( _% ,d5 _:40
+  ,we build ! doma9 & f9d xs g5}ators1 s
+we "k h{ _m images to supply 9 ! def9i;n
+( ! homomorphism4 ,!n we 3/ruct !
+codoma91 f : we w 3/ruct images4 ,|r
+*oice "h is to s5d a reflec;n to a
+reflec;n1 & a rota;n to a rota;n4 ,b !
+rota;ns w bo? h ord} #e1 & bo? >e a
+rota;n by #gb degrees4
+
+`#7;,g "7 ,dih$ral,gr|p"<#e">`#'
+`#7;,h "7 ,dih$ral,gr|p"<#bj">`#'
+`#1,g4g5s"<">
+-----------------
+`#1"<"<#a1b1c1d1e">1
+`#1"<#a1e">"<#b1d">">
+
+
+
+                                    #gif
+`#1,h4g5s"<">
+-----------------
+`#1"<"<#a1b1c1d1e1f1g1h1i1aj1aa1ab1ac1a-
+d1ae1af1ag1ah1ai1bj">1
+`#1"<#a1bj">"<#b1ai">"<#c1ah">"<#d1ag">-
+"<#e1af">"<#f1ae">"<#g1ad">"<#h1ac">"<#-
+i1ab">"<#aj1aa">">
+
+
+`#7;x "7 ,h4g5"<#j">`5#d`#'
+`#7;y "7 ,h4g5"<#a">`#'
+`#7rho "7 ,p}muta;n,gr|p,morphism"<,g1
+;,h1 .<;x1 ;y.>">`#'
+`#1rho4k}nel"<">
+-----------------
+`#7,subgr|p g5}at$ by .<"<">.> (
+"<,dih$ral gr|p ( ord} #aj z a p}muta;n
+gr|p">`#'
+
+  ,s9ce ! k}nel is trivial1 `#1rho is a
+"o-to-"o func;n "<see
+,ex}cise #aa4d4ah">4 ,b m importantly1
+by ! ,f/ ,isomorphi%m ,!orem1 `#2;,g is
+isomorphic to ! image ( ! homomorphism4
+,we compute ! image & *eck !        #gig
+claim4
+
+`#7,im "7 rho4image"<,g">2 ,im`#'
+-----------------
+`#7,subgr|p g5}at$ by
+.<"<#a1e1i1ac1ag">"<#b1f1aj1ad1ah">"<#c-
+1g1aa1ae1ai">"<#d1h1ab1af1bj">1
+"<#a1bj">"<#b1ai">"<#c1ah">"<#d1ag">"<#-
+e1af">"<#f1ae">"<#g1ad">"<#h1ac">"<#i1a-
+b">"<#aj1aa">.>`#'
+`#7( "<,dih$ral gr|p ( ord} #dj z a
+p}muta;n gr|p">`#'
+
+
+`#1,im4is.-subgr|p"<,h">
+-----------------
+`#1,true
+
+
+`#1,im4is.-isomorphic"<,g">
+-----------------
+`#1,true
+
+  ,j provid+ a li/ ( images = ! g5}ators
+( ! doma9 is no gu>antee t !        #gih
+func;n w ext5d to a homomorphism4 ,=
+/>t}s1 ! ord} ( ea* image m/ divide !
+ord} ( ! correspond+ preimage4 "<,c y
+prove ?8"> ,& simil>ly1 if ! doma9 is
+abelian1 !n ! image m/ al 2 abelian1 s 9
+? case ! li/ ( images %d n g5}ate a
+non-abelian subgr|p4 ,"h is an example4
+,"! >e no homomorphisms f a cyclic gr|p
+( ord} #g to a cyclic gr|p ( ord} #d
+"<o!r ?an ! trivial func;n t takes e
+ele;t to ! id5t;y">4 ,to see ?1 3sid} !
+possible ord}s ( ! k}nel1 & ( ! two
+possibilities1 see t "o is impossible &
+! o!r >ises ) ! trivial homomorphism4
+,un=tunately1 ,sage acts z if no?+ is
+wr;g 9 cr1t+ a homomorphism 2t ~! gr|ps1
+b :at ,sage builds is use.s & raises
+}rors :5 y try to use x4
+
+
+
+
+
+
+                                    #gii
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<#g">`#'
+`#7;,h "7 ,cyclic,p}muta;n,gr|p"<#d">`#'
+`#7tau "7
+,p}muta;n,gr|p,morphism.-im.-g5s"<,g1
+;,h1 ,h4g5s"<">">`#'
+`#1tau
+-----------------
+`#7,p}muta;n gr|p morphism3`#'
+  `#7,f3 ,cyclic gr|p ( ord} #g z a
+p}muta;n gr|p`#'
+  `#7,to3   ,cyclic gr|p ( ord} #d z a
+p}muta;n gr|p`#'
+  `#7,defn3 .<"<#a1b1c1d1e1f1g">.> -`>
+.<"<#a1b1c1d">.>`#'
+
+
+`#1tau4k}nel"<">
+-----------------
+`#7,traceback "<mo/ rec5t call la/">3`#'
+`#1444
+`#7,run"t,}ror3 ,gap produc$ }ror
+|tput`#'
+`#1444
+
+  ,r ?an cr1t+ homomorphisms        #hjj
+|rvs1 9 c}ta9 situa;ns ,sage "ks ( !
+exi/;e ( natural homomorphisms & w cr1te
+!m = y4 ,"o s* case is a direct product
+3/ruc;n4 ,giv5 a gr|p `#2;,g1 ! me?od
+`#1;4direct.-product"<,h"> w cr1te !
+direct product _% ,g`*,h _:4 "<,? is n !
+same comm& z ! func;n
+`#1direct.-product.-p}mgr|ps"<"> f 2f4">
+,n only does ? comm& cr1te ! direct
+product1 b x al builds .1f|r
+homomorphisms1 "o ) doma9 ;,g1 "o )
+doma9 ;,h & two ) doma9 _% ,g`*,h _:4 ,s
+! |tput 3si/s ( five objects1 ! f/ 2+ !
+actual gr|p1 & ! rema9d} >e
+homomorphisms4 ,we w demon/rate ! call
+"h1 & l1ve a m ?or|< 9ve/iga;n = !
+ex}cises4
+
+
+
+
+
+
+
+                                    #hja
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<#c">`#'
+`#7;,h "7 ,dih$ral,gr|p"<#d">`#'
+`#7results "7
+,g4direct.-product"<,h">`#'
+`#1results.<#j.>
+-----------------
+`#7,p}muta;n ,gr|p ) g5}ators
+.<"<#d1e1f1g">1 "<#d1g">"<#e1f">1
+"<#a1b1c">.>`#'
+
+
+`#1results.<#a.>
+-----------------
+`#7,p}muta;n gr|p morphism3`#'
+  `#7,f3 ,cyclic gr|p ( ord} #c z a
+p}muta;n gr|p`#'
+  `#7,to3   ,p}muta;n ,gr|p )
+g5}ators`#'
+        `#7.<"<#d1e1f1g">1
+"<#d1g">"<#e1f">1 "<#a1b1c">.>`#'
+  `#7,defn3 ,emb$d+"< ,gr|p"< .<
+"<#a1b1c">1 "<#d1e1f1g">1
+"<#d1g">"<#e1f"> .> ">1 #a ">`#'
+
+                                    #hjb
+`#1results.<#b.>
+-----------------
+`#7,p}muta;n gr|p morphism3`#'
+  `#7,f3 ,dih$ral gr|p ( ord} #h z a
+p}muta;n gr|p`#'
+  `#7,to3   ,p}muta;n ,gr|p )
+g5}ators`#'
+        `#7.<"<#d1e1f1g">1
+"<#d1g">"<#e1f">1 "<#a1b1c">.>`#'
+  `#7,defn3 ,emb$d+"< ,gr|p"< .<
+"<#a1b1c">1 "<#d1e1f1g">1
+"<#d1g">"<#e1f"> .> ">1 #b ">`#'
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hjc
+`#1results.<#c.>
+-----------------
+`#7,p}muta;n gr|p morphism3`#'
+  `#7,f3 ,p}muta;n ,gr|p ) g5}ators`#'
+        `#7.<"<#d1e1f1g">1
+"<#d1g">"<#e1f">1 "<#a1b1c">.>`#'
+  `#7,to3   ,cyclic gr|p ( ord} #c z a
+p}muta;n gr|p`#'
+  `#7,defn3 ,projec;n"< ,gr|p"< .<
+"<#a1b1c">1 "<#d1e1f1g">1
+"<#d1g">"<#e1f"> .> ">1 #a ">`#'
+
+
+`#1results.<#d.>
+-----------------
+`#7,p}muta;n gr|p morphism3`#'
+  `#7,f3 ,p}muta;n ,gr|p ) g5}ators`#'
+        `#7.<"<#d1e1f1g">1
+"<#d1g">"<#e1f">1 "<#a1b1c">.>`#'
+  `#7,to3   ,dih$ral gr|p ( ord} #h z a
+p}muta;n gr|p`#'
+  `#7,defn3 ,projec;n"< ,gr|p"< .<
+"<#a1b1c">1 "<#d1e1f1g">1
+"<#d1g">"<#e1f"> .> ">1 #b ">`#'
+                                    #hjd
+    #aa4g ,sage ,ex}cises
+
+#a4 ,an automorphism is an isomorphism
+2t a gr|p & xf4 ,! id5t;y func;n "<_% x
+$|33o x _:"> is alw an isomorphism1 : we
+3sid} trivial4 ,use ,sage to 3/ruct a
+nontrivial automorphism ( ! cyclic gr|p
+( ord} #ab4 ,*eck t ! mapp+ is bo? onto
+& "o-to-"o by comput+ ! image & k}nel &
+p}=m+ ! prop} te/s on ~! subgr|ps4 ,n{
+3/ruct all ( ! possible automorphisms (
+! cyclic gr|p ( ord} #ab )|t any
+duplicates4
+
+#b4 ,! f|r homomorphisms cr1t$ by !
+direct product 3/ruc;n >e ea* an example
+( a m g5}al 3/ruc;n ( homomorphisms
+9volv+ gr|ps ;,g1 ;,h & _% ,g`*,h _:4
+,by us+ ! same gr|ps z 9 ! example 9 !
+previ|s subsec;n1 see if y c 4cov} &
+describe ~! 3/ruc;ns ) exact def9i;ns (
+! f|r homomorphisms 9 g5}al4
+  ,yr tools = 9ve/igat+ a ,sage gr|p
+homomorphism >e limit$1 y mi<t take ea*
+g5}ator ( ! doma9 & see :at xs      #hje
+image is4 ,"h is an example ( ! type (
+computa;n y mi<t d rep1t$ly4 ,we'll
+9ve/igate ! second homomorphism4 ,!
+doma9 is ! dih$ral gr|p1 & we w compute
+! image ( ! f/ g5}ator4
+
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<#c">`#'
+`#7;,h "7 ,dih$ral,gr|p"<#d">`#'
+`#7results "7
+,g4direct.-product"<,h">`#'
+`#7phi "7 results.<#b.>`#'
+`#1,h4g5s"<">
+-----------------
+`#1"<"<#a1b1c1d">1 `#1"<#a1d">"<#b1c">">
+
+
+`#7a "7 ,h4g5"<#j">2 a`#'
+-----------------
+`#1"<#a1b1c1d">
+
+
+`#1phi"<a">
+-----------------
+`#1"<#d1e1f1g">
+                                    #hjf
+#c4 ,3sid} two p}muta;n gr|ps4 ,! f/ is
+! subgr|p ( _% ,s7 _: g5}at$ by _% (1,
+2, 3) _: & _% (4, 5, 6, 7) _:4 ,! second
+is a subgr|p ( _% ,s12 _: g5}at$ by _%
+(1, 2, 3)(4, 5, 6)(7, 8, 9)(10, 11, 12)
+_: & _% (1, 10, 7, 4)(2, 11, 8, 5)(3,
+12, 9, 6) _:4 ,build ~! two gr|ps & use
+! prop} ,sage comm& to see t !y >e
+isomorphic4 ,!n 3/ruct a homomorphism 2t
+~! two gr|ps t is an isomorphism &
+9clude 5 details to v}ify t ! mapp+ is
+r1lly an isomorphism4
+
+#d4 ,! second p>agraph ( ? *apt} 9=mally
+describes a homomorphism f _% ,s;n _: to
+_% `;,z2 _:1 ": ! ev5 p}muta;ns all map
+to "o ( ! ele;ts & ! odd p}muta;ns all
+map to ! o!r ele;t4 ,replace _% ,s;n _:
+by _% ,s6 _: & replace _% `;,z2 _: by !
+p}muta;n v}.n ( ! cyclic subgr|p ( ord}
+#b1 & 3/ruct a nontrivial homomorphism
+2t ~! two gr|ps4 ,evaluate yr
+homomorphism ) 5 ev5 & odd p}muta;ns to
+2 3v9c$ t x is correct4 ,!n 3/ruct !
+k}nel & v}ify t x is ! gr|p y       #hjg
+expect4
+  ,h9ts3 ,f/1 decide : ele;ts ( ! gr|p (
+ord} #b w 2 associat$ ) ev5 p}muta;ns &
+: w 2 associat$ ) odd p}muta;ns4 ,!n
+exam9e ! g5}ators ( _% ,s6 _: to help
+decide j h{ to build ! homomorphism4
+
+#e4 ,! dih$ral gr|p _% ,d20 _: has s"eal
+normal subgr|ps1 z se5 2l4 ,ea* ( ~! is
+! k}nel ( a homomorphism ) _% ,d20 _: z
+! doma94 ,= ea* normal subgr|p (
+_% ,d20 _: 3/ruct a homomorphism f
+_% ,d20 _: to _% ,d20 _: t has ! normal
+subgr|p z ! k}nel4 ,9clude 9 yr "w
+v}ifica;ns t y >e cr1t+ ! desir$ k}nels4
+,"! is a patt}n to _m ( ~!1 b ! ?ree (
+ord} #bj w 2 a *all5ge4
+
+`#7;,g "7 ,dih$ral,gr|p"<#bj">`#'
+`#7.<,h4ord}"<"> = ;,h 9
+,g4normal.-subgr|ps"<">.>`#'
+-----------------
+`#7.<#dj1 #bj1 #bj1 #bj1 #aj1 #d1 #b1
+#e1 #a.>`#'
+                                    #hjh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hji
+

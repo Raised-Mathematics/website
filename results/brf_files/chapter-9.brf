@@ -1,0 +1,1751 @@
+            #i ,isomorphisms
+
+  ,_m gr|ps may appe> to 2 di6}5t at f/
+gl.e1 b c 2 %{n to 2 ! same by a simple
+r5am+ ( ! gr|p ele;ts4 ,= example1
+_% `;,z4 _: & ! subgr|p ( ! circle gr|p
+_% `;,t _: g5}at$ by i c 2 %{n to 2 !
+same by demon/rat+ a "o-to-"o
+correspond;e 2t ! ele;ts ( ! two gr|ps &
+2t ! gr|p op}a;ns4 ,9 s* a case we say t
+! gr|ps >e isomorphic4
+
+    #i4a ,def9i;n & ,examples
+  ,two gr|ps _% (,g, *) _: & _% (,h,
+.*) _: >e ~1isomorphic if "! exi/s a
+"o-to-"o & onto map _% .f"1 ,g $o ,h _:
+s* t ! gr|p op}a;n is pres}v$2  t is1
+_%
+
+f(a*b) .k f(a).*f(b)
+
+_:
+= all a & ;b 9 ;,g4 ,if ;,g is
+isomorphic to ;,h1 we write _% ,g `:.k
+,h _:4  ,! map _% .f _: is call$    #fcg
+an ~1isomorphism4
+
+7777777777777777777777777777777777777777
+,example #i4a
+  ,to %{ t _% `;,z4 `:.k ..(i..) _:1
+def9e a map _% .f"1 `;,z4 $o ..(i..) _:
+by _% f(n) .k i~n _:4 ,we m/ %{ t
+_% .f _: is bijective & pres}ves ! gr|p
+op}a;n4 ,! map _% .f _: is "o-to-"o &
+onto 2c
+_%
+
+f(0) .k #1
+f(1) .k i
+f(2) .k -#1
+f(3) .k -i
+
+_:4
+,s9ce
+_%
+
+f(m+n) .k i~m+n .k i~m"i~n .k f(m)f(n)
+
+_:1
+! gr|p op}a;n is pres}v$4           #fch
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #i4b
+  ,we c def9e an isomorphism _% .f _: f
+! additive gr|p ( r1l numb}s _% (`;,r,
++) _: to ! multiplicative gr|p (
+positive r1l numb}s _% (`;,r~+, *) _: )
+! expon5tial map2 t is1
+_%
+
+f(x+y) .k e~x+y .k e~x"e~y .k f(x)f(y)
+
+_:4
+,( c|rse1 we m/ / %{ t _% .f _: is
+"o-to-"o & onto1 b ? c 2 det}m9$ us+
+calculus4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+                                    #fci
+7777777777777777777777777777777777777777
+,example #i4c
+  ,! 9teg}s >e isomorphic to ! subgr|p (
+_% `;,q~`# _: 3si/+ ( ele;ts ( ! =m
+_% #2~n _:4 ,def9e a map _% .f"1 `;,z $o
+`;,q~`# _: by _% f(n) .k #2~n _:4 ,!n
+_%
+
+f(m+n) .k #2~m+n .k #2~m"2~n .k f(m)f(n)
+
+_:4
+,by def9i;n ! map _% .f _: is onto !
+subset _% .(2~n_3n `e `;,z.) _: ( 
+_% `;,q~`# _:4 ,to %{ t ! map is
+9jective1 assume t _% m /.k n _:4 ,if we
+c %{ t _% f(m) /.k f(n) _:1 !n we >e
+d"o4 ,suppose t _% m .1 n _: & assume t
+_% f(m) .k f(n) _:4 ,!n _% #2~m .k
+#2~n _: or _% #2~m-n .k #1 _:1 : is
+impossible s9ce _% m-n .1 #0 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #i4d                       #fdj
+  ,! gr|ps _% `;,z8 _: & _% `;,z12 _: _c
+2 isomorphic s9ce !y h di6}5t ord}s2
+h{"e1 x is true t _% ,u(8) `:.k
+,u(12) _:4 ,we "k t
+_%
+
+,u(8)  .k .(1, 3, 5, 7.)
+,u(12) .k .(1, 5, 7, 11.)
+
+_:4
+,an isomorphism _% .f"1 ,u(8) $o
+,u(12) _: is !n giv5 by
+_%
+
+#1 $|33o #1
+#3 $|33o #5
+#5 $|33o #7
+#7 $|33o #11
+
+_:4
+,! map _% .f _: is n ! only possible
+isomorphism 2t ~! two gr|ps4 ,we cd
+def9e ano!r isomorphism _% .y _: by
+_% .y(1) .k #1 _:1 _% .y(3) .k #11 _:1
+_% .y(5) .k #5 _:1 _% .y(7) .k      #fda
+#7 _:4 ,9 fact1 bo? ( ~! gr|ps >e
+isomorphic to _% `;,z2`*`;,z2 _: "<see
+,example #c4bh 9 ,*apt} #c">4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #i4e
+  ,ev5 ?|< _% ,s3 _: & _% `;,z6 _:
+possess ! same numb} ( ele;ts1 we wd
+suspect t !y >e n isomorphic1 2c
+_% `;,z6 _: is abelian & _% ,s3 _: is
+nonabelian4 ,to demon/rate t ? is 9de$ !
+case1 suppose t _% .f"1 `;,z6 $o ,s3 _:
+is an isomorphism4 ,let _% a, b `e
+,s3 _: 2 two ele;ts s* t _% ab /.k
+ba _:4 ,s9ce _% .f _: is an isomorphism1
+"! exi/ ele;ts ;m & ;n 9 _% `;,z6 _: s*
+t
+_%
+
+f(m) .k a and f(n) .k b
+
+_:4
+,h{"e1                              #fdb
+_%
+
+ab .k f(m)f(n) .k f(m+n) .k f(n+m) .k
+f(n)f(m) .k ba
+
+_:1
+: 3tradicts ! fact t a & ;b d n commute4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #i4f
+  ,let _% .f"1 ,g $o ,h _: 2 an
+isomorphism ( two gr|ps4 ,!n ! foll{+
+/ate;ts >e true4
+#a4 _% .f~-1"1 ,h $o ,g _: is an
+isomorphism4
+#b4 _% |,g| .k |,h| _:4
+#c4 ,if ;,g is abelian1 !n ;,h is
+abelian4
+#d4 ,if ;,g is cyclic1 !n ;,h is cyclic4
+#e4 ,if ;,g has a subgr|p ( ord} ;n1 !n
+;,h has a subgr|p ( ord} ;n4
+
+,pro(4 ,ass};ns "<#a"> & "<#b">     #fdc
+foll{ f ! fact t _% .f _: is a bijec;n4
+,we w prove "<#c"> "h & l1ve ! rema9d} (
+! !orem to 2 prov$ 9 ! ex}cises4
+  "<#c"> ,suppose t _% h1 _: & _% h2 _:
+>e ele;ts ( ;,h4 ,s9ce _% .f _: is onto1
+"! exi/ ele;ts _% g1, g2 `e ,g _: s* t
+_% f(g1) .k h1 _: & _% f(g2) .k h2 _:4
+,"!=e1
+_%
+
+h1h2 .k f(g1)f(g2) .k f(g1g2) .k f(g2g1)
+.k f(g2)f(g1) .k h2h1
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we >e n{ 9 a posi;n to "*ize all
+cyclic gr|ps4
+
+7777777777777777777777777777777777777777
+,!orem #i4g
+  ,all cyclic gr|ps ( 9f9ite ord} >e
+isomorphic to _% `;,z _:4
+
+,pro(4 ,let ;,g 2 a cyclic gr|p )   #fdd
+9f9ite ord} & suppose t a is a g5}ator (
+;,g4 ,def9e a map _% .f"1 `;,z $o ,g _:
+by _% .f"1 n $|33o a~n _:4 ,!n
+_%
+
+f(m+n) .k a~m+n .k a~m"a~n .k f(m)f(n)
+
+_:4
+,to %{ t _% .f _: is 9jective1 suppose t
+;m & ;n >e two ele;ts 9 _% `;,z _:1 ":
+_% m /.k n _:4 ,we c assume t _% m .1
+n _:4 ,we m/ %{ t _% a~m /.k a~n _:4
+,let u suppose ! 3tr>y2 t is1 _% a~m .k
+a~n _:4 ,9 ? case _% a~m-n .k e _:1 ":
+_% m-n .1 #0 _:1 : 3tradicts ! fact t a
+has 9f9ite ord}4 ,|r map is onto s9ce
+any ele;t 9 ;,g c 2 writt5 z _% a~n _: =
+"s 9teg} ;n & _% f(n) .k a~n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+                                    #fde
+7777777777777777777777777777777777777777
+,!orem #i4h
+  ,if ;,g is a cyclic gr|p ( ord} ;n1 !n
+;,g is isomorphic to _% `;,z;n _:4
+
+,pro(4 ,let ;,g 2 a cyclic gr|p ( ord}
+;n g5}at$ by a & def9e a map _% .f"1
+`;,z;n $o ,g _: by _% .f"1 k $|33o
+a~k _:1 ": _% #0 "k: k "k n _:4 ,! pro(
+t _% .f _: is an isomorphism is "o ( !
+5d-(-*apt} ex}cises4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #i4i
+  ,if ;,g is a gr|p ( ord} ;p1 ": ;p is
+a prime numb}1 !n ;,g is isomorphic to
+_% `;,z;p _:4
+
+,pro(4 ,! pro( is a direct result (
+,coroll>y #f4ab4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! ma9 goal 9 gr|p !ory is to     #fdf
+classify all gr|ps2 h{"e1 x makes s5se
+to 3sid} two gr|ps to 2 ! same if !y >e
+isomorphic4 ,we /ate ? result 9 ! foll{+
+!orem1 ~: pro( is left z an ex}cise4
+
+7777777777777777777777777777777777777777
+,!orem #i4aj
+  ,! isomorphism ( gr|ps det}m9es an
+equival;e rela;n on ! class ( all gr|ps4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,h;e1 we c modify |r goal ( classify+
+all gr|ps to classify+ all gr|ps ~7up to
+isomorphism~';2 t is1 we w 3sid} two
+gr|ps to 2 ! same if !y >e isomorphic4
+
+      ,cayley's ,!orem
+  ,cayley prov$ t if ;,g is a gr|p1 x is
+isomorphic to a gr|p ( p}muta;ns on "s
+set2 h;e1 e gr|p is a p}muta;n gr|p4
+,cayley's ,!orem is :at we call a
+repres5ta;n !orem4 ,! aim ( repres5ta;n
+!ory is to f9d an isomorphism ( "s gr|p
+;,g t we wi% to /udy 9to a gr|p t we "k
+a grt d1l ab1 s* z a gr|p (         #fdg
+p}muta;ns or matrices4
+
+7777777777777777777777777777777777777777
+,example #i4aa
+  ,3sid} ! gr|p _% `;,z3 _:4 ,! ,cayley
+table = _% `;,z3 _: is z foll{s4
+_%
+
++   #0  #1  #2
+"3  "3  "3  "3
+#0  #0  #1  #2
+#1  #1  #2  #0
+#2  #2  #0  #1
+
+_:
+  ,! addi;n table ( _% `;,z3 _: su7e/s t
+x is ! same z ! p}muta;n gr|p _% ,g .k
+.((0), (012), (021).) _:4 ,! isomorphism
+"h is
+
+
+
+
+
+                                    #fdh
+_%
+
+#0 $|33o ,(#0 #1 #2,) .k (0)
+         ,(#0 #1 #2,)
+#1 $|33o ,(#0 #1 #2,) .k (#0 #1 #2)
+         ,(#1 #2 #0,)
+#2 $|33o ,(#0 #1 #2,) .k (#0 #2 #1)
+         ,(#2 #0 #1,)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #i4ab ,cayley4
+  ,e gr|p is isomorphic to a gr|p (
+p}muta;ns4
+
+,pro(4 ,let ;,g 2 a gr|p4 ,we m/ f9d a
+gr|p ( p}muta;ns _% ,g: _: t is
+isomorphic to ;,g4 ,= any _% g `e ,g _:1
+def9e a  func;n _% .l;g"1 ,g $o ,g _: by
+_% .l;g"(a) .k ga _:4 ,we claim t
+_% .l;g _: is a p}muta;n ( ;,g4 ,to %{ t
+_% .l;g _: is "o-to-"o1 suppose t   #fdi
+_% .l;g"(a) .k .l;g"(b) _:4 ,!n
+_%
+
+ga .k .l;g"(a) .k .l;g"(b) .k gb
+
+_:4
+,h;e1 _% a .k b _:4 ,to %{ t _% .l;g _:
+is onto1 we m/ prove t = ea* _% a `e
+,g _:1 "! is a ;b s* t _% .l;g"(b) .k
+a _:4 ,let _% b .k g~-1"a _:4
+  ,n{ we >e r1dy to def9e |r gr|p
+_% ,g: _:4 ,let
+_%
+
+,g: .k .(.l;g_3g `e ,g.)
+
+_:4
+,we m/ %{ t _% ,g: _: is a gr|p "u
+composi;n ( func;ns & f9d an isomorphism
+2t ;,g & _% ,g: _:4 ,we h closure "u
+composi;n ( func;ns s9ce
+
+
+
+                                    #fej
+_%
+
+(.l;g".*.l;h")(a) .k .l;g"(ha) .k gha .k
+.l;gh"(a)
+
+_:4
+,al1
+_%
+
+.l;e"(a) .k ea .k a
+
+_:
+&
+_%
+
+(.l;g;~-1;".*.l;g")(a) .k .l;g;~-1;"(ga)
+.k g~-1"ga .k a .k .l;e"(a)
+
+_:4
+  ,we c def9e an isomorphism f ;,g to
+_% ,g: _: by _% .f"1 g $|33o .l;g _:4 ,!
+gr|p op}a;n is pres}v$ s9ce
+
+
+                                    #fea
+_%
+
+f(gh) .k .l;gh .k .l;g".l;h .k f(g)f(h)
+
+_:4
+,x is al "o-to-"o1 2c if _% f(g)(a) .k
+f(h)(a) _:1 !n
+_%
+
+ga .k .l;g"a .k .l;h"a .k ha
+
+_:4
+,h;e1 _% g .k h _:4 ,t _% .f _: is onto
+foll{s f ! fact t _% f(g) .k .l;g _: =
+any _% .l;g" `e ,g: _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! isomorphism _% g $|33o .l;g _: is
+"kn z ! ~7left regul> repres5ta;n~' (
+;,g4
+
+      ,hi/orical ,note
+  ,>?ur ,cayley 0 born 9 ,5gl& 9 #ahba1
+?|< he sp5t m* ( ! f/ "p ( 8 life 9
+,russia1 ": 8 "f 0 a m}*ant4        #feb
+,cayley 0 $ucat$ at ,cambridge1 ": he
+took ! f/ ,smi?'s ,prize 9 ma!matics4 ,a
+lawy} = m* ( 8 adult life1 he wrote
+s"eal pap}s 9 8 e>ly tw5ties 2f 5t}+ !
+legal pr(es.n at ! age ( #be4 ,:ile
+practic+ law he 3t9u$ 8 ma!matical
+rese>*1 writ+ m ?an #cjj pap}s dur+ ?
+p}iod ( 8 life4 ,~! 9clud$ "s ( 8 be/
+"w4 ,9 #ahfc he left law to 2come a
+pr(essor at ,cambridge4 ,cayley wrote m
+?an #ijj pap}s 9 fields s* z gr|p !ory1
+geometry1 & l9e> algebra4 ,8 legal k 0 v
+valuable to ,cambridge2 he "picipat$ 9 !
+writ+ ( _m ( ! univ}s;y's /atutes4
+,cayley 0 al "o ( ! p responsible = !
+admis.n ( wom5 to ,cambridge4
+
+    #i4b ,direct ,products
+  ,giv5 two gr|ps ;,g & ;,h1 x is
+possible to 3/ruct a new gr|p f !
+,c>tesian product ( ;,g & ;,h1
+_% ,g`*,h _:4 ,3v}sely1 giv5 a l>ge
+gr|p1 x is "s"ts possible to decompose !
+gr|p2 t is1 a gr|p is "s"ts isomorphic
+to ! direct product ( two small}    #fec
+gr|ps4 ,r ?an /udy+ a l>ge gr|p ;,g1 x
+is (t5 easi} to /udy ! compon5t gr|ps (
+;,g4
+
+      ,ext}nal ,direct ,products
+  ,if _% (,g, *) _: & _% (,h, .*) _: >e
+gr|ps1 !n we c make ! ,c>tesian product
+( ;,g & ;,h 9to a new gr|p4 ,z a set1 |r
+gr|p is j ! ord}$ pairs _% (g, h) `e
+,g`*,h _: ": _% g `e ,g _: & _% h `e
+,h _:4 ,we c def9e a b9>y op}a;n on
+_% ,g`*,h _: by
+_%
+
+(g1, h1)(g2, h2) .k (g1*g2, h1.*h2)_2
+
+_:
+t is1 we j multiply ele;ts 9 ! f/
+coord9ate z we d 9 ;,g & ele;ts 9 !
+second coord9ate z we d 9 ;,h4 ,we h
+specifi$ ! "picul> op}a;ns _% * _: &
+_% .* _: 9 ea* gr|p "h = ! sake ( cl>;y2
+we usually j write _% (g1, h1)(g2, h2)
+.k (g1g2, h1h2) _:4
+                                    #fed
+7777777777777777777777777777777777777777
+,proposi;n #i4ac
+  ,let ;,g & ;,h 2 gr|ps4 ,! set
+_% ,g`*,h _: is a gr|p "u ! op}a;n
+_% (g1, h1)(g2, h2) .k (g1g2, h1h2) _:
+": _% g1, g2 `e ,g _: & _% h1, h2 `e
+,h _:4
+
+,pro(4 ,cle>ly ! b9>y op}a;n def9$ abv
+is clos$4 ,if _% e;,g _: & _% e;,h _: >e
+! id5tities ( ! gr|ps ;,g & ;,h
+respectively1 !n _% (e;,g, e;,h") _: is
+! id5t;y ( _% ,g`*,h _:4 ,! 9v}se (
+_% (g, h) `e ,g`*,h _: is _% (g~-1,
+h~-1") _:4 ,! fact t ! op}a;n is
+associative foll{s directly f !
+associativ;y ( ;,g & ;,h4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                    #fee
+7777777777777777777777777777777777777777
+,example #i4ad
+  ,let _% `;,r _: 2 ! gr|p ( r1l numb}s
+"u addi;n4 ,! ,c>tesian product (
+_% `;,r _: ) xf1 _% `;,r`*`;,r .k
+`;,r~2 _:1 is al a gr|p1 9 : ! gr|p
+op}a;n is j addi;n 9 ea* coord9ate2 t
+is1 _% (a, b)+(c, d) .k (a+c, b+d) _:4
+,! id5t;y is _% (0, 0) _: & ! 9v}se (
+_% (a, b) _: is _% (-a, -b) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #fef
+7777777777777777777777777777777777777777
+,example #i4ae
+  ,3sid}
+_%
+
+`;,z2`*`;,z2 .k .((0, 0), (0, 1), (1,
+0), (1, 1).)
+
+_:4
+,al? _% `;,z2`*`;,z2 _: & _% `;,z4 _:
+bo? 3ta9 f|r ele;ts1 !y >e n isomorphic4
+,e ele;t _% (a, b) _: 9
+_% `;,z2`*`;,z2 _: o!r ?an ! id5t;y has
+ord} #b1 s9ce _% (a, b)+(a, b) .k (0,
+0) _:2 h{"e1 _% `;,z4 _: is cyclic4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! gr|p _% ,g`*,h _: is call$ !
+~7ext}nal direct product~' (  ;,g & ;,h4
+,notice t "! is no?+ special ab ! fact t
+we h us$ only two gr|ps to build a new
+gr|p4 ,! direct product
+
+
+                                    #feg
+_%
+
+"%i .k #1<n},g;i .k ,g1`*,g2`*''' `*,g;n
+
+_:
+( ! gr|ps _% ,g1, ,g2, ''', ,g;n _: is
+def9$ 9 exactly ! same mann}4 ,if _% ,g
+.k ,g1 .k ,g2 .k '''  .k ,g;n _:1 we (t5
+write _% ,g~n _: 9/1d ( _% ,g1`*,g2`*'''
+`*,g;n _:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #feh
+7777777777777777777777777777777777777777
+,example #i4af
+  ,! gr|p _% `;,z2~n _:1 3sid}$ z a set1
+is j ! set ( all b9>y ;n-tuples4 ,! gr|p
+op}a;n is ! 8exclusive or0 ( two b9>y
+;n-tuples4 ,= example1
+_%
+
+(01011101)+(01001011) .k (00010110)
+
+_:4
+,? gr|p is important 9 cod+ !ory1 9
+cryptography1 & 9 _m >1s ( comput}
+sci;e4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+                                    #fei
+7777777777777777777777777777777777777777
+,!orem #i4ag
+  ,let _% (g, h) `e ,g`*,h _:4 ,if ;g &
+;h h f9ite ord}s ;r & ;s respectively1
+!n ! ord} ( _% (g, h) _: 9 _% ,g`*,h _:
+is ! l1/ common multiple ( ;r & ;s4
+
+,pro(4 ,suppose t ;m is ! l1/ common
+multiple ( ;r & ;s & let _% n .k |(g,
+h)| _:4 ,!n
+_%
+
+(g, h)~m .k (g~m, h~m") .k (e;,g, e;,h")
+(g~n, h~n") .k (g, h)~n .k (e;,g, e;,h")
+
+_:4
+,h;e1 ;n m/ divide ;m1 & _% n "k: m _:4
+,h{"e1 by ! second equa;n1 bo? ;r & ;s
+m/ divide ;n2 "!=e1 ;n is a common
+multiple ( ;r & ;s4 ,s9ce ;m is ! .7l1/
+common multiple.' ( ;r & ;s1 _% m "k:
+n _:4 ,3sequ5tly1 ;m m/ 2 equal to ;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                    #ffj
+7777777777777777777777777777777777777777
+,coroll>y #i4ah
+  ,let _% (g1, ''', g;n") `e ,g;i _:4
+,if _% g;i _: has f9ite ord} _% r;i _: 9
+_% ,g;i _:1 !n ! ord} ( _% (g1, ''',
+g;n") _: 9 _% ,g;i _: is ! l1/ common
+multiple ( _% r1, ''', r;n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #i4ai
+  ,let _% (8, 56) `e `;,z12`*`;,z60 _:4
+,s9ce _% gcd (8, 12) .k #4 _:1 ! ord} (
+#h is _% #12_/4 .k #3 _: 9 _% `;,z12 _:4
+,simil>ly1 ! ord} ( #ef 9 _% `;,z60 _:
+is #ae4 ,! l1/ common multiple ( #c &
+#ae is #ae2 h;e1 _% (8, 56) _: has ord}
+#ae 9 _% `;,z12`*`;,z60 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                    #ffa
+7777777777777777777777777777777777777777
+,example #i4bj
+  ,! gr|p _% `;,z2`*`;,z3 _: 3si/s ( !
+pairs
+_%
+
+(0, 0),   (0, 1),   (0, 2),   (1, 0), 
+(1, 1),   (1, 2)
+
+_:4
+,9 ? case1 unlike t ( _% `;,z2`*`;,z2 _:
+& _% `;,z4 _:1 x is true t
+_% `;,z2`*`;,z3 `:.k `;,z6 _:4 ,we ne$
+only %{ t _% `;,z2`*`;,z3 _: is cyclic4
+,x is easy to see t _% (1, 1) _: is a
+g5}ator = _% `;,z2`*`;,z3 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! next !orem tells u exactly :5 !
+direct product ( two cyclic gr|ps is
+cyclic4
+
+7777777777777777777777777777777777777777
+,!orem #i4ba
+  ,! gr|p _% `;,z;m"`*`;,z;n _:     #ffb
+is isomorphic to _% `;,z;mn _: if & only
+if _% gcd (m, n) .k #1 _:4
+
+,pro(4 ,we w f/ %{ t if
+_% `;,z;m"`*`;,z;n `:.k `;,z;mn _:1 !n
+_% gcd (m, n) .k #1 _:4 ,we w prove !
+3trapositive2 t is1 we w %{ t if _% gcd
+(m, n) .k d .1 #1 _:1 !n
+_% `;,z;m"`*`;,z;n _: _c 2 cyclic4
+,notice t _% mn_/d _: is divisible by
+bo? ;m & ;n2 h;e1 = any ele;t _% (a, b)
+`e `;,z;m"`*`;,z;n _:1
+_%
+
+""(a, b)+(a, b)+''' +(a,
+b)%<.)}%mn_/dtimes} .k (0, 0)
+
+_:4
+,"!=e1 no _% (a, b) _: c g5}ate all (
+_% `;,z;m"`*`;,z;n _:4
+  ,! 3v}se foll{s directly f
+,!orem #i4ag s9ce _% lcm (m, n) .k mn _:
+if & only if _% gcd (m, n) .k #1 _:4
+gggggggggggggggggggggggggggggggggggggggg
+                                    #ffc
+7777777777777777777777777777777777777777
+,coroll>y #i4bb
+  ,let _% n1, ''', n;k _: 2 positive
+9teg}s4 ,!n
+_%
+
+"%i .k #1<k}`;,z;n;;i `:.k `;,z;n1 '''
+n;;k
+
+_:
+if & only if _% gcd (n;i, n;j") .k #1 _:
+= _% i /.k j _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                    #ffd
+7777777777777777777777777777777777777777
+,coroll>y #i4bc
+  ,if
+_%
+
+m .k p1~e1 ''' p;k~e~;k
+
+_:1
+": ! _% p;i _:;s >e 4t9ct primes1 !n
+_%
+
+`;,z;m `:.k `;,z;p1;~e1`*'''
+`*`;,z;p;;k;~e;~;k
+
+_:4
+
+,pro(4 ,s9ce ! grte/ common divisor (
+_% p;i~e~;i _: & _% p;j~e~;j _: is #a =
+_% i /.k j _:1 ! pro( foll{s f
+,coroll>y #i4bb4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,9 ,*apt} #ac1 we w prove t all f9ite
+abelian gr|ps >e isomorphic to direct
+products ( ! =m                     #ffe
+_%
+
+`;,z;p1;~e1`*''' `*`;,z;p;;k;~e;~;k
+
+_:
+": _% p1, ''', p;k _: >e "<n necess>ily
+4t9ct"> primes4
+
+      ,9t}nal ,direct ,products
+  ,! ext}nal direct product ( two gr|ps
+builds a l>ge gr|p | ( two small} gr|ps4
+,we wd l to 2 able to rev}se ? process &
+3v5i5tly br1k d{n a gr|p 9to xs direct
+product compon5ts2 t is1 we wd l to 2
+able to say :5 a gr|p is isomorphic to !
+direct product ( two ( xs subgr|ps4
+  ,let ;,g 2 a gr|p ) subgr|ps ;,h & ;,k
+satisfy+ ! foll{+ 3di;ns4
+_4 4 _% ,g .k ,h,k .k .(hk_3h `e ,h, k
+`e ,k.) _:2
+_4 4 _% ,h.%,k .k .(e.) _:2
+_4 4 _% hk .k kh _: = all _% k `e ,k _:
+& _% h `e ,h _:4
+,!n ;,g is ! ~79t}nal direct product~' (
+;,h & ;,k4                          #fff
+7777777777777777777777777777777777777777
+,example #i4bd
+  ,! gr|p _% ,u(8) _: is ! 9t}nal direct
+product (
+_%
+
+,h .k .(1, 3.) and ,k .k .(1, 5.)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ffg
+7777777777777777777777777777777777777777
+,example #i4be
+  ,! dih$ral gr|p _% ,d6 _: is an 9t}nal
+direct product ( xs two subgr|ps
+_%
+
+,h .k .(id, r~3".) and ,k .k .(id, r~2,
+r~4, s, r~2"s, r~4"s.)
+
+_:4
+,x c easily 2 %{n t _% ,k `:.k ,s3 _:2
+3sequ5tly1 _% ,d6 `:.k `;,z2`*,s3 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                    #ffh
+7777777777777777777777777777777777777777
+,example #i4bf
+  ,n e gr|p c 2 writt5 z ! 9t}nal direct
+product ( two ( xs prop} subgr|ps4 ,if !
+gr|p _% ,s3 _: 7 an 9t}nal direct
+product ( xs prop} subgr|ps ;,h & ;,k1
+!n "o ( ! subgr|ps1 say ;,h1 wd h to h
+ord} #c4 ,9 ? case ;,h is ! subgr|p
+_% .((1), (123), (132).) _:4 ,! subgr|p
+;,k m/ h ord} #b1 b no matt} : subgr|p
+we *oose = ;,k1 ! 3di;n t _% hk .k kh _:
+w n"e 2 satisfi$ = _% h `e ,h _: & _% k
+`e ,k _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #i4bg
+  ,let ;,g 2 ! 9t}nal direct product (
+subgr|ps ;,h & ;,k4 ,!n ;,g is
+isomorphic to _% ,h`*,k _:4
+
+,pro(4 ,s9ce ;,g is an 9t}nal direct
+product1 we c write any ele;t _% g `e
+,g _: z _% g .k hk _: = "s _% h     #ffi
+`e ,h _: & "s _% k `e ,k _:4 ,def9e a
+map _% .f"1 ,g $o ,h`*,k _: by _% f(g)
+.k (h, k) _:4
+  ,! f/ problem t we m/ face is to %{ t
+_% .f _: is a well-def9$ map2 t is1 we
+m/ %{ t ;h & ;k >e uniquely det}m9$ by
+;g4 ,suppose t _% g .k hk .k h'k' _:4
+,!n _% h~-1"h' .k k(k~'")~-1 _: is 9 bo?
+;,h & ;,k1 s x m/ 2 ! id5t;y4 ,"!=e1
+_% h .k h' _: & _% k .k k' _:1 : proves
+t _% .f _: is1 9de$1 well-def9$4
+  ,to %{ t _% .f _: pres}ves ! gr|p
+op}a;n1 let _% g1 .k h1k1 _: & _% g2 .k
+h2k2 _: & obs}ve t
+_%
+
+f(g1g2)             .k f(h1k1h2k2)
+.k f(h1h2k1k2)
+.k (h1h2, k1k2)
+.k (h1, k1)(h2, k2)
+.k f(g1)f(g2)
+
+_:4
+,we w l1ve ! pro( t _% .f _: is "o-to-"o
+& onto z an ex}cise4                #fgj
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #i4bh
+  ,! gr|p _% `;,z6 _: is an 9t}nal
+direct product isomorphic to _% .(0, 2,
+4.)`*.(0, 3.) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we c ext5d ! def9i;n ( an 9t}nal
+direct product ( ;,g to a collec;n (
+subgr|ps _% ,h1, ,h2, ''', ,h;n _: (
+;,g1 by requir+ t
+_4 4 _% ,g .k ,h1,h2 ''' ,h;n .k .(h1h2
+''' h;n_3h;i" `e ,h;i".) _:2
+_4 4
+_4 4 _% h;i"h;j .k h;j"h;i _: = all
+_% h;i" `e ,h;i _: & _% h;j" `e ,h;j _:4
+,we w l1ve ! pro( ( ! foll{+ !orem z an
+ex}cise4
+
+
+
+                                    #fga
+7777777777777777777777777777777777777777
+,!orem #i4bi
+  ,let ;,g 2 ! 9t}nal direct product (
+subgr|ps _% ,h;i _:1 ": _% i .k #1, #2,
+''', n _:4 ,!n ;,g is isomorphic to
+_% "%i},h;i _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #i4c ,r1d+ ,"qs
+
+#a4 ,det}m9e ! ord} ( _% (1, 2) _: 9
+_% `;,z4`*`;,z8 _:4
+
+#b4 ,li/ ?ree prop}ties ( a gr|p t >e
+pres}v$ by an isomorphism4
+
+#c4 ,f9d a gr|p isomorphic to
+_% `;,z15 _: t is an ext}nal direct
+product ( two non-trivial gr|ps4
+
+#d4 ,expla9 :y we c n{ say 8.1! 9f9ite
+cyclic gr|p08
+
+#e4 ,comp>e & 3tra/ ext}nal         #fgb
+direct products & 9t}nal direct
+products4
+
+    #i4d ,ex}cises
+
+#a4 ,prove t _% `;,z `:.k n`;,z _: =
+_% n /.k #0 _:4
+
+,h9t4 ,e 9f9ite cyclic gr|p is
+isomorphic to _% `;,z _: by ,!orem #i4g4
+
+#b4 ,prove t _% `;,c~`# _: is isomorphic
+to ! subgr|p ( _% ,g,l2(`;,r) _: 3si/+ (
+matrices ( ! =m
+_%
+
+,(a  b,)
+,(-b a,)
+
+_:4
+
+,h9t4 ,def9e _% .f"1 `;,c~`# $o
+,g,l2(`;,r) _: by
+
+                                    #fgc
+_%
+
+.f(a+bi) .k ,(a  b,)
+            ,(-b a,)
+
+_:4
+
+#c4 ,prove or 4prove3 _% ,u(8) `:.k
+`;,z4 _:4
+
+,h9t4 ,false4
+
+#d4 ,prove t _% ,u(8) _: is isomorphic
+to ! gr|p ( matrices
+_%
+
+,(#1 #0,), ,(#1 #0 ,), ,(-#1 #0,), ,(-#1
+#0 ,)
+,(#0 #1,)  ,(#0 -#1,)  ,(#0  #1,)  ,(#0
+-#1,)
+
+_:4
+
+#e4 ,%{ t _% ,u(5) _: is isomorphic to
+_% ,u(10) _:1 b _% ,u(12) _: is     #fgd
+n4
+
+#f4 ,%{ t ! n? roots ( un;y >e
+isomorphic to _% `;,z;n _:4
+
+,h9t4 ,def9e a map f _% `;,z;n _: 9to !
+n? roots ( un;y by _% k $|33o
+cis(2k.p_/n) _:4
+
+#g4 ,%{ t any cyclic gr|p ( ord} ;n is
+isomorphic to _% `;,z;n _:4
+
+#h4 ,prove t _% `;,q _: is n isomorphic
+to _% `;,z _:4
+
+,h9t4 ,assume t _% `;,q _: is cyclic &
+try to f9d a g5}ator4
+
+#i4 ,let _% ,g .k `;,r_*.(-1.) _: &
+def9e a b9>y op}a;n on ;,g by
+_%
+
+a`#b .k a+b+ab
+
+_:4                                 #fge
+,prove t ;,g is a gr|p "u ? op}a;n4 ,%{
+t _% (,g, `#) _: is isomorphic to !
+multiplicative gr|p ( nonz}o r1l numb}s4
+
+#aj4 ,%{ t ! matrices
+_%
+
+,(#1 #0 #0,) ,(#1 #0 #0,) ,(#0 #1 #0,)
+,(#0 #1 #0,) ,(#0 #0 #1,) ,(#1 #0 #0,)
+,(#0 #0 #1,) ,(#0 #1 #0,) ,(#0 #0 #1,)
+,(#0 #0 #1,) ,(#0 #0 #1,) ,(#0 #1 #0,)
+,(#1 #0 #0,) ,(#0 #1 #0,) ,(#0 #0 #1,)
+,(#0 #1 #0,) ,(#1 #0 #0,) ,(#1 #0 #0,)
+
+_:
+=m a gr|p4 ,f9d an isomorphism ( ;,g ) a
+m famili> gr|p ( ord} #f4
+
+#aa4 ,f9d five non-isomorphic gr|ps (
+ord} #h4
+
+,h9t4 ,"! >e two nonabelian & ?ree
+abelian gr|ps t >e n isomorphic4
+
+#ab4 ,prove _% ,s4 _: is n          #fgf
+isomorphic to _% ,d12 _:4
+
+#ac4 ,let _% .w .k cis(2.p_/n) _: 2 a
+primitive n? root ( un;y4 ,prove t !
+matrices
+_%
+
+,a .k ,(.w #0    ,) and ,b .k ,(#0 #1,)
+      ,(#0 .w~-1",)           ,(#1 #0,)
+
+_:
+g5}ate a multiplicative gr|p isomorphic
+to _% ,d;n _:4
+
+#ad4 ,%{ t ! set ( all matrices ( ! =m
+_%
+
+,(+-1 k ,)
+,(#0  #1,)
+
+_:1
+is a gr|p isomorphic to _% ,d;n _:1 ":
+all 5tries 9 ! matrix >e 9 _% `;,z;n _:4
+
+#ae4 ,li/ all ( ! ele;ts (          #fgg
+_% `;,z4`*`;,z2 _:4
+
+#af4 ,f9d ! ord} ( ea* ( ! foll{+
+ele;ts4
+a4 _% (3, 4) _: 9 _% `;,z4`*`;,z6 _:
+;b4 _% (6, 15, 4) _: 9
+_% `;,z30`*`;,z45`*`;,z24 _:
+;c4 _% (5, 10, 15) _: 9
+_% `;,z25`*`;,z25`*`;,z25 _:
+;d4 _% (8, 8, 8) _: 9
+_% `;,z10`*`;,z24`*`;,z80 _:
+
+,h9t4 "<a"> #ab2 "<;c"> #e4
+
+#ag4 ,prove t _% ,d4 _: _c 2 ! 9t}nal
+direct product ( two ( xs prop}
+subgr|ps4
+
+#ah4 ,prove t ! subgr|p ( _% `;,q~`# _:
+3si/+ ( ele;ts ( ! =m _% #2~m"3~n _: =
+_% m, n `e `;,z _: is an 9t}nal direct
+product isomorphic to _% `;,z`*`;,z _:4
+
+#ai4 ,prove t _% ,s3`*`;,z2 _: is
+isomorphic to _% ,d6 _:4 ,c y       #fgh
+make a 3jecture ab _% ,d;2n _:;8 ,prove
+yr 3jecture4
+
+,h9t4 ,draw ! picture4
+
+#bj4 ,prove or 4prove3 ,e abelian gr|p (
+ord} divisible by #c 3ta9s a subgr|p (
+ord} #c4
+
+,h9t4 ,true4
+
+#ba4 ,prove or 4prove3 ,e nonabelian
+gr|p ( ord} divisible by #f 3ta9s a
+subgr|p ( ord} #f4
+
+#bb4 ,let ;,g 2 a gr|p ( ord} #bj4 ,if
+;,g has subgr|ps ;,h & ;,k ( ord}s #d &
+#e respectively s* t _% hk .k kh _: =
+all _% h `e ,h _: & _% k `e ,k _:1 prove
+t ;,g is ! 9t}nal direct product ( ;,h &
+;,k4
+
+#bc4 ,prove or 4prove ! foll{+ ass};n4
+,let ;,g1 ;,h1 & ;,k 2 gr|ps4 ,if
+_% ,g`*,k `:.k ,h`*,k _:1 !n        #fgi
+_% ,g `:.k ,h _:4
+
+#bd4 ,prove or 4prove3 ,"! is a
+noncyclic abelian gr|p ( ord} #ea4
+
+#be4 ,prove or 4prove3 ,"! is a
+noncyclic abelian gr|p ( ord} #eb4
+
+,h9t4 ,true4
+
+#bf4 ,let _% .f"1 ,g $o ,h _: 2 a gr|p
+isomorphism4 ,%{ t _% f(x) .k e;,h _: if
+& only if _% x .k e;,g _:1 ": _% e;,g _:
+& _% e;,h _: >e ! id5tities ( ;,g & ;,h1
+respectively4
+
+#bg4 ,let _% ,g `:.k ,h _:4 ,%{ t if ;,g
+is cyclic1 !n s is ;,h4
+
+,h9t4 ,let a 2 a g5}ator = ;,g4 ,if
+_% .f"1 ,g $o ,h _: is an isomorphism1
+%{ t _% f(a) _: is a g5}ator = ;,h4
+
+#bh4 ,prove t any gr|p ;,g ( ord} ;p1 ;p
+prime1 m/ 2 isomorphic to           #fhj
+_% `;,z;p _:4
+
+#bi4 ,%{ t _% ,s;n _: is isomorphic to a
+subgr|p ( _% ,a;n+2 _:4
+
+#cj4 ,prove t _% ,d;n _: is isomorphic
+to a subgr|p ( _% ,s;n _:4
+
+#ca4 ,let _% .f"1 ,g1 $o ,g2 _: &
+_% .y"1 ,g2 $o ,g3 _: 2 isomorphisms4
+,%{ t _% .f~-1 _: & _% .y.*.f _: >e bo?
+isomorphisms4 ,us+ ~! results1 %{ t !
+isomorphism ( gr|ps det}m9es an
+equival;e rela;n on ! class ( all gr|ps4
+
+#cb4 ,prove _% ,u(5) `:.k `;,z4 _:4 ,c y
+g5}alize ? result = _% ,u(p) _:1 ": ;p
+is prime8
+
+#cc4 ,write | ! p}muta;ns associat$ )
+ea* ele;t ( _% ,s3 _: 9 ! pro( (
+,cayley's ,!orem4
+
+#cd4 ,an ~1automorphism ( a gr|p ;,g is
+an isomorphism ) xf4 ,prove t       #fha
+complex 3juga;n is an automorphism ( !
+additive gr|p ( complex numb}s2 t is1 %{
+t ! map _% .f(a+bi) .k a-bi _: is an
+isomorphism f _% `;,c _: to _% `;,c _:4
+
+#ce4 ,prove t _% a+ib $|33o a-ib _: is
+an automorphism ( _% `;,c~`# _:4
+
+#cf4 ,prove t _% ,a $|33o ,b~-1",a,b _:
+is an automorphism ( _% ,s,l2(`;,r) _: =
+all ;,b 9 _% ,g,l2(`;,r) _:4
+
+#cg4 ,we w d5ote ! set ( all
+automorphisms ( ;,g by _% ,aut(,g) _:4
+,prove t _% ,aut(,g) _: is a subgr|p (
+_% ,s;,g _:1 ! gr|p ( p}muta;ns ( ;,g4
+
+#ch4 ,f9d _% ,aut(`;,z6) _:4
+
+,h9t4 ,any automorphism ( _% `;,z6 _: m/
+s5d #a to ano!r g5}ator ( _% `;,z6 _:4
+
+#ci4 ,f9d _% ,aut(`;,z) _:4
+
+#dj4 ,f9d two nonisomorphic gr|ps   #fhb
+;,g & ;,h s* t _% ,aut(,g) `:.k
+,aut(,h) _:4
+
+#da4 ,let ;,g 2 a gr|p & _% g `e ,g _:4
+,def9e a map _% i;g"1 ,g $o ,g _: by
+_% i;g"(x) .k gxg~-1 _:4 ,prove t
+_% i;g _: def9es an automorphism ( ;,g4
+,s* an automorphism is call$ an ~19n}
+~1automorphism4 ,! set ( all 9n}
+automorphisms is d5ot$ by
+_% ,inn(,g) _:4
+
+#db4 ,prove t _% ,inn(,g) _: is a
+subgr|p ( _% ,aut(,g) _:4
+
+#dc4 ,:at >e ! 9n} automorphisms ( !
+quat}nion gr|p _% ,q8 _:;8 ,is
+_% ,inn(,g) .k ,aut(,g) _: 9 ? case8
+
+#dd4 ,let ;,g 2 a gr|p & _% g `e ,g _:4
+,def9e maps _% .l;g"1 ,g $o ,g _: &
+_% .r;g"1 ,g $o ,g _: by _% .l;g"(x) .k
+gx _: & _% .r;g"(x) .k xg~-1 _:4 ,%{ t
+_% i;g .k .r;g".*.l;g _: is an
+automorphism ( ;,g4 ,!              #fhc
+isomorphism _% g $|33o .r;g _: is call$
+! ~7"r regul> repres5ta;n~' ( ;,g4
+
+#de4 ,let ;,g 2 ! 9t}nal direct product
+( subgr|ps ;,h & ;,k4 ,%{ t ! map
+_% .f"1 ,g $o ,h`*,k _: def9$ by _% f(g)
+.k (h, k) _: = _% g .k hk _:1 ": _% h `e
+,h _: & _% k `e ,k _:1 is "o-to-"o &
+onto4
+
+,h9t4 ,to %{ t _% .f _: is "o-to-"o1 let
+_% g1 .k h1k1 _: & _% g2 .k h2k2 _: &
+3sid} _% f(g1) .k f(g2) _:4
+
+#df4 ,let ;,g & ;,h 2 isomorphic gr|ps4
+,if ;,g has a subgr|p ( ord} ;n1 prove t
+;,h m/ al h a subgr|p ( ord} ;n4
+
+#dg4 ,if _% ,g `:.k ,g: _: & _% ,h `:.k
+,h: _:1 %{ t _% ,g`*,h `:.k ,g:`*,h: _:4
+
+#dh4 ,prove t _% ,g`*,h _: is isomorphic
+to _% ,h`*,g _:4
+
+#di4 ,let _% n1, ''', n;k _: 2      #fhd
+positive 9teg}s4 ,%{ t
+_%
+
+"%i .k #1<k}`;,z;n;;i `:.k `;,z;n1 '''
+n;;k
+
+_:
+if & only if _% gcd (n;i, n;j") .k #1 _:
+= _% i /.k j _:4
+
+#ej4 ,prove t _% ,a`*,b _: is abelian if
+& only if ,a & ;,b >e abelian4
+
+#ea4 ,if ;,g is ! 9t}nal direct product
+( _% ,h1, ,h2, ''', ,h;n _:1 prove t ;,g
+is isomorphic to _% "%i},h;i _:4
+
+#eb4 ,let _% ,h1 _: & _% ,h2 _: 2
+subgr|ps ( _% ,g1 _: & _% ,g2 _:1
+respectively4 ,prove t _% ,h1`*,h2 _: is
+a subgr|p ( _% ,g1`*,g2 _:4
+
+#ec4 ,let _% m, n `e `;,z _:4 ,prove t
+_% ..(m, n..) .k ..(d..) _: if & only if
+_% d .k gcd (m, n) _:4              #fhe
+#ed4 ,let _% m, n `e `;,z _:4 ,prove t
+_% ..(m..).%..(n..) .k ..(l..) _: if &
+only if _% l .k lcm (m, n) _:4
+
+#ee4 "<,gr|ps ( ord} _% #2p _:4"> ,9 ?
+s}ies ( ex}cises we w classify all gr|ps
+( ord} _% #2p _:1 ": ;p is an odd prime4
+a4 ,assume ;,g is a gr|p ( ord}
+_% #2p _:1 ": ;p is an odd prime4 ,if
+_% a `e ,g _:1 %{ t a m/ h ord} #a1 #b1
+;p1 or _% #2p _:4
+;b4 ,suppose t ;,g has an ele;t ( ord}
+_% #2p _:4 ,prove t ;,g is isomorphic to
+_% `;,z;2p _:4 ,h;e1 ;,g is cyclic4
+;c4 ,suppose t ;,g does n 3ta9 an ele;t
+( ord} _% #2p _:4 ,%{ t ;,g m/ 3ta9 an
+ele;t ( ord} ;p4 .1,h9t3 ,assume t ;,g
+does n 3ta9 an ele;t ( ord} ;p4
+;d4 ,suppose t ;,g does n 3ta9 an ele;t
+( ord} _% #2p _:4 ,%{ t ;,g m/ 3ta9 an
+ele;t ( ord} #b4
+;e4 ,let ;,p 2 a subgr|p ( ;,g ) ord} ;p
+& _% y `e ,g _: h ord} #b4 ,%{ t _% y,p
+.k ,py _:4
+;f4 ,suppose t ;,g does n 3ta9 an   #fhf
+ele;t ( ord} _% #2p _: & _% ,p .k
+..(z..) _: is a subgr|p ( ord} ;p g5}at$
+by ;z4 ,if ;y is an ele;t ( ord} #b1 !n
+_% yz .k z~k"y _: = "s _% #2 "k: k "k
+p _:4
+;g4 ,suppose t ;,g does n 3ta9 an ele;t
+( ord} _% #2p _:4 ,prove t ;,g is n
+abelian4
+;h4 ,suppose t ;,g does n 3ta9 an ele;t
+( ord} _% #2p _: & _% ,p .k ..(z..) _:
+is a subgr|p ( ord} ;p g5}at$ by ;z & ;y
+is an ele;t ( ord} #b4 ,%{ t we c li/ !
+ele;ts ( ;,g z _% .(z~i"y~j|#0 "k: i "k
+p, #0 "k: j "k #2.) _:4
+i4 ,suppose t ;,g does n 3ta9 an ele;t (
+ord} _% #2p _: & _% ,p .k ..(z..) _: is
+a subgr|p ( ord} ;p g5}at$ by ;z & ;y is
+an ele;t ( ord} #b4 ,prove t ! product
+_% (z~i"y~j")(z~r"y~s") _: c 2 express$
+z a uniquely z _% z~m"y~n _: = "s non
+negative 9teg}s _% m, n _:4 ,?us1 3clude
+t "! is only "o possibil;y = a
+non-abelian gr|p ( ord} _% #2p _:1 x m/
+"!=e 2 ! "o we h se5 alr1 ! dih$ral
+gr|p4                               #fhg
+    #i4e ,sage
+  ,sage has limit$ support = actually
+cr1t+ isomorphisms1 ?|< x is possible4
+,h{"e1 "! is excell5t support = det}m9+
+if two p}muta;n gr|ps >e isomorphic4 ,?
+w all{ u to 2g9 a ll project to locate
+.1all ( ! gr|ps ( ord} less ?an #af 9
+,sage's p}muta;n gr|ps4
+
+      ,isomorphism ,te/+
+  ,if `#2;,g & `#2;,h >e two p}muta;n
+gr|ps1 !n ! comm&
+`#1,g4is.-isomorphic"<,h"> w return
+`#1,true or `#1,false z ! two gr|ps >e1
+or >e n1 isomorphic4 ,s9ce 8isomorpic
+to0 is an equival;e rela;n by
+,!orem #i4aj1 x does n matt} : gr|p
+plays ! role ( `#2;,g & : plays ! role (
+`#2;,h4
+  ,s we h a few m examples to "w )1 let
+u 9troduce ! ,sage comm& t cr1tes an
+ext}nal direct product4 ,if `#2;,g &
+`#2;,h >e two p}muta;n gr|ps1 !n ! comm&
+`#1direct.-product.-p}mgr|ps"<.<,g;1,h.-
+>"> w return ! ext}nal direct       #fhh
+product z a new p}muta;n gr|p4 ,notice t
+? is a func;n "<n a me?od"> & ! 9put is
+a li/4 ,r ?an j comb9+ two gr|ps 9 !
+li/1 any numb} ( gr|ps c 2 suppli$4 ,we
+illu/rate isomorphism te/+ & direct
+products 9 ! 3text ( ,!orem #i4ba1 : is
+an equival;e1 s tells u .1exactly :5 we
+h isomorphic gr|ps4 ,we use cyclic
+p}muta;n gr|ps z /&-9s = _% `;,z;n _: by
+,!orem #i4h4
+  ,f/1 two isomorphic gr|ps4
+
+`#7;m "7 #ab`#'
+`#7;n "7 #g`#'
+`#1gcd"<m1 `#1;n">
+-----------------
+`#2#a
+
+
+
+
+
+
+
+                                    #fhi
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<m">`#'
+`#7;,h "7 ,cyclic,p}muta;n,gr|p"<n">`#'
+`#7dp "7
+direct.-product.-p}mgr|ps"<.<,g1
+;,h.>">`#'
+`#7;,k "7
+,cyclic,p}muta;n,gr|p"<m"9n">`#'
+`#1,k4is.-isomorphic"<dp">
+-----------------
+`#1,true
+
+  ,n{1 two non-isomorphic gr|ps4
+
+`#7;m "7 #ae`#'
+`#7;n "7 #ba`#'
+`#1gcd"<m1 `#1;n">
+-----------------
+`#2#c
+
+
+
+
+
+
+                                    #fij
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<m">`#'
+`#7;,h "7 ,cyclic,p}muta;n,gr|p"<n">`#'
+`#7dp "7
+direct.-product.-p}mgr|ps"<.<,g1
+;,h.>">`#'
+`#7;,k "7
+,cyclic,p}muta;n,gr|p"<m"9n">`#'
+`#1,k4is.-isomorphic"<dp">
+-----------------
+`#1,false
+
+  ,notice h{ ! simple computa;n ( a
+grte/ common divisor pr$icts ! 9cr$ibly
+complicat$ computa;n ( det}m9+ if two
+gr|ps >e isomorphic4 ,? is a nice
+illu/ra;n ( ! p{} ( ma!matics1 replac+ a
+di6icult problem "<gr|p isomorphism"> by
+a simple "o "<factor+ & divisibil;y (
+9teg}s">4 ,let u build "o m direct
+product ( cyclic gr|ps1 b ) ?ree gr|ps1
+ea* ) ord}s t >e pairwise relatively
+prime4
+  ,if y try ! foll{+ ) l>g} p>amet}s y
+may get an }ror "<`#1database.-gap">4
+                                    #fia
+`#7;m "7 #f`#'
+`#7;n "7 #e`#'
+`#7;r "7 #g`#'
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<m">`#'
+`#7;,h "7 ,cyclic,p}muta;n,gr|p"<n">`#'
+`#7;,l "7 ,cyclic,p}muta;n,gr|p"<r">`#'
+`#7dp "7
+direct.-product.-p}mgr|ps"<.<,g1 ;,h1
+;,l.>">`#'
+`#7;,k "7
+,cyclic,p}muta;n,gr|p"<m"9n"9r">`#'
+`#1,k4is.-isomorphic"<dp">
+-----------------
+`#1,true
+
+
+      ,classify+ ,f9ite ,gr|ps
+  ,once we "u/& isomorphic gr|ps z 2+ !
+8same01 or 8funda;tally no di6}5t10 or
+8/ructurally id5tical10 !n x is natural
+to ask h{ _m 8r1lly di6}5t0 f9ite gr|ps
+"! >e4 ,coroll>y #i4i gives a "pial
+answ}3 = ea* prime "! is j "o f9ite
+gr|p1 ) _% `;,z;p _: z a 3crete
+manife/a;n4                         #fib
+  ,let u emb>k on a que/ to f9d all !
+gr|ps ( ord} less ?an #af 9 ,sage z
+p}muta;n gr|ps4 ,= prime ord}s _% #1,
+#2, #3, #5, #7, #11 _: & #ac we "k "! is
+r1lly j "o gr|p ea*1 & we c r1lize !m
+all3
+
+`#7.<,cyclic,p}muta;n,gr|p"<p"> = ;p 9
+.<#a1 #b1 #c1 #e1 #g1 #aa1 #ac.>.>`#'
+-----------------
+`#7.<,cyclic gr|p ( ord} #a z a p}muta;n
+gr|p1`#'
+ `#7,cyclic gr|p ( ord} #b z a p}muta;n
+gr|p1`#'
+ `#7,cyclic gr|p ( ord} #c z a p}muta;n
+gr|p1`#'
+ `#7,cyclic gr|p ( ord} #e z a p}muta;n
+gr|p1`#'
+ `#7,cyclic gr|p ( ord} #g z a p}muta;n
+gr|p1`#'
+ `#7,cyclic gr|p ( ord} #aa z a p}muta;n
+gr|p1`#'
+ `#7,cyclic gr|p ( ord} #ac z a p}muta;n
+gr|p.>`#'
+                                    #fic
+  ,s n{ |r smalle/ un"kn case is ord}
+#d4 ,sage "ks at l1/ ?ree s* gr|ps1 & we
+c use ,sage to *eck if any pair is
+isomorphic4 ,notice t s9ce 8isomorphic
+to0 is an equival;e rela;n1 & h;e a
+transitive rela;n1 ! two te/s 2l >e
+su6ici5t4
+
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<#d">`#'
+`#7;,h "7 ,kle9,f|r,gr|p"<">`#'
+`#7,t#a "7
+,cyclic,p}muta;n,gr|p"<#b">`#'
+`#7,t#b "7
+,cyclic,p}muta;n,gr|p"<#b">`#'
+`#7;,k "7
+direct.-product.-p}mgr|ps"<.<,t#a1
+,t#b.>">`#'
+`#1,g4is.-isomorphic"<,h">
+-----------------
+`#1,false
+
+
+
+
+                                    #fid
+`#1,h4is.-isomorphic"<,k">
+-----------------
+`#1,true
+
+  ,s we h at l1/ two di6}5t gr|ps3
+_% `;,z4 _: & _% `;,z2`*`;,z2 _:1 ) !
+latt} al "kn z ! ,kle9 #d-gr|p4 ,sage w
+n 2 able to tell u if we h a .1complete
+li/ ,- ? w alw require !oretical results
+l ,!orem #i4aj4 ,we w %ortly h a m g5}al
+result t h&les ! case ( ord} #d1 b "r
+n{1 a c>e;l analysis "<by h&"> ( !
+possibilities = ! ,cayley table ( a gr|p
+( ord} #d %d l1d y to ! two
+possibilities abv z ! only
+possibilities4 ,try to d$uce :at !
+,cayley table ( an ord} #d gr|p %d look
+l1 s9ce y "k ab id5t;y ele;ts1 9v}ses &
+c.ella;n4
+  ,we h se5 at l1/ two gr|ps ( ord} #f
+"<next on |r li/ ( non-prime ord}s">4
+,"o is abelian & "o is n1 s we d n ne$
+,sage to tell u !y >e /ructurally
+di6}5t4 ,b let u d x anyway4
+                                    #fie
+`#7;,g "7 ,cyclic,p}muta;n,gr|p"<#f">`#'
+`#7;,h "7 ,symmetric,gr|p"<#c">`#'
+`#1,g4is.-isomorphic"<,h">
+-----------------
+`#1,false
+
+  ,is t all8 ,"! is _% `;,z3`*`;,z2 _:1
+b t is j _% `;,z6 _: s9ce #b & #c >e
+relatively prime4 ,! dih$ral gr|p1
+_% ,d3 _:1 all symmetries ( a triangle1
+is j _% ,s3 _:1 ! symmetric gr|p on #c
+symbols4
+
+`#7;,g "7 ,dih$ral,gr|p"<#c">`#'
+`#7;,h "7 ,symmetric,gr|p"<#c">`#'
+`#1,g4is.-isomorphic"<,h">
+-----------------
+`#1,true
+
+  ,ex}cise #i4d4ee f ? sec;n classifies
+all gr|ps ( ord} _% #2p _:1 ": ;p is a
+prime4 ,s* a gr|p is ei cyclic or a
+dih$ral gr|p4 ,s ! two gr|ps abv1
+_% `;,z6 _: & _% ,d3 _:1 >e ! complete
+li/ ( gr|ps ( ord} #f4              #fif
+  ,by ? g5}al result1 9 addi;n to ord}
+#f1 we al "k ! complete li/s ( gr|ps (
+ord}s #aj & #ad4 ,to ,2 ,3t9u$4
+
+      ,9t}nal ,direct ,products
+  ,an 9t}nal direct product is a /ate;t
+ab subgr|ps ( a s+le gr|p1 tgr ) a !orem
+t l9ks !m to an ext}nal direct product4
+,we w "w an example "h t w illu/rate !
+nature ( an 9t}nal direct product4
+  ,giv5 an 9teg} ;n1 ! set ( positive
+9teg}s less ?an ;n1 & relatively prime
+to ;n =ms a gr|p "u multiplica;n mod ;n4
+,we w "w 9 ! set `#1,9teg}s"<n"> ": we c
+add .1& multiply1 b we want to /ay
+/rictly ) multiplica;n only4
+  ,f/ we build ! subgr|p xf4 ,notice h{
+we m/ 3v}t `#2;x 9to an 9teg} "<an ele;t
+( `#1,,zz"> s t ! grte/ common divisor
+computa;n p}=ms correctly4
+
+
+
+
+                                    #fig
+`#7,z#cf "7 ,9teg}s"<#cf">`#'
+`#7;,u "7 .<;x = ;x 9 ,z#cf if
+gcd"<,,zz"<x">1 #cf"> "7"7 #a.>`#'
+`#2;,u
+-----------------
+`#7.<#a1 #e1 #g1 #aa1 #ac1 #ag1 #ai1
+#bc1 #be1 #bi1 #ca1 #ce.>`#'
+
+  ,s we h a gr|p ( ord} #ab4 ,we >e go+
+to try to f9d a subgr|p ( ord} #f & a
+subgr|p ( ord} #b to =m ! 9t}nal direct
+product1 & we w re/rict |r se>* 9itially
+to cyclic subgr|ps ( ord} #f4 ,sage has
+a me?od t w give ! ord} ( ea* ( ~!
+ele;ts1 relative to multiplica;n1 s let
+u exam9e ~? next4
+
+`#7.<x4multiplicative.-ord}"<"> = ;x 9
+;,u.>`#'
+-----------------
+`#7.<#a1 #f1 #f1 #f1 #c1 #b1 #b1 #f1 #c1
+#f1 #f1 #b.>`#'
+
+  ,we h _m *oices = g5}ators ( a cyclic
+subgr|p ( ord} #f & = a cyclic      #fih
+subgr|p ( ord} #b4 ,( c|rse1 "s ( !
+*oices = a g5}ator ( ! subgr|p ( ord} #f
+w g5}ate ! same subgr|p4 ,c y tell1 j by
+c.t+1 h{ _m subgr|ps ( ord} #f "! >e8
+,we >e go+ to pick ! f/ ele;t ( ord} #f1
+& ! la/ ele;t ( ord} #b1 = no "picul>
+r1son4 ,af yr "w "? ? once1 we 5c|rage y
+to try o!r *oices to "u/& :y "s *oices
+l1d to an 9t}nal direct product & "s d
+n4 ,notice t we *oose ! ele;ts f ! li/
+`#2;,u s t !y >e sure to 2 ele;ts (
+`#1,z#cf & 2have prop}ly :5 multipli$4
+
+`#7a "7 ,u.<#a.>`#'
+`#7,a "7 .<a`5i = i 9 srange"<#f">.>`#'
+`#2,a
+-----------------
+`#7.<#a1 #e1 #be1 #ag1 #ac1 #bi.>`#'
+
+
+
+
+
+
+                                    #fii
+`#7;b "7 ,u.<#aa.>`#'
+`#7;,b "7 .<b`5i = i 9 srange"<#b">.>`#'
+`#2;,b
+-----------------
+`#1.<#a1 `#1#ce.>
+
+  ,s `#2,a & `#2;,b >e two cyclic
+subgr|ps4 ,notice t _! 9t}sec;n is !
+id5t;y ele;t1 "o ( |r require;ts = an
+9t}nal direct product4 ,s ? is a gd />t4
+
+`#7.<;x = ;x 9 ,a if ;x 9 ;,b.>`#'
+-----------------
+`#1.<#a.>
+
+  `#1,z#cf is an abelian gr|p1 ?us !
+3di;n on all products commut+ w hold1 b
+we illu/rate ! ,sage comm&s t w *eck ? 9
+a non-abelian situa;n4
+
+`#7all"<.<x"9y "7"7 y"9x = ;x 9 ,a = ;y
+9 ;,b.>">`#'
+-----------------
+`#1,true
+                                    #gjj
+  ,f9ally1 we ne$ to *eck t by =m+
+products ) ele;ts f `#2,a & `#2;,b we
+cr1te ! 5tire gr|p4 ,sort+ ! result+ li/
+w make a *eck easi} = u visually1 & is
+requir$ if we want ,sage to d ! *eck4
+
+`#7;,t "7 sort$"<.<x"9y = ;x 9 ,a = ;y 9
+;,b.>">`#'
+`#2;,t
+-----------------
+`#7.<#a1 #e1 #g1 #aa1 #ac1 #ag1 #ai1
+#bc1 #be1 #bi1 #ca1 #ce.>`#'
+
+
+`#7;,t "7"7 ;,u`#'
+-----------------
+`#1,true
+
+  ,t's x4 ,we n{ 3d5se all ? 9=ma;n 9to
+! /ate;t t 8`#2;,u is ! 9t}nal direct
+product ( `#2,a & `#2;,b40 ,by
+,!orem #i4bg1 we see t `#2;,u is
+isomorphic to a product ( a cyclic gr|p
+( ord} #f & a cyclic gr|p ( ord} #b4 ,s
+9 a v r1l s5se1 `#2;,u is no m or   #gja
+less complicat$ ?an _% `;,z6`*`;,z2 _:1
+: is 9 turn isomorphic to
+_% `;,z3`*`;,z2`*`;,z2 _:4 ,s we totally
+"u/& ! 8/ructure0 ( `#2;,u4 ,= example1
+we c see t `#2;,u is n cyclic1 s9ce :5
+writt5 z a product ( cyclic gr|ps1 ! two
+ord}s >e n relatively prime4 ,! f9al
+expres.n ( `#2;,u su7e/s y cd f9d ?ree
+cyclic subgr|ps ( `#2;,u1 ) ord}s #c1 #b
+& #b1 s t `#2;,u is an 9t}nal direct
+product ( ! ?ree subgr|ps4
+
+    #i4f ,sage ,ex}cises
+
+#a4 ,? ex}cise is ab putt+ ,cayley's
+,!orem 9to practice4 ,f/1 r1d & /udy !
+!orem4 ,r1lize t ? result by xf is
+prim>ily ( !oretical 9t}e/1 b ) "s m
+!ory we cd get 9to "s subtl} aspects ( ?
+"<a subject "kn z 8repres5ta;n !ory0">4
+  ,y %d cr1te ~! repres5ta;ns mo/ly )
+p5cil-&-pap} "w1 us+ ,sage z a fancy
+calculator & assi/ant4 ,y d n ne$ to
+9clude all ~! computa;ns 9 yr "w%eet4
+,build ! reque/$ gr|p               #gjb
+repres5ta;ns & !n 9clude 5 v}ifica;ns 9
+,sage to prove t t yr repres5ta;n
+correctly repres5ts ! gr|p4
+  ,2g9 by build+ a p}muta;n repres5ta;n
+( ! quat}nions1 ;,q4 ,"! >e ei<t ele;ts
+9 ;,q "<_% +-1, +-,i, +-,j, +-,k _:">1 s
+y w 2 3/ruct+ a subgr|p ( _% ,s8 _:4 ,=
+ea* _% g `e ,q _: =m ! func;n
+_% ,t;g _:1 def9$ z _% ,t;g"(x) .k
+xg _:4 ,notice t ? def9i;n is ! 8rev}se0
+( t giv5 9 ! text4 ,? is 2c ,sage
+composes p}muta;ns left-to-"r1 :ile yr
+text composes "r-to-left4 ,to cr1te !
+p}muta;ns _% ,t;g _:1 ! two-l9e v}.n (
+writ+ p}muta;ns cd 2 v use;l z an
+9t}m$iate /ep4 ,y w probably want to
+8code0 ea* ele;t ( ;,q ) an 9teg} 9
+_% .(1, 2, ''', 8.) _:4
+  ,"o s* repres5ta;n is 9clud$ 9 ,sage z
+`#1,quat}nion,gr|p"<"> ,- yr answ} %d
+look v simil>1 b p}h n id5tical4 ,d n
+submit yr answ} = a repres5ta;n ( !
+quat}nions1 b ,i /r;gly su7e/ "w+ ?
+"picul> gr|p repres5ta;n until y >e sure
+y h x "r ,- ! problems 2l mi<t 2    #gjc
+v di6icult o!rwise4 ,y c use ,sage's
+`#1;4is.-isomorphic"<"> me?od to *eck if
+yr repres5ta;ns >e correct4 ,h{"e1 d n
+use ? z a sub/itute = ! "p ( ea* "q t
+asks y to 9ve/igate prop}ties ( yr
+repres5ta;n t{>ds ? 5d4
+a4 ,build ! p}muta;n repres5ta;n (
+_% `;,z2`*`;,z4 _: describ$ 9 ,cayley's
+,!orem4 "<,rememb} t ? gr|p is additive1
+:ile ! !orem uses multiplicative
+nota;n4"> ,9clude ! repres5ta;n ( .1ea*
+( ! #h ele;ts 9 yr submitt$ "w4 ,!n
+3/ruct ! p}muta;n gr|p z a subgr|p ( a
+full symmetric gr|p t is g5}at$ by
+exactly two ( ! ei<t ele;ts y h alr
+3/ruct$4 ,h9t3 : two ele;ts (
+_% `;,z2`*`;,z4 _: mi<t y use to g5}ate
+all ( _% `;,z2`*`;,z4 _:;8 ,use comm&s 9
+,sage to 9ve/igate v>i|s prop}ties ( yr
+p}muta;n gr|p1 o!r ?an j `#1;4li/"<">1
+to provide evid;e t yr subgr|p is
+correct ,- 9clude ~! 9 yr submitt$
+"w%eet4
+;b4 ,build a p}muta;n repres5ta;n (
+_% ,u(24) _:1 ! gr|p ( units mod    #gjd
+#bd4 ,ag1 li/ a repres5ta;n ( .1ea*
+ele;t 9 yr submitt$ "w4 ,!n 3/ruct !
+gr|p z a subgr|p ( a full symmetric gr|p
+cr1t$ ) ?ree g5}ators4 ,to det}m9e ~!
+?ree g5}ators1 y w likely ne$ to "u/&
+_% ,u(24) _: z an 9t}nal direct product4
+,use comm&s 9 ,sage to 9ve/igate v>i|s
+prop}ties ( yr gr|p1 o!r ?an j
+`#1;4li/"<">1 to provide evid;e t yr
+subgr|p is correct ,- 9clude ~! 9 yr
+submitt$ "w%eet4
+
+#b4 ,3sid} ! symmetries ( a #aj-gon1
+_% ,d10 _: 9 yr text1
+`#1,dih$ral,gr|p"<#aj"> 9 ,sage4
+,presume t ! v}tices ( ! #aj-gon h be5
+label$ #a "? #aj 9 ord}4 ,id5tify !
+p}muta;n t is a #ahj degree rota;n & use
+x to g5}ate a subgr|p ;,r ( ord} #b4 ,!n
+id5tify ! p}muta;n t is a #gb degree
+rota;n1 & any "o ( ! t5 p}muta;ns t >e a
+reflec;n ( ! #aj-gon ab a l9e4 ,use ~!
+latt} two p}muta;ns to g5}ate a subgr|p
+;,s ( ord} #aj4 ,use ,sage to v}ify t !
+full dih$ral gr|p is ! 9t}nal       #gje
+direct product ( ! subgr|ps ;,r & ;,s by
+*eck+ ! 3di;ns 9 ! def9i;n ( an 9t}nal
+direct product4
+  ,we h a !orem : says t if a gr|p is an
+9t}nal direct product1 !n x is
+isomorphic to "s ext}nal direct product4
+,"u/& t ? does n m1n t y c use ! 3v}se 9
+? problem4 ,9 o!r ~ws1 e/abli%+ an
+isomorphism ( ;,g ) an ext}nal direct
+product .7does n prove.' t ;,g is an
+9t}nal direct product4
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #gjf
+

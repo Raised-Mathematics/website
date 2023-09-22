@@ -1,0 +1,2176 @@
+           #d ,cyclic ,gr|ps
+
+  ,! gr|ps _% `;,z _: & _% `;,z;n _:1 :
+>e am;g ! mo/ famili> & easily "u/ood
+gr|ps1 >e bo? examples ( :at >e call$
+cyclic gr|ps4 ,9 ? *apt} we w /udy !
+prop}ties ( cyclic gr|ps & cyclic
+subgr|ps1 : play a funda;tal "p 9 !
+classifica;n ( all abelian gr|ps4
+
+    #d4a ,cyclic ,subgr|ps
+  ,(t5 a subgr|p w dep5d 5tirely on a
+s+le ele;t ( ! gr|p2 t is1 "k+ t "picul>
+ele;t w all{ u to compute any o!r ele;t
+9 ! subgr|p4
+
+
+
+
+
+
+
+
+
+                                    #bec
+7777777777777777777777777777777777777777
+,example #d4a
+  ,suppose t we 3sid} _% #3 `e `;,z _: &
+look at all multiples "<bo? positive &
+negative"> ( #c4 ,z a set1 ? is
+_%
+
+#3`;,z .k .(''', -3, 0, 3, 6, '''.)
+
+_:4
+,x is easy to see t _% #3`;,z _: is a
+subgr|p ( ! 9teg}s4 ,? subgr|p is
+completely det}m9$ by ! ele;t #c s9ce we
+c obta9 all ( ! o!r ele;ts ( ! gr|p by
+tak+ multiples ( #c4 ,e ele;t 9 !
+subgr|p is 8g5}at$0 by #c4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+                                    #bed
+7777777777777777777777777777777777777777
+,example #d4b
+  ,if _% ,h .k .(2~n_3n `e `;,z.) _:1 !n
+;,h is a subgr|p ( ! multiplicative gr|p
+( nonz}o ra;nal numb}s1 _% `;,q~`# _:4
+,if _% a .k #2~m _: & _% b .k #2~n _: >e
+9 ;,h1 !n _% ab~-1 .k #2~m"2~-n .k
+#2~m-n _: is al 9 ;,h4 ,by
+,proposi;n #c4ca1 ;,h is a subgr|p (
+_% `;,q~`# _: det}m9$ by ! ele;t #b4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #d4c
+  ,let ;,g 2 a gr|p & a 2 any ele;t 9
+;,g4 ,!n ! set
+_%
+
+..(a..) .k .(a~k_3k `e `;,z.)
+
+_:
+is a subgr|p ( ;,g4 ,fur!rmore1
+_% ..(a..) _: is ! smalle/ subgr|p ( ;,g
+t 3ta9s a4                          #bee
+,pro(4 ,! id5t;y is 9 _% ..(a..) _: s9ce
+_% a~0 .k e _:4 ,if ;g & ;h >e any two
+ele;ts 9 _% ..(a..) _:1 !n by ! def9i;n
+( _% ..(a..) _: we c write _% g .k
+a~m _: & _% h .k a~n _: = "s 9teg}s ;m &
+;n4 ,s _% gh .k a~m"a~n .k a~m+n _: is
+ag 9 _% ..(a..) _:4 ,f9ally1 if _% g .k
+a~n _: 9 _% ..(a..) _:1 !n ! 9v}se
+_% g~-1 .k a~-n _: is al 9
+_% ..(a..) _:4 ,cle>ly1 any subgr|p ;,h
+( ;,g 3ta9+ a m/ 3ta9 all ! p{}s ( a by
+closure2 h;e1 ;,h 3ta9s _% ..(a..) _:4
+,"!=e1 _% ..(a..) _: is ! smalle/
+subgr|p ( ;,g 3ta9+ a4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,rem>k #d4d
+  ,if we >e us+ ! 8"60 nota;n1 z 9 !
+case ( ! 9teg}s "u addi;n1 we write
+_% ..(a..) .k .(na_3n `e `;,z.) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,= _% a `e ,g _:1 we call         #bef
+_% ..(a..) _: ! ~1cyclic ~1subgr|p
+g5}at$ by a4 ,if ;,g 3ta9s "s ele;t a s*
+t _% ,g .k ..(a..) _:1 !n ;,g is a
+~1cyclic ~1gr|p4 ,9 ? case a is a
+~1g5}ator ( ;,g4 ,if a is an ele;t ( a
+gr|p ;,g1 we def9e ! ~1ord} ( a to 2 !
+smalle/ positive 9teg} ;n s* t _% a~n .k
+e _:1 & we write _% |a| .k n _:4  ,if "!
+is no s* 9teg} ;n1 we say t ! ord} ( a
+is 9f9ite & write _% |a| .k ,= _: to
+d5ote ! ord} ( a4
+
+7777777777777777777777777777777777777777
+,example #d4e
+  ,notice t a cyclic gr|p c h m ?an a
+s+le g5}ator4 ,bo? #a & #e g5}ate
+_% `;,z6 _:2 h;e1 _% `;,z6 _: is a
+cyclic gr|p4 ,n e ele;t 9 a cyclic gr|p
+is necess>ily a g5}ator ( ! gr|p4 ,!
+ord} ( _% #2 `e `;,z6 _: is #c4 ,!
+cyclic subgr|p g5}at$ by #b is
+_% ..(2..) .k .(0, 2, 4.) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! gr|ps _% `;,z _: &             #beg
+_% `;,z;n _: >e cyclic gr|ps4 ,! ele;ts
+#a & _% -#1 _: >e g5}ators = _% `;,z _:4
+,we c c}ta9ly g5}ate _% `;,z;n _: ) #a
+al? "! may 2 o!r g5}ators (
+_% `;,z;n _:1 z 9 ! case ( _% `;,z6 _:4
+
+7777777777777777777777777777777777777777
+,example #d4f
+  ,! gr|p ( units1 _% ,u(9) _:1 9
+_% `;,z9 _: is a cyclic gr|p4 ,z a set1
+_% ,u(9) _: is _% .(1, 2, 4, 5, 7,
+8.) _:4 ,! ele;t #b is a g5}ator =
+_% ,u(9) _: s9ce
+_%
+
+#2~1" .k #2 #2~2 .k #4
+#2~3" .k #8 #2~4 .k #7
+#2~5" .k #5 #2~6 .k #1
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #d4g                       #beh
+  ,n e gr|p is a cyclic gr|p4 ,3sid} !
+symmetry gr|p ( an equilat}al triangle
+_% ,s3 _:4 ,! multiplica;n table = ?
+gr|p is ,figure #c4g4 ,! subgr|ps (
+_% ,s3 _: >e %{n 9 ,figure #d4h4 ,notice
+t e subgr|p is cyclic2 h{"e1 no s+le
+ele;t g5}ates ! 5tire gr|p4
+
+7777777777777777777777777777777777777777
+      ,figure #d4h4 ,subgr|ps (
+    _% ,s3 _:
+       `.<,! lattice ( subgr|ps =
+     ;,s-#c3 ! top is ;,s-#c1 ! second
+     l9e is ! id5t;y1 rho-#a1 rho-#b2 !
+     id5t;y1 mu-#a2 ! id5t;y1 mu-#b2 !
+     id5t;y1 mu-#c1 & ! bottom is !
+     id5t;y subgr|p4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                    #bei
+       `.<,replace ? page ) ,figure
+     #d4h4 ,subgr|ps ( _% ,s3 _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #bfj
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #d4i
+  ,e cyclic gr|p is abelian4
+
+,pro(4 ,let ;,g 2 a cyclic gr|p & _% a
+`e ,g _: 2 a g5}ator = ;,g4 ,if ;g & ;h
+>e 9 ;,g1 !n !y c 2 writt5 z p{}s ( a1
+say _% g .k a~r _: & _% h .k a~s _:4
+,s9ce
+_%
+
+gh .k a~r"a~s .k a~r+s .k a~s+r .k
+a~s"a~r .k hg
+
+_:1
+;,g is abelian4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,subgr|ps ( ,cyclic ,gr|ps
+  ,we c ask "s 9t}e/+ "qs ab cyclic
+subgr|ps ( a gr|p & subgr|ps ( a    #bfa
+cyclic gr|p4 ,if ;,g is a gr|p1 :
+subgr|ps ( ;,g >e cyclic8 ,if ;,g is a
+cyclic gr|p1 :at type ( subgr|ps does
+;,g possess8
+
+7777777777777777777777777777777777777777
+,!orem #d4aj
+  ,e subgr|p ( a cyclic gr|p is cyclic4
+
+,pro(4 ,! ma9 tools us$ 9 ? pro( >e !
+divi.n algori?m & ! ,pr9ciple (
+,well-,ord}+4 ,let ;,g 2 a cyclic gr|p
+g5}at$ by a & suppose t ;,h is a subgr|p
+( ;,g4 ,if _% ,h .k .(e.) _:1 !n
+trivially ;,h is cyclic4 ,suppose t ;,h
+3ta9s "s o!r ele;t ;g 4t9ct f ! id5t;y4
+,!n ;g c 2 writt5 z _% a~n _: = "s 9teg}
+;n4 ,s9ce ;,h is a subgr|p1 _% g~-1 .k
+a~-n _: m/ al 2 9 ;,h4 ,s9ce ei ;n or
+_% -n _: is positive1 we c assume t ;,h
+3ta9s positive p{}s ( a & _% n .1 #0 _:4
+,let ;m 2 ! smalle/ natural numb} s* t
+_% a~m" `e ,h _:4 ,s* an ;m exi/s by !
+,pr9ciple ( ,well-,ord}+4
+  ,we claim t _% h .k a~m _: is a   #bfb
+g5}ator = ;,h4 ,we m/ %{ t e _% h' `e
+,h _: c 2 writt5 z a p{} ( ;h4 ,s9ce
+_% h' `e ,h _: & ;,h is a subgr|p ( ;,g1
+_% h' .k a~k _: = "s 9teg} ;k4 ,us+ !
+divi.n algori?m1 we c f9d numb}s ;q & ;r
+s* t _% k .k mq+r _: ": _% #0 "k: r "k
+m _:2 h;e1
+_%
+
+a~k .k a~mq+r .k (a~m")~q"a~r .k h~q"a~r
+
+_:4
+,s _% a~r .k a~k"h~-q _:4 ,s9ce
+_% a~k _: & _% h~-q _: >e 9 ;,h1
+_% a~r _: m/ al 2 9 ;,h4 ,h{"e1 ;m 0 !
+smalle/ positive numb} s* t _% a~m _: 0
+9 ;,h2 3sequ5tly1 _% r .k #0 _: & s _% k
+.k mq _:4 ,"!=e1
+_%
+
+h' .k a~k .k a~mq .k h~q
+
+_:
+& ;,h is g5}at$ by ;h4
+ggggggggggggggggggggggggggggggggg   #bfc
+
+
+7777777777777777777777777777777777777777
+,coroll>y #d4aa
+  ,! subgr|ps ( _% `;,z _: >e exactly
+_% n`;,z _: = _% n .k #0, #1, #2,
+''' _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,proposi;n #d4ab
+  ,let ;,g 2 a cyclic gr|p ( ord} ;n &
+suppose t a is a g5}ator = ;,g4 ,!n
+_% a~k .k e _: if & only if ;n divides
+;k4
+
+,pro(4 ,f/ suppose t _% a~k .k e _:4 ,by
+! divi.n algori?m1 _% k .k nq+r _: ":
+_% #0 "k: r "k n _:2 h;e1
+
+
+
+
+                                    #bfd
+_%
+
+e .k a~k .k a~nq+r .k a~nq"a~r .k ea~r
+.k a~r
+
+_:4
+,s9ce ! smalle/ positive 9teg} ;m s* t
+_% a~m .k e _: is ;n1 _% r .k #0 _:4
+  ,3v}sely1 if ;n divides ;k1 !n _% k .k
+ns _: = "s 9teg} ;s4 ,3sequ5tly1
+_%
+
+a~k .k a~ns .k (a~n")~s .k e~s .k e
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+                                    #bfe
+7777777777777777777777777777777777777777
+,!orem #d4ac
+  ,let ;,g 2 a cyclic gr|p ( ord} ;n &
+suppose t _% a `e ,g _: is a g5}ator ( !
+gr|p4 ,if _% b .k a~k _:1 !n ! ord} ( ;b
+is _% n_/d _:1 ": _% d .k gcd (k, n) _:4
+
+,pro(4 ,we wi% to f9d ! smalle/ 9teg} ;m
+s* t _% e .k b~m .k a~km _:4 ,by
+,proposi;n #d4ab1 ? is ! smalle/ 9teg}
+;m s* t ;n divides _% km _: or1
+equival5tly1 _% n_/d _: divides
+_% m(k_/d) _:4 ,s9ce ;d is ! grte/
+common divisor ( ;n & ;k1 _% n_/d _: &
+_% k_/d _: >e relatively prime4 ,h;e1 =
+_% n_/d _: to divide _% m(k_/d) _: x m/
+divide ;m4 ,! smalle/ s* ;m is
+_% n_/d _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+                                    #bff
+7777777777777777777777777777777777777777
+,coroll>y #d4ad
+  ,! g5}ators ( _% `;,z;n _: >e ! 9teg}s
+;r s* t _% #1 "k: r "k n _: & _% gcd (r,
+n) .k #1 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #bfg
+7777777777777777777777777777777777777777
+,example #d4ae
+  ,let u exam9e ! gr|p _% `;,z16 _:4 ,!
+numb}s #a1 #c1 #e1 #g1 #i1 #aa1 #ac1 &
+#ae >e ! ele;ts ( _% `;,z16 _: t >e
+relatively prime to #af4 ,ea* ( ~!
+ele;ts g5}ates _% `;,z16 _:4 ,= example1
+_%
+
+#1*9  .k #9  #2*9  .k #2  #3*9  .k #11
+#4*9  .k #4  #5*9  .k #13 #6*9  .k #6
+#7*9  .k #15 #8*9  .k #8  #9*9  .k #1
+#10*9 .k #10 #11*9 .k #3  #12*9 .k #12
+#13*9 .k #5  #14*9 .k #14 #15*9 .k #7
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #d4b ,multiplicative ,gr|p (
+    ,complex ,numb}s
+  ,! ~1complex ~1numb}s >e def9$ z
+
+
+                                    #bfh
+_%
+
+`;,c .k .(a+bi_3a, b `e `;,r.)
+
+_:1
+": _% i~2 .k -#1 _:4 ,if _% z .k
+a+bi _:1 !n a is ! ~1r1l ~1"p ( ;z & ;b
+is ! ~1imag9>y ~1"p ( ;z4
+  ,to add two complex numb}s _% z .k
+a+bi _: & _% w .k c+di _:1 we j add !
+correspond+ r1l & imag9>y "ps3
+_%
+
+z+w .k (a+bi)+(c+di) .k (a+c)+(b+d)i
+
+_:4
+,rememb}+ t _% i~2 .k -#1 _:1 we
+multiply complex numb}s j l polynomials4
+,! product ( ;z & ;w is
+_%
+
+(a+bi)(c+di) .k ac+bdi~2"+adi+bci .k
+(ac-bd)+(ad+bc)i
+
+_:4                                 #bfi
+  ,e nonz}o complex numb} _% z .k
+a+bi _: has a multiplicative 9v}se2 t
+is1 "! exi/s a _% z~-1" `e `;,c~`# _: s*
+t _% zz~-1 .k z~-1"z .k #1 _:4 ,if _% z
+.k a+bi _:1 !n
+_%
+
+z~-1 .k ?a-bi/a~2"+b~2"#
+
+_:4
+,! ~1complex ~13jugate ( a complex numb}
+_% z .k a+bi _: is def9$ to 2 _% z: .k
+a-bi _:4 ,! ~1absolute ~1value or
+~1modulus (  _% z .k a+bi _:  is _% |z|
+.k >a~2"+b~2"} _:4
+
+7777777777777777777777777777777777777777
+,example #d4af
+  ,let _% z .k #2+3i _: & _% w .k
+#1-2i _:4 ,!n
+_%
+
+z+w .k (2+3i)+(1-2i) .k #3+i
+
+_:                                  #bgj
+&
+_%
+
+zw .k (2+3i)(1-2i) .k #8-i
+
+_:4
+,al1
+_%
+
+z~-1" .k ?2/13#-?3/13#i
+|z|   .k >13}
+z:    .k #2-3i
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+                                    #bga
+7777777777777777777777777777777777777777
+      ,figure #d4ag4 ,rectangul>
+    coord9ates ( a complex numb}
+       `.<,! complex plane ": !
+     horizontal axis is ! ;x-axis or r1l
+     axis & ! v}ticle axis is ! ;y-axis
+     or imag9>y axis4 ,! po9t z#a "7 #b
+     "6 #c;i is 9 ! upp} "r quadrant1 !
+     po9t z#b "7 #a- #b;i 9 ! l{} "r
+     quadrant1 & z#c "7 -#c "6 #b;i 9 !
+     upp} "r quadrant4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #bgb
+       `.<,replace ? page ) ,figure
+     #d4ag4 ,rectangul> coord9ates ( a
+     complex numb}`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #bgc
+  ,"! >e s"eal ways ( graphically
+repres5t+ complex numb}s4 ,we c repres5t
+a complex numb} _% z .k a+bi _: z an
+ord}$ pair on ! _% xy _: plane ": a is !
+;x "<or r1l"> coord9ate & ;b is ! ;y
+"<or imag9>y"> coord9ate4 ,? is call$ !
+~1rectangul> or ~1,c>tesian repres5ta;n4
+,! rectangul> repres5ta;ns ( _% z1 .k
+#2+3i _:1 _% z2 .k #1-2i _:1 & _% z3 .k
+-#3+2i _: >e depict$ 9 ,figure #d4ag4
+
+7777777777777777777777777777777777777777
+      ,figure #d4ah4 ,pol> coord9ates (
+    a complex numb}
+       `.<,! complex plane ": !
+     horizontal axis is ! ;x-axis or r1l
+     axis & ! v}ticle axis is ! ;y-axis
+     or imag9>y axis4  ,! po9t a "6 bi
+     is 9 ! upp} "r quadrant4  ,! po9t
+     is al det}m9$ by a ray t at an
+     angle ( !ta c.t}clockwise f !
+     horizontal axis hav+ a l5g? ( r4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+                                    #bgd
+       `.<,replace ? page ) ,figure
+     #d4ah4 ,pol> coord9ates ( a complex
+     numb}`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #bge
+  ,nonz}o complex numb}s c al 2
+repres5t$ us+ ~1pol> ~1coord9ates4 ,to
+specify any nonz}o po9t on ! plane1 x
+su6ices to give an angle _% .? _: f !
+positive ;x axis 9 ! c.t}clockwise
+direc;n & a 4t.e ;r f ! orig91 z 9
+,figure #d4ah4 ,we c see t
+_%
+
+z .k a+bi .k r(cos .?+isin .?)
+
+_:4
+,h;e1
+_%
+
+r .k |z| .k >a~2"+b~2"}
+
+_:
+&
+_%
+
+a .k rcos .?
+b .k rsin .?
+
+_:4                                 #bgf
+,we "s"ts a2reviate _% r(cos .?+isin
+.?) _: z _% rcis.? _:4  ,to assure t !
+repres5ta;n ( ;z is  well-def9$1 we al
+require t _% #0~.* "k: .? "k #360~.* _:4
+,if ! m1sure;t is 9 radians1 !n _% #0
+"k: .? "k #2.p _:4
+
+7777777777777777777777777777777777777777
+,example #d4ai
+  ,suppose t _% z .k #2cis60~.* _:4 ,!n
+_%
+
+a .k #2cos #60~.* .k #1
+
+_:
+&
+_%
+
+b .k #2sin #60~.* .k >3}
+
+_:4
+,h;e1 ! rectangul> repres5ta;n is _% z
+.k #1+>3}i _:4
+  ,3v}sely1 if we >e giv5 a rectangul>
+repres5ta;n ( a complex numb}1 x    #bgg
+is (t5 use;l to "k ! numb}'s pol>
+repres5ta;n4 ,if _% z .k #3>2}-3>2}i _:1
+!n
+_%
+
+r .k >a~2"+b~2"} .k >36} .k #6
+
+_:
+&
+_%
+
+.? .k arctan (?b/a#) .k arctan (-1) .k
+#315~.*
+
+_:1
+s _% #3>2}-3>2}i .k #6cis315~.* _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! pol> repres5ta;n ( a complex numb}
+makes x easy to f9d products & p{}s (
+complex numb}s4 ,! pro( ( ! foll{+
+proposi;n is /rai<t=w>d & is left z an
+ex}cise4
+
+                                    #bgh
+7777777777777777777777777777777777777777
+,proposi;n #d4bj
+  ,let _% z .k rcis.? _: & _% w .k
+scis.f _: 2 two nonz}o complex numb}s4
+,!n
+_%
+
+zw .k rscis(.?+.f)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #d4ba
+  ,if _% z .k #3cis(.p_/3) _: & _% w .k
+#2cis(.p_/6) _:1 !n _% zw .k
+#6cis(.p_/2) .k #6i _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #d4bb ,de,moivre4
+  ,let _% z .k rcis.? _: 2 a nonz}o
+complex numb}4 ,!n                  #bgi
+_%
+
+`(rcis.?`)~n .k r~n"cis(n.?)
+
+_:
+= _% n .k #1, #2, ''' _:4
+
+,pro(4 ,we w use 9duc;n on ;n4 ,= _% n
+.k #1 _: ! !orem is trivial4 ,assume t !
+!orem is true = all ;k s* t _% #1 "k: k
+"k: n _:4 ,!n
+_%
+
+z~n+1"                                 
+                                 .k
+z~n"z
+.k r~n"(cos n.?+isin n.?)r(cos .?+isin
+.?)
+.k r~n+1"`((cos n.?cos .?-sin n.?sin
+.?)+i(sin n.?cos .?+cos n.?sin .?)`)
+.k r~n+1"`(cos (n.?+.?)+isin (n.?+.?)`)
+.k r~n+1"`(cos (n+1).?+isin (n+1).?`)
+
+_:4
+ggggggggggggggggggggggggggggggggg   #bhj
+
+
+7777777777777777777777777777777777777777
+,example #d4bc
+  ,suppose t _% z .k #1+i _: & we wi% to
+compute _% z~10 _:4 ,r ?an comput+
+_% (1+i)~10 _: directly1 x is m* easi}
+to swit* to pol> coord9ates & calculate
+_% z~10 _: us+ ,de,moivre's ,!orem3
+_%
+
+z~10"                    .k (1+i)~10"
+.k (>2}cis(?.p/4#))~10"
+.k (>2})~10"cis(?5.p/2#)
+.k #32cis(?.p/2#)
+.k #32i
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,! ,circle ,gr|p & ! ,roots (
+      ,un;y
+  ,! multiplicative gr|p ( ! complex
+numb}s1 _% `;,c~`# _:1 possesses    #bha
+"s 9t}e/+ subgr|ps4 ,":as _% `;,q~`# _:
+& _% `;,r~`# _: h no 9t}e/+ subgr|ps (
+f9ite ord}1 _% `;,c~`# _: has _m4 ,we f/
+3sid} ! ~1circle ~1gr|p1
+_%
+
+`;,t .k .(z `e `;,c_3|z| .k #1.)
+
+_:4
+,! foll{+ proposi;n is a direct result (
+,proposi;n #d4bj4
+
+7777777777777777777777777777777777777777
+,proposi;n #d4bd
+  ,! circle gr|p is a subgr|p (
+_% `;,c~`# _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,al? ! circle gr|p has 9f9ite ord}1 x
+has _m 9t}e/+ f9ite subgr|ps4 ,suppose t
+_% ,h .k .(1, -1, i, -i.) _:4 ,!n ;,h is
+a subgr|p ( ! circle gr|p4 ,al1 #a1
+_% -#1 _:1 i1 & _% -i _: >e exactly ~?
+complex numb}s t satisfy ! equa;n _% z~4
+.k #1 _:4 ,! complex numb}s         #bhb
+satisfy+ ! equa;n _% z~n .k #1 _: >e
+call$ ! ~7n? roots ( un;y~'4
+
+7777777777777777777777777777777777777777
+,!orem #d4be
+  ,if _% z~n .k #1 _:1 !n ! n? roots (
+un;y >e
+_%
+
+z .k cis(?2k.p/n#)
+
+_:1
+": _% k .k #0, #1, ''', n-1 _:4
+,fur!rmore1 ! n? roots ( un;y =m a
+cyclic subgr|p ( _% `;,t _: ( ord} ;n
+
+,pro(4 ,by ,de,moivre's ,!orem1
+_%
+
+z~n .k cis(n?2k.p/n#) .k cis(2k.p) .k #1
+
+_:4
+,! ;z's >e 4t9ct s9ce ! numb}s
+_% #2k.p_/n _: >e all 4t9ct & >e grt}
+?an or equal to #j b less ?an       #bhc
+_% #2.p _:4 ,! fact t ~! >e all ( !
+roots ( ! equa;n _% z~n .k #1 _: foll{s
+f f ,coroll>y #ag4i1 : /ates t a
+polynomial ( degree ;n c h at mo/ ;n
+roots4 ,we w l1ve ! pro( t ! n? roots (
+un;y =m a cyclic subgr|p ( _% `;,t _: z
+an ex}cise4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a g5}ator = ! gr|p ( ! n? roots (
+un;y is call$ a ~7primitive n? root (
+un;y~'4
+
+7777777777777777777777777777777777777777
+,example #d4bf
+  ,! #hth roots ( un;y c 2 repres5t$ z
+ei<t equally spac$ po9ts on ! unit
+circle "<,figure #d4bg">4 ,! primitive
+#hth roots ( un;y >e
+
+
+
+
+
+                                    #bhd
+_%
+
+.w    .k ?>2}/2#+?>2}/2#i
+.w~3" .k -?>2}/2#+?>2}/2#i
+.w~5" .k -?>2}/2#-?>2}/2#i
+.w~7" .k ?>2}/2#-?>2}/2#i
+
+_:4
+
+7777777777777777777777777777777777777777
+      ,figure #d4bg4 #hth roots ( un;y
+       `.<,! #h roots ( un;y >e spac$
+     ev5ly >.d ! unit circle 2g9n+ ) #a
+     on ! positive horizontal axis &
+     foll{$ by omega1 i1 ! cube ( omega1
+     -#a1 omega to ! fif? p{}1 -i1 &
+     omega to ! sev5? p{}4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                    #bhe
+       `.<,replace ? page ) ,figure
+     #d4bg4 #hth roots ( un;y`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #bhf
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #d4c ,! ,me?od ( ,rep1t$ ,squ>es
+  ,comput+ l>ge p{}s c 2 v "t-3sum+4 ,j
+z any"o c compute _% #2~2 _: or
+_% #2~8 _:1 "ey"o "ks h{ to compute
+_%
+
+#2~2~~1,000,000
+
+_:4
+,h{"e1 s* numb}s >e s l>ge t we d n want
+to attempt ! calcula;ns2 moreov}1 pa/ a
+c}ta9 po9t ! computa;ns wd n 2 f1sible
+ev5 if we _h e comput} 9 ! _w at |r
+4posal4 ,ev5 writ+ d{n ! decimal
+repres5ta;n ( a v l>ge numb} may n 2
+r1sonable4 ,x cd 2 ?|s&s or ev5 millions
+( digits l;g4 ,h{"e1 if we cd compute
+"s?+ l
+
+
+
+                                    #bhg
+_%
+
+#2~37,398,332" (m"o"d #46,389)
+
+_:1
+we cd v easily write ! result d{n s9ce x
+wd 2 a numb} 2t #j & _% #46,388 _:4 ,if
+we want to compute p{}s modulo ;n qkly &
+e6ici5tly1 we w h to 2 cl"e4;9#e
+  ,! f/ ?+ to notice is t any numb} a c
+2 writt5 z ! sum ( 4t9ct p{}s ( #b2 t
+is1 we c write
+_%
+
+a .k #2~k1"+2~k2+''' +2~k~;n
+
+_:1
+": _% k1 "k k2 "k '''  "k k;n _:4 ,? is
+j ! b9>y repres5ta;n ( a4 ,= example1 !
+b9>y repres5ta;n ( #eg is #aaajja1 s9ce
+we c write _% #57 .k
+#2~0"+2~3"+2~4"+2~5 _:4
+  ,! laws ( expon5ts / "w 9
+_% `;,z;n _:2 t is1 if _% b _l
+a~x"(m"o"d n) _: & _% c _l          #bhh
+a~y"(m"o"d n) _:1 !n _% bc _l
+a~x+y"(m"o"d n) _:4 ,we c compute
+_% a~2~~k~"(m"o"d n) _: 9 ;k
+multiplica;ns by comput+
+_%
+
+a~2~~0~" (m"o"d n)
+a~2~~1~" (m"o"d n)
+'''
+a~2~~k~" (m"o"d n)
+
+_:4
+,ea* /ep 9volves squ>+ ! answ} obta9$ 9
+! previ|s /ep1 divid+ by ;n1 & tak+ !
+rema9d}4
+
+7777777777777777777777777777777777777777
+,example #d4bh
+  ,we w compute _% #271~321"(m"o"d
+#481) _:4 ,notice t
+_%
+
+#321 .k #2~0"+2~6"+2~8_2
+
+_:                                  #bhi
+h;e1 comput+ _% #271~321"(m"o"d #481) _:
+is ! same z comput+
+_%
+
+#271~2~~0~+2~~6~+2~~8~ _l
+#271~2~~0~"*271~2~~6~"*271~2~~8~" (m"o"d
+#481)
+
+_:4
+,s x w su6ice to compute
+_% #271~2~~i~"(m"o"d #481) _: ": _% i .k
+#0, #6, #8 _:4 ,x is v easy to see t
+_%
+
+#271~2~~1~ .k #73,441 _l #329 (m"o"d
+#481)
+
+_:4
+,we c squ>e ? result to obta9 a value =
+_% #271~2~~2~"(m"o"d #481) _:3
+
+
+
+
+                                    #bij
+_%
+
+#271~2~~2~"              _l
+(271~2~~1~")~2" (m"o"d #481)
+_l (329)~2" (m"o"d #481)
+_l #108,241 (m"o"d #481)
+_l #16 (m"o"d #481)
+
+_:4
+,we >e us+ ! fact t _% (a~2~~n~")~2 _l
+a~2*2~~n _l a~2~~n+1~"(m"o"d n) _:4
+,3t9u+1 we c calculate
+_%
+
+#271~2~~6~ _l #419 (m"o"d #481)
+
+_:
+&
+_%
+
+#271~2~~8~ _l #16 (m"o"d #481)
+
+_:4
+,"!=e1
+                                    #bia
+_%
+
+#271~321"                              
+         _l #271~2~~0~+2~~6~+2~~8~"
+(m"o"d #481)
+_l #271~2~~0~"*271~2~~6~"*271~2~~8~"
+(m"o"d #481)
+_l #271*419*16 (m"o"d #481)
+_l #1,816,784 (m"o"d #481)
+_l #47 (m"o"d #481)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! me?od ( rep1t$ squ>es w prove to 2
+a v use;l tool :5 we explore ,,rsa
+cryptography 9 ,*apt} #g4 ,to 5code &
+decode messages 9 a r1sonable mann} "u ?
+s*eme1 x is nec to 2 able to qkly
+compute l>ge p{}s ( 9teg}s mod ;n4
+
+    #d4d ,r1d+ ,"qs
+
+#a4 ,:at is ! ord} ( ! ele;t #c 9
+_% ,u(20) _:;8                      #bib
+#b4 ,:at is ! ord} ( ! ele;t #e 9
+_% ,u(23) _:;8
+
+#c4 ,f9d ?ree g5}ators ( _% `;,z8 _:4
+
+#d4 ,f9d ?ree g5}ators ( ! _% #5~th _:
+roots ( un;y4
+
+#e4 ,%{ h{ to compute _% #15~40"(m"o"d
+#23) _: e6ici5tly by h&4 ,*eck yr answ}
+) ,sage4
+
+    #d4e ,ex}cises
+
+#a4 ,prove or 4prove ea* ( ! foll{+
+/ate;ts4
+a4 ,all ( ! g5}ators ( _% `;,z60 _: >e
+prime4
+;b4 _% ,u(8) _: is cyclic4
+;c4 _% `;,q _: is cyclic4
+;d4 ,if e prop} subgr|p ( a gr|p ;,g is
+cyclic1 !n ;,g is a cyclic gr|p4
+;e4 ,a gr|p ) a f9ite numb} ( subgr|ps
+is f9ite4
+                                    #bic
+,h9t4 "<a"> ,false2 "<;c"> false2 "<;e">
+true4
+
+#b4 ,f9d ! ord} ( ea* ( ! foll{+ ele;ts4
+a4 _% #5 `e `;,z12 _:
+;b4 _% >3} `e `;,r _:
+;c4 _% >3} `e `;,r~`# _:
+;d4 _% -i `e `;,c~`# _:
+;e4 _% #72 `e `;,z240 _:
+;f4 _% #312 `e `;,z471 _:
+
+,h9t4 "<a"> #ab2 "<;c"> 9f9ite2 "<;e">
+#aj4
+
+#c4 ,li/ all ( ! ele;ts 9 ea* ( ! foll{+
+subgr|ps4
+a4 ,! subgr|p ( _% `;,z _: g5}at$ by #g
+;b4 ,! subgr|p ( _% `;,z24 _: g5}at$ by
+#ae
+;c4 ,all subgr|ps ( _% `;,z12 _:
+;d4 ,all subgr|ps ( _% `;,z60 _:
+;e4 ,all subgr|ps ( _% `;,z13 _:
+;f4 ,all subgr|ps ( _% `;,z48 _:
+;g4 ,! subgr|p g5}at$ by #c 9
+_% ,u(20) _:                        #bid
+;h4 ,! subgr|p g5}at$ by #e 9
+_% ,u(18) _:
+i4 ,! subgr|p ( _% `;,r~`# _: g5}at$ by
+#g
+;j4 ,! subgr|p ( _% `;,c~`# _: g5}at$ by
+i ": _% i~2 .k -#1 _:
+;k4 ,! subgr|p ( _% `;,c~`# _: g5}at$ by
+_% #2i _:
+;l4 ,! subgr|p ( _% `;,c~`# _: g5}at$ by
+_% (1+i)_/>2} _:
+;m4 ,! subgr|p ( _% `;,c~`# _: g5}at$ by
+_% (1+>3}i)_/2 _:
+
+,h9t4 "<a"> _% #7`;,z .k .(''', -7, 0,
+7, 14, '''.) _:2 "<;b"> _% .(0, 3, 6, 9,
+12, 15, 18, 21.) _:2 "<;c"> _% .(0.) _:1
+_% .(0, 6.) _:1 _% .(0, 4, 8.) _:1
+_% .(0, 3, 6, 9.) _:1 _% .(0, 2, 4, 6,
+8, 10.) _:2 "<;g"> _% .(1, 3, 7, 9.) _:2
+"<;j"> _% .(1, -1, i, -i.) _:4
+
+#d4 ,f9d ! subgr|ps ( _% ,g,l2(`;,r) _:
+g5}at$ by ea* ( ! foll{+ matrices4
+
+                                    #bie
+_%
+
+,(#0  #1,)
+,(-#1 #0,)
+
+_:
+_%
+
+,(#0 #1_/3,)
+,(#3 #0   ,)
+
+_:
+_%
+
+,(#1 -#1,)
+,(#1 #0 ,)
+
+_:
+_%
+
+,(#1 -#1,)
+,(#0 #1 ,)
+
+_:
+                                    #bif
+_%
+
+,(#1  -#1,)
+,(-#1 #0 ,)
+
+_:
+_%
+
+,(>3}_/2 #1_/2 ,)
+,(-#1_/2 >3}_/2,)
+
+_:
+
+,h9t4 "<a">
+_%
+
+,(#1 #0,), ,(-#1 #0 ,), ,(#0 -#1,), ,(#0
+ #1,)
+,(#0 #1,)  ,(#0  -#1,)  ,(#1 #0 ,)
+,(-#1 #0,)
+
+_:4
+  "<;c">
+
+                                    #big
+_%
+
+,(#1 #0,), ,(#1 -#1,), ,(-#1 #1,), ,(#0
+#1,), ,(#0 -#1,), ,(-#1 #0 ,)
+,(#0 #1,)  ,(#1 #0 ,)  ,(-#1 #0,)  ,(-#1
+#1,)  ,(#1 -#1,)  ,(#0  -#1,)
+
+_:4
+
+#e4 ,f9d ! ord} ( e ele;t 9
+_% `;,z18 _:4
+
+#f4 ,f9d ! ord} ( e ele;t 9 ! symmetry
+gr|p ( ! squ>e1 _% ,d4 _:4
+
+#g4 ,:at >e all ( ! cyclic subgr|ps ( !
+quat}nion gr|p1 _% ,q8 _:;8
+
+#h4 ,li/ all ( ! cyclic subgr|ps (
+_% ,u(30) _:4
+
+#i4 ,li/ e g5}ator ( ea* subgr|p ( ord}
+#h 9 _% `;,z32 _:4
+
+#aj4 ,f9d all ele;ts ( f9ite ord}   #bih
+9 ea* ( ! foll{+ gr|ps4 ,"h ! 8_% `# _:0
+9dicates ! set ) z}o remov$4
+a4 _% `;,z _:
+;b4 _% `;,q~`# _:
+;c4 _% `;,r~`# _:
+
+,h9t4 "<a"> #j2 "<;b"> _% #1, -#1 _:4
+
+#aa4 ,if _% a~24 .k e _: 9 a gr|p ;,g1
+:at >e ! possible ord}s ( a8
+
+,h9t4 _% #1, #2, #3, #4, #6, #8, #12,
+#24 _:4
+
+#ab4 ,f9d a cyclic gr|p ) exactly "o
+g5}ator4 ,c y f9d cyclic gr|ps ) exactly
+two g5}ators8 ,f|r g5}ators8 ,h{ ab ;n
+g5}ators8
+
+#ac4 ,= _% n "k: #20 _:1 : gr|ps
+_% ,u(n) _: >e cyclic8 ,make a 3jecture
+z to :at is true 9 g5}al4 ,c y prove yr
+3jecture8
+
+#ad4 ,let                           #bii
+_%
+
+,a .k ,(#0  #1,) and ,b .k ,(#0 -#1,)
+      ,(-#1 #0,)           ,(#1 -#1,)
+
+_:
+2 ele;ts 9 _% ,g,l2(`;,r) _:4 ,%{ t ,a &
+;,b h f9ite ord}s b _% ,a,b _: does n4
+
+#ae4 ,evaluate ea* ( ! foll{+4
+a4 _% (3-2i)+(5i-6) _:
+;b4 _% (4-5i)-"(4i-4)<----} _:
+;c4 _% (5-4i)(7+2i) _:
+;d4 _% (9-i)"(9-i)<----} _:
+;e4 _% i~45 _:
+;f4 _% (1+i)+"(1+i)<----} _:
+
+,h9t4 "<a"> _% -#3+3i _:2 "<;c">
+_% #43-18i _:2 "<;e"> i
+
+#af4 ,3v}t ! foll{+ complex numb}s to !
+=m _% a+bi _:4
+a4 _% #2cis(.p_/6) _:
+;b4 _% #5cis(9.p_/4) _:
+;c4 _% #3cis(.p) _:                 #cjj
+;d4 _% cis(7.p_/4)_/2 _:
+
+,h9t4 "<a"> _% >3}+i _:2 "<;c">
+_% -#3 _:4
+
+#ag4 ,*ange ! foll{+ complex numb}s to
+pol> repres5ta;n4
+a4 _% #1-i _:
+;b4 _% -#5 _:
+;c4 _% #2+2i _:
+;d4 _% >3}+i _:
+;e4 _% -#3i _:
+;f4 _% #2i+2>3} _:
+
+,h9t4 "<a"> _% >2}cis(7.p_/4) _:2 "<;c">
+_% #2>2}cis(.p_/4) _:2 "<;e">
+_% #3cis(3.p_/2) _:4
+
+#ah4 ,calculate ea* ( ! foll{+
+expres.ns4
+a4 _% (1+i)~-1 _:
+;b4 _% (1-i)~6 _:
+;c4 _% (>3}+i)~5 _:
+;d4 _% (-i)~10 _:
+;e4 _% ((1-i)_/2)~4 _:              #cja
+;f4 _% (->2}->2}i)~12 _:
+;g4 _% (-2+2i)~-5 _:
+
+,h9t4 "<a"> _% (1-i)_/2 _:2 "<;c">
+_% #16(i->3}) _:2 "<;e"> _% -#1_/4 _:4
+
+#ai4 ,prove ea* ( ! foll{+ /ate;ts4
+a4 _% |z| .k |z:| _:
+;b4 _% zz: .k |z|~2 _:
+;c4 _% z~-1 .k z:_/|z|~2 _:
+;d4 _% |z+w| "k: |z|+|w| _:
+;e4 _% |z-w| .1: ||z|-|w|| _:
+;f4 _% |zw| .k |z||w| _:
+
+#bj4 ,li/ & graph ! #fth roots ( un;y4
+,:at >e ! g5}ators ( ? gr|p8 ,:at >e !
+primitive #fth roots ( un;y8
+
+#ba4 ,li/ & graph ! #eth roots ( un;y4
+,:at >e ! g5}ators ( ? gr|p8 ,:at >e !
+primitive #eth roots ( un;y8
+
+#bb4 ,calculate ea* ( ! foll{+4
+a4 _% #292~3171" (m"o"d #582) _:
+;b4 _% #2557~341" (m"o"d            #cjb
+#5681) _:
+;c4 _% #2071~9521" (m"o"d #4724) _:
+;d4 _% #971~321" (m"o"d #765) _:
+
+,h9t4 "<a"> #bib2 "<;c"> #aebc4
+
+#bc4 ,let _% a, b `e ,g _:4 ,prove !
+foll{+ /ate;ts4
+a4 ,! ord} ( a is ! same z ! ord} (
+_% a~-1 _:4
+;b4 ,= all _% g `e ,g _:1 _% |a| .k
+|g~-1"ag| _:4
+;c4 ,! ord} ( _% ab _: is ! same z !
+ord} ( _% ba _:4
+
+#bd4 ,let ;p & ;q 2 4t9ct primes4 ,h{ _m
+g5}ators does _% `;,z;pq _: h8
+
+#be4 ,let ;p 2 prime & ;r 2 a positive
+9teg}4 ,h{ _m g5}ators does
+_% `;,z;p;~r _: h8
+
+#bf4 ,prove t _% `;,z;p _: has no
+nontrivial subgr|ps if ;p is prime4
+                                    #cjc
+#bg4 ,if ;g & ;h h ord}s #ae & #af
+respectively 9 a gr|p ;,g1 :at is ! ord}
+( _% ..(g..).%..(h..) _:;8
+
+,h9t4 _% |..(g..).%..(h..)| .k #1 _:4
+
+#bh4 ,let a 2 an ele;t 9 a gr|p ;,g4
+,:at is a g5}ator = ! subgr|p
+_% ..(a~m"..).%..(a~n"..) _:;8
+
+#bi4 ,prove t _% `;,z;n _: has an ev5
+numb} ( g5}ators = _% n .1 #2 _:4
+
+#cj4 ,suppose t ;,g is a gr|p & let a1
+_% b `e ,g _:4 ,prove t if _% |a| .k
+m _: & _% |b| .k n _: ) _% gcd (m, n) .k
+#1 _:1 !n _% ..(a..).%..(b..) .k
+.(e.) _:4
+
+#ca4 ,let ;,g 2 an abelian gr|p4 ,%{ t !
+ele;ts ( f9ite ord} 9 ;,g =m a subgr|p4
+,? subgr|p is call$ ! ~1tor.n ~1subgr|p
+( ;,g4
+
+,h9t4 ,! id5t;y ele;t 9 any gr|p    #cjd
+has f9ite ord}4 ,let _% g, h `e ,g _: h
+ord}s ;m & ;n1 respectively4 ,s9ce
+_% (g~-1")~m .k e _: & _% (gh)~mn .k
+e _:1 ! ele;ts ( f9ite ord} 9 ;,g =m a
+subgr|p ( ;,g4
+
+#cb4 ,let ;,g 2 a f9ite cyclic gr|p (
+ord} ;n g5}at$ by ;x4 ,%{ t if _% y .k
+x~k _: ": _% gcd (k, n) .k #1 _:1 !n ;y
+m/ 2 a g5}ator ( ;,g4
+
+#cc4 ,if ;,g is an abelian gr|p t 3ta9s
+a pair ( cyclic subgr|ps ( ord} #b1 %{ t
+;,g m/ 3ta9 a subgr|p ( ord} #d4 ,does ?
+subgr|p h to 2 cyclic8
+
+#cd4 ,let ;,g 2 an abelian gr|p ( ord}
+_% pq _: ": _% gcd (p, q) .k #1 _:4 ,if
+;,g 3ta9s ele;ts a & ;b ( ord} ;p & ;q
+respectively1 !n %{ t ;,g is cyclic4
+
+#ce4 ,prove t ! subgr|ps ( _% `;,z _: >e
+exactly _% n`;,z _: = _% n .k #0, #1,
+#2, ''' _:4
+                                    #cje
+#cf4 ,prove t ! g5}ators ( _% `;,z;n _:
+>e ! 9teg}s ;r s* t _% #1 "k: r "k n _:
+& _% gcd (r, n) .k #1 _:4
+
+#cg4 ,prove t if ;,g has no prop}
+nontrivial subgr|ps1 !n ;,g is a cyclic
+gr|p4
+
+,h9t4 ,if ;g is an ele;t 4t9ct f !
+id5t;y 9 ;,g1 ;g m/ g5}ate ;,g2 o!rwise1
+_% ..(g..) _: is a nontrivial prop}
+subgr|p ( ;,g4
+
+#ch4 ,prove t ! ord} ( an ele;t 9 a
+cyclic gr|p ;,g m/ divide ! ord} ( !
+gr|p4
+
+#ci4 ,prove t if ;,g is a cyclic gr|p (
+ord} ;m & _% d|m _:1 !n ;,g m/ h a
+subgr|p ( ord} ;d4
+
+#dj4 ,= :at 9teg}s ;n is _% -#1 _: an n?
+root ( un;y8
+
+#da4 ,if _% z .k r(cos .?+isin      #cjf
+.?) _: & _% w .k s(cos .f+isin .f) _: >e
+two nonz}o complex numb}s1 %{ t
+_%
+
+zw .k rs`(cos (.?+.f)+isin (.?+.f)`)
+
+_:4
+
+#db4 ,prove t ! circle gr|p is a subgr|p
+( _% `;,c~`# _:4
+
+#dc4 ,prove t ! n? roots ( un;y =m a
+cyclic subgr|p ( _% `;,t _: ( ord} ;n4
+
+#dd4 ,let _% .a `e `;,t _:4 ,prove t
+_% .a~m .k #1 _: & _% .a~n .k #1 _: if &
+only if _% .a~d .k #1 _: = _% d .k gcd
+(m, n) _:4
+
+#de4 ,let _% z `e `;,c~`# _:4 ,if _% |z|
+/.k #1 _:1 prove t ! ord} ( ;z is
+9f9ite4
+
+#df4 ,let _% z .k cos .?+isin .? _: 2 9
+_% `;,t _: ": _% .? `e `;,q _:4     #cjg
+,prove t ! ord} ( ;z is 9f9ite4
+
+    #d4f ,programm+ ,ex}cises
+
+#a4 ,write a comput} program t w write
+any decimal numb} z ! sum ( 4t9ct p{}s (
+#b4 ,:at is ! l>ge/ 9teg} t yr program w
+h&le8
+
+#b4 ,write a comput} program to
+calculate _% a~x"(m"o"d n) _: by ! me?od
+( rep1t$ squ>es4 ,:at >e ! l>ge/ values
+( ;n & ;x t yr program w a3ept8
+
+    #d4g ,ref};es & ,su7e/$ ,r1d+s
+.<#a.> ,koblitz1 ;,n4 .7,a ,c|rse 9
+  ,numb} ,!ory & ,cryptography.'4 #bnd
+  $4 ,spr+}1 ,new ,york1 #aiid4
+.<#b.> ,pom}.e1 ;,c4 8,cryptology &
+  ,computa;nal ,numb} ,!ory,-,an
+  ,9troduc;n10 9 .7,cryptology &
+  ,computa;nal ,numb} ,!ory.'1 ,pom}.e1
+  ;,c41 $4 ,proce$+s ( ,symposia 9
+  ,appli$ ,ma!matics1 vol4 #db1 ,am}ican
+  ,ma!matical ,society1             #cjh
+  ,provid;e1 ,,ri1 #aiij4 ,? book gives
+  an excell5t a3.t ( h{ ! me?od ( rep1t$
+  squ>es is us$ 9 cryptography4
+
+    #d4h ,sage
+  ,cyclic gr|ps >e v important1 s x is
+no surprise t !y appe> 9 _m di6}5t =ms 9
+,sage4 ,ea* is sli<tly di6}5t1 & no "o
+imple;ta;n is id1l = an 9troduc;n1 b tgr
+!y c illu/rate mo/ ( ! important id1s4
+,"h is a guide to ! v>i|s ways to
+3/ruct1 & /udy1 a cyclic gr|p 9 ,sage4
+
+      ,9f9ite ,cyclic ,gr|ps
+  ,9 ,sage1 ! 9teg}s _% `;,z _: >e
+3/ruct$ ) `#1,,zz4 ,to build ! 9f9ite
+cyclic gr|p s* z _% #3`;,z _: f
+,example #d4a1 simply use `#1#c"9,,zz4
+,z an 9f9ite set1 "! is n a :ole lot y c
+d ) ?4 ,y c te/ if 9teg}s >e 9 ? set1 or
+n4 ,y c al recall ! g5}ator ) !
+`#1;4g5"<"> comm&4
+
+
+                                    #cji
+`#7;,g "7 #c"9,,zz`#'
+`#7-#ab 9 ;,g`#'
+-----------------
+`#1,true
+
+
+`#7#cg 9 ;,g`#'
+-----------------
+`#1,false
+
+
+`#1,g4g5"<">
+-----------------
+`#2#c
+
+
+      ,additive ,cyclic ,gr|ps
+  ,! additive cyclic gr|p _% `;,z;n _: c
+2 built z a special case ( a m g5}al
+,sage 3/ruc;n4 ,f/ we build _% `;,z14 _:
+& capture xs g5}ator4 ,"?|t1 pay close
+att5;n to ! use ( p>5!ses & squ>e
+brackets = :5 y exp}i;t on yr {n4
+
+                                    #caj
+`#7;,g "7
+,additive,abelian,gr|p"<.<#ad.>">`#'
+`#1,g4ord}"<">
+-----------------
+`#1#ad
+
+
+`#1,g4li/"<">
+-----------------
+`#7.<"<#j">1 "<#a">1 "<#b">1 "<#c">1
+"<#d">1 "<#e">1 "<#f">1 "<#g">1`#'
+ `#7"<#h">1 "<#i">1 "<#aj">1 "<#aa">1
+"<#ab">1 "<#ac">.>`#'
+
+
+`#7a "7 ,g4g5"<#j">`#'
+`#2a
+-----------------
+`#1"<#a">
+
+  ,y c compute 9 ? gr|p1 by us+ !
+g5}ator1 or by us+ new ele;ts =m$ by
+co}c+ 9teg}s 9to ! gr|p1 or by tak+ !
+result ( op}a;ns on o!r ele;ts4 ,& we c
+compute ! ord} ( ele;ts 9 ? gr|p4   #caa
+,notice t we c p}=m rep1t$ addi;ns ) !
+%ortcut ( tak+ 9teg} multiples ( an
+ele;t4
+
+`#7a "6 a`#'
+-----------------
+`#1"<#b">
+
+
+`#7a "6 a "6 a "6 a`#'
+-----------------
+`#1"<#d">
+
+
+`#1#d"9a
+-----------------
+`#1"<#d">
+
+
+`#1#cg"9a
+-----------------
+`#1"<#i">
+
+  ,we c cr1te1 & !n compute )1 new
+ele;ts ( ! gr|p by co}c+ an 9teg}   #cab
+"<9 a li/ ( l5g? #a"> 9to ! gr|p4 ,y may
+get a `#1,depreca;n,w>n+ ! f/ "t y use ?
+syntax if y >e us+ an old v}.n ( ,sage4
+,! my/}i|s w>n+ c 2 safely ignor$4
+
+`#1,g"<.<#b.>">
+-----------------
+`#1"<#b">
+
+
+`#7;b "7 ,g"<.<#b.>">2 ;b`#'
+-----------------
+`#1"<#b">
+
+
+`#7;b "6 ;b`#'
+-----------------
+`#1"<#d">
+
+
+`#7#b"9b "7"7 #d"9a`#'
+-----------------
+`#1,true
+
+                                    #cac
+`#1#g"9b
+-----------------
+`#1"<#j">
+
+
+`#1b4ord}"<">
+-----------------
+`#2#g
+
+
+`#7;c "7 a - #f"9b2 ;c`#'
+-----------------
+`#1"<#c">
+
+
+`#7;c "6 ;c "6 ;c "6 ;c`#'
+-----------------
+`#1"<#ab">
+
+
+`#1c4ord}"<">
+-----------------
+`#1#ad
+
+  ,x is possible to cr1te cyclic    #cad
+subgr|ps1 f an ele;t designat$ to 2 !
+new g5}ator4 ,un=tunately1 to d ?
+requires ! `#1;4submodule"<"> me?od "<:
+%d 2 re"nd 9 ,sage">4
+
+`#7;,h "7 ,g4submodule"<.<b.>">2 ;,h`#'
+-----------------
+`#7,additive abelian gr|p isomorphic to
+,z_/#g`#'
+
+
+`#1,h4li/"<">
+-----------------
+`#7.<"<#j">1 "<#b">1 "<#d">1 "<#f">1
+"<#h">1 "<#aj">1 "<#ab">.>`#'
+
+
+`#1,h4ord}"<">
+-----------------
+`#2#g
+
+
+
+
+                                    #cae
+`#7;e "7 ,h4g5"<#j">2 ;e`#'
+-----------------
+`#1"<#b">
+
+
+`#1#c"9e
+-----------------
+`#1"<#f">
+
+
+`#1e4ord}"<">
+-----------------
+`#2#g
+
+  ,! cyclic subgr|p `#2;,h j cr1t$ has m
+?an "o g5}ator4 ,we c te/ ? by build+ a
+new subgr|p & comp>+ ! two subgr|ps4
+
+`#7;f "7 #ab"9a2 ;f`#'
+-----------------
+`#1"<#ab">
+
+
+
+                                    #caf
+`#1f4ord}"<">
+-----------------
+`#2#g
+
+
+`#7;,k "7 ,g4submodule"<.<f.>">2 ;,k`#'
+-----------------
+`#7,additive abelian gr|p isomorphic to
+,z_/#g`#'
+
+
+`#1,k4ord}"<">
+-----------------
+`#2#g
+
+
+`#1,k4li/"<">
+-----------------
+`#7.<"<#j">1 "<#b">1 "<#d">1 "<#f">1
+"<#h">1 "<#aj">1 "<#ab">.>`#'
+
+
+
+
+                                    #cag
+`#1,k4g5"<#j">
+-----------------
+`#1"<#b">
+
+
+`#7;,h "7"7 ;,k`#'
+-----------------
+`#1,true
+
+  ,c}ta9ly ! li/ ( ele;ts1 & ! common
+g5}ator ( `#1"<#b"> l1d u to 2live t
+`#2;,h & `#2;,k >e ! same1 b ! comp>ison
+9 ! la/ l9e l1ves no d|bt4
+  ,results 9 ? sec;n1 especially
+,!orem #d4ac & ,coroll>y #d4ad1 c 2
+9ve/igat$ by cr1t+ g5}ators ( subgr|ps f
+a g5}ator ( "o additive cyclic gr|p1
+cr1t+ ! subgr|ps1 & comput+ ! ord}s (
+bo? ele;ts & ord}s ( gr|ps4
+
+      ,ab/ract ,multiplicative ,cyclic
+      ,gr|ps
+  ,we c cr1te an ab/ract cyclic gr|p 9 !
+/yle ( ,!orem #d4c1 ,!orem #d4i1 &
+,!orem #d4aj4 ,9 ! syntax 2l `#2a   #cah
+is a "n = ! g5}ator1 & `#1#ad is ! ord}
+( ! ele;t4 ,notice t ! nota;n is n{
+multiplicative1 s we multiply ele;ts1 &
+rep1t$ products c 2 writt5 z p{}s4
+
+`#7,g4`<a`> "7
+,abelian,gr|p"<.<#ad.>">`#'
+`#1,g4ord}"<">
+-----------------
+`#1#ad
+
+
+`#1,g4li/"<">
+-----------------
+`#7"<#a1 a1 a`5#b1 a`5#c1 a`5#d1 a`5#e1
+a`5#f1 a`5#g1 a`5#h1 a`5#i1 a`5#aj1
+a`5#aa1 a`5#ab1 a`5#ac">`#'
+
+
+`#1a4ord}"<">
+-----------------
+`#1#ad
+
+  ,computa;ns 9 ! gr|p >e simil> to 2f1
+only ) di6}5t nota;n4 ,n{           #cai
+products1 ) rep1t$ products writt5 z
+expon5tia;n4
+
+`#7;b "7 a`5#b`#'
+`#1b4ord}"<">
+-----------------
+`#2#g
+
+
+`#1b"9b"9b
+-----------------
+`#1a`5#f
+
+
+`#7;c "7 a`5#g`#'
+`#1c4ord}"<">
+-----------------
+`#2#b
+
+
+`#1c`5#b
+-----------------
+`#2#a
+
+                                    #cbj
+`#1b"9c
+-----------------
+`#1a`5#i
+
+
+`#1b`5#cg"9c`5#db
+-----------------
+`#1a`5#d
+
+  ,subgr|ps c 2 =m$ ) a `#1;4subgr|p"<">
+comm&4 ,b d n try to li/ ! 3t5ts ( a
+subgr|p1 x'll look /rangely unfamili>4
+,al1 comp>ison ( subgr|ps is n imple;t$4
+
+`#7;,h "7 ,g4subgr|p"<.<a`5#b.>">`#'
+`#1,h4ord}"<">
+-----------------
+`#2#g
+
+
+`#7;,k "7 ,g4subgr|p"<.<a`5#ab.>">`#'
+`#1,k4ord}"<">
+-----------------
+`#2#g
+                                    #cba
+`#7;,l "7 ,g4subgr|p"<.<a`5#d.>">`#'
+`#7;,h "7"7 ;,l`#'
+-----------------
+`#1,false
+
+  ,"o advantage ( ? imple;ta;n is !
+possibil;y to cr1te all possible
+subgr|ps4 ,"h we cr1te ! li/ ( subgr|ps1
+extract "o 9 "picul> "<! ?ird">1 & *eck
+xs ord}4
+
+`#7allsg "7 ,g4subgr|ps"<">2 allsg`#'
+-----------------
+`#7.<,multiplicative ,abelian subgr|p
+isomorphic to ,c#b ;x ,c#g g5}at$ by
+_<a_>1`#'
+ `#7,multiplicative ,abelian subgr|p
+isomorphic to ,c#g g5}at$ by
+_<a`5#b_>1`#'
+ `#7,multiplicative ,abelian subgr|p
+isomorphic to ,c#b g5}at$ by
+_<a`5#g_>1`#'
+ `#7,trivial ,abelian subgr|p.>`#'
+
+                                    #cbb
+`#7sub "7 allsg.<#b.>`#'
+`#1sub4ord}"<">
+-----------------
+`#2#b
+
+
+      ,cyclic ,p}muta;n ,gr|ps
+  ,we w le>n m ab p}muta;n gr|ps 9 !
+next *apt}4 ,b we w m5;n "h t x is easy
+to cr1te cyclic gr|ps z p}muta;n gr|ps1
+& a v>iety ( me?ods >e available = "w+ )
+!m1 ev5 if ! actual ele;ts get a bit
+cumb}"s to "w )4 ,z 2f1 notice t !
+nota;n & syntax is multiplicative4
+
+`#1,g"7,cyclic,p}muta;n,gr|p"<#ad">
+`#7a "7 ,g4g5"<#j">2 a`#'
+-----------------
+`#1"<#a1b1c1d1e1f1g1h1i1aj1aa1ab1ac1ad">
+
+
+
+
+
+                                    #cbc
+`#7;b "7 a`5#b`#'
+`#7;b "7 a`5#b2 ;b`#'
+-----------------
+`#1"<#a1c1e1g1i1aa1ac">"<#b1d1f1h1aj1ab-
+1ad">
+
+
+`#1b4ord}"<">
+-----------------
+`#2#g
+
+
+`#1a"9a"9b"9b"9b
+-----------------
+`#1"<#a1i1c1aa1e1ac1g">"<#b1aj1d1ab1f1a-
+d1h">
+
+
+`#7;c "7 a`5#cg"9b`5#bf2 ;c`#'
+-----------------
+`#1"<#a1f1aa1b1g1ab1c1h1ac1d1i1ad1e1aj">
+
+
+
+                                    #cbd
+`#1c4ord}"<">
+-----------------
+`#1#ad
+
+  ,we c cr1te subgr|ps1 *eck _! ord}s1 &
+li/ _! ele;ts4
+
+`#7;,h "7 ,g4subgr|p"<.<a`5#b.>">`#'
+`#1,h4ord}"<">
+-----------------
+`#2#g
+
+
+`#1,h4g5"<#j">
+-----------------
+`#1"<#a1c1e1g1i1aa1ac">"<#b1d1f1h1aj1ab-
+1ad">
+
+
+
+
+
+
+
+                                    #cbe
+`#1,h4li/"<">
+-----------------
+`#1.<"<">1
+`#1"<#a1c1e1g1i1aa1ac">"<#b1d1f1h1aj1ab-
+1ad">1
+`#1"<#a1e1i1ac1c1g1aa">"<#b1f1aj1ad1d1h-
+1ab">1
+`#1"<#a1g1ac1e1aa1c1i">"<#b1h1ad1f1ab1d-
+1aj">1
+`#1"<#a1i1c1aa1e1ac1g">"<#b1aj1d1ab1f1a-
+d1h">1
+`#1"<#a1aa1g1c1ac1i1e">"<#b1ab1h1d1ad1a-
+j1f">1
+`#1"<#a1ac1aa1i1g1e1c">"<#b1ad1ab1aj1h1-
+f1d">.>
+
+  ,x cd help to visualize ? gr|p1 & !
+subgr|p1 z rota;ns ( a regul> #ab-gon )
+! v}tices label$ ) ! 9teg}s #a "? #ab4
+,? is n ! full gr|p ( symmetries1 s9ce x
+does n 9clude reflec;ns1 j ! #ab
+rota;ns4
+
+      ,cayley ,tables
+  ,z gr|ps1 ea* ( ! examples abv    #cbf
+"<gr|ps & subgr|ps"> h ,cayley tables
+imple;t$4 ,s9ce ! gr|ps >e cyclic1 & _!
+subgr|ps >e "!=e cyclic1 ! ,cayley
+tables %d h a simil> 8cyclic0 patt}n4
+,note t ! lrs us$ 9 ! default table >e
+g5}ic1 & >e n relat$ to ! lrs us$ abv =
+specific ele;ts ,- !y j mat* up ) ! gr|p
+ele;ts 9 ! ord} giv5 by `#1;4li/"<">4
+
+`#7,g4`<a`> "7
+,abelian,gr|p"<.<#ad.>">`#'
+`#1,g4cayley.-table"<">
+-----------------
+`#7"9  a ;b ;c ;d ;e ;f ;g ;h i ;j ;k ;l
+;m ;n`#'
+ `#1"6----------------------------
+`#7a_| a ;b ;c ;d ;e ;f ;g ;h i ;j ;k ;l
+;m ;n`#'
+`#7b_| ;b ;c ;d ;e ;f ;g ;h i ;j ;k ;l
+;m ;n a`#'
+`#7c_| ;c ;d ;e ;f ;g ;h i ;j ;k ;l ;m
+;n a ;b`#'
+`#7d_| ;d ;e ;f ;g ;h i ;j ;k ;l ;m ;n a
+;b ;c`#'
+`#7e_| ;e ;f ;g ;h i ;j ;k ;l ;m    #cbg
+;n a ;b ;c ;d`#'
+`#7f_| ;f ;g ;h i ;j ;k ;l ;m ;n a ;b ;c
+;d ;e`#'
+`#7g_| ;g ;h i ;j ;k ;l ;m ;n a ;b ;c ;d
+;e ;f`#'
+`#7h_| ;h i ;j ;k ;l ;m ;n a ;b ;c ;d ;e
+;f ;g`#'
+`#7i_| i ;j ;k ;l ;m ;n a ;b ;c ;d ;e ;f
+;g ;h`#'
+`#7j_| ;j ;k ;l ;m ;n a ;b ;c ;d ;e ;f
+;g ;h i`#'
+`#7k_| ;k ;l ;m ;n a ;b ;c ;d ;e ;f ;g
+;h i ;j`#'
+`#7l_| ;l ;m ;n a ;b ;c ;d ;e ;f ;g ;h i
+;j ;k`#'
+`#7m_| ;m ;n a ;b ;c ;d ;e ;f ;g ;h i ;j
+;k ;l`#'
+`#7n_| ;n a ;b ;c ;d ;e ;f ;g ;h i ;j ;k
+;l ;m`#'
+
+  ,if ! r1l "ns ( ! ele;ts >e n too
+complicat$1 ! table cd 2 m 9=mative us+
+~! "ns4
+
+`#7,k4`<b`> "7                      #cbh
+,abelian,gr|p"<.<#aj.>">`#'
+`#1,k4cayley.-table"<"ns"7'ele;ts'">
+-----------------
+  `#7"9    #a   ;b b`5#b b`5#c b`5#d
+b`5#e b`5#f b`5#g b`5#h b`5#i`#'
+ 
+`#1"6-----------------------------------
+------
+  `#7#a_|   #a   ;b b`5#b b`5#c b`5#d
+b`5#e b`5#f b`5#g b`5#h b`5#i`#'
+  `#7b_|   ;b b`5#b b`5#c b`5#d b`5#e
+b`5#f b`5#g b`5#h b`5#i   #a`#'
+`#7b`5#b_| b`5#b b`5#c b`5#d b`5#e b`5#f
+b`5#g b`5#h b`5#i   #a   ;b`#'
+`#7b`5#c_| b`5#c b`5#d b`5#e b`5#f b`5#g
+b`5#h b`5#i   #a   ;b b`5#b`#'
+`#7b`5#d_| b`5#d b`5#e b`5#f b`5#g b`5#h
+b`5#i   #a   ;b b`5#b b`5#c`#'
+`#7b`5#e_| b`5#e b`5#f b`5#g b`5#h b`5#i
+  #a   ;b b`5#b b`5#c b`5#d`#'
+`#7b`5#f_| b`5#f b`5#g b`5#h b`5#i   #a
+ ;b b`5#b b`5#c b`5#d b`5#e`#'
+`#7b`5#g_| b`5#g b`5#h b`5#i   #a   ;b
+b`5#b b`5#c b`5#d b`5#e b`5#f`#'
+`#7b`5#h_| b`5#h b`5#i   #a   ;b    #cbi
+b`5#b b`5#c b`5#d b`5#e b`5#f b`5#g`#'
+`#7b`5#i_| b`5#i   #a   ;b b`5#b b`5#c
+b`5#d b`5#e b`5#f b`5#g b`5#h`#'
+
+
+      ,complex ,roots ( ,un;y
+  ,! f9ite cyclic subgr|ps ( _% `;,t _:1
+g5}at$ by a primitive n? root ( un;y >e
+imple;t$ z a m g5}al 3/ruc;n 9 ,sage1
+"kn z a cyclotomic field4 ,if y 3c5trate
+on j ! multiplica;n ( p{}s ( a g5}ator
+"<& ignore ! 9f9itely _m o!r ele;ts"> !n
+? is a f9ite cyclic gr|p4 ,s9ce ? is n
+imple;t$ directly 9 ,sage z a gr|p1 .1p}
+.1se1 x is a bit h>d} to 3/ruct ?+s l
+subgr|ps1 b x is an excell5t ex}cise to
+try4 ,x is a nice example s9ce ! complex
+numb}s >e a 3crete & famili> 3/ruc;n4
+,"h >e a few sample calcula;ns to
+provide y ) "s exploratory tools4 ,see !
+notes foll{+ ! computa;ns4
+
+
+
+                                    #ccj
+`#7;,g "7 ,cyclotomic,field"<#ad">`#'
+`#7;w "7 ,g4g5"<#j">2 ;w`#'
+-----------------
+`#1zeta#ad
+
+
+`#7wc "7 ,,cdf"<w">`#'
+`#1wc4abs"<">
+-----------------
+`#1#a4j
+
+
+`#1wc4>g"<">_/,n"<#b"9pi_/#ad">
+-----------------
+`#1#a4j
+
+
+`#7;b "7 w`5#b`#'
+`#1b4multiplicative.-ord}"<">
+-----------------
+`#2#g
+
+
+
+                                    #cca
+`#7bc "7 ,,cdf"<b">2 bc`#'
+-----------------
+`#7#j4fbcdhihjahe444 "6
+#j4ghahcadhbdfh444"9,i`#'
+
+
+`#1bc4abs"<">
+-----------------
+`#1#a4j
+
+
+`#1bc4>g"<">_/,n"<#b"9pi_/#ad">
+-----------------
+`#1#b4j
+
+
+
+
+
+
+
+
+
+
+                                    #ccb
+`#7sg "7 .<b`5i = i 9 range"<#g">.>2
+sg`#'
+-----------------
+`#7.<#a1 zeta#ad`5#b1 zeta#ad`5#d1`#'
+`#7zeta#ad`5#e - zeta#ad`5#d "6
+zeta#ad`5#c - zeta#ad`5#b "6 zeta#ad -
+#a1`#'
+`#7-zeta#ad1 -zeta#ad`5#c1
+-zeta#ad`5#e.>`#'
+
+
+`#7;c "7 sg.<#c.>2 ;d "7 sg.<#e.>`#'
+`#1c"9d
+-----------------
+`#1zeta#ad`5#b
+
+
+`#7;c "7 sg.<#c.>2 ;d "7 sg.<#f.>`#'
+`#7c"9d 9 sg`#'
+-----------------
+`#1,true
+
+
+
+                                    #ccc
+`#7c"9d "7"7 sg.<#b.>`#'
+-----------------
+`#1,true
+
+
+`#7sg.<#e.>"9sg.<#f.> "7"7 sg.<#d.>`#'
+-----------------
+`#1,true
+
+
+`#1,g4multiplica;n.-table"<ele;ts"7sg">
+-----------------
+`#7"9  a ;b ;c ;d ;e ;f ;g`#'
+ `#1"6--------------
+`#7a_| a ;b ;c ;d ;e ;f ;g`#'
+`#7b_| ;b ;c ;d ;e ;f ;g a`#'
+`#7c_| ;c ;d ;e ;f ;g a ;b`#'
+`#7d_| ;d ;e ;f ;g a ;b ;c`#'
+`#7e_| ;e ;f ;g a ;b ;c ;d`#'
+`#7f_| ;f ;g a ;b ;c ;d ;e`#'
+`#7g_| ;g a ;b ;c ;d ;e ;f`#'
+
+  ,notes3
+#a4 `#1zeta#ad is ! "n ( ! g5}ator us$ =
+! cyclotomic field1 x is a          #ccd
+primitive root ( un;y "<a #adth root (
+un;y 9 ? case">4 ,we h captur$ x z `#2;w
+4
+#b4 ,! syntax `#1,,cdf"<w"> w 3v}t !
+complex numb} `#2;w 9to ! m famili> =m )
+r1l & imag9>y "ps4
+#c4 ,! me?od `#1;4abs"<"> w return !
+modulus ( a complex numb}1 ;r z describ$
+9 ! text4 ,= ele;ts ( _% `;,c~`# _: ? %d
+alw equal #a4
+#d4 ,! me?od `#1;4>g"<"> w return !
+>gu;t ( a complex numb}1 _% .? _: z
+describ$ 9 ! text4 ,e ele;t ( ! cyclic
+gr|p 9 ? example %d h an >gu;t t is an
+9teg} multiple ( _% ?2.p/14# _:4 ,!
+`#1,n"<"> syntax 3v}ts ! symbolic value
+( `#1pi to a num}ical approxima;n4
+#e4 `#1sg is a li/ ( ele;ts t =m a
+cyclic subgr|p ( ord} #g1 compos$ ( ! f/
+#g p{}s ( `#7;b "7 w`5#b`#'4 ,s1 =
+example1 ! la/ comp>ison multiplies !
+fif? p{} ( `#2;b ) ! six? p{} ( `#2;b1 :
+wd 2 ! elev5? p{} ( `#2;b4 ,b s9ce `#2;b
+has ord} #g1 ? r$uces to ! f|r? p{}4
+#f4 ,if y "k a subset ( an 9f9ite   #cce
+gr|p =ms a subgr|p1 !n y c produce xs
+,cayley table by specify+ ! li/ ( ele;ts
+y want to use4 ,"h we ask = a
+multiplica;n table1 s9ce t is ! relevant
+op}a;n4
+
+    #d4i ,sage ,ex}cises
+  ,? gr|p ( ex}cises is ab ! gr|p (
+units mod ;n1 _% ,u(n) _:1 : is "s"ts
+cyclic1 "s"ts n4 ,"! >e "s comm&s 9
+,sage t w answ} "s ( ~! "qs v qkly1 b
+9/1d ( us+ ~? n{1 j use ! basic
+te*niques describ$4 ,! idea "h is to j
+"w ) ele;ts1 & li/s ( ele;ts1 to 4c}n !
+subgr|p /ructure ( ~! gr|ps4
+  ,sage "w%eets h ext5sive capabilities
+= mak+ new cells ) c>e;lly =matt$ text1
+9clude support = ,la,te,x syntax to
+express ma!matics4 ,s :5 a "q asks =
+explana;n or com;t>y1 make a new cell &
+communicate cle>ly ) yr audi;e4 ,3t9ue ?
+practice 9 subsequ5t ex}cise sets4
+
+#a4 ,execute ! /ate;t `#7;,r "7
+,9teg}s"<#dj">`#' to cr1te ! set    #ccf
+`#1.<#j1a1b14441ci.>,? is a gr|p "u
+addi;n mod #dj1 : we w ignore4 ,9/1d we
+>e 9t}e/$ 9 ! subset ( ele;ts : h an
+9v}se "u .1multiplica;n mod #dj4
+,det}m9e h{ big ? subgr|p is by execut+
+! comm& `#1,r4unit.-gr|p.-ord}"<">1 & !n
+obta9 a li/ ( ~! ele;ts )
+`#1,r4li/.-(.-ele;ts.-(.-multiplicative-
+.-gr|p"<">4
+
+#b4 ,y c cr1te ele;ts ( ? gr|p by co}c+
+regul> 9teg}s 9to `#2;,u1 s* z ) !
+/ate;t `#7a "7 ,u"<#g">`#'4 "<,don't
+3fuse ? ) |r ma!matical nota;n
+_% ,u(40) _:4"> ,? w tell ,sage t y want
+to view #g z an ele;t ( ;,u1 subject to
+! correspond+ op}a;ns4 ,det}m9e ! ele;ts
+( ! cyclic subgr|p ( ;,u g5}at$ by #g )
+a li/ compreh5.n z foll{s3
+
+`#7;,r "7 ,9teg}s"<#dj">`#'
+`#7a "7 ,r"<#g">`#'
+`#7.<a`5i = i 9 srange"<#af">.>`#'
+
+  ,:at is ! ord} ( #g 9             #ccg
+_% ,u(40) _:;8
+
+#c4 ,! gr|p _% ,u(49) _: is cyclic4 ,us+
+only ! ,sage comm&s describ$ previ|sly1
+use ,sage to f9d a g5}ator = ? gr|p4 ,n{
+us+ .1only !orems ab ! /ructure ( cyclic
+gr|ps1 describe ea* ( ! subgr|ps (
+_% ,u(49) _: by specify+ xs ord} & by
+giv+ an explicit g5}ator4 ,d n rep1t any
+( ! subgr|ps ,- 9 o!r ~ws1 pres5t ea*
+subgr|p .1exactly once4 ,y c use ,sage
+to *eck yr "w on ! subgr|ps1 b yr answ}
+ab ! subgr|ps %d rely only on !orems & 2
+a nicely writt5 p>agraph ) a table1 etc4
+
+#d4 ,! gr|p _% ,u(35) _: is n cyclic4
+,ag1 us+ only ! ,sage comm&s describ$
+previ|sly1 use computa;ns to provide
+irrefutable evid;e ( ?4 ,h{ _m ( ! #af
+di6}5t subgr|ps ( _% ,u(35) _: c y li/8
+
+#e4 ,ag1 us+ only ! ,sage comm&s
+describ$ previ|sly1 explore ! /ructure (
+_% ,u(n) _: = v>i|s values ( ;n & see if
+y c =mulate an 9t}e/+ 3jecture ab   #cch
+"s basic prop}ty ( ? gr|p4 "<,yes1 ? is
+a .1v op5-5d$ "q1 b ? is ultimately !
+r1l p{} ( explor+ ma!matics ) ,sage4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #cci
+

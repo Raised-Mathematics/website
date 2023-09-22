@@ -1,0 +1,2476 @@
+   #ai ,lattices & ,bool1n ,algebras
+
+  ,! axioms ( a r+ give /ructure to !
+op}a;ns ( addi;n & multiplica;n on a
+set4 ,h{"e1 we c 3/ruct algebraic
+/ructures1 "kn z lattices & ,bool1n
+algebras1 t g5}alize o!r types (
+op}a;ns4 ,= example1 ! important op}a;ns
+on sets >e 9clu.n1 union1 & 9t}sec;n4
+,lattices >e g5}aliza;ns ( ord} rela;ns
+on algebraic spaces1 s* z set 9clu.n 9
+set !ory & 9equal;y 9 ! famili> numb}
+sy/ems _% `;,n _:1 _% `;,z _:1
+_% `;,q _:1 & _% `;,r _:4 ,bool1n
+algebras g5}alize ! op}a;ns ( 9t}sec;n &
+union4 ,lattices & ,bool1n algebras h
+f.d applica;ns 9 logic1 circuit !ory1 &
+probabil;y4
+
+    #ai4a ,lattices
+
+      ,"pially ,ord}$ ,sets
+  ,we 2g9 ! /udy ( lattices & ,bool1n
+algebras by g5}aliz+ ! idea ( 9equal;y4
+,recall t a ~1rela;n on a set      #acfe
+;,x is a subset ( _% ,x`*,x _:4 ,a
+rela;n ;,p on ;,x is call$ a ~1"pial
+~1ord} ( ;,x if x satisfies ! foll{+
+axioms4
+#a4 ,! rela;n is ~1reflexive3 _% (a, a)
+`e ,p _: = all _% a `e ,x _:4
+#b4 ,! rela;n is ~1antisymmetric3 if
+_% (a, b) `e ,p _: & _% (b, a) `e ,p _:1
+!n _% a .k b _:4
+#c4 ,! rela;n is ~1transitive3 if _% (a,
+b) `e ,p _: & _% (b, c) `e ,p _:1 !n
+_% (a, c) `e ,p _:4
+,we w usually write _% a ."k: b _: to
+m1n _% (a, b) `e ,p _: un.s "s symbol is
+naturally associat$ ) a "picul> "pial
+ord}1 s* z _% a "k: b _: ) 9teg}s a &
+;b1 or _% ,a _"k ,b _: ) sets ,a & ;,b4
+,a set ;,x tgr ) a "pial ord} _% ."k: _:
+is call$ a ~7"pially ord}$ set~'1 or
+~1poset4
+
+
+
+
+                                   #acff
+7777777777777777777777777777777777777777
+,example #ai4a
+  ,! set ( 9teg}s "<or ra;nals or r1ls">
+is a poset ": _% a "k: b _: has ! usual
+m1n+ = two 9teg}s a & ;b 9 _% `;,z _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #acfg
+7777777777777777777777777777777777777777
+,example #ai4b
+  ,let ;,x 2 any set4 ,we w def9e !
+~1p{} ~1set ( ;,x to 2 ! set ( all
+subsets ( ;,x4 ,we d5ote ! p{} set ( ;,x
+by _% `;,p(,x) _:4 ,= example1 let _% ,x
+.k .(a, b, c.) _:4 ,!n _% `;,p(,x) _: is
+ ! set ( all subsets ( ! set  _% .(a, b,
+c.) _:3
+_%
+
+_0        .(a.)     .(b.)     .(c.)
+.(a, b.)  .(a, c.)  .(b, c.)  .(a, b,
+c.)_4
+
+_:
+,on any p{} set ( a set ;,x1 set 9clu.n1
+_% _"k _:1 is a "pial ord}4 ,we c
+repres5t ! ord} on _% .(a, b, c.) _:
+s*ematically by a diagram s* z ! "o 9
+,figure #ai4c4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                   #acfh
+7777777777777777777777777777777777777777
+      ,figure #ai4c4 ,"pial ord} on
+    _% `;,p(.(a, b, c.)) _:
+       `.<,a graph ) ! set 3si/+ ( a1
+     ;b1 ;c at ! top level2  ,! sets
+     "<a1 ;b">1 "<a1 ;c">1 & "<;b1 ;c">
+     at ! second level2 ! ?reee sets
+     3si/+ ( a1 ;b1 & ;c at ! ?ird
+     level2 & ! empty set at ! f|r?
+     level4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #acfi
+       `.<,replace ? page ) ,figure
+     #ai4c4 ,"pial ord} on _% `;,p(.(a,
+     b, c.)) _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #acgj
+7777777777777777777777777777777777777777
+,example #ai4d
+  ,let ;,g 2 a gr|p4 ,! set ( subgr|ps (
+;,g is a poset1 ": ! "pial ord} is set
+9clu.n4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ai4e
+  ,"! c 2 m ?an "o "pial ord} on a
+"picul> set4 ,we c =m a "pial ord} on
+_% `;,n _: by _% a ."k: b _: if
+_% a|b _:4 ,! rela;n is c}ta9ly
+reflexive s9ce _% a|a _: = all _% a `e
+`;,n _:4 ,if _% m|n _: & _% n|m _:1 !n
+_% m .k n _:2 h;e1 ! rela;n is al
+antisymmetric4 ,! rela;n is transitive1
+2c if _% m|n _: & _% n|p _:1 !n
+_% m|p _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+                                   #acga
+7777777777777777777777777777777777777777
+,example #ai4f
+  ,let _% ,x .k .(1, 2, 3, 4, 6, 8, 12,
+24.) _: 2 ! set ( divisors ( #bd ) !
+"pial ord} def9$ 9 ,example #ai4e4
+,figure #ai4g %{s ! "pial ord} on ;,x4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+      ,figure #ai4g4 ,a "pial ord} on !
+    divisors ( #bd
+       `.<,a graph ) #bd at ! top
+     level11 #h & #ab at ! second level1
+     #d "<3nect$ to #h & #ab"> & #f
+     "<3nect$ to #ab"> at ! ?ird level1
+     #b "<3nect$ to #d & #f"> & #c
+     "<3nect$ to #f"> at ! f|r? level1 &
+     #a at ! bottom level4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                   #acgb
+       `.<,replace ? page ) ,figure
+     #ai4g4 ,a "pial ord} on ! divisors
+     ( #bd`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #acgc
+  ,let ;,y 2 a subset ( a poset ;,x4 ,an
+ele;t ;u 9 ;,x is an ~1upp} ~1b.d ( ;,y
+if _% a ."k: u _: = e ele;t _% a `e
+,y _:4 ,if ;u is an upp} b.d ( ;,y s* t
+_% u ."k: v _: = e o!r upp} b.d ;v (
+;,y1 !n ;u is call$ a ~7l1/ upp} b.d~'
+or ~1supremum ( ;,y4 ,an ele;t ;l 9 ;,x
+is sd to 2 a ~1l{} ~1b.d ( ;,y if _% l
+."k: a _: = all _% a `e ,y _:4 ,if ;l is
+a l{} b.d ( ;,y s* t _% k ."k: l _: = e
+o!r l{} b.d ;k ( ;,y1 !n ;l is call$ a
+~7grte/ l{} b.d~' or ~19fimum ( ;,y4
+
+7777777777777777777777777777777777777777
+,example #ai4h
+  ,let _% ,y .k .(2, 3, 4, 6.) _: 2
+3ta9$ 9 ! set ;,x ( ,example #ai4f4 ,!n
+;,y has upp} b.ds #ab & #bd1 ) #ab z a
+l1/ upp} b.d4 ,! only l{} b.d is #a2
+h;e1 x m/ 2 a grte/ l{} b.d4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,z x turns |1 l1/ upp} b.ds & grte/
+l{} b.ds >e unique if !y exi/4
+                                   #acgd
+7777777777777777777777777777777777777777
+,!orem #ai4i
+  ,let ;,y 2 a nonempty subset ( a poset
+;,x4 ,if ;,y has a l1/ upp} b.d1 !n ;,y
+has a unique l1/ upp} b.d4 ,if ;,y has a
+grte/ l{} b.d1 !n ;,y has a unique grte/
+l{} b.d4
+
+,pro(4 ,let _% u1 _: & _% u2 _: 2 l1/
+upp} b.ds = ;,y4 ,by ! def9i;n ( ! l1/
+upp} b.d1 _% u1 ."k: u _: = all upp}
+b.ds ;u ( ;,y4 ,9 "picul>1 _% u1 ."k:
+u2 _:4 ,simil>ly1 _% u2 ."k: u1 _:4
+,"!=e1 _% u1 .k u2 _: by antisymmetry4
+,a simil> >gu;t %{ t ! grte/ l{} b.d is
+unique4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,on _m posets x is possible to def9e
+b9>y op}a;ns by us+ ! grte/ l{} b.d & !
+l1/ upp} b.d ( two ele;ts4 ,a ~1lattice
+is a poset ;,l s* t e pair ( ele;ts 9
+;,l has a l1/ upp} b.d & a grte/ l{}
+b.d4 ,! l1/ upp} b.d ( _% a, b `e ,l _:
+is call$ ! ~1jo9 ( a & ;b & is     #acge
+d5ot$ by _% a`+b _:4  ,! grte/ l{} b.d (
+_% a, b `e ,l _: is call$ ! ~1meet ( a &
+;b & is d5ot$ by _% a`%b _:4
+
+7777777777777777777777777777777777777777
+,example #ai4aj
+  ,let ;,x 2 a set4 ,!n ! p{} set ( ;,x1
+_% `;,p(,x) _:1 is a lattice4 ,= two
+sets ,a & ;,b 9 _% `;,p(,x) _:1 ! l1/
+upp} b.d ( ,a & ;,b is _% ,a.+,b _:4
+,c}ta9ly _% ,a.+,b _: is an upp} b.d (
+,a & ;,b1 s9ce _% ,a _"k ,a.+,b _: &
+_% ,b _"k ,a.+,b _:4 ,if ;,c is "s o!r
+set 3ta9+ bo? ,a & ;,b1 !n ;,c m/ 3ta9
+_% ,a.+,b _:2 h;e1 _% ,a.+,b _: is ! l1/
+upp} b.d ( ,a & ;,b4 ,simil>ly1 ! grte/
+l{} b.d ( ,a & ;,b is _% ,a.%,b _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                   #acgf
+7777777777777777777777777777777777777777
+,example #ai4aa
+  ,let ;,g 2 a gr|p & suppose t ;,x is !
+set ( subgr|ps ( ;,g4 ,!n ;,x is a poset
+ord}$ by set-!oretic 9clu.n1 _% _"k _:4
+,! set ( subgr|ps ( ;,g is al a lattice4
+,if ;,h & ;,k >e subgr|ps ( ;,g1 ! grte/
+l{} b.d ( ;,h & ;,k is _% ,h.%,k _:4 ,!
+set _% ,h.+,k _: may n 2 a subgr|p (
+;,g4 ,we l1ve x z an ex}cise to %{ t !
+l1/ upp} b.d ( ;,h & ;,k is ! subgr|p
+g5}at$ by _% ,h.+,k _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,9 set !ory we h c}ta9 dual;y 3di;ns4
+,= example1 by ,de ,morgan's laws1 any
+/ate;t ab sets t is true ab
+_% (,a.+,b)' _: m/ al 2 true ab
+_% ,a'.%,b' _:4 ,we al h a dual;y
+pr9ciple = lattices4
+
+
+
+
+                                   #acgg
+7777777777777777777777777777777777777777
+,axiom #ai4ab ,pr9ciple ( ,dual;y4
+  ,any /ate;t t is true = all lattices
+rema9s true :5 _% ."k: _: is replac$ by
+_% ..1: _: & _% `+ _: & _% `% _: >e
+9t}*ang$ "?|t ! /ate;t4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ !orem tells u t a lattice is
+an algebraic /ructure ) two b9>y op}a;ns
+t satisfy c}ta9 axioms4
+
+7777777777777777777777777777777777777777
+,!orem #ai4ac
+  ,if ;,l is a lattice1 !n ! b9>y
+op}a;ns _% `+ _: & _% `% _: satisfy !
+foll{+ prop}ties = _% a, b, c `e ,l _:4
+#a4 ,commutative laws3 _% a`+b .k
+b`+a _: & _% a`%b .k b`%a _:4
+#b4 ,associative laws3 _% a`+(b`+c) .k
+(a`+b)`+c _: & _% a`%(b`%c) .k
+(a`%b)`%c _:4
+#c4 ,idempot5t laws3 _% a`+a .k a _: &
+_% a`%a .k a _:4
+#d4 ,absorp;n laws3 _% a`+(a`%b)   #acgh
+.k a _: & _% a`%(a`+b) .k a _:4
+
+,pro(4 ,by ! ,pr9ciple ( ,dual;y1 we ne$
+only prove ! f/ /ate;t 9 ea* "p4
+  "<#a"> ,by def9i;n _% a`+b _: is ! l1/
+upp} b.d ( _% .(a, b.) _:1 & _% b`+a _:
+is ! l1/ upp} b.d ( _% .(b, a.) _:2
+h{"e1 _% .(a, b.) .k .(b, a.) _:4
+  "<#b"> ,we w %{ t _% a`+(b`+c) _: &
+_% (a`+b)`+c _: >e bo? l1/ upp} b.ds (
+_% .(a, b, c.) _:4 ,let _% d .k a`+b _:4
+,!n _% c ."k: d`+c .k (a`+b)`+c _:4 ,we
+al "k t
+_%
+
+a ."k: a`+b .k d ."k: d`+c .k (a`+b)`+c
+
+_:4
+,a simil> >gu;t demon/rates t _% b ."k:
+(a`+b)`+c _:4 ,"!=e1 _% (a`+b)`+c _: is
+an upp} b.d ( _% .(a, b, c.) _:4 ,we n{
+ne$ to %{ t _% (a`+b)`+c _: is ! l1/
+upp} b.d ( _% .(a, b, c.) _:4 ,let ;u 2
+"s o!r upp} b.d ( _% .(a, b, c.) _:4 ,!n
+_% a ."k: u _: & _% b ."k: u _:2   #acgi
+h;e1 _% d .k a`+b ."k: u _:4 ,s9ce _% c
+."k: u _:1 x foll{s t _% (a`+b)`+c .k
+d`+c ."k: u _:4 ,"!=e1 _% (a`+b)`+c _:
+m/ 2 ! l1/ upp}  b.d ( _% .(a, b,
+c.) _:4 ,! >gu;t t %{s  _% a`+(b`+c) _:
+is ! l1/ upp} b.d ( _% .(a, b, c.) _: is
+! same4 ,3sequ5tly1 _% a`+(b`+c) .k
+(a`+b)`+c _:4
+  "<#c"> ,! jo9 ( a & a is ! l1/ upp}
+b.d ( _% .(a.) _:2 h;e1 _% a`+a .k a _:4
+  "<#d"> ,let _% d .k a`%b _:4 ,!n _% a
+."k: a`+d _:4 ,on ! o!r h&1 _% d .k a`%b
+."k: a _:1 & s _% a`+d ."k: a _:4 ,"!=e1
+_% a`+(a`%b) .k a _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,giv5 any >bitr>y set ;,l ) op}a;ns
+_% `+ _: & _% `% _:1 satisfy+ ! 3di;ns (
+! previ|s !orem1 x is natural to ask
+:e!r or n ? set comes f "s lattice4 ,!
+foll{+ !orem says t ? is alw ! case4
+
+7777777777777777777777777777777777777777
+,!orem #ai4ad
+  ,let ;,l 2 a nonempty set )      #achj
+two b9>y op}a;ns _% `+ _: & _% `% _:
+satisfy+ ! commutative1 associative1
+idempot5t1 & absorp;n laws4 ,we c def9e
+a "pial ord} on ;,l by _% a ."k: b _: if
+_% a`+b .k b _:4 ,fur!rmore1 ;,l is a
+lattice ) respect to _% ."k: _: if = all
+_% a, b `e ,l _:1 we def9e ! l1/ upp}
+b.d & grte/ l{} b.d ( a & ;b by
+_% a`+b _: & _% a`%b _:1 respectively4
+
+,pro(4 ,we f/ %{ t ;,l is a poset "u
+_% ."k: _:4 ,s9ce _% a`+a .k a _:1 _% a
+."k: a _: & _% ."k: _: is reflexive4 ,to
+%{ t _% ."k: _: is antisymmetric1 let
+_% a ."k: b _: & _% b ."k: a _:4 ,!n
+_% a`+b .k b _: & _% b`+a .k a _:4 ,by !
+commutative law1 _% b .k a`+b .k b`+a .k
+a _:4 ,f9ally1 we m/ %{ t _% ."k: _: is
+transitive4 ,let _% a ."k: b _: & _% b
+."k: c _:4 ,!n _% a`+b .k b _: & _% b`+c
+.k c _:4 ,?us1
+
+
+
+                                   #acha
+_%
+
+a`+c .k a`+(b`+c) .k (a`+b)`+c .k b`+c
+.k c
+
+_:1
+or _% a ."k: c _:4
+  ,to %{ t ;,l is a lattice1 we m/ prove
+t _% a`+b _: & _% a`%b _: >e1
+respectively1 ! l1/ upp} & grte/ l{}
+b.ds ( a & ;b4 ,s9ce _% a .k (a`+b)`%a
+.k a`%(a`+b) _:1 x foll{s t _% a ."k:
+a`+b _:4 ,simil>ly1 _% b ."k: a`+b _:4
+,"!=e1 _% a`+b _: is an upp} b.d = a &
+;b4 ,let ;u 2 any o!r upp} b.d ( bo? a &
+;b4 ,!n _% a ."k: u _: & _% b ."k: u _:4
+,b _% a`+b ."k: u _: s9ce
+_%
+
+(a`+b)`+u .k a`+(b`+u) .k a`+u .k u
+
+_:4
+,! pro( t _% a`%b _: is ! grte/ l{} b.d
+( a & ;b is left z an ex}cise4
+gggggggggggggggggggggggggggggggg   #achb
+
+
+    #ai4b ,bool1n ,algebras
+  ,let u 9ve/igate ! example ( ! p{}
+set1 _% `;,p(,x) _:1 ( a set ;,x m
+closely4 ,! p{} set is a lattice t is
+ord}$ by 9clu.n4 ,by ! def9i;n ( ! p{}
+set1 ! l>ge/ ele;t 9 _% `;,p(,x) _: is
+;,x xf & ! smalle/ ele;t is _% _0 _:1 !
+empty set4 ,= any set ,a 9
+_% `;,p(,x) _:1 we "k t _% ,a.%,x .k
+,a _: & _% ,a.+_0 .k ,a _:4 ,? su7e/s !
+foll{+ def9i;n = lattices4 ,an ele;t ,i
+9 a poset ;,x is a ~1l>ge/ ~1ele;t if
+_% a ."k: ,i _: = all _% a `e ,x _:4
+,an ele;t ,o is a ~1smalle/ ~1ele;t (
+;,x if _% ,o ."k: a _: = all _% a `e
+,x _:4
+  ,let ,a 2 9 _% `;,p(,x) _:4 ,recall t
+! comple;t ( ,a is
+
+
+
+
+                                   #achc
+_%
+
+,a' .k ,x_*,a .k .(x_3x `e ,x and x /`e
+,a.)
+
+_:4
+,we "k t _% ,a.+,a' .k ,x _: &
+_% ,a.%,a' .k _0 _:4 ,we c g5}alize ?
+example = lattices4 ,a lattice ;,l ) a
+l>ge/ ele;t ,i & a smalle/ ele;t ,o is
+~1comple;t$ if = ea* _% a `e ,l _:1 "!
+exi/s an _% a' _: s* t _% a`+a' .k ,i _:
+& _% a`%a' .k ,o _:4
+  ,9 a lattice ;,l1 ! b9>y op}a;ns
+_% `+ _: & _% `% _: satisfy commutative
+& associative laws2 h{"e1 !y ne$ n
+satisfy ! 4tributive law
+_%
+
+a`%(b`+c) .k (a`%b)`+(a`%c)_2
+
+_:
+h{"e1 9 _% `;,p(,x) _: ! 4tributive law
+is satisfi$ s9ce
+                                   #achd
+_%
+
+,a.%(,b.+,c) .k (,a.%,b).+(,a.%,c)
+
+_:
+= _% ,a, ,b, ,c `e `;,p(,x) _:4 ,we w
+say t a lattice ;,l is ~14tributive if !
+foll{+ 4tributive law holds3
+_%
+
+a`%(b`+c) .k (a`%b)`+(a`%c)
+
+_:
+= all _% a, b, c `e ,l _:4
+
+7777777777777777777777777777777777777777
+,!orem #ai4ae
+  ,a lattice ;,l is 4tributive if & only
+if
+_%
+
+a`+(b`%c) .k (a`+b)`%(a`+c)
+
+_:
+= all _% a, b, c `e ,l _:4         #ache
+,pro(4 ,let u assume t ;,l is a
+4tributive lattice4
+_%
+
+a`+(b`%c)                       .k
+`(a`+(a`%c)`)`+(b`%c)
+.k a`+`((a`%c)`+(b`%c)`)
+.k a`+`((c`%a)`+(c`%b)`)
+.k a`+`(c`%(a`+b)`)
+.k a`+`((a`+b)`%c`)
+.k `((a`+b)`%a`)`+`((a`+b)`%c`)
+.k (a`+b)`%(a`+c)
+
+_:4
+,! 3v}se foll{s directly f ! ,dual;y
+,pr9ciple4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a ~1,bool1n ~1algebra is a lattice
+;,b ) a grte/ ele;t ,i & a smalle/ ele;t
+,o s* t ;,b is bo? 4tributive &
+comple;t$4 ,! p{} set ( ;,x1
+_% `;,p(,x) _:1 is |r prototype = a
+,bool1n algebra4 ,z x turns |1 x is al
+"o ( ! mo/ important ,bool1n       #achf
+algebras4 ,! foll{+ !orem all{s u to
+"*ize ,bool1n algebras 9 t}ms ( ! b9>y
+rela;ns _% `+ _: & _% `% _: )|t m5;n ( !
+fact t a ,bool1n algebra is a poset4
+
+7777777777777777777777777777777777777777
+,!orem #ai4af
+  ,a set ;,b is a ,bool1n algebra if &
+only if "! exi/ b9>y op}a;ns _% `+ _: &
+_% `% _: on ;,b satisfy+ ! foll{+
+axioms4
+#a4 _% a`+b .k b`+a _: & _% a`%b .k
+b`%a _: = _% a, b `e ,b _:4
+#b4 _% a`+(b`+c) .k (a`+b)`+c _: &
+_% a`%(b`%c) .k (a`%b)`%c _: = _% a, b,
+c `e ,b _:4
+#c4 _% a`%(b`+c) .k (a`%b)`+(a`%c) _: &
+_% a`+(b`%c) .k (a`+b)`%(a`+c) _: =
+_% a, b, c `e ,b _:4
+#d4 ,"! exi/ ele;ts ,i & ,o s* t
+_% a`+,o .k a _: & _% a`%,i .k a _: =
+all _% a `e ,b _:4
+#e4 ,= e _% a `e ,b _: "! exi/s an _% a'
+`e ,b _: s* t _% a`+a' .k ,i _: &
+_% a`%a' .k ,o _:4                 #achg
+,pro(4 ,let ;,b 2 a set satisfy+
+"<#a">,-"<#e"> 9 ! !orem4 ,"o ( !
+idempot5t laws is satisfi$ s9ce
+_%
+
+a                    .k a`+,o
+.k a`+(a`%a~'")
+.k (a`+a)`%(a`+a~'")
+.k (a`+a)`%,i
+.k a`+a
+
+_:4
+,obs}ve t
+_%
+
+,i`+b .k (b`+b~'")`+b .k (b'`+b)`+b .k
+b'`+(b`+b) .k b'`+b .k ,i
+
+_:4
+,3sequ5tly1 ! f/ ( ! two absorp;n laws
+holds1 s9ce
+
+
+
+                                   #achh
+_%
+
+a`+(a`%b)     .k (a`%,i)`+(a`%b)
+.k a`%(,i`+b)
+.k a`%,i
+.k a
+
+_:4
+,! o!r idempot5t & absorp;n laws >e
+prov5 simil>ly4 ,s9ce ;,b al satisfies
+"<#a">,-"<#c">1 ! 3di;ns ( ,!orem #ai4ad
+>e met2 "!=e1 ;,b m/ 2 a lattice4 ,3di;n
+"<#d"> tells u t ;,b is a 4tributive
+lattice4
+  ,= _% a `e ,b _:1 _% ,o`+a .k a _:2
+h;e1 _% ,o ."k: a _: & ,o is ! smalle/
+ele;t 9 ;,b4 ,to %{ t ,i is ! l>ge/
+ele;t 9 ;,b1 we w f/ %{ t _% a`+b .k
+b _: is equival5t to _% a`%b .k a _:4
+,s9ce _% a`+,i .k a _: = all _% a `e
+,b _:1 us+ ! absorp;n laws we c det}m9e
+t
+
+
+                                   #achi
+_%
+
+a`+,i .k (a`%,i)`+,i .k ,i`+(,i`%a) .k
+,i
+
+_:
+or _% a ."k: ,i _: = all a 9 ;,b4
+,f9ally1 s9ce we "k t ;,b is comple;t$
+by "<#e">1 ;,b m/ 2 a ,bool1n algebra4
+  ,3v}sely1 suppose t ;,b is a ,bool1n
+algebra4 ,let ,i & ,o 2 ! grte/ & l1/
+ele;ts 9 ;,b1 respectively4 ,if we def9e
+_% a`+b _: & _% a`%b _: z l1/ upp} &
+grte/ l{} b.ds ( _% .(a, b.) _:1 !n ;,b
+is a ,bool1n algebra by ,!orem #ai4ad1
+,!orem #ai4ae1 & |r hypo!sis4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,_m o!r id5tities hold 9 ,bool1n
+algebras4 ,"s ( ~! id5tities >e li/$ 9 !
+foll{+ !orem4
+
+7777777777777777777777777777777777777777
+,!orem #ai4ag
+  ,let ;,b 2 a ,bool1n algebra4    #acij
+,!n
+#a4 _% a`+,i .k ,i _: & _% a`%,o .k
+,o _: = all _% a `e ,b _:4
+#b4 ,if _% a`+b .k a`+c _: & _% a`%b .k
+a`%c _: = _% a, b, c `e ,b _:1 !n _% b
+.k c _:4
+#c4 ,if _% a`+b .k ,i _: & _% a`%b .k
+,o _:1 !n _% b .k a' _:4
+#d4 _% (a')' .k a _: = all _% a `e
+,b _:4
+#e4 _% ,i' .k ,o _: & _% ,o' .k ,i _:4
+#f4 _% (a`+b)' .k a'`%b' _: & _% (a`%b)'
+.k a'`+b' _: "<,de ,morgan's ,laws">4
+
+,pro(4 ,we w prove only "<#b">4 ,! re/ (
+! id5tities >e left z ex}cises4 ,=
+_% a`+b .k a`+c _: & _% a`%b .k a`%c _:1
+we h
+
+
+
+
+
+
+                                   #acia
+_%
+
+b                 .k b`+(b`%a)
+.k b`+(a`%b)
+.k b`+(a`%c)
+.k (b`+a)`%(b`+c)
+.k (a`+b)`%(b`+c)
+.k (a`+c)`%(b`+c)
+.k (c`+a)`%(c`+b)
+.k c`+(a`%b)
+.k c`+(a`%c)
+.k c`+(c`%a)
+.k c
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,f9ite ,bool1n ,algebras
+  ,a ,bool1n algebra is a ~7f9ite
+,bool1n algebra~' if x 3ta9s a f9ite
+numb} ( ele;ts z a set4 ,f9ite ,bool1n
+algebras >e "picul>ly nice s9ce we c
+classify !m up to isomorphism4
+  ,let ;,b & ;,c 2 ,bool1n         #acib
+algebras4 ,a bijective map _% .f"1 ,b $o
+,c _: is an ~1isomorphism ( ,bool1n
+algebras  if
+_%
+
+f(a`+b) .k f(a)`+f(b)
+f(a`%b) .k f(a)`%f(b)
+
+_:
+= all a & ;b 9 ;,b4
+  ,we w %{ t any f9ite ,bool1n algebra
+is isomorphic to ! ,bool1n algebra
+obta9$ by tak+ ! p{} set ( "s f9ite set
+;,x4 ,we w ne$ a few lemmas & def9i;ns
+2f we prove ? result4 ,let ;,b 2 a f9ite
+,bool1n algebra4 ,an ele;t _% a `e ,b _:
+is an ~1atom ( ;,b if _% a /.k ,o _: &
+_% a`%b .k a _: = all _% b `e ,b _: )
+_% b /.k ,o _:4 ,equival5tly1 a is an
+atom ( ;,b if "! is no _% b `e ,b _: )
+_% b /.k ,o _: 4t9ct f a s* t _% ,o ."k:
+b ."k: a _:4
+
+7777777777777777777777777777777777777777
+,lemma #ai4ah                      #acic
+  ,let ;,b 2 a f9ite ,bool1n algebra4
+,if ;b is a ele;t ( ;,b ) _% b /.k
+,o _:1 !n "! is an atom a 9 ;,b s* t
+_% a ."k: b _:4
+
+,pro(4 ,if ;b is an atom1 let _% a .k
+b _:4 ,o!rwise1 *oose an ele;t _% b1 _:1
+n equal to ,o or ;b1 s* t _% b1 ."k:
+b _:4 ,we >e gu>ante$ t ? is possible
+s9ce ;b is n an atom4 ,if _% b1 _: is an
+atom1 !n we >e d"o4 ,if n1 *oose
+_% b2 _:1 n equal to ,o or _% b1 _:1 s*
+t  _% b2 ."k: b1 _:4 ,ag1 if _% b2 _: is
+an atom1 let _% a .k b2 _:4 ,3t9u+ ?
+process1 we c obta9 a *a9
+_%
+
+,o ."k: '''  ."k: b3 ."k: b2 ."k: b1
+."k: b
+
+_:4
+,s9ce ;,b is a f9ite ,bool1n algebra1 ?
+*a9 m/ 2 f9ite4 ,t is1 = "s ;k1
+_% b;k _: is an atom4 ,let _% a .k
+b;k _:4                            #acid
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ai4ai
+  ,let a & ;b 2 atoms 9 a f9ite ,bool1n
+algebra ;,b s* t _% a /.k b _:4 ,!n
+_% a`%b .k ,o _:4
+
+,pro(4 ,s9ce _% a`%b _: is ! grte/ l{}
+b.d ( a & ;b1 we "k t _% a`%b ."k: a _:4
+,h;e1 ei _% a`%b .k a _: or _% a`%b .k
+,o _:4 ,h{"e1 if _% a`%b .k a _:1 !n ei
+_% a ."k: b _: or _% a .k ,o _:4 ,9 ei
+case we h a 3tradic;n 2c a & ;b >e bo?
+atoms2 "!=e1 _% a`%b .k ,o _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ai4bj
+  ,let ;,b 2 a ,bool1n algebra & _% a, b
+`e ,b _:4 ,! foll{+ /ate;ts >e
+equival5t4
+#a4 _% a ."k: b _:4                #acie
+#b4 _% a`%b' .k ,o _:4
+#c4 _% a'`+b .k ,i _:4
+
+,pro(4 "<#a"> _% $33oo _: "<#b">4 ,if
+_% a ."k: b _:1 !n _% a`+b .k b _:4
+,"!=e1
+_%
+
+a`%b~'"            .k a`%(a`+b)~'"
+.k a`%(a'`%b~'")
+.k (a`%a~'")`%b~'"
+.k ,o`%b~'"
+.k ,o
+
+_:4
+  "<#b"> _% $33oo _: "<#c">4 ,if
+_% a`%b' .k ,o _:1 !n _% a'`+b .k
+(a`%b')' .k ,o' .k ,i _:4
+  "<#c"> _% $33oo _: "<#a">4 ,if
+_% a'`+b .k ,i _:1 !n
+
+
+
+
+                                   #acif
+_%
+
+a                    .k a`%(a'`+b)
+.k (a`%a~'")`+(a`%b)
+.k ,o`+(a`%b)
+.k a`%b
+
+_:4
+,?us1 _% a ."k: b _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #acig
+7777777777777777777777777777777777777777
+,lemma #ai4ba
+  ,let ;,b 2 a ,bool1n algebra & ;b & ;c
+2 ele;ts 9 ;,b s* t _% b ."k:"'\xjcch'
+c _:4 ,!n "! exi/s an atom _% a `e ,b _:
+s* t _% a ."k: b _: & _% a ."k:"'\xjcch'
+c _:4
+
+,pro(4 ,by ,lemma #ai4bj1 _% b`%c' /.k
+,o _:4 ,h;e1 "! exi/s an atom a s* t
+_% a ."k: b`%c' _:4 ,3sequ5tly1 _% a
+."k: b _: & _% a ."k:"'\xjcch' c _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ai4bb
+  ,let _% b `e ,b _: & _% a1, ''',
+a;n _: 2 ! atoms ( ;,b s* t _% a;i ."k:
+b _:4 ,!n _% b .k a1`+''' `+a;n _:4
+,fur!rmore1 if _% a, a1, ''', a;n _: >e
+atoms ( ;,b s* t _% a ."k: b _:1 _% a;i
+."k: b _:1 & _% b .k a`+a1`+'''
+`+a;n _:1 !n _% a .k a;i _: = "s _% i .k
+#1, ''', n _:4                     #acih
+,pro(4 ,let _% b1 .k a1`+''' `+a;n _:4
+,s9ce _% a;i ."k: b _: = ea* i1 we "k t
+_% b1 ."k: b _:4 ,if we c %{ t _% b ."k:
+b1 _:1 !n ! lemma is true by
+antisymmetry4 ,assume _% b ."k:"'\xjcch'
+b1 _:4 ,!n "! exi/s an atom a s* t _% a
+."k: b _: & _% a ."k:"'\xjcch' b1 _:4
+,s9ce a is an atom & _% a ."k: b _:1 we
+c d$uce t _% a .k a;i _: = "s _% a;i _:4
+,h{"e1 ? is impossible s9ce _% a ."k:
+b1 _:4 ,"!=e1 _% b ."k: b1 _:4
+  ,n{ suppose t _% b .k a1`+'''
+`+a;n _:4 ,if a is an atom less ?an ;b1
+_%
+
+a .k a`%b .k a`%(a1`+''' `+a;n") .k
+(a`%a1)`+''' `+(a`%a;n")
+
+_:4
+,b ea* t}m is ,o or a ) _% a`%a;i _:
+o3urr+ = only "o _% a;i _:4 ,h;e1 by
+,lemma #ai4ai1 _% a .k a;i _: = "s i4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #acii
+7777777777777777777777777777777777777777
+,!orem #ai4bc
+  ,let ;,b 2 a f9ite ,bool1n algebra4
+,!n "! exi/s a set ;,x s* t ;,b is
+isomorphic to _% `;,p(,x) _:4
+
+,pro(4 ,we w %{ t ;,b is isomorphic to
+_% `;,p(,x) _:1 ": ;,x is ! set ( atoms
+( ;,b4 ,let _% a `e ,b _:4 ,by
+,lemma #ai4bb1 we c write a uniquely z
+_% a .k a1`+''' `+a;n _: = _% a1, ''',
+a;n" `e ,x _:4 ,3sequ5tly1 we c def9e a
+map _% .f"1 ,b $o `;,p(,x) _: by
+_%
+
+f(a) .k f(a1`+''' `+a;n") .k .(a1, ''',
+a;n".)
+
+_:4
+,cle>ly1 _% .f _: is onto4
+  ,n{ let _% a .k a1`+''' `+a;n _: &
+_% b .k b1`+''' `+b;m _: 2 ele;ts 9 ;,b1
+": ea* _% a;i _: & ea* _% b;i _: is an
+atom4 ,if _% f(a) .k f(b) _:1 !n _%
+.(a1, ''', a;n".) .k .(b1, ''',    #adjj
+b;m".) _: & _% a .k b _:4 ,3sequ5tly1
+_% .f _: is 9jective4
+  ,! jo9 ( a & ;b is pres}v$ by _% .f _:
+s9ce
+_%
+
+f(a`+b)                               
+.k f(a1`+''' `+a;n"`+b1`+''' `+b;m")
+.k .(a1, ''', a;n, b1, ''', b;m".)
+.k .(a1, ''', a;n".).+.(b1, ''', b;m".)
+.k f(a1`+''' `+a;n").+f(b1`% '''`+b;m")
+.k f(a).+f(b)
+
+_:4
+,simil>ly1 _% f(a`%b) .k f(a).%f(b) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we l1ve ! pro( ( ! foll{+ coroll>y z
+an ex}cise4
+
+
+
+
+
+                                   #adja
+7777777777777777777777777777777777777777
+,coroll>y #ai4bd
+  ,! ord} ( any f9ite ,bool1n algebra m/
+2 _% #2~n _: = "s positive 9teg} ;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #ai4c ,! ,algebra ( ,electrical
+    ,circuits
+  ,! use;l;s ( ,bool1n algebras has
+2come 9cr1s+ly app>5t ov} ! pa/ s"eal
+decades ) ! develop;t ( ! mod}n comput}4
+,! circuit design ( comput} *ips c 2
+express$ 9 t}ms ( ,bool1n algebras4 ,9 ?
+sec;n we w develop ! ,bool1n algebra (
+electrical circuits & swit*es2 h{"e1 ~!
+results c easily 2 g5}aliz$ to ! design
+( 9tegrat$ comput} circuitry4
+  ,a ~1swit* is a device1 locat$ at "s
+po9t 9 an electrical circuit1 t 3trols !
+fl{ ( curr5t "? ! circuit4 ,ea* swit*
+has two possible /ates3 x c 2 ~1op51 & n
+all{ ! passage ( curr5t "? ! circuit1 or
+a x c 2 ~1clos$1 & all{ ! passage (
+curr5t4 ,~! /ates >e mutually      #adjb
+exclusive4 ,we require t e swit* 2 9 "o
+/ate or ! o!r,-a swit* _c 2 op5 & clos$
+at ! same "t4 ,al1 if "o swit* is alw 9
+! same /ate z ano!r1 we w d5ote bo? by !
+same lr2 t is1 two swit*es t >e bo?
+label$ ) ! same lr a w alw 2 op5 at !
+same "t & clos$ at ! same "t4
+  ,giv5 two swit*es1 we c 3/ruct two
+funda;tal types ( circuits4 ,two swit*es
+a & ;b >e 9 ~1s}ies if !y make up a
+circuit ( ! type t is illu/rat$ 9
+,figure #ai4be4 ,curr5t c pass 2t !
+t}m9als ,a & ;,b 9 a s}ies circuit only
+if bo? ( ! swit*es a & ;b >e clos$4 ,we
+w d5ote ? comb9a;n ( swit*es by
+_% a`%b _:4 ,two swit*es a & ;b >e 9
+~1p>allel if !y =m a circuit ( ! type t
+appe>s 9 ,figure #ai4bf4 ,9 ! case ( a
+p>allel circuit1 curr5t c pass 2t ,a &
+;,b if ei "o ( ! swit*es is clos$4 ,we
+d5ote a p>allel comb9a;n ( circuits a &
+;b by _% a`+b _:4
+
+
+                                   #adjc
+7777777777777777777777777777777777777777
+      ,figure #ai4be4 _% a`%b _:
+       `.<,a graph ) a pa? f left to "r
+     t 3nect ,a1 a1 ;b1 & ;,b 9 t
+     ord}4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adjd
+       `.<,replace ? page ) ,figure
+     #ai4be4 _% a`%b _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adje
+7777777777777777777777777777777777777777
+      ,figure #ai4bf4 _% a`+b _:
+       `.<,a graph f left ot "r t has
+     two pa?s4  ,/>t+ on ! left ,a goes
+     to a on ! top pa? & a goes to ;,b4
+     ,! second pa? />ts on ! left at ,a
+     & !n goes to ;b on ! bottom pa? &
+     ;b goes to ,b4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adjf
+       `.<,replace ? page ) ,figure
+     #ai4bf4 _% a`+b _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adjg
+  ,we c build m complicat$ electrical
+circuits | ( s}ies & p>allel circuits by
+replac+ any swit* 9 ! circuit ) "o ( ~!
+two funda;tal types ( circuits4
+,circuits 3/ruct$ 9 ? mann} >e call$
+~1s}ies-p>allel ~1circuits4
+  ,we w 3sid} two circuits equival5t if
+!y act ! same4 ,t is1 if we set !
+swit*es 9 equival5t circuits exactly !
+same we w obta9 ! same result4 ,=
+example1 9 a s}ies circuit _% a`%b _: is
+exactly ! same z _% b`%a _:4 ,notice t ?
+is exactly ! commutative law = ,bool1n
+algebras4 ,9 fact1 ! set ( all
+s}ies-p>allel circuits =ms a ,bool1n
+algebra "u ! op}a;ns ( _% `+ _: &
+_% `% _:4 ,we c use diagrams to v}ify !
+di6}5t axioms ( a ,bool1n algebra4 ,!
+4tributive law1 _% a`%(b`+c) .k
+(a`%b)`+(a`%c) _:1 is illu/rat$ 9
+,figure #ai4bg4 ,if a is a swit*1 !n
+_% a' _: is ! swit* t is alw op5 :5 a is
+clos$ & alw clos$ :5 a is op54 ,a
+circuit t is alw clos$ is ,i 9 |r
+algebra2 a circuit t is alw op5    #adjh
+is ,o4 ,! laws = _% a`%a' .k ,o _: &
+_% a`+a' .k ,i _: >e %{n 9
+,figure #ai4bh & ,figure #ai4bi1
+respectively4
+
+7777777777777777777777777777777777777777
+      ,figure #ai4bg4 _% a`%(b`+c) .k
+    (a`%b)`+(a`%c) _:
+       `.<,two graphs4  ,! graph on !
+     left has two pa?s4 a goes to ;b on
+     ! top pa? & a goes to ;c on !
+     bottom pa?1 af : ! two pa?s rejo94
+     ,! graph on ! "r al has two pa?s4
+     ,a s+le pa? splits to two pa?s4 ,on
+     ! top pa? a goes to ;b4  ,on !
+     bottom pa? a goes to ;c4  ,!n ! two
+     pa?s rejo94`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                   #adji
+       `.<,replace ? page ) ,figure
+     #ai4bg4 _% a`%(b`+c) .k
+     (a`%b)`+(a`%c) _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adaj
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+
+7777777777777777777777777777777777777777
+      ,figure #ai4bh4 _% a`%a' .k ,o _:
+       `.<,9 ! graph1  a is goes to to
+     a'4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adaa
+       `.<,replace ? page ) ,figure
+     #ai4bh4 _% a`%a' .k ,o _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adab
+       `.<panel3 #b_/#b`.>
+
+7777777777777777777777777777777777777777
+      ,figure #ai4bi4 _% a`+a' .k ,i _:
+       `.<,! graph splits 9to two pa?s4
+     ,! top pa? is a & ! bottom pa? is
+     a' af : ! pa?s rejo94`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adac
+       `.<,replace ? page ) ,figure
+     #ai4bi4 _% a`+a' .k ,i _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adad
+       `.<side-by-side3 5d`.>
+
+7777777777777777777777777777777777777777
+,example #ai4cj
+  ,e ,bool1n expres.n repres5ts a swit*+
+circuit4 ,= example1 giv5 ! expres.n
+_% (a`+b)`%(a`+b~'")`%(a`+b) _:1 we c
+3/ruct ! circuit 9 ,figure #ai4cc4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ai4ca
+  ,! set ( all circuits is a ,bool1n
+algebra4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we l1ve z an ex}cise ! pro( ( ? !orem
+= ! ,bool1n algebra axioms n yet v}ifi$4
+,we c n{ apply ! te*niques ( ,bool1n
+algebras to swit*+ !ory4
+
+
+
+                                   #adae
+7777777777777777777777777777777777777777
+,example #ai4cb
+  ,giv5 a complex circuit1 we c n{ apply
+! te*niques ( ,bool1n algebra to r$uce x
+to a simpl} "o4 ,3sid} ! circuit 9
+,figure #ai4cc4 ,s9ce
+_%
+
+(a`+b)`%(a`+b~'")`%(a`+b) .k
+(a`+b)`%(a`+b)`%(a`+b~'")
+.k (a`+b)`%(a`+b~'")
+.k a`+(b`%b~'")
+.k a`+,o
+.k a
+
+_:1
+we c replace ! m complicat$ circuit ) a
+circuit 3ta9+ ! s+le swit* a & a*ieve !
+same func;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                   #adaf
+7777777777777777777777777777777777777777
+      ,figure #ai4cc4
+    _% (a`+b)`%(a`+b~'")`%(a`+b) _:
+       `.<,a graph f left to "r t splits
+     9to a top pa? a & bottom pa? ;b &
+     !n rejo9s4  ,! graph 3t9ues &
+     splits 9to a top  pa? a & a bottom
+     pa? ;b'1 rejo9s & splits 9to two
+     pa?s1 a & ;b1 & f9ally rejo9s4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adag
+       `.<,replace ? page ) ,figure
+     #ai4cc4
+     _% (a`+b)`%(a`+b~'")`%(a`+b) _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adah
+      ,hi/orical ,note
+  ,george ,boole "<#ahae,-#ahfd"> 0 ! f/
+p}son to /udy lattices4 ,9 #ahdg1 he
+publi%$ .7,! ,9ve/iga;n ( ! ,laws (
+,?"|.'1 a book 9 : he us$ lattices to
+=malize logic & ! calculus ( proposi;ns4
+,boole 2liev$ t ma!matics 0 ! /udy ( =m
+r ?an ( 3t5t2 t is1 he 0 n s m* 3c}n$ )
+:at he 0 calculat+ z ) h{ he 0 calculat+
+x4 ,boole's "w 0 c>ri$ on by 8 fr
+,augu/us ,de ,morgan "<#ahjf,-#ahga">4
+,de ,morgan obs}v$ t ! pr9ciple ( dual;y
+(t5 held 9 set !ory1 z is illu/rat$ by
+,de ,morgan's laws = set !ory4 ,he
+2liev$1 z did ,boole1 t ma!matics 0 !
+/udy ( symbols & ab/ract op}a;ns4
+  ,set !ory & logic 7 fur!r adv.ed by s*
+ma!maticians z ,alfr$ ,nor? ,:iteh1d
+"<#ahfa,-#aidg">1 ,b}tr& ,russell
+"<#ahgb,-#aigj">1 & ,david ,hilb}t
+"<#ahfb,-#aidc">4 ,9 .1,pr9cipia
+.1,ma!matica1 ,:iteh1d & ,russell
+attempt$ to %{ ! 3nec;n 2t ma!matics &
+logic by ! d$uc;n ( ! natural numb}
+sy/em f ! rules ( =mal logic4      #adai
+,if ! natural numb}s cd 2 det}m9$ f
+logic xf1 !n s cd m* ( ! re/ ( exi/+
+ma!matics4 ,hilb}t attempt$ to build up
+ma!matics by us+ symbolic logic 9 a way
+t wd prove ! 3si/5cy ( ma!matics4 ,8
+approa* 0 d1lt a mortal bl{ by ,kurt
+,g~3odel "<#aijf,-#aigh">1 :o prov$ t "!
+w alw 2 8undecidable0 problems 9 any
+su6ici5tly ri* axiomatic sy/em2 t is1 t
+9 any ma!matical sy/em ( any 3sequ;e1 "!
+w alw 2 /ate;ts t c n"e 2 prov5 ei true
+or false4
+  ,z (t5 o3urs1 ? basic rese>* 9 pure
+ma!matics lat} 2came 9disp5sable 9 a
+wide v>iety ( applica;ns4 ,bool1n
+algebras & logic h 2come ess5tial 9 !
+design ( ! l>ge-scale 9tegrat$ circuitry
+f.d on td's comput} *ips4 ,sociologi/s h
+us$ lattices & ,bool1n algebras to model
+social hi}>*ies2 biologi/s h us$ !m to
+describe biosy/ems4
+
+    #ai4d ,r1d+ ,"qs
+
+#a4 ,describe su39ctly :at a       #adbj
+poset is4 ,d n j li/ ! def9+ prop}ties1
+b give a descrip;n t ano!r /ud5t (
+algebra :o has n"e se5 a poset mi<t
+"u/&4 ,= example1 "p ( yr answ} mi<t
+9clude :at type ( common algebraic
+topics a poset g5}alizes1 & yr answ} %d
+2 %ort on symbols4
+
+#b4 ,h{ does a lattice di6} f a poset8
+,answ} ? 9 ! _s ( ! previ|s "q4
+
+#c4 ,h{ does a ,bool1n algebra di6} f a
+lattice8 ,ag1 answ} ? 9 ! _s ( ! previ|s
+two "qs4
+
+#d4 ,give two "<p}h relat$"> r1sons :y
+any 4cus.n ( f9ite ,bool1n algebras mi<t
+c5t} on ! example ( ! p{} set ( a f9ite
+set4
+
+#e4 ,describe a major 9nova;n ( ! middle
+tw5tie? c5tury made possible by ,bool1n
+algebra4
+
+                                   #adba
+    #ai4e ,ex}cises
+
+#a4 ,draw ! lattice diagram = ! p{} set
+( _% ,x .k .(a, b, c, d.) _: ) ! set
+9clu.n rela;n1 _% _"k _:4
+
+#b4 ,draw ! diagram = ! set ( positive
+9teg}s t >e divisors ( #cj4 ,is ? poset
+a ,bool1n algebra8
+
+,h9t4 `.<,image3 h9t-divisors-#cj4 ,a
+     graph ) #cj at ! top level : is
+     3nect$ to #aj & #ae at ! second
+     level4  ,! ?ird level has #b1 : is
+     3nect$ to #cj & #aj1 & #e1 : is
+     3nect$ to #aj & #ae1 & #c : is
+     3nect$ to #ae4  ,! bottom level is
+     #a : is 3nect$ to #b1 #c1 & #e4`.>
+
+
+
+
+
+
+                                   #adbb
+       `.<,replace ? page ) ,image3
+     h9t-divisors-#cj4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adbc
+#c4 ,draw a diagram ( ! lattice (
+subgr|ps ( _% `;,z12 _:4
+
+#d4 ,let ;,b 2 ! set ( positive 9teg}s t
+>e divisors ( #baj4 ,def9e an ord} on
+;,b by _% a ."k: b _: if _% a|b _:4
+,prove t ;,b is a ,bool1n algebra4 ,f9d
+a set ;,x s* t ;,b is isomorphic to
+_% `;,p(,x) _:4
+
+,h9t4 ,:at >e ! atoms ( ;,b8
+
+#e4 ,prove or 4prove3 _% `;,z _: is a
+poset "u ! rela;n _% a ."k: b _: if
+_% a|b _:4
+
+,h9t4 ,false4
+
+#f4 ,draw ! swit*+ circuit = ea* ( !
+foll{+ ,bool1n expres.ns4
+a4 _% (a`+b`+a~'")`%a _:
+;b4 _% (a`+b)'`%(a`+b) _:
+;c4 _% a`+(a`%b) _:
+;d4 _% (c`+a`+b)`%c'`%(a`+b)' _:
+                                   #adbd
+,h9t4 "<a"> _% (a`+b`+a~'")`%a _:
+       `.<,image3
+     h9t-swit*+-circuit-"p-a4 ,a graph f
+     left to "r : splits 9to ?ree pa?s1
+     a ;b1 & ;b' & !n rejo9s 9to a s+le
+     pa? & goes "? a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adbe
+       `.<,replace ? page ) ,image3
+     h9t-swit*+-circuit-"p-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adbf
+  "<;c"> _% a`+(a`%b) _:
+       `.<,image3
+     h9t-swit*+-circuit-"p-;c4 ,a graph
+     f left to "r : splits 9to two pa?s
+     & !n rejo9s4  ,! top pa? is a !n
+     ;b4  ,! bottom pa? is a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adbg
+       `.<,replace ? page ) ,image3
+     h9t-swit*+-circuit-"p-c4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adbh
+#g4 ,draw a circuit t w 2 clos$ exactly
+:5 only "o ( ?ree swit*es a1 ;b1 & ;c >e
+clos$4
+
+#h4 ,prove or 4prove t ! two circuits
+%{n >e equival5t4
+       `.<,image3
+     ex}cise-equival5t-circuits4 ,two
+     graphs4  ,! graph on ! left splits
+     9to ?ree pa?s1 a-;b-;c1 a'-;b1 &
+     a-;c'1 & !n rejo9s4  ,! graph on !
+     "r splits 9to two pa?s1 a-;b &
+     a-;c'1 & !n rejo9s4`.>
+
+
+
+
+
+
+
+
+
+
+
+                                   #adbi
+       `.<,replace ? page ) ,image3
+     ex}cise-equival5t-circuits4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adcj
+,h9t4 ,n equival5t4
+
+#i4 ,let ;,x 2 a f9ite set 3ta9+ ;n
+ele;ts4 ,prove t _% |`;,p(,x)| .k
+#2~n _:4 ,3clude t ! ord} ( any f9ite
+,bool1n algebra m/ 2 _% #2~n _: = "s
+_% n `e `;,n _:4
+
+#aj4 ,= ea* ( ! foll{+ circuits1 write a
+,bool1n expres.n4 ,if ! circuit c 2
+replac$ by "o ) few} swit*es1 give !
+,bool1n expres.n & draw a diagram = !
+new circuit4
+       `.<,image3
+     ex}cise-bool1n-circuit4 ,?ree
+     graphs4  ,! top graph f left to "r
+     is a'1 !n splits 9to a top pa?
+     a-;b' & a on ! bottom & !n rejo9s4
+     ,! middle graph f left to "r splits
+     9to two pa?s ) a on ! top pa? & ;b
+     on ! bottom pa?4  ,! graph !n
+     rejo9s & splits 9to ?ree pa?s ) !
+     top pa? a-;b1 ! middle pa? a'1 & !
+     bottom pa? a'-;b4  ,! graph !n
+     rejo9s4  ,! bottom graph      #adca
+     splits 9to ?ree pa?s ) top pa?
+     a-;b-;c1 middle pa? a'-;b'-;c1 & !
+     bottom pa? a-;b'-;c'4  ,! pa?s !n
+     rejo94`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adcb
+       `.<,replace ? page ) ,image3
+     ex}cise-bool1n-circuit4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adcc
+,h9t4 "<a"> _% a'`%`((a`%b~'")`+b`) .k
+a`%(a`+b) _:4
+
+#aa4 ,prove or 4prove3 ,! set ( all
+nonz}o 9teg}s is a lattice1 ": _% a ."k:
+b _: is def9$ by _% a|b _:4
+
+#ab4 ,let ;,l 2 a nonempty set ) two
+b9>y op}a;ns _% `+ _: & _% `% _:
+satisfy+ ! commutative1 associative1
+idempot5t1 & absorp;n laws4 ,we c def9e
+a "pial ord} on ;,l1 z 9 ,!orem #ai4ad1
+by _% a ."k: b _: if _% a`+b .k b _:4
+,prove t ! grte/ l{} b.d ( a & ;b is
+_% a`%b _:4
+
+#ac4 ,let ;,g 2 a gr|p & ;,x 2 ! set (
+subgr|ps ( ;,g ord}$ by set-!oretic
+9clu.n4 ,if ;,h & ;,k >e subgr|ps ( ;,g1
+%{ t ! l1/ upp} b.d ( ;,h & ;,k is !
+subgr|p g5}at$ by _% ,h.+,k _:4
+
+#ad4 ,let ;,r 2 a r+ & suppose t ;,x is
+! set ( id1ls ( ;,r4 ,%{ t ;,x is a
+poset ord}$ by set-!oretic         #adcd
+9clu.n1 _% _"k _:4 ,def9e ! meet ( two
+id1ls ,i & ;,j 9 ;,x by _% ,i.%,j _: & !
+jo9 ( ,i & ;,j by _% ,i+,j _:4 ,prove t
+! set ( id1ls ( ;,r is a lattice "u ~!
+op}a;ns4
+
+,h9t4 ,let _% ,i, ,j _: 2 id1ls 9 ;,r4
+,we ne$ to %{ t _% ,i+,j .k .(r+s_3r `e
+,i and s `e ,j.) _: is ! smalle/ id1l 9
+;,r 3ta9+ bo? ,i & ;,j4 ,if _% r1, r2 `e
+,i _: & _% s1, s2 `e ,j _:1 !n
+_% (r1+s1)+(r2+s2) .k (r1+r2)+(s1+s2) _:
+is 9 _% ,i+,j _:4 ,= _% a `e ,r _:1
+_% a(r1+s1) .k ar1+as1 `e ,i+,j _:2 h;e1
+_% ,i+,j _: is an id1l 9 ;,r4
+
+#ae4 ,let ;,b 2 a ,bool1n algebra4
+,prove ea* ( ! foll{+ id5tities4
+a4 _% a`+,i .k ,i _: & _% a`%,o .k ,o _:
+= all _% a `e ,b _:4
+;b4 ,if _% a`+b .k ,i _: & _% a`%b .k
+,o _:1 !n _% b .k a' _:4
+;c4 _% (a')' .k a _: = all _% a `e
+,b _:4
+;d4 _% ,i' .k ,o _: & _% ,o' .k    #adce
+,i _:4
+;e4 _% (a`+b)' .k a'`%b' _: & _% (a`%b)'
+.k a'`+b' _: "<,de ,morgan's laws">4
+
+#af4 ,by draw+ ! appropriate diagrams1
+complete ! pro( ( ,!orem #ai4ca to %{ t
+! swit*+ func;ns =m a ,bool1n algebra4
+
+#ag4 ,let ;,b 2 a ,bool1n algebra4
+,def9e b9>y op}a;ns _% + _: & _% * _: on
+;,b by
+_%
+
+a+b .k (a`%b~'")`+(a'`%b)
+a*b .k a`%b
+
+_:4
+,prove t ;,b is a commutative r+ "u ~!
+op}a;ns satisfy+ _% a~2 .k a _: = all
+_% a `e ,b _:4
+
+#ah4 ,let ;,x 2 a poset s* t = e a & ;b
+9 ;,x1 ei _% a ."k: b _: or _% b ."k:
+a _:4 ,!n ;,x is sd to 2 a ~7totally
+ord}$ set~'4                       #adcf
+a4 ,is _% a|b _: a total ord} on
+_% `;,n _:;8
+;b4 ,prove t _% `;,n _:1 _% `;,z _:1
+_% `;,q _:1 & _% `;,r _: >e totally
+ord}$ sets "u ! usual ord}+ _% "k: _:4
+
+,h9t4 "<a"> ,no4
+
+#ai4 ,let ;,x & ;,y 2 posets4 ,a map
+_% .f"1 ,x $o ,y _: is ~1ord}-pres}v+ if
+_% a ."k: b _: implies t _% f(a) ."k:
+f(b) _:4 ,let ;,l & ;,m 2 lattices4 ,a
+map _% .y"1 ,l $o ,m _: is a ~1lattice
+~1homomorphism if _% .y(a`+b) .k
+.y(a)`+.y(b) _: & _% .y(a`%b) .k
+.y(a)`%.y(b) _:4 ,%{ t e lattice
+homomorphism is ord}-pres}v+1 b t x is n
+! case t e ord}-pres}v+ homomorphism is
+a lattice homomorphism4
+
+#bj4 ,let ;,b 2 a ,bool1n algebra4
+,prove t _% a .k b _: if & only if
+_% (a`%b~'")`+(a'`%b) .k ,o _: = _% a, b
+`e ,b _:4
+                                   #adcg
+,h9t4 _% ($33oo) _:4 _% a .k b $33oo
+(a`%b~'")`+(a'`%b) .k (a`%a~'")`+(a'`%a)
+.k ,o`+,o .k ,o _:4 _% (${77) _:4
+_% (a`%b~'")`+(a'`%b) .k ,o $33oo a`+b
+.k (a`+a)`+b .k a`+(a`+b) .k
+a`+`(,i`%(a`+b)`) .k
+a`+`((a`+a~'")`%(a`+b)`) .k
+`(a`+(a`%b~'")`)`+`(a`+(a'`%b)`) .k
+a`+`((a`%b~'")`+(a'`%b)`) .k a`+0 .k
+a _:4 ,a symmetric >gu;t %{s t _% a`+b
+.k b _:4
+
+#ba4 ,let ;,b 2 a ,bool1n algebra4
+,prove t _% a .k ,o _: if & only if
+_% (a`%b~'")`+(a'`%b) .k b _: = all _% b
+`e ,b _:4
+
+#bb4 ,let ;,l & ;,m 2 lattices4 ,def9e
+an ord} rela;n on _% ,l`*,m _: by _% (a,
+b) ."k: (c, d) _: if _% a ."k: c _: &
+_% b ."k: d _:4 ,%{ t _% ,l`*,m _: is a
+lattice "u ? "pial ord}4
+
+    #ai4f ,programm+ ,ex}cises
+                                   #adch
+#a4 ,a ~1,bool1n or ~7swit*+ func;n on
+;n v>iables~' is a map _% f"1 .(,o,
+,i.)~n $o .(0, ,i.) _:4 ,a ,bool1n
+polynomial is a special type ( ,bool1n
+func;n3 x is any type ( ,bool1n expres.n
+=m$ f a f9ite comb9a;n ( v>iables _% x1,
+''', x;n _: tgr ) ,o & ,i1 us+ ! op}a;ns
+_% `+ _:1 _% `% _:1 & _% ' _:4 ,! values
+( ! func;ns >e def9$ 9 ,table #ai4cd4
+,write a program to evaluate ,bool1n
+polynomials4
+
+7777777777777777777777777777777777777777
+      ,table #ai4cd4 ,bool1n polynomials
+
+  ;x3 ;y2 _% x' _:;2 _% x`+y _:;2
+  _% x`%y _:
+  #j3 #j2 #a2 #j2 #j
+  #j3 #a2 #a2 #a2 #j
+  #a3 #j2 #j2 #a2 #j
+  #a3 #a2 #j2 #a2 #a
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                   #adci
+    #ai4g ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,donnellan1 ;,t4 .1,lattice
+  .1,!ory 4 ,p}gamon ,press1 ,ox=d1
+  #aifh4
+.<#b.>  ,halmos1 ;,p4 ;,r4 8,! ,basic
+  ,3cepts ( ,algebraic ,logic10
+  .7,am}ican ,ma!matical ,mon?ly.' ~1#ec
+  "<#aief">1 #cfc,-#hg4
+.<#c.>  ,hohn1 ;,f4 8,"s ,ma!matical
+  ,aspects ( ,swit*+10 .7,am}ican
+  ,ma!matical ,mon?ly.' ~1#fb "<#aiee">1
+  #ge,-#ij4
+.<#d.>  ,hohn1 ;,f4 .7,appli$ ,bool1n
+  ,algebra.'4 #bnd $4 ,macmillan1 ,new
+  ,york1 #aiff4
+.<#e.>  ,lidl1 ;,r4 & ,pilz1 ;,g4
+  .7,appli$ ,ab/ract ,algebra.'4 #bnd $4
+  ,spr+}1 ,new ,york1 #aiih4
+.<#f.>  ,:itesitt1 ;,j4 .7,bool1n
+  ,algebra & ,xs ,applica;ns.'4 ,dov}1
+  ,m9eola1 ,,ny1 #bjaj4
+
+    #ai4h ,sage
+  ,sage has support = bo? "pially ord}$
+sets "<8posets0"> & lattices1 &    #addj
+does an excell5t job ( provid+ visual
+depic;ns ( bo?4
+
+      ,cr1t+ ,"pially ,ord}$ ,sets
+  ,example #ai4f 9 ! text is a gd
+example to replicate z a demon/ra;n (
+,sage comm&s4 ,we f/ def9e ! ele;ts ( !
+set ;,x4
+
+`#7;,x "7 "<#bd">4divisors"<">`#'
+`#2;,x
+-----------------
+`#7.<#a1 #b1 #c1 #d1 #f1 #h1 #ab1
+#bd.>`#'
+
+  ,"o approa* to cr1t+ ! rela;n is to
+specify .1e 9/.e ": "o ele;t is
+comp>able to ! ano!r4 ,s we build a li/
+( pairs1 ": ea* pair 3ta9s comp>able
+ele;ts1 ) ! less} "o f/4 ,? is ! set (
+rela;ns4
+
+
+
+                                   #adda
+`#7;,r "7 .<"<a;1b"> = a 9 ;,x = ;b 9
+;,x if a4divides"<b">.>2 ;,r`#'
+-----------------
+`#7.<"<#a1 #a">1 "<#a1 #b">1 "<#a1 #c">1
+"<#a1 #d">1 "<#a1 #f">1 "<#a1 #h">1
+"<#a1 #ab">1 "<#a1 #bd">1`#'
+ `#7"<#b1 #b">1 "<#b1 #d">1 "<#b1 #f">1
+"<#b1 #h">1 "<#b1 #ab">1 "<#b1 #bd">1
+"<#c1 #c">1 "<#c1 #f">1`#'
+ `#7"<#c1 #ab">1 "<#c1 #bd">1 "<#d1
+#d">1 "<#d1 #h">1 "<#d1 #ab">1 "<#d1
+#bd">1 "<#f1 #f">1`#'
+ `#7"<#f1 #ab">1 "<#f1 #bd">1 "<#h1
+#h">1 "<#h1 #bd">1 "<#ab1 #ab">1 "<#ab1
+#bd">1 "<#bd1 #bd">.>`#'
+
+  ,we 3/ruct ! poset by giv+ ! !
+`#1,poset 3/ructor a li/ 3ta9+ ! ele;ts
+& ! rela;ns4 ,we c !n easily get a
+8plot0 ( ! poset4 ,notice ! plot j %{s !
+8cov} rela;ns0 ,- a m9imal set (
+comp>isons : ! assump;n ( transitiv;y wd
+exp& 9to ! set ( all ! rela;ns4
+
+                                   #addb
+`#7;,d "7 ,poset"<.<,x1 ;,r.>">`#'
+`#1,d4plot"<">
+-----------------
+
+  ,ano!r approa* to cr1t+ a `#1,poset is
+to let ! poset 3/ructor run ov} all !
+pairs ( ele;ts1 & all we d is give !
+3/ructor a way to te/ if two ele;ts >e
+comp>able4 ,|r comp>ison func;n %d
+expect two ele;ts & !n return `#1,true
+or `#1,false4 ,a 8lambda0 func;n is "o
+way to qkly build s* a func;n4 ,? may 2
+a new idea = y1 b ma/}+ lambda func;ns c
+2 a grt 3v5i;e4 ,notice t 8lambda0 is a
+~w res}v$ = j ? purpose "<s1 = example1
+`#1lambda is a bad *oice = ! "n ( an
+eig5value ( a matrix">4 ,"! >e o!r ways
+to make func;ns 9 ,sage1 b a lambda
+func;n is qke/ :5 ! func;n is simple4
+
+
+
+
+
+                                   #addc
+`#7divisible "7 lambda ;x1 ;y3
+x4divides"<y">`#'
+`#7;,l "7 ,poset"<.<,x1 divisible.>">`#'
+`#7;,l "7"7 ;,d`#'
+-----------------
+`#1,true
+
+
+`#1,l4plot"<">
+
+  ,sage al has a collec;n ( /ock posets4
+,"s >e "o-%ot 3/ruc;ns1 :ile o!rs >e
+memb}s ( p>amet}iz$ families4 ,use
+tab-comple;n on `#1,posets4 to see !
+full li/4 ,"h >e "s examples4
+  ,a "o-%ot 3/ruc;n4 ,p}h :at y wd
+expect1 ?|< "! mi<t 2 o!r1 equally
+plausible1 alt}natives4
+
+`#7;,q "7 ,posets4,p5tagon,poset"<">`#'
+`#1,q4plot"<">
+-----------------
+
+  ,a p>amet}iz$ family4 ,? is ! classic
+example ": ! ele;ts >e subsets (   #addd
+a set ) ;n ele;ts & ! rela;n is 8subset
+(40
+
+`#7;,s "7
+,posets4,bool1n,lattice"<#d">`#'
+`#1,s4plot"<">
+
+  ,& r&om posets4 ,~! c 2 use;l = te/+ &
+exp}i;t+1 b >e unlikely to exhibit
+special cases t may 2 important4 ,y mi<t
+run ! foll{+ comm& _m "ts & v>y ! second
+>gu;t1 : is a r|< upp} b.d on !
+probabil;y any two ele;ts >e comp>able4
+,rememb} t ! plot only %{s ! cov}
+rela;ns4 ,! m ele;ts t >e comp>able1 ! m
+8v}tically /ret*$0 ! plot w be4
+
+`#7;,t "7
+,posets4,r&om,poset"<#bj1j4je">`#'
+`#1,t4plot"<">
+
+
+      ,prop}ties ( a ,poset
+  ,once y h a poset1 :at c y d ) x8
+,let's return to |r f/ example1    #adde
+`#2;,d4 ,we c ( c|rse det}m9e if "o
+ele;t is less ?an ano!r1 : is !
+funda;tal /ructure ( a poset4
+
+`#1,d4is.-lequal"<#d1 `#1#h">
+-----------------
+`#1,true
+
+
+`#1,d4is.-lequal"<#d1 `#1#d">
+-----------------
+`#1,true
+
+
+`#1,d4is.-less.-?an"<#d1 `#1#h">
+-----------------
+`#1,true
+
+
+`#1,d4is.-less.-?an"<#d1 `#1#d">
+-----------------
+`#1,false
+
+
+                                   #addf
+`#1,d4is.-lequal"<#f1 `#1#h">
+-----------------
+`#1,false
+
+
+`#1,d4is.-lequal"<#h1 `#1#f">
+-----------------
+`#1,false
+
+  ,notice t `#2#f & `#2#h >e n comp>able
+9 ? poset "<x is a .1"pial ord}">4 ,!
+me?ods `#1;4is.-gequal"<"> &
+`#1;4is.-gr1t}.-?an"<"> "w simil>ly1 b
+returns `#1,true if ! f/ ele;t is grt}
+"<or equal">4
+
+`#1,d4is.-gequal"<#h1 `#1#d">
+-----------------
+`#1,true
+
+
+`#1,d4is.-gr1t}.-?an"<#d1 `#1#h">
+-----------------
+`#1,false
+                                   #addg
+  ,we c f9d ! l>ge/ & smalle/ ele;ts ( a
+poset4 ,? is a r&om poset built ) a
+#aj.0probability1 b copi$ "h to 2
+rep1table4
+
+`#7;,x "7 range"<#bj">`#'
+`#7;,c "7 .<.<#ah1 #g.>1  .<#i1 #aa.>1
+.<#i1 #aj.>1 .<#aa1 #h.>1 .<#f1
+#aj.>1`#'
+     `#7.<#aj1 #b.>1   .<#j1 #b.>1
+.<#b1 #a.>1  .<#a1 #h.>1 .<#h1 #ab.>1`#'
+     `#7.<#h1 #c.>1  .<#c1 #ae.>1 .<#ae1
+#g.>1 .<#g1 #af.>1  .<#g1 #d.>1`#'
+     `#7.<#af1 #ag.>1 .<#af1 #ac.>1
+.<#d1 #ai.>1 .<#d1 #ad.>1 .<#ad1
+#e.>.>`#'
+`#7;,p "7 ,poset"<.<,x1 ;,c.>">`#'
+`#1,p4plot"<">
+
+
+`#1,p4m9imal.-ele;ts"<">
+-----------------
+`#7.<#ah1 #i1 #f1 #j.>`#'
+
+                                   #addh
+`#1,p4maximal.-ele;ts"<">
+-----------------
+`#7.<#e1 #ai1 #ac1 #ag1 #ab.>`#'
+
+  ,ele;ts ( a poset c 2 "pion$ 9to level
+sets4 ,9 plots ( posets1 ele;ts at !
+same level >e plott$ v}tically at ! same
+hei<t4 ,ea* level set is obta9$ by
+remov+ all ( ! previ|s level sets & !n
+tak+ ! m9imal ele;ts ( ! result4
+
+`#1,p4level.-sets"<">
+-----------------
+`#7.<.<#ah1 #i1 #f1 #j.>1 .<#aa1 #aj.>1
+.<#b.>1 .<#a.>1 .<#h.>1 .<#c1 #ab.>1`#'
+ `#7.<#ae.>1 .<#g.>1 .<#af1 #d.>1 .<#ac1
+#ag1 #ad1 #ai.>1 .<#e.>.>`#'
+
+  ,if we make two ele;ts 9 `#2;,r
+comp>able :5 !y _h n previ|sly be51 ? is
+an ext5.n ( `#2;,r4 ,3sid} all possible
+ext5.ns ( "o poset ,- we c make a poset
+f all ( ~!1 ": set 9clu.n is ! rela;n4
+,a l9e> ext5.n is a maximal ele;t 9 ?
+poset ( posets4 ,9=mally1 we >e    #addi
+add+ z _m new rela;ns z possible1 3si/5t
+) ! orig9al poset & s t ! result is a
+total ord}4 ,9 o!r ~ws1 "! is an ord}+ (
+! ele;ts t is 3si/5t ) ! ord} 9 ! poset4
+,we c build s* a ?+1 b ! |tput is j a
+li/ ( ! ele;ts 9 ! l9e> ord}4 ,a comput}
+sci5ti/ wd 2 9cl9$ to call ? a
+8topological sort40
+
+`#7l9e> "7 ,p4l9e>.-ext5.n"<">2 l9e>`#'
+-----------------
+`#7.<#ah1 #i1 #aa1 #f1 #aj1 #j1 #b1 #a1
+#h1 #c1 #ae1`#'
+ `#7#g1 #d1 #ad1 #e1 #ai1 #af1 #ac1 #ag1
+#ab.>`#'
+
+  ,we c 3/ruct subposets by giv+ a set (
+ele;ts to 9duce ! new poset4 ,"h we take
+r|<ly ! 8bottom half0 ( ! r&om poset
+`#2;,p by 9duc+ ! subposet on a union (
+"s ( ! level sets4
+
+
+
+                                   #adej
+`#7level "7 ,p4level.-sets"<">`#'
+`#7bottomhalf "7 sum"<.<level.<i.> = i 9
+range"<#e">.>1 .<.>">`#'
+`#7;,b "7 ,p4subposet"<bottomhalf">`#'
+`#1,b4plot"<">
+
+  ,! dual ( a poset reta9s ! same set (
+ele;ts1 b rev}ses any comp>isons4
+
+`#7,pdual "7 ,p4dual"<">`#'
+`#1,pdual4plot"<">
+
+  ,tak+ ! dual ( ! divisibil;y poset f
+,example #ai4f wd 2 l *ang+ ! rela;n to
+8is a multiple (40
+
+`#7,ddual "7 ,d4dual"<">`#'
+`#1,ddual4plot"<">
+
+
+      ,lattices
+  ,e lattice is a poset1 s all ! comm&s
+abv w p}=m equally well = a lattice4 ,b
+h{ d y cr1te a lattice8 ,simple ,- f/
+cr1te a poset & !n fe$ x 9to !     #adea
+`#1,lattice,poset"<"> 3/ructor4 ,b
+r1lize t j 2c y give ? 3/ructor a poset1
+x does n m1n a lattice w alw come back
+|4 ,only if ! poset is .1alr a lattice w
+x get upgrad$ f a poset to a lattice =
+,sage's purposes1 & y w get a
+`#1,value,}ror if ! upgrade is n
+possible4 ,f9ally1 notice t "s ( !
+posets ,sage 3/ructs >e alr recogniz$ z
+lattices1 s* z ! prototypical
+`#1,bool1n,lattice4
+
+`#7;,p "7
+,posets4,anti*a9,poset"<#h">`#'
+`#1,p4is.-lattice"<">
+-----------------
+`#1,false
+
+
+
+
+
+
+
+                                   #adeb
+`#1,lattice,poset"<,p">
+-----------------
+`#7,traceback "<mo/ rec5t call la/">3`#'
+`#1444
+`#7,value,}ror3 n a meet-semilattice3 no
+bottom ele;t`#'
+
+  ,an 9teg} composi;n ( ;n is a li/ (
+positive 9teg}s t sum to ;n4 ,a
+composi;n _% ,c1 _: cov}s a composi;n
+_% ,c2 _: if _% ,c2 _: c 2 =m$ f
+_% ,c1 _: by add+ 3secutive "ps4 ,=
+example1 _% ,c1 .k `(2, 1, 2`) ..1: `(3,
+2`) .k ,c2 _:4 ,) ? rela;n1 ! set ( all
+9teg} composi;ns ( a fix$ 9teg} ;n is a
+poset t is al a lattice4
+
+`#7,,cp "7
+,posets4,9teg},composi;ns"<#e">`#'
+`#7;,c "7 ,lattice,poset"<,,cp">`#'
+`#1,c4plot"<">
+
+  ,a meet or a jo9 is a funda;tal op}a;n
+9 a lattice4
+                                   #adec
+`#7p> "7 ,c4an.-ele;t"<">4p>5t"<">`#'
+`#7a "7 p>"<.<#a1 #a1 #a1 #b.>">`#'
+`#7;b "7 p>"<.<#b1 #a1 #a1 #a.>">`#'
+`#1a1 `#2;b
+-----------------
+`#7"<.<#a1 #a1 #a1 #b.>1 .<#b1 #a1 #a1
+#a.>">`#'
+
+
+`#1,c4meet"<a1 `#1;b">
+-----------------
+`#7.<#b1 #a1 #b.>`#'
+
+
+`#7;c "7 p>"<.<#a1 #d.>">`#'
+`#7;d "7 p>"<.<#b1 #c.>">`#'
+`#1;c1 `#2;d
+-----------------
+`#7"<.<#a1 #d.>1 .<#b1 #c.>">`#'
+
+
+`#1,c4jo9"<c1 `#1;d">
+-----------------
+`#7.<#a1 #a1 #c.>`#'
+                                   #aded
+  ,once a poset is upgrad$ to lattice
+/atus1 !n addi;nal comm&s 2come
+available1 or ! "* ( _! results *anges4
+  ,an example ( ! =m} is !
+`#1;4is.-di/ributive"<"> me?od4
+
+`#1,c4is.-di/ributive"<">
+-----------------
+`#1,true
+
+  ,an example ( ! latt} is !
+`#1;4top"<"> me?od4 ,:at yr text calls a
+l>ge/ ele;t & a smalle/ ele;t ( a
+lattice1 ,sage calls a top & a bottom4
+,= a poset1 `#1;4top"<"> &
+`#1;4bottom"<"> may return an ele;t or
+may n "<return+ `#1,n"o">1 b = a lattice
+x is gu>ante$ to return exactly "o
+ele;t4
+
+`#1,c4top"<">
+-----------------
+`#7.<#a1 #a1 #a1 #a1 #a.>`#'
+
+                                   #adee
+`#1,c4bottom"<">
+-----------------
+`#1.<#e.>
+
+  ,notice t ! return$ values >e all
+ele;ts ( ! lattice1 9 ? case ord}$ li/s
+( 9teg}s summ+ to #e4
+  ,comple;ts n{ make s5se 9 a lattice4
+,! result ( ! `#1;4comple;ts"<"> me?od
+is a dic;n>y t uses ele;ts ( ! lattice z
+! keys4 ,we say ! dic;n>y is 89dex$0 by
+! ele;ts ( ! lattice4 ,! result is a li/
+( ! comple;ts ( ! ele;t4 ,we call ? !
+8value0 ( ! key-value pair4 "<,y may "k
+dic;n>ies z 8associative >rays01 b !y >e
+r1lly j fancy func;ns4">
+
+`#7comp "7 ,c4comple;ts"<">`#'
+`#7comp.<p>"<.<#a1 #a1 #a1 #b.>">.>`#'
+-----------------
+`#1.<.<#d1 `#1#a.>.>
+
+  ,! lattice ( 9teg} composi;ns is a
+comple;t$ lattice1 z we c see by !
+result t ea* ele;t has a s+le      #adef
+"<unique"> comple;t1 evid;ed by ! li/s (
+l5g? #a 9 ! values ( ! dic;n>y4 ,or we c
+j ask ,sage via `#1;4is.-comple;t$"<">4
+,dic;n>ies h no 9h}5t ord}1 s y may get
+di6}5t |tput ea* "t y 9spect ! dic;n>y4
+
+`#1comp
+-----------------
+`#7_<.<#a1 #a1 #a1 #a1 #a.>3
+.<.<#e.>.>1`#'
+ `#7.<#a1 #a1 #a1 #b.>3 .<.<#d1
+#a.>.>1`#'
+ `#7.<#a1 #a1 #b1 #a.>3 .<.<#c1
+#b.>.>1`#'
+ `#7.<#a1 #a1 #c.>3 .<.<#c1 #a1
+#a.>.>1`#'
+ `#7.<#a1 #b1 #a1 #a.>3 .<.<#b1
+#c.>.>1`#'
+ `#7.<#a1 #b1 #b.>3 .<.<#b1 #b1
+#a.>.>1`#'
+ `#7.<#a1 #c1 #a.>3 .<.<#b1 #a1
+#b.>.>1`#'
+ `#7.<#a1 #d.>3 .<.<#b1 #a1 #a1
+#a.>.>1`#'
+ `#7.<#b1 #a1 #a1 #a.>3 .<.<#a1    #adeg
+#d.>.>1`#'
+ `#7.<#b1 #a1 #b.>3 .<.<#a1 #c1
+#a.>.>1`#'
+ `#7.<#b1 #b1 #a.>3 .<.<#a1 #b1
+#b.>.>1`#'
+ `#7.<#b1 #c.>3 .<.<#a1 #b1 #a1
+#a.>.>1`#'
+ `#7.<#c1 #a1 #a.>3 .<.<#a1 #a1
+#c.>.>1`#'
+ `#7.<#c1 #b.>3 .<.<#a1 #a1 #b1
+#a.>.>1`#'
+ `#7.<#d1 #a.>3 .<.<#a1 #a1 #a1
+#b.>.>1`#'
+ `#7.<#e.>3 .<.<#a1 #a1 #a1 #a1
+#a.>.>_>`#'
+
+
+`#7.<l5"<e.<#a.>"> = ;e 9
+comp4items"<">.>`#'
+-----------------
+`#7.<#a1 #a1 #a1 #a1 #a1 #a1 #a1 #a1 #a1
+#a1 #a1 #a1 #a1 #a1 #a1 #a.>`#'
+
+
+                                   #adeh
+`#1,c4is.-comple;t$"<">
+-----------------
+`#1,true
+
+  ,"! >e _m m comm&s : apply to posets &
+lattices1 s build a few & use
+tab-comple;n lib}ally to explore4 ,"! is
+m to 4cov} ?an we c cov} 9 j a s+le
+*apt}1 b y n{ h ! basic tools to
+pr(itably /udy posets & lattices 9
+,sage4
+
+    #ai4i ,sage ,ex}cises
+
+#a4 ,use `#7;,r "7
+,posets4,r&om,poset"<#cj1j4je">`#' to
+3/ruct a r&om poset4 ,use `#1,r4plot"<">
+to get an idea ( :at y h built4
+a4 ,illu/rate ! use ( ! poset me?ods3
+`#1;4is.-lequal"<">1
+`#1;4is.-less.-?an"<">1
+`#1;4is.-gequal"<">1 &
+`#1;4is.-gr1t}.-?an"<"> to det}m9e if
+two specific ele;ts "<( yr *oice"> >e
+relat$ or 9comp>able4              #adei
+;b4 ,use `#1;4m9imal.-ele;ts"<"> &
+`#1;4maximal.-ele;ts"<"> to f9d !
+smalle/ & l>ge/ ele;ts ( yr poset4
+;c4 ,use `#1,lattice,poset"<,r"> to see
+if ! poset `#2;,r is a lattice by
+attempt+ to 3v}t x 9to a lattice4
+;d4 ,f9d a l9e> ext5.n ( yr poset4
+,3firm t any pair ( ele;ts t >e
+comp>able 9 ! poset w 2 simil>ly
+comp>able 9 ! l9e> ext5.n4
+
+#b4 ,3/ruct ! poset on ! positive
+divisors ( _% #72 .k #2~3"*3~2 _: )
+divisibl;y z ! rela;n1 & !n 3v}t to a
+lattice4
+a4 ,det}m9e ! "o & z}o ele;t us+
+`#1;4top"<"> & `#1;4bottom"<">4
+;b4 ,det}m9e all ! pairs ( ele;ts ( !
+lattice t >e comple;ts ( ea* o!r .1)|t
+us+ ! `#1;4comple;t"<"> me?od1 b r j use
+! `#1;4meet"<"> & `#1;4jo9"<"> me?ods4
+,extra cr$it if y c |tput ea* pair j
+once4
+;c4 ,det}m9e if ! lattice is 4tributive
+us+ j ! `#1;4meet"<"> &            #adfj
+`#1;4jo9"<"> me?ods1 & n !
+`#1;4is.-di/ributive"<"> me?od4
+
+#c4 ,3/ruct s"eal specific diamond
+lattices )
+`#1,posets4,diamond,poset"<n"> by v>y+ !
+value ( `#2;n4 ,once y feel y h 5
+empirical evid;e1 give answ}s1 )
+ju/ifica;ns1 to ! foll{+ "qs = .1g5}al
+values ( ;n1 bas$ on obs}va;ns obta9$ f
+yr exp}i;ts ) ,sage4
+a4 ,: ele;ts h comple;ts & : d n1 & :y8
+;b4 ,r1d ! docu;ta;n ( !
+`#1;4anti*a9s"<"> me?od to le>n :at an
+anti*a9 is4 ,h{ _m anti*a9s >e "!8
+;c4 ,is ! lattice 4tributive8
+
+#d4 ,use
+`#1,posets4,bool1n,lattice"<#d"> to
+3/ruct an 9/.e ( ! prototypical ,bool1n
+algebra on #af ele;ts "<i4e41 all
+subsets ( a #d-set">4
+  ,!n use
+`#1,posets4,9teg},composi;ns"<#e"> to
+3/ruct ! poset ~: #af ele;ts >e    #adfa
+! composi;ns ( ! 9teg} #e4 ,we h se5 abv
+t ! 9teg} composi;n lattice is
+4tributive & comple;t$1 mak+ x a ,bool1n
+algebra4 ,& by ,!orem #ai4bc we c 3clude
+t ~! two ,bool1n algebras >e isomorphic4
+  ,use ! `#1;4plot"<"> me?od to see !
+simil>;y visually4 ,!n use ! me?od
+`#1;4hasse.-diagram"<"> on ea* poset to
+obta9 a direct$ graph "<: y c al plot1
+?|< ! emb$d+ 9to ! plane may n 2 z
+9=mative">4 ,employ ! graph me?od
+`#1;4is.-isomorphic"<"> to see t ! two
+,hasse diagrams r1lly >e ! 8same40
+
+#e4 "<,adv.ed"> ,= ! previ|s "q1 3/ruct
+an .1explicit isomorphism 2t ! two
+,bool1n algebras4 ,? wd 2 a bijective
+func;n "<3/ruct$ ) ! `#1def comm&"> t
+3v}ts composi;ns 9to sets "<or if1 y
+*oose1 sets 9to composi;ns"> & :
+respects ! meet & jo9 op}a;ns4 ,y c te/
+& illu/rate yr func;n by xs 9t}ac;n )
+specific ele;ts evaluat$ 9 ! meet & jo9
+op}a;ns1 z describ$ 9 ! def9i;n ( an
+isomorphism ( ,bool1n algebras4    #adfb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #adfc
+

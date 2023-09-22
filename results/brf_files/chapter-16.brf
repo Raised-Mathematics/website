@@ -1,0 +1,2751 @@
+                #af ,r+s
+
+  ,up to ? po9t we h /udi$ sets ) a s+le
+b9>y op}a;n satisfy+ c}ta9 axioms1 b we
+>e (t5 m 9t}e/$ 9 "w+ ) sets t h two
+b9>y op}a;ns4 ,= example1 "o ( ! mo/
+natural algebraic /ructures to /udy is !
+9teg}s ) ! op}a;ns ( addi;n &
+multiplica;n4 ,~! op}a;ns >e relat$ to
+"o ano!r by ! 4tributive prop}ty4 ,if we
+3sid} a set ) two s* relat$ b9>y op}a;ns
+satisfy+ c}ta9 axioms1 we h an algebraic
+/ructure call$ a r+4 ,9 a r+ we add &
+multiply ele;ts s* z r1l numb}s1 complex
+numb}s1 matrices1 & func;ns4
+
+    #af4a ,r+s
+  ,a nonempty set ;,r is a ~1r+ if x has
+two clos$ b9>y op}a;ns1 addi;n &
+multiplica;n1 satisfy+ ! foll{+ 3di;ns4
+#a4 _% a+b .k b+a _: = _% a, b `e ,r _:4
+#b4 _% (a+b)+c .k a+(b+c) _: = _% a, b,
+c `e ,r _:4
+#c4 ,"! is an ele;t #j 9 ;,r s* t _% a+0
+.k a _: = all _% a `e ,r _:4       #ajii
+#d4 ,= e ele;t _% a `e ,r _:1 "! exi/s
+an ele;t _% -a _: 9 ;,r s* t _% a+(-a)
+.k #0 _:4
+#e4 _% (ab)c .k a(bc) _: = _% a, b, c `e
+,r _:4
+#f4 ,= _% a, b, c `e ,r _:1
+_%
+
+a(b+c) .k ab+ac
+(a+b)c .k ac+bc
+
+_:4
+,? la/ 3di;n1 ! 4tributive axiom1
+relates ! b9>y op}a;ns ( addi;n &
+multiplica;n4 ,notice t ! f/ f|r axioms
+simply require t a r+ 2 an abelian gr|p
+"u addi;n1 s we cd al h def9$ a r+ to 2
+an abelian gr|p _% (,r, +) _: tgr ) a
+second b9>y op}a;n satisfy+ ! fif? &
+six? 3di;ns giv5 abv4
+  ,if "! is an ele;t _% #1 `e ,r _: s* t
+_% #1 /.k #0 _: & _% #1a .k a"1 .k a _:
+= ea* ele;t _% a `e ,r _:1 we say t ;,r
+is a r+ ) ~1un;y or ~1id5t;y4 ,a r+ ;,r
+= : _% ab .k ba _: = all _% a,     #aajj
+b _: 9 ;,r is call$ a ~1commutative ~1r+
+4 ,a commutative r+ ;,r ) id5t;y is
+call$ an ~19tegral ~1doma9 if1 = e _% a,
+b `e ,r _: s* t _% ab .k #0 _:1 ei _% a
+.k #0 _: or _% b .k #0 _:4 ,a ~1divi.n
+~1r+ is a r+ ;,r1 ) an id5t;y1 9 : e
+nonz}o ele;t 9 ;,r is a ~1unit;2 t is1 =
+ea* _% a `e ,r _: ) _% a /.k #0 _:1 "!
+exi/s a unique ele;t _% a~-1 _: s* t
+_% a~-1"a .k aa~-1 .k #1 _:4 ,a
+commutative divi.n r+ is call$ a ~1field
+4 ,! rela;n%ip am;g r+s1 9tegral doma9s1
+divi.n r+s1 & fields is %{n 9
+,figure #af4a4
+
+
+
+
+
+
+
+
+
+
+                                   #aaja
+7777777777777777777777777777777777777777
+      ,figure #af4a4 ,types ( r+s
+       `.<,a graph ) r+s at ! top level
+     3nect$ to commutative r+s & r+s )
+     id5t;y at ! second level4
+     ,commutative r+s is 3nect$ to
+     9tegral doma9s on ! ?ird level :ile
+     r+s ) id5t;y is 3nect$ to bo?
+     9tegral doma9s & divi.n r+s on !
+     ?ird level4  ,9tegral doma9s &
+     divi.n r+s >e 3nect$ to fields on !
+     bottom level4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                   #aajb
+       `.<,replace ? page ) ,figure
+     #af4a4 ,types ( r+s`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aajc
+7777777777777777777777777777777777777777
+,example #af4b
+  ,z we h m5;n$ previ|sly1 ! 9teg}s =m a
+r+4 ,9 fact1 _% `;,z _: is an 9tegral
+doma94 ,c}ta9ly if _% ab .k #0 _: = two
+9teg}s a & ;b1 ei _% a .k #0 _: or _% b
+.k #0 _:4 ,h{"e1 _% `;,z _: is n a
+field4 ,"! is no 9teg} t is !
+multiplicative 9v}se ( #b1 s9ce
+_% #1_/2 _: is n an 9teg}4 ,! only
+9teg}s ) multiplicative 9v}ses >e #a &
+_% -#1 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4c
+  ,"u ! ord9>y op}a;ns ( addi;n &
+multiplica;n1 all ( ! famili> numb}
+sy/ems >e r+s3 ! ra;nals1 _% `;,q _:2 !
+r1l numb}s1 _% `;,r _:2 & ! complex
+numb}s1 _% `;,c _:4 ,ea* ( ~! r+s is a
+field4
+gggggggggggggggggggggggggggggggggggggggg
+                                   #aajd
+7777777777777777777777777777777777777777
+,example #af4d
+  ,we c def9e ! product ( two ele;ts a &
+;b 9 _% `;,z;n _: by _% ab(m"o"d n) _:4
+,= 9/.e1 9 _% `;,z12 _:1 _% #5*7 _l
+#11(m"o"d #12) _:4 ,? product makes !
+abelian gr|p _% `;,z;n _: 9to a r+4
+,c}ta9ly _% `;,z;n _: is a commutative
+r+2 h{"e1 x may fail to 2 an 9tegral
+doma94 ,if we 3sid} _% #3*4 _l #0(m"o"d
+#12) _: 9 _% `;,z12 _:1 x is easy to see
+t a product ( two nonz}o ele;ts 9 ! r+ c
+2 equal to z}o4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a nonz}o ele;t a 9 a commutative r+
+;,r is call$ a ~1z}o ~1divisor if "! is
+a nonz}o ele;t ;b 9 ;,r s* t _% ab .k
+#0 _:4 ,9 ! previ|s example1 #c & #d >e
+z}o divisors 9 _% `;,z12 _:4
+
+
+
+
+                                   #aaje
+7777777777777777777777777777777777777777
+,example #af4e
+  ,9 calculus ! 3t9u|s r1l-valu$ func;ns
+on an 9t}val _% `(a, b`) _: =m a
+commutative r+4 ,we add or multiply two
+func;ns by add+ or multiply+ ! values (
+! func;ns4 ,if _% f(x) .k x~2 _: &
+_% g(x) .k cos x _:1 !n _% (f+g)(x) .k
+f(x)+g(x) .k x~2"+cos x _: & _% (fg)(x)
+.k f(x)g(x) .k x~2"cos x _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4f
+  ,! _% #2`*2 _: matrices ) 5tries 9
+_% `;,r _: =m a r+ "u ! usual op}a;ns (
+matrix addi;n & multiplica;n4 ,? r+ is
+noncommutative1 s9ce x is usually ! case
+t _% ,a,b /.k ,b,a _:4 ,al1 notice t we
+c h _% ,a,b .k #0 _: :5 nei ,a nor ;,b
+is z}o4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #aajf
+7777777777777777777777777777777777777777
+,example #af4g
+  ,= an example ( a noncommutative
+divi.n r+1 let
+_%
+
+#1 .k ,(#1 #0,),  _;i .k ,(#0  #1,),
+_;j .k ,(#0 i ,),  _;k .k ,(i  #0,)
+      ,(#0 #1,)          ,(-#1 #0,)    
+    ,(i  #0,)          ,(#0 -i,)
+
+_:1
+": _% i~2 .k -#1 _:4 ,~! ele;ts satisfy
+! foll{+ rela;ns3
+_%
+
+_;i~2 .k _;j~2" .k _;k~2 .k -#1
+_;i_;j          .k _;k
+_;j_;k          .k _;i
+_;k_;i          .k _;j
+_;j_;i          .k -_;k
+_;k_;j          .k -_;i
+_;i_;k          .k -_;j
+
+_:4                                #aajg
+,let _% `;,h _: 3si/ ( ele;ts ( ! =m
+_% a+b_;i+c_;j+d_;k _:1 ": _% a, b, c,
+d _: >e r1l numb}s4 ,equival5tly1
+_% `;,h _: c 2 3sid}$ to 2 ! set ( all
+_% #2`*2 _: matrices ( ! =m
+_%
+
+,(.a   .b ,)
+,(-.b: .a:,)
+
+_:1
+": _% .a .k a+di _: & _% .b .k b+ci _:
+>e complex numb}s4 ,we c def9e addi;n &
+multiplica;n on _% `;,h _: ei by ! usual
+matrix op}a;ns or 9 t}ms ( ! g5}ators
+#a1 _% _;i _:1 _% _;j _:1 & _% _;k _:3
+_%
+
+(a1+b1_;i+c1_;j+d1_;k)+(a2+b2_;i+c2_;j+-
+d2_;k)
+.k
+(a1+a2)+(b1+b2)_;i+(c1+c2)_;j+(d1+d2)_;k
+
+_:
+&                                  #aajh
+_%
+
+(a1+b1_;i+c1_;j+d1_;k)(a2+b2_;i+c2_;j+d-
+2_;k) .k .a+.b_;i+.g_;j+.d_;k
+
+_:1
+":
+_%
+
+.a .k a1a2-b1b2-c1c2-d1d2
+.b .k a1b2+a2b1+c1d2-d1c2
+.g .k a1c2-b1d2+c1a2+d1b2
+.d .k a1d2+b1c2-c1b2+d1a2
+
+_:4
+,?|< multiplica;n looks complicat$1 x is
+actually a /rai<t=w>d computa;n if we
+rememb} t we j add & multiply ele;ts 9
+_% `;,h _: l polynomials & keep 9 m9d !
+rela;n%ips 2t ! g5}ators _% _;i _:1
+_% _;j _:1 & _% _;k _:4 ,! r+ _% `;,h _:
+is call$ ! r+ ( ~1quat}nions4
+  ,to %{ t ! quat}nions >e a divi.n r+1
+we m/ 2 able to f9d an 9v}se = ea*
+nonz}o ele;t4 ,notice t            #aaji
+_%
+
+(a+b_;i+c_;j+d_;k)(a-b_;i-c_;j-d_;k) .k
+a~2"+b~2"+c~2"+d~2
+
+_:4
+,? ele;t c 2 z}o only if a1 ;b1 ;c1 & ;d
+>e all z}o4 ,s if _% a+b_;i+c_;j+d_;k
+/.k #0 _:1
+_%
+
+(a+b_;i+c_;j+d_;k)(?a-b_;i-c_;j-d_;k/a~-
+2"+b~2"+c~2"+d~2"#) .k #1
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+                                   #aaaj
+7777777777777777777777777777777777777777
+,proposi;n #af4h
+  ,let ;,r 2 a r+ ) _% a, b `e ,r _:4
+,!n
+#a4 _% a"0 .k #0a .k #0 _:2
+#b4 _% a(-b) .k (-a)b .k -ab _:2
+#c4 _% (-a)(-b) .k ab _:4
+
+,pro(4 ,to prove "<#a">1 obs}ve t
+_%
+
+a"0 .k a(0+0) .k a"0+a"0_2
+
+_:
+h;e1 _% a"0 .k #0 _:4 ,simil>ly1 _% #0a
+.k #0 _:4 ,= "<#b">1 we h _% ab+a(-b) .k
+a(b-b) .k a#0 .k #0 _:2 3sequ5tly1
+_% -ab .k a(-b) _:4 ,simil>ly1 _% -ab .k
+(-a)b _:4 ,"p "<#c"> foll{s directly f
+"<#b"> s9ce _% (-a)(-b) .k -(a(-b)) .k
+-(-ab) .k ab _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,j z we h subgr|ps ( gr|ps1 we h an
+analog|s class ( sub/ructures =    #aaaa
+r+s4 ,a ~1subr+ ;,s ( a r+ ;,r is a
+subset ;,s ( ;,r s* t ;,s is al a r+ "u
+! 9h}it$ op}a;ns f ;,r4
+
+7777777777777777777777777777777777777777
+,example #af4i
+  ,! r+ _% n`;,z _: is a subr+ (
+_% `;,z _:4 ,notice t ev5 ?|< ! orig9al
+r+ may h an id5t;y1 we d n require t xs
+subr+ h an id5t;y4 ,we h ! foll{+ *a9 (
+subr+s3
+_%
+
+`;,z _"k `;,q _"k `;,r _"k `;,c
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ proposi;n gives u "s easy
+crit}ia = det}m9+ :e!r or n a subset ( a
+r+ is 9de$ a subr+4 "<,we w l1ve ! pro(
+( ? proposi;n z an ex}cise4">
+
+
+                                   #aaab
+7777777777777777777777777777777777777777
+,proposi;n #af4aj
+  ,let ;,r 2 a r+ & ;,s a subset ( ;,r4
+,!n ;,s is a subr+ ( ;,r if & only if !
+foll{+ 3di;ns >e satisfi$4
+#a4 _% ,s /.k _0 _:4
+#b4 _% rs `e ,s _: = all _% r, s `e
+,s _:4
+#c4 _% r-s `e ,s _: = all _% r, s `e
+,s _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4aa
+  ,let  _% ,r .k `;,m2(`;,r) _: 2 ! r+ (
+_% #2`*2 _: matrices ) 5tries 9
+_% `;,r _:4 ,if ;,t is ! set ( upp}
+triangul> matrices 9 ;,r2 i4e41
+_%
+
+,t .k .(,(a  b,)_3a, b, c `e `;,r.)
+        ,(#0 c,)
+
+_:1                                #aaac
+!n ;,t is a subr+ ( ;,r4 ,if
+_%
+
+,a .k ,(a  b,) and ,b .k ,(a~'" b~'",)
+      ,(#0 c,)           ,(#0   c'  ,)
+
+_:
+>e 9 ;,t1 !n cle>ly _% ,a-,b _: is al 9
+;,t4 ,al1
+_%
+
+,a,b .k ,(aa~'" ab~'"+bc~'",)
+        ,(#0    cc'        ,)
+
+_:
+is 9 ;,t4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #af4b ,9tegral ,doma9s & ,fields
+  ,let u briefly recall "s def9i;ns4 ,if
+;,r is a commutative r+ & ;r is a nonz}o
+ele;t 9 ;,r1 !n ;r is sd to 2 a ~1z}o
+~1divisor if "! is "s nonz}o ele;t _% s
+`e ,r _: s* t _% rs .k #0 _:4 ,a   #aaad
+commutative r+ ) id5t;y is sd to 2 an
+~19tegral ~1doma9 if x has no z}o
+divisors4 ,if an ele;t a 9 a r+ ;,r )
+id5t;y has a multiplicative 9v}se1 we
+say t a is a ~1unit4 ,if e nonz}o ele;t
+9 a r+ ;,r is a unit1 !n ;,r is call$ a
+~1divi.n ~1r+4 ,a commutative divi.n r+
+is call$ a ~1field4
+
+7777777777777777777777777777777777777777
+,example #af4ab
+  ,if _% i~2 .k -#1 _:1 !n ! set
+_% `;,z`(i`) .k .(m+ni_3m, n `e `;,z.)
+_: =ms a r+ "kn z ! ~1,gaussian ~19teg}s
+4  ,x is easily se5 t ! ,gaussian 9teg}s
+>e a subr+ ( ! complex numb}s s9ce !y >e
+clos$ "u addi;n & multiplica;n4 ,let
+_% .a .k a+bi _: 2 a unit 9
+_% `;,z`(i`) _:4 ,!n _% .a: .k a-bi _:
+is al a unit s9ce if _% .a.b .k #1 _:1
+!n _% .a:.b: .k #1 _:4 ,if _% .b .k
+c+di _:1 !n
+
+
+                                   #aaae
+_%
+
+#1 .k .a.b.a:.b: .k
+(a~2"+b~2")(c~2"+d~2")
+
+_:4
+,"!=e1 _% a~2"+b~2 _: m/ ei 2 #a or
+_% -#1 _:2 or1 equival5tly1 _% a+bi .k
++-1 _: or _% a+bi .k +-i _:4 ,"!=e1
+units ( ? r+ >e _% +-1 _: & _% +-i _:2
+h;e1 ! ,gaussian 9teg}s >e n a field4
+,we w l1ve x z an ex}cise to prove t !
+,gaussian 9teg}s >e an 9tegral doma94
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                   #aaaf
+7777777777777777777777777777777777777777
+,example #af4ac
+  ,! set ( matrices
+_%
+
+,f .k .(,(#1 #0,), ,(#1 #1,), ,(#0 #1,),
+,(#0 #0,).)
+        ,(#0 #1,)  ,(#1 #0,)  ,(#1 #1,)
+,(#0 #0,)
+
+_:
+) 5tries 9 _% `;,z2 _: =ms a field4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                   #aaag
+7777777777777777777777777777777777777777
+,example #af4ad
+  ,! set _% `;,q(>2}) .k .(a+b>2}_3a, b
+`e `;,q.) _: is a field4 ,! 9v}se ( an
+ele;t _% a+b>2} _: 9 _% `;,q(>2}) _: is
+_%
+
+?a/a~2"-2b~2"#+?-b/a~2"-2b~2"#>2}
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we h ! foll{+ alt}native "*iza;n (
+9tegral doma9s4
+
+
+
+
+
+
+
+
+
+
+                                   #aaah
+7777777777777777777777777777777777777777
+,proposi;n #af4ae ,c.ella;n ,law4
+  ,let ;,d 2 a commutative r+ ) id5t;y4
+,!n ;,d is an 9tegral doma9 if & only if
+= all nonz}o ele;ts _% a `e ,d _: )
+_% ab .k ac _:1 we h _% b .k c _:4
+
+,pro(4 ,let ;,d 2 an 9tegral doma94 ,!n
+;,d has no z}o divisors4 ,let _% ab .k
+ac _: ) _% a /.k #0 _:4 ,!n _% a(b-c) .k
+#0 _:4 ,h;e1 _% b-c .k #0 _: & _% b .k
+c _:4
+  ,3v}sely1 let u suppose t c.ella;n is
+possible 9 ;,d4 ,t is1 suppose t _% ab
+.k ac _: implies _% b .k c _:4 ,let
+_% ab .k #0 _:4 ,if _% a /.k #0 _:1 !n
+_% ab .k a"0 _: or _% b .k #0 _:4 ,"!=e1
+a _c 2 a z}o divisor4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ surpris+ !orem is due to
+,w$d}burn4
+
+7777777777777777777777777777777777777777
+,!orem #af4af                      #aaai
+  ,e f9ite 9tegral doma9 is a field4
+
+,pro(4 ,let ;,d 2 a f9ite 9tegral doma9
+& _% ,d~`# _: 2 ! set ( nonz}o ele;ts (
+;,d4 ,we m/ %{ t e ele;t 9 _% ,d~`# _:
+has an 9v}se4 ,= ea* _% a `e ,d~`# _: we
+c def9e a map _% .l;a"1 ,d~`# $o
+,d~`# _: by _% .l;a"(d) .k ad _:4 ,? map
+makes s5se1 2c if  _% a /.k #0 _: & _% d
+/.k #0 _:1 !n _% ad /.k #0 _:4 ,! map
+_% .l;a _: is "o-to-"o1 s9ce = _% d1, d2
+`e ,d~`# _:1
+_%
+
+ad1 .k .l;a"(d1) .k .l;a"(d2) .k ad2
+
+_:
+implies _% d1 .k d2 _: by left c.ella;n4
+,s9ce _% ,d~`# _: is a f9ite set1 ! map
+_% .l;a _: m/ al 2 onto2 h;e1 = "s _% d
+`e ,d~`# _:1 _% .l;a"(d) .k ad .k #1 _:4
+,"!=e1 a has a left 9v}se4 ,s9ce ;,d is
+commutative1 ;d m/ al 2 a "r 9v}se = a4
+,3sequ5tly1 ;,d is a field4
+gggggggggggggggggggggggggggggggg   #aabj
+
+  ,= any nonnegative 9teg} ;n & any
+ele;t ;r 9 a r+ ;,r we write _% r+'''
++r _: "<;n "ts"> z _% nr _:4 ,we def9e !
+~1"*i/ic ( a r+ ;,r to 2 ! l1/ positive
+9teg} ;n s* t _% nr .k #0 _: = all _% r
+`e ,r _:4 ,if no s* 9teg} exi/s1 !n !
+"*i/ic ( ;,r is def9$ to 2 #j4 ,we w
+d5ote ! "*i/ic ( ;,r by _% char,r _:4
+
+7777777777777777777777777777777777777777
+,example #af4ag
+  ,= e prime ;p1 _% `;,z;p _: is a field
+( "*i/ic ;p4 ,by ,proposi;n #c4d1 e
+nonz}o ele;t 9 _% `;,z;p _: has an
+9v}se2 h;e1 _% `;,z;p _: is a field4 ,if
+a is any nonz}o ele;t 9 ! field1 !n
+_% pa .k #0 _:1 s9ce ! ord} ( any nonz}o
+ele;t 9 ! abelian gr|p _% `;,z;p _: is
+;p4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+                                   #aaba
+7777777777777777777777777777777777777777
+,lemma #af4ah
+  ,let ;,r 2 a r+ ) id5t;y4 ,if #a has
+ord} ;n1 !n ! "*i/ic ( ;,r is ;n4
+
+,pro(4 ,if #a has ord} ;n1 !n ;n is !
+l1/ positive 9teg} s* t _% n"1 .k #0 _:4
+,?us1 = all _% r `e ,r _:1
+_%
+
+nr .k n(1r) .k (n#1)r .k #0r .k #0
+
+_:4
+,on ! o!r h&1 if no positive ;n exi/s s*
+t _% n"1 .k #0 _:1 !n ! "*i/ic ( ;,r is
+z}o4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+                                   #aabb
+7777777777777777777777777777777777777777
+,!orem #af4ai
+  ,! "*i/ic ( an 9tegral doma9 is ei
+prime or z}o4
+
+,pro(4 ,let ;,d 2 an 9tegral doma9 &
+suppose t ! "*i/ic ( ;,d is ;n ) _% n
+/.k #0 _:4 ,if ;n is n prime1 !n _% n .k
+ab _:1 ": _% #1 "k a "k n _: & _% #1 "k
+b "k n _:4 ,by ,lemma #af4ah1 we ne$
+only 3sid} ! case _% n"1 .k #0 _:4 ,s9ce
+_% #0 .k n"1 .k (ab)1 .k (a"1)(b"1) _: &
+"! >e no z}o divisors 9 ;,d1 ei _% a"1
+.k #0 _: or _% b"1 .k #0 _:4 ,h;e1 !
+"*i/ic ( ;,d m/ 2 less ?an ;n1 : is a
+3tradic;n4 ,"!=e1 ;n m/ 2 prime4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #af4c ,r+ ,homomorphisms & ,id1ls
+  ,9 ! /udy ( gr|ps1 a homomorphism is a
+map t pres}ves ! op}a;n ( ! gr|p4
+,simil>ly1 a homomorphism 2t r+s
+pres}ves ! op}a;ns ( addi;n &
+multiplica;n 9 ! r+4 ,m            #aabc
+specifically1 if ;,r & ;,s >e r+s1 !n a
+~1r+ ~1homomorphism is a map _% .f"1 ,r
+$o ,s _: satisfy+
+_%
+
+f(a+b) .k f(a)+f(b)
+f(ab)  .k f(a)f(b)
+
+_:
+= all _% a, b `e ,r _:4 ,if _% .f"1 ,r
+$o ,s _: is a "o-to-"o & onto
+homomorphism1 !n _% .f _: is call$ an
+~1isomorphism ( r+s4
+  ,! set ( ele;ts t a r+ homomorphism
+maps to #j plays a funda;tal role 9 !
+!ory ( r+s4 ,= any r+ homomorphism
+_% .f"1 ,r $o ,s _:1 we def9e ! ~1k}nel
+( a r+ homomorphism to 2 ! set
+_%
+
+ker f .k .(r `e ,r_3f(r) .k #0.)
+
+_:4
+
+                                   #aabd
+7777777777777777777777777777777777777777
+,example #af4bj
+  ,= any 9teg} ;n we c def9e a r+
+homomorphism _% .f"1 `;,z $o `;,z;n _:
+by _% a $|33o a(m"o"d n) _:4 ,? is 9de$
+a r+ homomorphism1 s9ce
+_%
+
+f(a+b)                     .k (a+b)
+(m"o"d n)
+.k a (m"o"d n)+b (m"o"d n)
+.k f(a)+f(b)
+
+_:
+&
+_%
+
+f(ab)                      .k ab (m"o"d
+n)
+.k a (m"o"d n)*b (m"o"d n)
+.k f(a)f(b)
+
+_:4
+,! k}nel ( ! homomorphism _% .f _: is
+_% n`;,z _:4                       #aabe
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4ba
+  ,let _% ,c`(a, b`) _: 2 ! r+ ( 3t9u|s
+r1l-valu$ func;ns on an 9t}val _% `(a,
+b`) _: z 9 ,example #af4e4 ,= a fix$ 
+_% .a `e `(a, b`) _:1 we c def9e a r+
+homomorphism _% .f;.a"1 ,c`(a, b`) $o
+`;,r _: by _% f;.a"(f) .k f(.a) _:4 ,?
+is a r+ homomorphism s9ce
+_%
+
+f;.a"(f+g) .k (f+g)(.a) .k f(.a)+g(.a)
+.k f;.a"(f)+f;.a"(g)
+f;.a"(fg) .k (fg)(.a) .k f(.a)g(.a) .k
+f;.a"(f)f;.a"(g)
+
+_:4
+,r+ homomorphisms ( ! type _% .f;.a _:
+>e call$ ~1evalua;n ~1homomorphisms4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,9 ! next proposi;n we w         #aabf
+exam9e "s funda;tal prop}ties ( r+
+homomorphisms4 ,! pro( ( ! proposi;n is
+left z an ex}cise4
+
+7777777777777777777777777777777777777777
+,proposi;n #af4bb
+  ,let _% .f"1 ,r $o ,s _: 2 a r+
+homomorphism4
+#a4 ,if ;,r is a commutative r+1 !n
+_% f(,r) _: is a commutative r+4
+#b4 _% f(0) .k #0 _:4
+#c4 ,let _% #1;,r _: & _% #1;,s _: 2 !
+id5tities = ;,r & ;,s1 respectively4 ,if
+_% .f _: is onto1 !n _% f(1;,r") .k
+#1;,s _:4
+#d4 ,if ;,r is a field & _% f(,r) /.k
+.(0.) _:1 !n _% f(,r) _: is a field4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,9 gr|p !ory we f.d t normal subgr|ps
+play a special role4 ,~! subgr|ps h nice
+"*i/ics t make !m m 9t}e/+ to /udy ?an
+>bitr>y subgr|ps4 ,9 r+ !ory ! objects
+correspond+ to normal subgr|ps >e a
+special class ( subr+s call$       #aabg
+id1ls4 ,an ~1id1l 9 a r+ ;,r is a subr+
+,i ( ;,r s* t if a is 9 ,i & ;r is 9
+;,r1 !n bo? _% ar _: & _% ra _: >e 9 ,i2
+t is1 _% r,i _"k ,i _: & _% ,ir _"k
+,i _: = all _% r `e ,r _:4
+
+7777777777777777777777777777777777777777
+,example #af4bc
+  ,e r+ ;,r has at l1/ two id1ls1
+_% .(0.) _: & ;,r4 ,~! id1ls >e call$ !
+~1trivial ~1id1ls4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let ;,r 2 a r+ ) id5t;y & suppose t
+,i is an id1l 9 ;,r s* t #a is 9 ,i4
+,s9ce = any _% r `e ,r _:1 _% r"1 .k r
+`e ,i _: by ! def9i;n ( an id1l1 _% ,i
+.k ,r _:4
+
+7777777777777777777777777777777777777777
+,example #af4bd
+  ,if a is any ele;t 9 a commutative r+
+;,r ) id5t;y1 !n ! set
+
+                                   #aabh
+_%
+
+..(a..) .k .(ar_3r `e ,r.)
+
+_:
+is an id1l 9 ;,r4 ,c}ta9ly1
+_% ..(a..) _: is nonempty s9ce bo? _% #0
+.k a"0 _: & _% a .k a"1 _: >e 9
+_% ..(a..) _:4 ,! sum ( two ele;ts 9
+_% ..(a..) _: is ag 9 _% ..(a..) _: s9ce
+_% ar+ar' .k a(r+r~'") _:4 ,! 9v}se (
+_% ar _: is _% -ar .k a(-r) `e
+..(a..) _:4 ,f9ally1 if we multiply an
+ele;t _% ar `e ..(a..) _: by an >bitr>y
+ele;t _% s `e ,r _:1 we h _% s(ar) .k
+a(sr) _:4 ,"!=e1 _% ..(a..) _: satisfies
+! def9i;n ( an id1l4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,if ;,r is a commutative r+ ) id5t;y1
+!n an id1l ( ! =m _% ..(a..) .k .(ar_3r
+`e ,r.) _: is call$ a ~1pr9cipal ~1id1l4
+
+7777777777777777777777777777777777777777
+,!orem #af4be                      #aabi
+  ,e id1l 9 ! r+ ( 9teg}s _% `;,z _: is
+a pr9cipal id1l4
+
+,pro(4 ,! z}o id1l _% .(0.) _: is a
+pr9cipal id1l s9ce _% ..(0..) .k
+.(0.) _:4 ,if  ,i is any nonz}o id1l 9
+_% `;,z _:1 !n  ,i m/ 3ta9 "s positive
+9teg} ;m4 ,"! exi/s a l1/ positive 9teg}
+;n 9 ,i by ! ,pr9ciple ( ,well-,ord}+4
+,n{ let a 2 any ele;t 9 ,i4 ,us+ !
+divi.n algori?m1 we "k t "! exi/ 9teg}s
+;q & ;r s* t
+_%
+
+a .k nq+r
+
+_:
+": _% #0 "k: r "k n _:4 ,? equa;n tells
+u t _% r .k a-nq `e ,i _:1 b ;r m/ 2 #j
+s9ce ;n is ! l1/ positive ele;t 9 ,i4
+,"!=e1 _% a .k nq _: & _% ,i .k
+..(n..) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #aacj
+7777777777777777777777777777777777777777
+,example #af4bf
+  ,! set _% n`;,z _: is id1l 9 ! r+ (
+9teg}s4 ,if _% na _: is 9 _% n`;,z _: &
+;b is 9 _% `;,z _:1 !n _% nab _: is 9
+_% n`;,z _: z requir$4 ,9 fact1 by
+,!orem #af4be1 ~! >e ! only id1ls (
+_% `;,z _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,proposi;n #af4bg
+  ,! k}nel ( any r+ homomorphism _% .f"1
+,r $o ,s _: is an id1l 9 ;,r4
+
+,pro(4 ,we "k f gr|p !ory t _% ker .f _:
+is an additive subgr|p ( ;,r4 ,suppose t
+_% r `e ,r _: & _% a `e ker .f _:4 ,!n
+we m/ %{ t _% ar _: & _% ra _: >e 9
+_% ker .f _:4 ,h{"e1
+
+
+
+                                   #aaca
+_%
+
+f(ar) .k f(a)f(r) .k #0f(r) .k #0
+
+_:
+&
+_%
+
+f(ra) .k f(r)f(a) .k f(r)0 .k #0
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aacb
+7777777777777777777777777777777777777777
+,rem>k #af4bh
+  ,9 |r def9i;n ( an id1l we h requir$ t
+_% r,i _"k ,i _: & _% ,ir _"k ,i _: =
+all _% r `e ,r _:4 ,s* id1ls >e "s"ts
+ref}r$ to z ~1two-sid$ ~1id1ls4 ,we c al
+3sid} ~1"o-sid$ ~1id1ls;2 t is1 we may
+require only t ei _% r,i _"k ,i _: or
+_% ,ir _"k ,i _: = _% r `e ,r _: hold b
+n bo?4 ,s* id1ls >e call$ ~1left ~1id1ls
+& ~1"r ~1id1ls1 respectively4 ,( c|rse1
+9 a commutative r+ any id1l m/ 2
+two-sid$4 ,9 ? text we w 3c5trate on
+two-sid$ id1ls4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #af4bi
+  ,let ,i 2 an id1l ( ;,r4 ,! factor
+gr|p _% ,r_/,i _: is a r+ ) multiplica;n
+def9$ by
+
+
+                                   #aacc
+_%
+
+(r+,i)(s+,i) .k rs+,i
+
+_:4
+
+,pro(4 ,we alr "k t _% ,r_/,i _: is an
+abelian gr|p "u addi;n4 ,let _% r+,i _:
+& _% s+,i _: 2 9 _% ,r_/,i _:4 ,we m/ %{
+t ! product _% (r+,i)(s+,i) .k rs+,i _:
+is 9dep5d5t ( ! *oice ( coset2 t is1 if
+_% r' `e r+,i _: & _% s' `e s+,i _:1 !n
+_% r's' _: m/ 2 9 _% rs+,i _:4 ,s9ce
+_% r' `e r+,i _:1 "! exi/s an ele;t a  9
+,i s* t _% r' .k r+a _:4 ,simil>ly1 "!
+exi/s a _% b `e ,i _: s* t _% s' .k
+s+b _:4 ,notice t
+_%
+
+r's' .k (r+a)(s+b) .k rs+as+rb+ab
+
+_:
+& _% as+rb+ab `e ,i _: s9ce ,i is an
+id1l2 3sequ5tly1 _% r's~'" `e rs+,i _:4
+,we w l1ve z an ex}cise !          #aacd
+v}ifica;n ( !  associative law =
+multiplica;n & ! 4tributive laws4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! r+ _% ,r_/,i _: 9 ,!orem #af4bi is
+call$ ! ~1factor or ~1quoti5t ~1r+4 ,j z
+) gr|p homomorphisms & normal subgr|ps1
+"! is a rela;n%ip 2t r+ homomorphisms &
+id1ls4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #aace
+7777777777777777777777777777777777777777
+,!orem #af4cj
+  ,let ,i 2 an id1l ( ;,r4 ,! map
+_% .f"1 ,r $o ,r_/,i _: def9$ by _% f(r)
+.k r+,i _: is a r+ homomorphism ( ;,r
+onto _% ,r_/,i _: ) k}nel ,i4
+
+,pro(4 ,c}ta9ly _% .f"1 ,r $o ,r_/,i _:
+is a surjective abelian gr|p
+homomorphism4 ,x rema9s to %{ t _% .f _:
+"ws correctly "u r+ multiplica;n4 ,let
+;r & ;s 2 9 ;,r4 ,!n
+_%
+
+f(r)f(s) .k (r+,i)(s+,i) .k rs+,i .k
+f(rs)
+
+_:1
+: completes ! pro( ( ! !orem4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! map _% .f"1 ,r $o ,r_/,i _: is (t5
+call$ ! ~1natural or ~1canonical
+~1homomorphism4 ,9 r+ !ory we h
+isomorphism !orems relat+ id1ls    #aacf
+& r+ homomorphisms simil> to !
+isomorphism !orems = gr|ps t relate
+normal subgr|ps & homomorphisms 9
+,*apt} #aa4 ,we w prove only ! ,f/
+,isomorphism ,!orem = r+s 9 ? *apt} &
+l1ve ! pro(s ( ! o!r two !orems z
+ex}cises4 ,all ( ! pro(s >e simil> to !
+pro(s ( ! isomorphism !orems = gr|ps4
+
+7777777777777777777777777777777777777777
+,!orem #af4ca ,f/ ,isomorphism ,!orem4
+  ,let _% .y"1 ,r $o ,s _: 2 a r+
+homomorphism4 ,!n _% ker .y _: is an
+id1l ( ;,r4 ,if _% .f"1 ,r $o ,r_/ker
+.y _: is ! canonical homomorphism1 !n "!
+exi/s a unique isomorphism _% .:"1
+,r_/ker .y $o .y(,r) _: s* t _% .y .k
+.:.f _:4
+
+,pro(4 ,let _% ,k .k ker .y _:4 ,by !
+,f/ ,isomorphism ,!orem = gr|ps1 "!
+exi/s a well-def9$ gr|p homomorphism
+_% .:"1 ,r_/,k $o .y(,r) _: def9$ by
+_% .:(r+,k) .k .y(r) _: = ! additive
+abelian gr|ps ;,r &                #aacg
+_% ,r_/,k _:4 ,to %{ t ? is a r+
+homomorphism1 we ne$ only %{ t
+_% .:((r+,k)(s+,k)) .k .:(r+,k).:(s+,k)
+_:2 b
+_%
+
+.:((r+,k)(s+,k))    .k .:(rs+,k)
+.k .y(rs)
+.k .y(r).y(s)
+.k .:(r+,k).:(s+,k)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                   #aach
+7777777777777777777777777777777777777777
+,!orem #af4cb ,second ,isomorphism
+,!orem4
+  ,let ,i 2 a subr+ ( a r+ ;,r  &  ;,j
+an id1l ( ;,r4 ,!n _% ,i.%,j _: is an
+id1l ( ,i &
+_%
+
+,i_/,i.%,j `:.k (,i+,j)_/,j
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #af4cc ,?ird ,isomorphism ,!orem4
+  ,let ;,r 2 a r+ & ,i & ;,j 2 id1ls (
+;,r ": _% ,j _"k ,i _:4 ,!n
+_%
+
+,r_/,i `:.k ?,r_/,j/,i_/,j#
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+                                   #aaci
+7777777777777777777777777777777777777777
+,!orem #af4cd ,correspond;e ,!orem4
+  ,let ,i 2 an id1l ( a r+ ;,r4 ,!n
+_% ,s $|33o ,s_/,i _: is a "o-to-"o
+correspond;e 2t ! set ( subr+s ;,s 3ta9+
+,i & ! set ( subr+s ( _% ,r_/,i _:4
+,fur!rmore1 ! id1ls ( ;,r 3ta9+ ,i
+correspond to id1ls ( _% ,r_/,i _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #af4d ,maximal & ,prime ,id1ls
+  ,9 ? "picul> sec;n we >e especially
+9t}e/$ 9 c}ta9 id1ls ( commutative r+s4
+,~! id1ls give u special types ( factor
+r+s4 ,m specifically1 we wd l to "*ize
+~? id1ls ,i ( a commutative r+ ;,r s* t
+_% ,r_/,i _: is an 9tegral doma9 or a
+field4
+  ,a prop} id1l ;,m ( a r+ ;,r is a
+~1maximal ~1id1l ( ;,r if ! id1l ;,m is
+n a prop} subset ( any id1l ( ;,r except
+;,r xf4 ,t is1 ;,m is a maximal id1l if
+= any id1l ,i prop}ly 3ta9+ ;,m1 _% ,i
+.k ,r _:4 ,! foll{+ !orem          #aadj
+completely "*izes maximal id1ls =
+commutative r+s ) id5t;y 9 t}ms ( _!
+correspond+ factor r+s4
+
+7777777777777777777777777777777777777777
+,!orem #af4ce
+  ,let ;,r 2 a commutative r+ ) id5t;y &
+;,m an id1l 9 ;,r4 ,!n ;,m is a maximal
+id1l ( ;,r if & only if _% ,r_/,m _: is
+a field4
+
+,pro(4 ,let ;,m 2 a maximal id1l 9 ;,r4
+,if ;,r is a commutative r+1 !n
+_% ,r_/,m _: m/ al 2 a commutative r+4
+,cle>ly1 _% #1+,m _: acts z an id5t;y =
+_% ,r_/,m _:4 ,we m/ al %{ t e nonz}o
+ele;t 9 _% ,r_/,m _: has an 9v}se4 ,if
+_% a+,m _: is a nonz}o ele;t 9
+_% ,r_/,m _:1 !n _% a /`e ,m _:4 ,def9e
+,i to 2 ! set _% .(ra+m_3r `e ,r and m
+`e ,m.) _:4 ,we w %{ t ,i is an id1l 9
+;,r4 ,! set ,i is nonempty s9ce _% #0a+0
+.k #0 _: is 9 ,i4 ,if _% r1a+m1 _: &
+_% r2a+m2 _: >e two ele;ts 9 ,i1 !n
+                                   #aada
+_%
+
+(r1a+m1)-(r2a+m2) .k (r1-r2)a+(m1-m2)
+
+_:
+is 9 ,i4 ,al1 = any _% r `e ,r _: x is
+true t _% r,i _"k ,i _:2 h;e1 ,i is
+clos$ "u multiplica;n & satisfies ! nec
+3di;ns to 2 an id1l4 ,"!=e1 by
+,proposi;n #af4aj & ! def9i;n ( an id1l1
+,i is an id1l prop}ly 3ta9+ ;,m4 ,s9ce
+;,m is a maximal id1l1 _% ,i .k ,r _:2
+3sequ5tly1 by ! def9i;n ( ,i "! m/ 2 an
+;m 9 ;,m & an ele;t ;b 9 ;,r s* t _% #1
+.k ab+m _:4 ,"!=e1
+_%
+
+#1+,m .k ab+,m .k ba+,m .k (a+,m)(b+,m)
+
+_:4
+  ,3v}sely1 suppose t ;,m is an id1l &
+_% ,r_/,m _: is a field4 ,s9ce
+_% ,r_/,m _: is a field1 x m/ 3ta9 at
+l1/ two ele;ts3 _% #0+,m .k ,m _: &
+_% #1+,m _:4 ,h;e1 ;,m is a        #aadb
+prop} id1l ( ;,r4 ,let ,i 2 any id1l
+prop}ly 3ta9+ ;,m4 ,we ne$ to %{ t _% ,i
+.k ,r _:4 ,*oose a 9 ,i b n 9 ;,m4 ,s9ce
+_% a+,m _: is a nonz}o ele;t 9 a field1
+"! exi/s an ele;t _% b+,m _: 9
+_% ,r_/,m _: s* t _% (a+,m)(b+,m) .k
+ab+,m .k #1+,m _:4 ,3sequ5tly1 "! exi/s
+an ele;t _% m `e ,m _: s* t _% ab+m .k
+#1 _: & #a is 9 ,i4 ,"!=e1 _% r"1 .k r
+`e ,i _: = all _% r `e ,r _:4
+,3sequ5tly1 _% ,i .k ,r _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4cf
+  ,let _% p`;,z _: 2 an id1l 9
+_% `;,z _:1 ": ;p is prime4 ,!n
+_% p`;,z _: is a maximal id1l s9ce
+_% `;,z_/p`;,z `:.k `;,z;p _: is a
+field4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a prop} id1l ;,p 9 a commutative r+
+;,r is call$ a ~1prime ~1id1l if   #aadc
+:5"e _% ab `e ,p _:1 !n ei _% a `e ,p _:
+or _% b `e ,p _:4;9#af
+
+7777777777777777777777777777777777777777
+,example #af4cg
+  ,x is easy to *eck t ! set _% ,p .k
+.(0, 2, 4, 6, 8, 10.) _: is an id1l 9
+_% `;,z12 _:4 ,? id1l is prime4 ,9 fact1
+x is a maximal id1l4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,proposi;n #af4ch
+  ,let ;,r 2 a commutative r+ ) id5t;y
+#a1 ": _% #1 /.k #0 _:4 ,!n ;,p is a
+prime id1l 9 ;,r if & only if
+_% ,r_/,p _: is an 9tegral doma94
+
+,pro(4 ,f/ let u assume t ;,p is an id1l
+9 ;,r & _% ,r_/,p _: is an 9tegral
+doma94 ,suppose t _% ab `e ,p _:4 ,if
+_% a+,p _: & _% b+,p _: >e two ele;ts (
+_% ,r_/,p _: s* t _% (a+,p)(b+,p) .k
+#0+,p .k ,p _:1 !n ei _% a+,p .k   #aadd
+,p _: or _% b+,p .k ,p _:4 ,? m1ns t ei
+a is 9 ;,p or ;b is 9 ;,p1 : %{s t ;,p
+m/ 2 prime4
+  ,3v}sely1 suppose t ;,p is prime &
+_%
+
+(a+,p)(b+,p) .k ab+,p .k #0+,p .k ,p
+
+_:4
+,!n _% ab `e ,p _:4 ,if _% a /`e ,p _:1
+!n ;b m/ 2 9 ;,p by ! def9i;n ( a prime
+id1l2 h;e1 _% b+,p .k #0+,p _: &
+_% ,r_/,p _: is an 9tegral doma94
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                   #aade
+7777777777777777777777777777777777777777
+,example #af4ci
+  ,e id1l 9 _% `;,z _: is ( ! =m
+_% n`;,z _:4 ,! factor r+ _% `;,z_/n`;,z
+`:.k `;,z;n _: is an 9tegral doma9 only
+:5 ;n is prime4 ,x is actually a field4
+,h;e1 ! nonz}o prime id1ls 9 _% `;,z _:
+>e ! id1ls _% p`;,z _:1 ": ;p is prime4
+,? example r1lly ju/ifies ! use ( ! ~w
+8prime0 9 |r def9i;n ( prime id1ls4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,s9ce e field is an 9tegral doma91 we
+h ! foll{+ coroll>y4
+
+7777777777777777777777777777777777777777
+,coroll>y #af4dj
+  ,e maximal id1l 9 a commutative r+ )
+id5t;y is al a prime id1l4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,hi/orical ,note
+  ,amalie ,emmy ,noe!r1 "o ( ! |t/&+
+ma!maticians ( ! tw5tie? c5tury1   #aadf
+0 born 9 ,}lang51 ,g}_m 9 #ahhb4 ,%e 0 !
+dau<t} ( ,max ,noe!r "<#ahdd,-#aiba">1 a
+4t+ui%$ ma!matician at ! ,univ}s;y (
+,}lang54 ,tgr ) ,paul ,gordon
+"<#ahcg,-#aiab">1 ,emmy ,noe!r's "f
+/r;gly 9flu;ed h} e>ly $uca;n4 ,%e 5t}$
+! ,univ}s;y ( ,}lang5 at ! age ( #ah4
+,al? wom5 _h be5 admitt$ to univ}sities
+9 ,5gl&1 ,fr.e1 & ,italy = decades1 "! 0
+grt resi/.e to _! pres;e at univ}sities
+9 ,g}_m4 ,noe!r 0 "o ( only two wom5
+am;g ! univ}s;y's #ihf /ud5ts4 ,af
+complet+ h} doctorate "u ,gordon 9
+#aijg1 %e 3t9u$ to d rese>* at ,}lang51
+o3a.nally lectur+ :5 h} "f 0 ill4
+  ,noe!r w5t to ,g~3ott+5 to /udy 9
+#aiaf4 ,david ,hilb}t & ,felix ,kle9
+tri$ unsu3ess;lly to secure h} an
+appo9t;t at ,g~3ott+54 ,"s ( ! faculty
+object$ to wom5 lectur}s1 say+1 8,:at w
+|r soldi}s ?9k :5 !y return to !
+univ}s;y & >e expect$ to le>n at ! feet
+( a woman80 ,hilb}t1 annoy$ at ! "q1
+respond$1 8,me9e ,h}r51 ,i d n see t !
+sex ( a c&idate is an >gu;t ag/    #aadg
+h} admis.n z a ,privatdoz5t4 ,af all1 !
+,s5ate is n a ba?h|se40 ,at ! 5d ( ,_w
+,w> ,i1 attitudes *ang$ & 3di;ns grtly
+improv$ = wom54 ,af ,noe!r pass$ h}
+habilita;n exam9a;n 9 #aiai1 %e 0 giv5 a
+title & 0 pd a small sum = h} lectures4
+  ,9 #aibb1 ,noe!r 2came a ,privatdoz5t
+at ,g~3ott+54 ,ov} ! next #aa ye>s %e
+us$ axiomatic me?ods to develop an
+ab/ract !ory ( r+s & id1ls4 ,?|< %e 0 n
+gd at lectur+1 ,noe!r 0 an 9spir+ t1*}4
+,"o ( h} _m /ud5ts 0 ;,b4 ;,l4 van d}
+,wa}d51 au?or ( ! f/ text tr1t+ ab/ract
+algebra f a mod}n po9t ( view4 ,"s ( !
+o!r ma!maticians ,noe!r 9flu;ed or
+closely "w$ ) 7 ,alex&r(f1 ,>t91 ,brau}1
+,c|rant1 ,hasse1 ,hopf1 ,pontryag91 von
+,neumann1 & ,weyl4 ,"o ( ! hi< po9ts (
+h} c>e} 0 an 9vita;n to address !
+,9t}na;nal ,3gress ( ,ma!maticians 9
+,zuri* 9 #aicb4 ,9 spite ( all !
+recogni;n %e rcvd f h} coll1gues1
+,noe!r's abilities 7 n"e recogniz$ z !y
+%d h be5 dur+ h} life"t4 ,%e 0 n"e
+promot$ to full pr(essor by !      #aadh
+,prussian academic bur1ucracy4
+  ,9 #aicc1 ,noe!r1 :o 0 ,jewi%1 0 bann$
+f "picipa;n 9 all academic activities 9
+,g}_m4 ,%e emigrat$ to ! ,unit$ ,/ates1
+took a posi;n at ,bryn ,mawr ,college1 &
+2came a memb} ( ! ,9/itute = ,adv.ed
+,/udy at ,pr9ceton4 ,noe!r di$ sudd5ly
+on ,april #ad1 #aice4 ,af h} d1? %e 0
+eulogiz$ by s* notable sci5ti/s z ,alb}t
+,e9/e94
+
+    #af4e ,an ,applica;n to ,s(tw>e
+    ,design
+  ,! ,*9ese ,rema9d} ,!orem is a result
+f ele;t>y numb} !ory ab ! solu;n (
+sy/ems ( simultane|s 3gru;es4 ,! ,*9ese
+ma!matician ,sun-ts~3i wrote ab ! !orem
+9 ! f/ c5tury ,a4,d4 ,? !orem has "s
+9t}e/+ 3sequ;es 9 ! design ( s(tw>e =
+p>allel processors4
+
+7777777777777777777777777777777777777777
+,lemma #af4da
+  ,let ;m & ;n 2 positive 9teg}s s* t
+_% gcd (m, n) .k #1 _:4 ,!n =      #aadi
+_% a, b `e `;,z _: ! sy/em
+_%
+
+x _l a (m"o"d m)
+x _l b (m"o"d n)
+
+_:
+has a solu;n4 ,if _% x1 _: & _% x2 _: >e
+two solu;ns ( ! sy/em1 !n  _% x1 _l
+x2(m"o"d mn) _:4
+
+,pro(4 ,! equa;n _% x _l a(m"o"d m) _:
+has a solu;n s9ce _% a+km _: satisfies !
+equa;n = all _% k `e `;,z _:4 ,we m/ %{
+t "! exi/s an 9teg} _% k1 _: s* t
+_%
+
+a+k1m _l b (m"o"d n)
+
+_:4
+,? is equival5t to %{+ t
+
+
+
+                                   #aaej
+_%
+
+k1m _l (b-a) (m"o"d n)
+
+_:
+has a solu;n = _% k1 _:4 ,s9ce ;m & ;n
+>e relatively prime1 "! exi/ 9teg}s ;s &
+;t s* t _% ms+nt .k #1 _:4 ,3sequ5tly1
+_%
+
+(b-a)ms .k (b-a)-(b-a)nt
+
+_:1
+or
+_%
+
+`((b-a)s`)m _l (b-a) (m"o"d n)
+
+_:4
+,n{ let _% k1 .k (b-a)s _:4
+  ,to %{ t any two solu;ns >e 3gru5t
+modulo _% mn _:1 let _% c1 _: & _% c2 _:
+2 two solu;ns (  ! sy/em4 ,t is1
+
+                                   #aaea
+_%
+
+c;i" _l a (m"o"d m)
+c;i" _l b (m"o"d n)
+
+_:
+= _% i .k #1, #2 _:4 ,!n
+_%
+
+c2 _l c1 (m"o"d m)
+c2 _l c1 (m"o"d n)
+
+_:4
+,"!=e1 bo? ;m & ;n divide _% c1-c2 _:4
+,3sequ5tly1 _% c2 _l c1(m"o"d mn) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4db
+  ,let u solve ! sy/em
+
+
+
+                                   #aaeb
+_%
+
+x _l #3 (m"o"d #4)
+x _l #4 (m"o"d #5)
+
+_:4
+,us+ ! ,euclid1n algori?m1 we c f9d
+9teg}s ;s & ;t s* t _% #4s+5t .k #1 _:4
+,two s* 9teg}s >e _% s .k #4 _: & _% t
+.k -#3 _:4 ,3sequ5tly1
+_%
+
+x .k a+k1m .k #3+4k1 .k #3+4`((5-4)4`)
+.k #19
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #af4dc ,*9ese ,rema9d} ,!orem4
+  ,let _% n1, n2, ''', n;k _: 2 positive
+9teg}s s* t _% gcd (n;i, n;j") .k #1 _:
+= _% i /.k j _:4 ,!n = any 9teg}s _% a1,
+''', a;k _:1 ! sy/em               #aaec
+_%
+
+x   _l a1 (m"o"d n1)
+x   _l a2 (m"o"d n2)
+'''
+x   _l a;k" (m"o"d n;k")
+
+_:
+has a solu;n4 ,fur!rmore1 any two
+solu;ns ( ! sy/em >e 3gru5t modulo
+_% n1n2 ''' n;k _:4
+
+,pro(4 ,we w use ma!matical 9duc;n on !
+numb} ( equa;ns 9 ! sy/em4 ,if "! >e
+_% k .k #2 _: equa;ns1 !n ! !orem is
+true by  ,lemma #af4da4 ,n{ suppose t !
+result is true = a sy/em ( ;k equa;ns or
+less & t we wi% to f9d a solu;n (
+
+
+
+
+
+
+                                   #aaed
+_%
+
+x   _l a1 (m"o"d n1)
+x   _l a2 (m"o"d n2)
+'''
+x   _l a;k+1" (m"o"d n;k+1")
+
+_:4
+,3sid}+ ! f/ ;k equa;ns1 "! exi/s a
+solu;n t is unique modulo _% n1 '''
+n;k _:1 say a4 ,s9ce _% n1 ''' n;k _: &
+_% n;k+1 _: >e relatively prime1 ! sy/em
+_%
+
+x _l a (m"o"d n1 ''' n;k")
+x _l a;k+1" (m"o"d n;k+1")
+
+_:
+has a solu;n t is unique modulo _% n1
+''' n;k+1 _: by ! lemma4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #af4dd                    #aaee
+  ,let u solve ! sy/em
+_%
+
+x _l #3 (m"o"d #4)
+x _l #4 (m"o"d #5)
+x _l #1 (m"o"d #9)
+x _l #5 (m"o"d #7)
+
+_:4
+,f ,example #af4db we "k t #ai is a
+solu;n ( ! f/ two 3gru;es & any o!r
+solu;n ( ! sy/em is 3gru5t to
+_% #19(m"o"d #20) _:4 ,h;e1 we c r$uce !
+sy/em to a sy/em ( ?ree 3gru;es3
+_%
+
+x _l #19 (m"o"d #20)
+x _l #1 (m"o"d #9)
+x _l #5 (m"o"d #7)
+
+_:4
+,solv+ ! next two equa;ns1 we c r$uce !
+sy/em to
+
+                                   #aaef
+_%
+
+x _l #19 (m"o"d #180)
+x _l #5 (m"o"d #7)
+
+_:4
+,solv+ ? la/ sy/em1 we f9d t #ai is a
+solu;n = ! sy/em t is unique up to
+modulo #abfj4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,"o 9t}e/+ applica;n ( ! ,*9ese
+,rema9d} ,!orem 9 ! design ( comput}
+s(tw>e is t ! !orem all{s u to br1k up a
+calcula;n 9volv+ l>ge 9teg}s 9to s"eal
+less =midable calcula;ns4 ,a comput} w
+h&le 9teg} calcula;ns only up to a c}ta9
+size due to ! size ( xs processor *ip1 :
+is usually a #cb or #fd-bit processor
+*ip4 ,= example1 ! l>ge/ 9teg} available
+on a comput} ) a #fd-bit processor *ip
+is
+
+
+                                   #aaeg
+_%
+
+#2~63"-1 .k #9,223,372,036,854,775,807
+
+_:4
+,l>g} processors s* z #abh or #bef-bit h
+be5 propos$ or >e "u develop;t4 ,"! is
+ev5 talk ( a #eab-bit processor *ip4 ,!
+l>ge/ 9teg} t s* a *ip cd /ore ) 2
+_% #2~511"-1 _:1 : wd 2 a #aed digit
+numb}4 ,h{"e1 we wd ne$ to d1l ) m* l>g}
+numb}s to br1k sophi/icat$ 5cryp;n
+s*emes4
+  ,special s(tw>e is requir$ =
+calcula;ns 9volv+ l>g} 9teg}s : _c 2
+add$ directly by ! ma*9e4 ,by us+ !
+,*9ese ,rema9d} ,!orem we c br1k d{n
+l>ge 9teg} addi;ns & multiplica;ns 9to
+calcula;ns t ! comput} c h&le directly4
+,? is especially use;l on p>allel
+process+ comput}s : h ! abil;y to run
+s"eal programs 3curr5tly4
+  ,mo/ comput}s h a s+le c5tral process+
+unit "<,,cpu"> 3ta9+ "o processor *ip &
+c only add two numb}s at a "t4     #aaeh
+,to add a li/ ( t5 numb}s1 ! ,,cpu m/ d
+n9e addi;ns 9 sequ;e4 ,h{"e1 a p>allel
+process+ comput} has m ?an "o ,,cpu4 ,a
+comput} ) #aj ,,cpu,'s1 = example1 c
+p}=m #aj di6}5t addi;ns at ! same "t4
+,if we c take a l>ge 9teg} & br1k x d{n
+9to "ps1 s5d+ ea* "p to a di6}5t ,,cpu1
+!n by p}=m+ s"eal addi;ns or
+multiplica;ns simultane|sly on ~? "ps1
+we c "w ) an 9teg} t ! comput} wd n 2
+able to h&le z a :ole4
+
+7777777777777777777777777777777777777777
+,example #af4de
+  ,suppose t we wi% to multiply #bacd by
+#aeca4 ,we w use ! 9teg}s #ie1 #ig1 #ih1
+& #ii 2c !y >e relatively prime4 ,we c
+br1k d{n ea* 9teg} 9to f|r "ps3
+
+
+
+
+
+
+                                   #aaei
+_%
+
+#2134 _l #44 (m"o"d #95)
+#2134 _l #0 (m"o"d #97)
+#2134 _l #76 (m"o"d #98)
+#2134 _l #55 (m"o"d #99)
+
+_:
+&
+_%
+
+#1531 _l #11 (m"o"d #95)
+#1531 _l #76 (m"o"d #97)
+#1531 _l #61 (m"o"d #98)
+#1531 _l #46 (m"o"d #99)
+
+_:4
+,multiply+ ! correspond+ equa;ns1 we
+obta9
+
+
+
+
+
+                                   #aafj
+_%
+
+#2134*1531 _l #44*11 _l #9 (m"o"d #95)
+#2134*1531 _l #0*76 _l #0 (m"o"d #97)
+#2134*1531 _l #76*61 _l #30 (m"o"d #98)
+#2134*1531 _l #55*46 _l #55 (m"o"d #99)
+
+_:4
+,ea* ( ~! f|r computa;ns c 2 s5t to a
+di6}5t processor if |r comput} has s"eal
+,,cpu,'s4 ,by ! abv calcula;n1 we "k t
+_% #2134*1531 _: is a solu;n ( ! sy/em
+_%
+
+x _l #9 (m"o"d #95)
+x _l #0 (m"o"d #97)
+x _l #30 (m"o"d #98)
+x _l #55 (m"o"d #99)
+
+_:4
+,! ,*9ese ,rema9d} ,!orem tells u t
+solu;ns >e unique up to modulo
+_% #95*97*98*99 .k #89,403,930 _:4
+,solv+ ? sy/em ( 3gru;es = ;x tells u t
+_% #2134*1531 .k #3,267,154 _:4    #aafa
+  ,! 3v}.n ( ! computa;n 9to ! f|r
+subcomputa;ns w take "s comput+ "t4 ,9
+addi;n1 solv+ ! sy/em ( 3gru;es c al
+take 3sid}able "t4 ,h{"e1 if we h _m
+computa;ns to 2 p}=m$ on a "picul> set (
+numb}s1 x makes s5se to trans=m !
+problem z we h d"o abv & to p}=m ! nec
+calcula;ns simultane|sly4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #af4f ,r1d+ ,"qs
+
+#a4 ,:at is ! funda;tal di6};e 2t gr|ps
+& r+s8
+
+#b4 ,give two "*iza;ns ( an 9tegral
+doma94
+
+#c4 ,provide two examples ( fields1 "o
+9f9ite1 "o f9ite4
+
+#d4 ,:o 0 ,emmy ,noe!r8
+
+#e4 ,speculate on a comput}        #aafb
+program t mi<t use ! ,*9ese ,rema9d}
+,!orem to spe$ up computa;ns ) l>ge
+9teg}s4
+
+    #af4g ,ex}cises
+
+#a4 ,: ( ! foll{+ sets >e r+s ) respect
+to ! usual op}a;ns ( addi;n &
+multiplica;n8 ,if ! set is a r+1 is x al
+a field8
+a4 _% #7`;,z _:
+;b4 _% `;,z18 _:
+;c4 _% `;,q(>2}) .k .(a+b>2}_3a, b `e
+`;,q.) _:
+;d4 _% `;,q(>2}, >3}) .k
+.(a+b>2}+c>3}+d>6}_3a, b, c, d `e
+`;,q.) _:
+;e4 _% `;,z`(>3}`) .k .(a+b>3}_3a, b `e
+`;,z.) _:
+;f4 _% ,r .k .(a+b<3>3}_3a, b `e
+`;,q.) _:
+;g4 _% `;,z`(i`) .k .(a+bi_3a, b `e `;,z
+and i~2 .k -#1.) _:
+;h4 _% `;,q(<3>3}) .k
+.(a+b<3>3}+c<3>9}_3a, b, c `e      #aafc
+`;,q.) _:
+
+,h9t4 "<a"> _% #7`;,z _: is a r+ b n a
+field2 "<;c"> _% `;,q(>2}) _: is a
+field2 "<;f"> ;,r is n a r+4
+
+#b4 ,let ;,r 2 ! r+ ( _% #2`*2 _:
+matrices ( ! =m
+_%
+
+,(a  b ,)
+,(#0 #0,)
+
+_:1
+": _% a, b `e `;,r _:4 ,%{ t al? ;,r is
+a r+ t has no id5t;y1 we c f9d a subr+
+;,s ( ;,r ) an id5t;y4
+
+#c4 ,li/ or "*ize all ( ! units 9 ea* (
+! foll{+ r+s4
+a4 _% `;,z10 _:
+;b4 _% `;,z12 _:
+;c4 _% `;,z7 _:
+;d4 _% `;,m2(`;,z) _:1 ! _% #2`*2 _:
+matrices ) 5tries 9 _% `;,z _:     #aafd
+;e4 _% `;,m2(`;,z2) _:1 ! _% #2`*2 _:
+matrices ) 5tries 9 _% `;,z2 _:
+
+,h9t4 "<a"> _% .(1, 3, 7, 9.) _:2 "<;c">
+_% .(1, 2, 3, 4, 5, 6.) _:2 "<;e">
+_%
+
+.(,(#1 #0,), ,(#1 #1,), ,(#1 #0,), ,(#0
+#1,), ,(#1 #1,), ,(#0 #1,),.)
+  ,(#0 #1,)  ,(#0 #1,)  ,(#1 #1,)  ,(#1
+#0,)  ,(#1 #0,)  ,(#1 #1,)
+
+_:4
+
+#d4 ,f9d all ( ! id1ls 9 ea* ( ! foll{+
+r+s4 ,: ( ~! id1ls >e maximal & : >e
+prime8
+a4 _% `;,z18 _:
+;b4 _% `;,z25 _:
+;c4 _% `;,m2(`;,r) _:1 ! _% #2`*2 _:
+matrices ) 5tries 9 _% `;,r _:
+;d4 _% `;,m2(`;,z) _:1 ! _% #2`*2 _:
+matrices ) 5tries 9 _% `;,z _:
+;e4 _% `;,q _:
+                                   #aafe
+,h9t4 "<a"> _% .(0.) _:1 _% .(0, 9.) _:1
+_% .(0, 6, 12.) _:1 _% .(0, 3, 6, 9, 12,
+15.) _:1 _% .(0, 2, 4, 6, 8, 10, 12, 14,
+16.) _:2 "<;c"> "! >e no nontrivial
+id1ls4
+
+#e4 ,= ea* ( ! foll{+ r+s ;,r ) id1l ,i1
+give an addi;n table & a multiplica;n
+table = _% ,r_/,i _:4
+a4 _% ,r .k `;,z _: & _% ,i .k #6`;,z _:
+;b4 _% ,r .k `;,z12 _: & _% ,i .k .(0,
+3, 6, 9.) _:
+
+#f4 ,f9d all homomorphisms _% .f"1
+`;,z_/6`;,z $o `;,z_/15`;,z _:4
+
+#g4 ,prove t _% `;,r _: is n isomorphic
+to _% `;,c _:4
+
+,h9t4 ,assume "! is an isomorphism
+_% .f"1 `;,c $o `;,r _: ) _% f(i) .k
+a _:4
+
+#h4 ,prove or 4prove3 ,! r+ _% `;,q(>2})
+.k .(a+b>2}_3a, b `e `;,q.) _:     #aaff
+is isomorphic to ! r+ _% `;,q(>3}) .k
+.(a+b>3}_3a, b `e `;,q.) _:4
+
+,h9t4 ,false4 ,assume "! is an
+isomorphism _% .f"1 `;,q(>2}) $o
+`;,q(>3}) _: s* t _% f(>2}) .k a _:4
+
+#i4 ,:at is ! "*i/ic ( ! field =m$ by !
+set ( matrices
+_%
+
+,f .k .(,(#1 #0,), ,(#1 #1,), ,(#0 #1,),
+,(#0 #0,).)
+        ,(#0 #1,)  ,(#1 #0,)  ,(#1 #1,)
+,(#0 #0,)
+
+_:
+) 5tries 9 _% `;,z2 _:;8
+
+#aj4 ,def9e a map _% .f"1 `;,c $o
+`;,m2(`;,r) _: by
+
+
+
+                                   #aafg
+_%
+
+.f(a+bi) .k ,(a  b,)
+            ,(-b a,)
+
+_:4
+,%{ t _% .f _: is an isomorphism (
+_% `;,c _: ) xs image 9
+_% `;,m2(`;,r) _:4
+
+#aa4 ,prove t ! ,gaussian 9teg}s1
+_% `;,z`(i`) _:1 >e an 9tegral doma94
+
+#ab4 ,prove t _% `;,z`(>3}i`) .k
+.(a+b>3}i_3a, b `e `;,z.) _: is an
+9tegral doma94
+
+#ac4 ,solve ea* ( ! foll{+ sy/ems (
+3gru;es4
+_%
+
+x _l #2 (m"o"d #5)
+x _l #6 (m"o"d #11)
+
+_:                                 #aafh
+_%
+
+x _l #3 (m"o"d #7)
+x _l #0 (m"o"d #8)
+x _l #5 (m"o"d #15)
+
+_:
+_%
+
+x _l #2 (m"o"d #4)
+x _l #4 (m"o"d #7)
+x _l #7 (m"o"d #9)
+x _l #5 (m"o"d #11)
+
+_:
+_%
+
+x _l #3 (m"o"d #5)
+x _l #0 (m"o"d #8)
+x _l #1 (m"o"d #11)
+x _l #5 (m"o"d #13)
+
+_:
+
+,h9t4 "<a"> _% x _l #17(m"o"d      #aafi
+#55) _:2 "<;c"> _% x _l #214(m"o"d
+#2772) _:4
+
+#ad4 ,use ! me?od ( p>allel computa;n
+|tl9$ 9 ! text to calculate
+_% #2234+4121 _: by divid+ ! calcula;n
+9to f|r sep>ate addi;ns modulo #ie1 #ig1
+#ih1 & #ii4
+
+#ae4 ,expla9 :y ! me?od ( p>allel
+computa;n |tl9$ 9 ! text fails =
+_% #2134*1531 _: if we attempt to br1k !
+calcula;n d{n 9to two small} calcula;ns
+modulo #ih & #ii4
+
+#af4 ,if ;,r is a field1 %{ t ! only two
+id1ls ( ;,r >e _% .(0.) _: & ;,r xf4
+
+,h9t4 ,if _% ,i /.k .(0.) _:1 %{ t _% #1
+`e ,i _:4
+
+#ag4 ,let a 2 any ele;t 9 a r+ ;,r )
+id5t;y4 ,%{ t _% (-1)a .k -a _:4
+
+#ah4 ,let _% .f"1 ,r $o ,s _: 2    #aagj
+a r+ homomorphism4 ,prove ea* ( ! foll{+
+/ate;ts4
+a4 ,if ;,r is a commutative r+1 !n
+_% f(,r) _: is a commutative r+4
+;b4 _% f(0) .k #0 _:4
+;c4 ,let _% #1;,r _: & _% #1;,s _: 2 !
+id5tities = ;,r & ;,s1 respectively4 ,if
+_% .f _: is onto1 !n _% f(1;,r") .k
+#1;,s _:4
+;d4 ,if ;,r is a field & _% f(,r) /.k
+#0 _:1 !n _% f(,r) _: is a field4
+
+,h9t4 "<a"> _% f(a)f(b) .k f(ab) .k
+f(ba) .k f(b)f(a) _:4
+
+#ai4 ,prove t ! associative law =
+multiplica;n & ! 4tributive laws hold 9
+_% ,r_/,i _:4
+
+#bj4 ,prove ! ,second ,isomorphism
+,!orem = r+s3 ,let ,i 2 a subr+ ( a r+
+;,r  &  ;,j an id1l 9 ;,r4 ,!n
+_% ,i.%,j _: is an id1l 9 ,i &
+
+                                   #aaga
+_%
+
+,i_/,i.%,j `:.k ,i+,j_/,j
+
+_:4
+
+#ba4 ,prove ! ,?ird ,isomorphism ,!orem
+= r+s3 ,let ;,r 2 a r+ & ,i & ;,j 2
+id1ls ( ;,r1 ": _% ,j _"k ,i _:4 ,!n
+_%
+
+,r_/,i `:.k ?,r_/,j/,i_/,j#
+
+_:4
+
+#bb4 ,prove ! ,correspond;e ,!orem3 ,let
+,i 2 an id1l ( a r+ ;,r4 ,!n _% ,s $o
+,s_/,i _: is a "o-to-"o correspond;e 2t
+! set ( subr+s ;,s 3ta9+ ,i & ! set (
+subr+s ( _% ,r_/,i _:4 ,fur!rmore1 !
+id1ls ( ;,r correspond to id1ls (
+_% ,r_/,i _:4
+
+#bc4 ,let ;,r 2 a r+ & ;,s a subset (
+;,r4 ,%{ t ;,s is a subr+ ( ;,r    #aagb
+if & only if ea* ( ! foll{+ 3di;ns is
+satisfi$4
+a4 _% ,s /.k _0 _:4
+;b4 _% rs `e ,s _: = all _% r, s `e
+,s _:4
+;c4 _% r-s `e ,s _: = all _% r, s `e
+,s _:4
+
+#bd4 ,let ;,r 2 a r+ ) a collec;n (
+subr+s _% .(,r;.a".) _:4 ,prove t
+_% .%,r;.a _: is a subr+ ( ;,r4 ,give an
+example to %{ t ! union ( two subr+s is
+n necess>ily a subr+4
+
+#be4 ,let _% .(,i;.a".);.a ;`e ,a _: 2 a
+collec;n ( id1ls 9 a r+ ;,r4 ,prove t
+_% ".%%.a `e ,a},i;.a _: is al an id1l 9
+;,r4 ,give an example to %{ t if
+_% ,i1 _: & _% ,i2 _: >e id1ls 9 ;,r1 !n
+_% ,i1.+,i2 _: may n 2 an id1l4
+
+#bf4 ,let ;,r 2 an 9tegral doma94 ,%{ t
+if ! only id1ls 9 ;,r >e _% .(0.) _: &
+;,r xf1 ;,r m/ 2 a field4
+                                   #aagc
+,h9t4 ,let _% a `e ,r _: ) _% a /.k
+#0 _:4 ,!n ! pr9cipal id1l g5}at$ by a
+is ;,r4 ,?us1 "! exi/s a _% b `e ,r _:
+s* t _% ab .k #1 _:4
+
+#bg4 ,let ;,r 2 a commutative r+4 ,an
+ele;t a 9 ;,r is ~1nilpot5t if _% a~n .k
+#0 _: = "s positive 9teg} ;n4 ,%{ t !
+set ( all nilpot5t ele;ts =ms an id1l 9
+;,r4
+
+#bh4 ,a r+ ;,r is a ~1,bool1n ~1r+ if =
+e _% a `e ,r _:1 _% a~2 .k a _:4 ,%{ t e
+,bool1n r+ is a commutative r+4
+
+,h9t4 ,compute _% (a+b)~2 _: &
+_% (-ab)~2 _:4
+
+#bi4 ,let ;,r 2 a r+1 ": _% a~3 .k a _:
+= all _% a `e ,r _:4 ,prove t ;,r m/ 2 a
+commutative r+4
+
+#cj4 ,let ;,r 2 a r+ ) id5t;y
+_% #1;,r _: & ;,s a subr+ ( ;,r ) id5t;y
+_% #1;,s _:4 ,prove or 4prove t    #aagd
+_% #1;,r .k #1;,s _:4
+
+#ca4 ,if we d n require ! id5t;y ( a r+
+to 2 4t9ct f #j1 we w n h a v 9t}e/+
+ma!matical /ructure4 ,let ;,r 2 a r+ s*
+t _% #1 .k #0 _:4 ,prove t _% ,r .k
+.(0.) _:4
+
+#cb4 ,let ;,r 2 a r+4 ,def9e ! ~1c5t} (
+;,r to 2
+_%
+
+,z(,r) .k .(a `e ,r_3ar .k ra for all r
+`e ,r.)
+
+_:4
+,prove t _% ,z(,r) _: is a commutative
+subr+ ( ;,r4
+
+#cc4 ,let ;p 2 prime4 ,prove t
+
+
+
+
+                                   #aage
+_%
+
+`;,z;(p) .k .(a_/b_3a, b `e `;,z and gcd
+(b, p) .k #1.)
+
+_:
+is a r+4 ,! r+ _% `;,z;(p) _: is call$ !
+~7r+ ( 9teg}s localiz$ at~' ;p4
+
+,h9t4 ,let _% a_/b, c_/d `e `;,z;(p) _:4
+,!n _% a_/b+c_/d .k (ad+bc)_/bd _: &
+_% (a_/b)*(c_/d) .k (ac)_/(bd) _: >e bo?
+9 _% `;,z;(p) _:1 s9ce _% gcd (bd, p) .k
+#1 _:4
+
+#cd4 ,prove or 4prove3 ,e f9ite 9tegral
+doma9 is isomorphic to _% `;,z;p _:4
+
+#ce4 ,let ;,r 2 a r+ ) id5t;y4
+a4 ,let ;u 2 a unit 9 ;,r4 ,def9e a map
+_% i;u"1 ,r $o ,r _: by _% r $|33o
+uru~-1 _:4 ,prove t _% i;u _: is an
+automorphism ( ;,r4 ,s* an automorphism
+( ;,r is call$ an 9n} automorphism (
+;,r4 ,d5ote ! set ( all 9n}        #aagf
+automorphisms ( ;,r by _% ,inn(,r) _:4
+;b4 ,d5ote ! set ( all automorphisms (
+;,r by _% ,aut(,r) _:4 ,prove t
+_% ,inn(,r) _: is a normal subgr|p (
+_% ,aut(,r) _:4
+;c4 ,let _% ,u(,r) _: 2 ! gr|p ( units 9
+;,r4 ,prove t ! map
+_%
+
+.f"1 ,u(,r) $o ,inn(,r)
+
+_:
+def9$ by _% u $|33o i;u _: is a
+homomorphism4 ,det}m9e ! k}nel (
+_% .f _:4
+;d4 ,compute _% ,aut(`;,z) _:1
+_% ,inn(`;,z) _:1 & _% ,u(`;,z) _:4
+
+#cf4 ,let ;,r & ;,s 2 >bitr>y r+s4 ,%{ t
+_! ,c>tesian product is a r+ if we def9e
+addi;n & multiplica;n 9 _% ,r`*,s _: by
+a4 _% (r, s)+(r', s~'") .k (r+r',
+s+s~'") _:
+;b4 _% (r, s)(r', s~'") .k (rr',
+ss~'") _:                          #aagg
+#cg4 ,an ele;t ;x 9 a r+ is call$ an
+~1idempot5t if _% x~2 .k x _:4 ,prove t
+! only idempot5ts 9 an 9tegral doma9 >e
+#j & #a4 ,f9d a r+ ) a idempot5t ;x n
+equal to #j or #a4
+
+,h9t4 ,suppose t _% x~2 .k x _: & _% x
+/.k #0 _:4 ,s9ce ;,r is an 9tegral
+doma91 _% x .k #1 _:4 ,to f9d a
+nontrivial idempot5t1 look 9
+_% `;,m2(`;,r) _:4
+
+#ch4 ,let _% gcd (a, n) .k d _: & _% gcd
+(b, d) /.k #1 _:4 ,prove t _% ax _l
+b(m"o"d n) _: does n h a solu;n4
+
+#ci4 "<,! ,*9ese ,rema9d} ,!orem =
+,r+s4"> ,let ;,r 2 a r+ & ,i & ;,j 2
+id1ls 9 ;,r s* t _% ,i+,j .k ,r _:4
+a4 ,%{ t = any ;r & ;s 9 ;,r1 ! sy/em (
+equa;ns
+
+
+
+                                   #aagh
+_%
+
+x _l r (m"o"d ,i)
+x _l s (m"o"d ,j)
+
+_:
+has a solu;n4
+;b4 ,9 addi;n1 prove t any two solu;ns (
+! sy/em >e 3gru5t modulo _% ,i.%,j _:4
+;c4 ,let ,i & ;,j 2 id1ls 9 a r+ ;,r s*
+t _% ,i+,j .k ,r _:4 ,%{ t "! exi/s a r+
+isomorphism
+_%
+
+,r_/(,i.%,j) `:.k ,r_/,i`*,r_/,j
+
+_:4
+
+    #af4h ,programm+ ,ex}cise
+
+#a4 ,write a comput} program imple;t+
+fa/ addi;n & multiplica;n us+ ! ,*9ese
+,rema9d} ,!orem & ! me?od |tl9$ 9 !
+text4
+                                   #aagi
+    #af4i ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,&}son1 ;,f4 ;,w4 & ,full}1 ;,k4
+  ;,r4 .7,r+s & ,categories (
+  ,modules.'4 #bnd $4  ,spr+}1 ,new
+  ,york1 #aiib4
+.<#b.>  ,atiyah1 ;,m4 ;,f4  &
+  ,mac,donald1 ,i4 ;,g4 .7,9troduc;n to
+  ,commutative ,algebra.'4 ,we/view
+  ,press1 ,b|ld}1 ,,co1 #aiid4
+.<#c.>  ,h}/e91 ,i4 ;,n4
+  .1,noncommutative .1,r+s4 ,ma!matical
+  ,associa;n ( ,am}ica1 ,wa%+ton1 ,,dc1
+  #aiid4
+.<#d.>  ,kaplansky1 ,i4 .1,commutative
+  .1,r+s4 ,revis$ $i;n4 ,univ}s;y (
+  ,*icago ,press1 ,*icago1 #aigd4
+.<#e.>  ,knu?1 ;,d4 ;,e4 .7,! ,>t (
+  ,comput} ,programm+3 ,semi-,num}ical
+  ,algori?ms.'1 vol4 #b4 #crd $4
+  ,addison-,wesley ,pr(es.nal1 ,bo/on1
+  #aiig4
+.<#f.>  ,lidl1 ;,r4 & ,pilz1 ;,g4
+  .7,appli$ ,ab/ract ,algebra.'4 #bnd $4
+  ,spr+}1 ,new ,york1 #aiih4 ,a gd s|rce
+  = applica;ns4                    #aahj
+.<#g.>  ,mackiw1 ;,g4 .7,applica;ns (
+  ,ab/ract ,algebra.'4 ,wiley1 ,new
+  ,york1 #aihe4
+.<#h.>  ,mc,coy1  ;,n4 ;,h4 .7,r+s &
+  ,id1ls.'4 ,c>us ,monograph ,s}ies1
+  ,no4 #h4 ,ma!matical ,associa;n (
+  ,am}ica1 ,wa%+ton1 ,,dc1 #aifh4
+.<#i.>  ,mc,coy1  ;,n4 ;,h4 .7,! ,!ory (
+  ,r+s.'4 ,*elsea1 ,new ,york1 #aigb4
+.<#aj.>  ,z>iski1 ,o4 & ,samuel1 ;,p4
+  .1,commutative .1,algebra1 vols4 ,i &
+  ,,ii4 ,spr+}1 ,new ,york1 #aige1
+  #aifj4
+
+    #af4aj ,sage
+  ,r+s >e v important 9 yr /udy (
+ab/ract algebra1 & simil>ly1 !y >e v
+important 9 ! design & use ( ,sage4 ,"!
+is a lot ( mat}ial 9 ? *apt}1 & "! >e _m
+correspond+ comm&s 9 ,sage4
+
+      ,cr1t+ ,r+s
+  ,"h is a li/ ( v>i|s r+s1 doma9s &
+fields y c 3/ruct simply4
+#a4 `#1,9teg}s"<">1 `#1,,zz3 !     #aaha
+9tegral doma9 ( positive & negative
+9teg}s1 _% `;,z _:4
+#b4 `#1,9teg}s"<n">3 ! 9teg}s mod ;n1
+_% `;,z;n _:4 ,a field :5 ;n is prime1 b
+j a r+ = composite ;n4
+#c4 `#1,,qq3 ! field ( ra;nal numb}s1
+_% `;,q _:4
+#d4 `#1,,rr1 `#1,,cc3 ! field ( r1l
+numb}s & ! field ( complex numb}s1
+_% `;,r _:1 _% `;,c _:4 ,x is impossible
+to cr1te .1e r1l numb} 9side a comput}1
+s te*nically ~! sets d n 2have z fields1
+b only give a gd imitia;n ( ! r1l ?+4
+,we say !y >e ~19exact r+s to make ?
+po9t4
+#e4 `#1,quadratic,field"<n">3 ! field
+=m$ by comb9+ ! ra;nals ) a solu;n to !
+polynomial equa;n _% x~2"-n .k #0 _:4 ,!
+nota;n 9 ! text is _% `;,q`(>n}`) _:4 ,a
+func;nal equival5t c 2 made ) ! syntax
+`#1,,qq.<sqrt"<n">.>4 ,note t `#2;n c 2
+negative4
+#f4 `#1,cyclotomic,field"<n">3 ! field
+=m$ by comb9+ ! ra;nals ) ! solu;ns to !
+polynomial equa;n _% x~n"-1 .k     #aahb
+#0 _:4
+#g4 `#1,,qq,'b>3 ! field =m$ by comb9+ !
+ra;nals ) ! solu;ns to .1e polynomial
+equa;n ) 9teg} coe6ici5ts4 ,? is "kn z a
+! field ( algebraic numb}s1 d5ot$ z
+_% `;,q: _:4
+#h4 `#1,f9ite,field"<p">3 = a prime ;p1
+! field ( 9teg}s _% `;,z;p _:4
+  ,if y pr9t a descrip;n ( "s ( ! abv
+r+s1 y w "s"ts see a new symbol
+9troduc$4 ,3sid} ! foll{+ example3
+
+`#7;,f "7 ,quadratic,field"<#g">`#'
+`#2;,f
+-----------------
+`#7,numb} ,field 9 a ) def9+ polynomial
+x`5#b - #g`#'
+`#7) a "7 #b4fdegeacaa4448`#'
+
+
+`#7root "7 ,f4g5"<#j">`#'
+`#1root`5#b
+-----------------
+`#2#g
+                                   #aahc
+`#1root
+-----------------
+`#2a
+
+
+`#1"<#b"9root">`5#c
+-----------------
+`#1#ef"9a
+
+  ,"h `#1,numb} `#1,field describes an
+object g5}ally =m$ by comb9+ ! ra;nals )
+ano!r numb} "<"h _% >7} _:">4 8a0 is a
+new symbol : 2haves z a root ( !
+polynomial _% x~2"-7 _:4 ,we d n say :
+root1 _% >7} _: or _% ->7} _:1 & z we
+"u/& ! !ory bett} we w see t ? does n
+r1lly matt}4
+  ,we c obta9 ? root z a g5}ator ( !
+numb} field1 & !n manipulate x4 ,f/
+squ>+ `#1root yields #g4 ,notice t
+`#1root pr9ts z `#2a4 ,notice1 too1 t
+computa;ns ) `#1root 2have z if x 0 .1ei
+root ( _% x~2"-7 _:1 & results pr9t us+
+`#2a4
+  ,? c get a bit 3fus+1 9put+      #aahd
+computa;ns ) `#1root & gett+ |tput 9
+t}ms ( `#2a4 ,=tunately1 "! is a bett}
+way4 ,3sid} ! foll{+ example3
+
+`#7,f4`<b`> "7 ,quadratic,field"<#g">`#'
+`#2;,f
+-----------------
+`#7,numb} ,field 9 ;b ) def9+ polynomial
+x`5#b - #g`#'
+`#7) ;b "7 #b4fdegeacaa4448`#'
+
+
+`#1b`5#b
+-----------------
+`#2#g
+
+
+`#1"<#b"9b">`5#c
+-----------------
+`#1#ef"9b
+
+  ,) ! syntax `#1,f4`<b`> we c cr1te !
+field `#2;,f al;g ) specify+ a g5}ator
+`#2;b us+ a "n ( |r *oos+4 ,!n
+computa;ns c use `#2;b 9 bo?       #aahe
+9put & |tput z a root ( _% x~2"-7 _:4
+  ,"h >e ?ree new r+s t >e be/ cr1t$ us+
+? new syntax4
+#a4 `#7,f4`<a`> "7
+,f9ite,field"<p`5n">`#'3 ,we w lat} h a
+!orem t tells u t f9ite fields only exi/
+) ord}s equal to to a p{} ( a prime4 ,:5
+! p{} is l>g} ?an #a1 !n we ne$ a
+g5}ator1 "h giv5 z `#2a4
+#b4 `#1,p4`<x`>"7,r.<.>3 ! r+ ( all
+polynomials 9 ! v>iable `#2;x1 )
+coe6ici5ts f ! r+ `#2;,r4 ,notice t
+`#2;,r c 2 .1any r+1 s ? is a v g5}al
+3/ruc;n t uses "o r+ to =m ano!r4 ,see
+an example 2l4
+#c4 `#7,q4`<r;1s;1t`> "7
+,quat}nion,algebra"<n1 ;m">`#'3 !
+ra;nals comb9$ ) 9det}m9ates `#2;r1
+`#2;s & `#2;t s* t _% r~2 .k n _:1
+_% s~2 .k m _: & _% t .k rs .k -sr _:4
+,? is a g5}aliza;n ( ! quat}nions
+describ$ 9 ? *apt}1 ?|< ov} ! ra;nals r
+?an ! r1ls1 s x is an exact r+4 ,notice
+t ? is "o ( ! few noncommutative r+s 9
+,sage4 ,! 8usual0 quat}nions wd    #aahf
+2 3/ruct$ ) `#7,q4`<,i;1,j;1,k`> "7
+,quat}nion,algebra"<-#a1 -#a">`#'4
+"<,notice t us+ `#2,i "h is n a gd
+*oice1 2c x w !n clo2} ! symbol `#2,i
+us$ = complex numb}s4">
+  ,syntax specify+ "ns = g5}ators c 2
+us$ = _m ( ! abv r+s z well1 s* z
+demon/rat$ abv = quadratic fields & 2l =
+cyclotomic fields4
+
+`#7,c4`<t`> "7
+,cyclotomic,field"<#h">`#'
+`#1,c4r&om.-ele;t"<">
+-----------------
+`#7-#b_/#aa"9t`5#b "6 ;t - #a`#'
+
+
+      ,prop}ties ( ,r+s
+  ,! examples 2l demon/rate h{ to qu}y
+c}ta9 prop}ties ( r+s4 ,if y >e play+
+al;g1 2 sure to execute ! f/ compute
+cell to def9e ! v>i|s r+s 9volv$ 9 !
+examples4
+
+                                   #aahg
+`#7,z#g "7 ,9teg}s"<#g">`#'
+`#7,z#i "7 ,9teg}s"<#i">`#'
+`#7;,q "7 ,quadratic,field"<-#aa">`#'
+`#7,f4`<a`> "7 ,f9ite,field"<#c`5#b">`#'
+`#7,p4`<x`> "7 ,z#g.<.>`#'
+`#7,s4`<f;1g;1h`> "7
+,quat}nion,algebra"<-#g1 #c">`#'
+-----------------
+
+  ,exact v}sus 9exact4
+
+`#1,,qq4is.-exact"<">
+-----------------
+`#1,true
+
+
+`#1,,rr4is.-exact"<">
+-----------------
+`#1,false
+
+  ,f9ite v}sus 9f9ite4
+
+
+
+                                   #aahh
+`#1,z#g4;is.-finite"<">
+-----------------
+`#1,true
+
+
+`#1,z#g4;is.-finite"<">
+-----------------
+`#1,true
+
+  ,9tegral doma98
+
+`#1,z#g4;is.-integral.-domain"<">
+-----------------
+`#1,true
+
+
+`#1,z#i4;is.-integral.-domain"<">
+-----------------
+`#1,false
+
+  ,field8
+
+
+
+                                   #aahi
+`#1,z#i4;is.-field"<">
+-----------------
+`#1,false
+
+
+`#1,f4is.-field"<">
+-----------------
+`#1,true
+
+
+`#1,q4is.-field"<">
+-----------------
+`#1,true
+
+  ,commutative8
+
+`#1,q4is.-commutative"<">
+-----------------
+`#1,true
+
+
+`#1,s4is.-commutative"<">
+-----------------
+`#1,false
+                                   #aaij
+  ,"*i/ic4
+
+`#1,z#g4;characteristic"<">
+-----------------
+`#2#g
+
+
+`#1,z#i4;characteristic"<">
+-----------------
+`#2#i
+
+
+`#1,q4"*i/ic"<">
+-----------------
+`#2#j
+
+
+`#1,f4"*i/ic"<">
+-----------------
+`#2#c
+
+
+
+
+                                   #aaia
+`#1,p4"*i/ic"<">
+-----------------
+`#2#g
+
+
+`#1,s4"*i/ic"<">
+-----------------
+`#2#j
+
+  ,additive & multiplicative id5tities
+.1pr9t l y wd expect1 b notice t :ile !y
+may .1pr9t id5tically1 !y cd 2 .1di6}5t
+2c ( ! r+ !y live in4
+
+`#7;b "7 ,z#i4zero"<">2 ;b`#'
+-----------------
+`#2#j
+
+
+`#1b4p>5t"<">
+-----------------
+`#7,r+ ( 9teg}s modulo #i`#'
+
+
+                                   #aaib
+`#7;c "7 ,q4z}o"<">2 ;c`#'
+-----------------
+`#2#j
+
+
+`#1c4p>5t"<">
+-----------------
+`#7,numb} ,field 9 a ) def9+ polynomial
+x`5#b "6 #aa`#'
+`#7) a "7 #c4caffbdgij4448"9,i`#'
+
+
+`#7;b "7"7 ;c`#'
+-----------------
+`#1,false
+
+
+`#7;d "7 ,z#i4one"<">2 ;d`#'
+-----------------
+`#2#a
+
+
+
+
+                                   #aaic
+`#1d4p>5t"<">
+-----------------
+`#7,r+ ( 9teg}s modulo #i`#'
+
+
+`#7;e "7 ,q4"o"<">2 ;e`#'
+-----------------
+`#2#a
+
+
+`#1e4p>5t"<">
+-----------------
+`#7,numb} ,field 9 a ) def9+ polynomial
+x`5#b "6 #aa`#'
+`#7) a "7 #c4caffbdgij4448"9,i`#'
+
+
+`#7;d "7"7 ;e`#'
+-----------------
+`#1,false
+
+  ,"! is "s support = subr+s4 ,=
+example1 `#2;,q & `#2;,s >e ext5.ns ( !
+ra;nals1 :ile `#2;,f is totally 4t9ct f
+! ra;nals4                         #aaid
+`#1,,qq4is.-subr+"<,q">
+-----------------
+`#1,true
+
+
+`#1,,qq4is.-subr+"<,s">
+-----------------
+`#1,true
+
+
+`#1,,qq4is.-subr+"<,f">
+-----------------
+`#1,false
+
+  ,n e ele;t ( a r+ may h a
+multiplicative 9v}se1 9 o!r ~ws1 n e
+ele;t has to 2 a unit "<un.s ! r+ is a
+field">4 ,x wd n{ 2 gd practice to *eck
+if an ele;t is a unit 2f y try comput+
+xs 9v}se4
+
+
+
+
+                                   #aaie
+`#7?ree "7 ,z#i"<#c">`#'
+`#1?ree4is.-unit"<">
+-----------------
+`#1,false
+
+
+`#1?ree"9?ree
+-----------------
+`#2#j
+
+
+`#7f|r "7 ,z#i"<#d">`#'
+`#1f|r4is.-unit"<">
+-----------------
+`#1,true
+
+
+`#7;g "7 f|r`5-#a2 ;g`#'
+-----------------
+`#2#g
+
+
+
+
+                                   #aaif
+`#1f|r"9g
+-----------------
+`#2#a
+
+
+      ,quoti5t ,/ructure
+  ,id1ls >e ! normal subgr|ps ( r+s &
+all{ u to build 8quoti5ts0 ,- basically
+new r+s def9$ on equival;e classes (
+ele;ts ( ! orig9al r+4 ,sage support =
+id1ls is v>iable4 ,:5 !y c 2 cr1t$1 "!
+is n alw a lot y c d ) !m4 ,b !y "w well
+9 c}ta9 v important cases4
+  ,! 9teg}s1 _% `;,z _:1 h id1ls t >e j
+multiples ( a s+le 9teg}4 ,we c cr1te !m
+) ! `#1;4id1l"<"> me?od or j by wrt+ a
+scal> multiple ( `#1,,zz4 ,& !n !
+quoti5t is isomorphic to a well-"u/ood
+r+4 "<,notice t `#2,i is a bad "n = an
+id1l if we want to "w ) complex numb}s
+lat}4">
+
+
+
+                                   #aaig
+`#7,i#a "7 ,,zz4id1l"<#d">`#'
+`#7,i#b "7 #d"9,,zz`#'
+`#7,i#c "7 "<-#d">"9,,zz`#'
+`#7,i#a "7"7 ,i#b`#'
+-----------------
+`#1,true
+
+
+`#7,i#b "7"7 ,i#c`#'
+-----------------
+`#1,true
+
+
+`#7;,q "7 ,,zz4quoti5t"<,i#a">2 ;,q`#'
+-----------------
+`#7,r+ ( 9teg}s modulo #d`#'
+
+
+`#7;,q "7"7 ,9teg}s"<#d">`#'
+-----------------
+`#1,true
+
+  ,we mi<t normally 2 m c>e;l ab ! la/
+/ate;t4 ,! quoti5t is a set ( equival;e
+classes1 ea* 9f9ite1 & c}ta9ly n   #aaih
+a s+le 9teg}4 ,b ! quoti5t is
+.1isomorphic to _% `;,z4 _:1 s ,sage j
+makes ? id5tifica;n4
+
+`#7,z#g "7 ,9teg}s"<#g">`#'
+`#7,p4`<y`> "7 ,z#g.<.>`#'
+`#7;,m "7 ,p4id1l"<y`5#b"6#d">`#'
+`#7;,q "7 ,p4quoti5t"<,m">`#'
+`#2;,q
+-----------------
+`#7,univ>iate ,quoti5t ,polynomial ,r+ 9
+yb> ov}`#'
+`#7,r+ ( 9teg}s modulo #g ) modulus
+y`5#b "6 #d`#'
+
+
+`#1,q4r&om.-ele;t"<">
+-----------------
+`#7#b"9ybar "6 #f`#'
+
+
+`#1,q4ord}"<">
+-----------------
+`#1#di
+                                   #aaii
+`#1,q4is.-field"<">
+-----------------
+`#1,true
+
+  ,notice t ! 3/ruc;n ( ! quoti5t r+ has
+cr1t$ a new g5}ator1 3v}t+ `#2;y"<;y">
+to `#1yb> "<_% y: _:">4 ,we c ov}ride ?
+z 2f ) ! syntax demon/rat$ 2l4
+
+`#7,q4`<t`> "7 ,p4quoti5t"<,m">2 ;,q`#'
+-----------------
+`#7,univ>iate ,quoti5t ,polynomial ,r+ 9
+;t ov}`#'
+`#7,r+ ( 9teg}s modulo #g ) modulus
+y`5#b "6 #d`#'
+
+
+`#1,q4r&om.-ele;t"<">
+-----------------
+`#7#d"9t "6 #f`#'
+
+  ,s f a quoti5t ( an 9f9ite r+ & an
+id1l "<: is al a r+">1 we cr1te a field1
+: is f9ite4 ,"u/&+ ? 3/ruc;n w 2 an
+important !me 9 ! next few         #abjj
+*apt}s4 ,to see h{ rem>kable x is1 3sid}
+:at happ5s ) j "o ll *ange4
+
+`#7,z#g "7 ,9teg}s"<#g">`#'
+`#7,p4`<y`> "7 ,z#g.<.>`#'
+`#7;,m "7 ,p4id1l"<y`5#b"6#c">`#'
+`#7,q4`<t`> "7 ,p4quoti5t"<,m">`#'
+`#2;,q
+-----------------
+`#7,univ>iate ,quoti5t ,polynomial ,r+ 9
+;t ov}`#'
+`#7,r+ ( 9teg}s modulo #g ) modulus
+y`5#b "6 #c`#'
+
+
+`#1,q4r&om.-ele;t"<">
+-----------------
+`#7#c"9t "6 #a`#'
+
+
+`#1,q4ord}"<">
+-----------------
+`#1#di
+
+                                   #abja
+`#1,q4is.-field"<">
+-----------------
+`#1,false
+
+  ,"! >e a few me?ods available : w give
+u prop}ties ( id1ls4 ,9 "picul>1 we c
+*eck = prime & maximal id1ls 9 r+s (
+polynomials4 ,exam9e ! results abv & 2l
+9 ! 3text ( ,!orem #af4ce4
+
+`#7,z#g "7 ,9teg}s"<#g">`#'
+`#7,p4`<y`> "7 ,z#g.<.>`#'
+`#7;,m "7 ,p4id1l"<y`5#b"6#d">`#'
+`#7;,n "7 ,p4id1l"<y`5#b"6#c">`#'
+`#1,m4is.-maximal"<">
+-----------------
+`#1,true
+
+
+`#1,n4is.-maximal"<">
+-----------------
+`#1,false
+
+  ,! fact t `#2;,m is a prime id1l is
+v}ifica;n ( ,coroll>y #af4dj4      #abjb
+`#1,m4is.-prime"<">
+-----------------
+`#1,true
+
+
+`#1,n4is.-prime"<">
+-----------------
+`#1,false
+
+
+      ,r+ ,homomorphisms
+  ,:5 ,sage is pres5t$ ) `#7#c "6
+#d_/#c`#'1 h{ does x "k t #c is m1nt to
+2 an 9teg}8 ,& !n to add x to a ra;nal1
+h{ does x "k t we r1lly want to view !
+computa;n z #c_/#a "6 #d_/#c8 ,? is
+r1lly easy = y & me1 b devili%ly h>d = a
+program1 & y c imag9e x gett+ "e m
+complicat$ ) ! _m possible r+s 9 ,sage1
+subr+s1 matrices1 etc4 ,"p ( ! answ} is
+t ,sage uses r+ homomorphisms to
+8translate0 objects "<numb}s"> 2t r+s4
+  ,we w give an example 2l1 b n pursue !
+topic m* fur!r4 ,= ! curi|s1 r1d+ !
+,sage docu;ta;n & exp}i;t+ wd 2    #abjc
+a gd ex}cise4
+
+`#7;,h "7 ,hom"<,,zz1 ,,qq">`#'
+`#7phi "7 ,h"<.<#a.>">`#'
+`#1phi
+-----------------
+`#1,r+ `#1morphism3
+  `#7,f3 ,9teg} ,r+`#'
+  `#7,to3   ,ra;nal ,field`#'
+  `#7,defn3 #a _|--`> #a`#'
+
+
+`#1phi4p>5t"<">
+-----------------
+`#7,set ( ,homomorphisms f ,9teg} ,r+ to
+,ra;nal ,field`#'
+
+
+`#7a "7 #c2 a`#'
+-----------------
+`#2#c
+
+
+
+                                   #abjd
+`#1a4p>5t"<">
+-----------------
+`#1,9teg} `#1,r+
+
+
+`#7;b "7 phi"<#c">2 ;b`#'
+-----------------
+`#2#c
+
+
+`#1b4p>5t"<">
+-----------------
+`#1,ra;nal `#1,field
+
+  ,s `#1phi is a homomorphism
+"<8morphism0"> t 3v}ts 9teg}s "<! doma9
+is `#1,,zz"> 9to ra;nals "<! codoma9 is
+`#1,,qq">1 ~: p>5t is a set (
+homomorphisms t ,sage calls a 8homset40
+,ev5 ?|< `#2a & `#2;b bo? pr9t z `#2#c1
+: is 9di/+ui%able to |r eyes1 ! p>5ts (
+`#2a & `#2;b >e di6}5t4 ,yet ! num}ical
+value ( ! two objects has n *ang$4
+
+                                   #abje
+    #af4aa ,sage ,ex}cises
+
+#a4 ,def9e ! two r+s _% `;,z11 _: &
+_% `;,z12 _: ) ! comm&s `#7;,r "7
+,9teg}s"<#aa">`#' & `#7;,s "7
+,9teg}s"<#ab">`#'4 ,= ea* r+1 use !
+relevant comm& to det}m9e3 if ! r+ is
+f9ite1 if x is commutative1 if x is an
+9tegral doma9 & if x is a field4 ,!n use
+s+le ,sage comm&s to f9d ! ord} ( ! r+1
+li/ ! ele;ts1 & |tput ! multiplicative
+id5t;y "<i4e4 #a1 if x exi/s">4
+
+#b4 ,def9e `#2;,r to 2 ! r+ ( 9teg}s1
+_% `;,z _:1 by execut+ `#7;,r "7 ,,zz`#'
+or `#7;,r "7 ,9teg}s"<">`#'4 ,a comm& l
+`#1,r4id1l"<#d"> w cr1te ! pr9cipal id1l
+_% ..(4..) _:4 ,! same comm& c a3ept m
+?an "o g5}ator1 s = example1
+`#1,r4id1l"<#c1 `#1#e"> w cr1te ! id1l
+_% .(a*3+b*5|a, b `e `;,z.) _:4 ,cr1te
+s"eal id1ls ( _% `;,z _: ) two g5}ators
+& ask ,sage to pr9t ea* z y cr1te x4
+,expla9 :at y obs}ve & !n cr1te code t w
+te/ yr obs}va;n = ?|s&s ( di6}5t   #abjf
+examples4
+
+#c4 ,cr1te a f9ite field ;,f ( ord} #ha
+) `#1,f4`<t`>"7,f9ite,field"<#c`5#d">4
+a4 ,li/ ! ele;ts ( ;,f4
+;b4 ,obta9 ! g5}ators ( ;,f )
+`#1,f4g5s"<">4
+;c4 ,obta9 ! f/ g5}ator ( ;,f & save x z
+`#2;u ) `#7;u "7 ,f4#j`#'"<alt}natively1
+`#7;u "7 ,f4g5"<#j">`#'">4
+;d4 ,compute ! f/ #hj p{}s ( `#2;u &
+com;t4
+;e4 ,! g5}ator y h "w$ ) abv is a root (
+a polynomial ov} _% `;,z3 _:4 ,obta9 ?
+polynomial ) `#1,f4modulus"<"> & use ?
+obs}va;n to expla9 ! 5try 9 yr li/ (
+p{}s t is ! f|r? p{} ( ! g5}ator4
+
+#d4 ,build & analyze a quoti5t r+ z
+foll{s3
+a4 ,use `#1,p4`<z`>"7,9teg}s"<#g">.<.>
+to 3/ruct a r+ ;,p ( polynomials 9 ;z )
+coe6ici5ts f _% `;,z7 _:4
+;b4 ,use `#7;,k "7
+,p4id1l"<z`5#b"6z"6#c">`#' to      #abjg
+build a pr9cipal id1l ;,k g5}at$ by !
+polynomial _% z~2"+z+3 _:4
+;c4 ,use `#7;,h "7 ,p4quoti5t"<,k">`#'
+to build ;,h1 ! quoti5t r+ ( ;,p by ;,k4
+;d4 ,use ,sage to v}ify t ;,h is a
+field4
+;e4 ,z 9 ! previ|s ex}cise1 obta9 a
+g5}ator & exam9e ! prop} collec;n ( p{}s
+( t g5}ator4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #abjh
+

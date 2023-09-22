@@ -1,0 +1,2176 @@
+     #ab ,matrix ,gr|ps & ,symmetry
+
+  ,:5 ,felix ,kle9 "<#ahdi,-#aibe">
+a3ept$ a *air at ! ,univ}s;y ( ,}lang51
+he |tl9$ 9 8 9augural address a program
+to classify di6}5t geometries4 ,c5tral
+to ,kle9's program 0 ! !ory ( gr|ps3 he
+3sid}$ geometry to 2 ! /udy ( prop}ties
+t >e left 9v>iant "u trans=ma;n gr|ps4
+,gr|ps1 especially matrix gr|ps1 h n{
+2come important 9 ! /udy ( symmetry & h
+f.d applica;ns 9 s* 4cipl9es z *emi/ry &
+physics4 ,9 ! f/ "p ( ? *apt}1 we w
+exam9e "s ( ! classical matrix gr|ps1 s*
+z ! g5}al l9e> gr|p1 ! special l9e>
+gr|p1 & ! or?ogonal gr|p4 ,we w !n use
+~! matrix gr|ps to 9ve/igate "s ( ! id1s
+2h geometric symmetry4
+
+    #ab4a ,matrix ,gr|ps
+
+      ,"s ,facts f ,l9e> ,algebra
+  ,2f we /udy matrix gr|ps1 we m/ recall
+"s basic facts f l9e> algebra4 ,"o ( !
+mo/ funda;tal id1s ( l9e> algebra   #haj
+is t ( a l9e> trans=ma;n4 ,a ~1l9e>
+~1trans=ma;n or ~1l9e> ~1map _% ,t"1
+`;,r~n $o `;,r~m _: is a map t pres}ves
+vector addi;n & scal> multiplica;n2 t
+is1 = vectors _% _;x _: & _% _;y _: 9
+_% `;,r~n _: & a scal> _% .a `e `;,r _:1
+_%
+
+,t(_;x+_;y) .k ,t(_;x)+,t(_;y)
+,t(.a_;y)   .k .a,t(_;y)
+
+_:4
+,an _% m`*n _: matrix ) 5tries 9
+_% `;,r _: repres5ts a l9e> trans=ma;n f
+_% `;,r~n _: to _% `;,r~m _:4 ,if we
+write vectors _% _;x .k (x1, ''',
+x;n")~t _: & _% _;y .k (y1, ''',
+y;n")~t _: 9 _% `;,r~n _: z column
+matrices1 !n an _% m`*n _: matrix
+
+
+
+
+
+                                    #haa
+_%
+
+,a .k ,(a11    a12    ''' a;1n",)
+      ,(a21    a22    ''' a;2n",)
+      ,('''    '''    ''' '''  ,)
+      ,(a;m"1" a;m"2" ''' a;mn ,)
+
+_:
+maps ! vectors to _% `;,r~m _: l9e>ly by
+matrix multiplica;n4 ,obs}ve t if
+_% .a _: is a r1l numb}1
+_%
+
+,a(_;x+_;y) .k ,a_;x+,a_;y and .a,a_;x
+.k ,a(.a_;x)
+
+_:1
+":
+
+
+
+
+
+
+                                    #hab
+_%
+
+_;x .k ,(x1 ,)
+       ,(x2 ,)
+       ,(''',)
+       ,(x;n,)
+
+_:4
+,we w (t5 a2reviate ! matrix ,a by writ+
+_% (a;ij") _:4
+  ,3v}sely1 if _% ,t"1 `;,r~n $o
+`;,r~m _: is a l9e> map1 we c associate
+a matrix ,a ) ;,t by 3sid}+ :at ;,t does
+to ! vectors
+_%
+
+_;e1   .k (1, 0, ''', 0)~t"
+_;e2   .k (0, 1, ''', 0)~t"
+'''
+_;e;n" .k (0, 0, ''', 1)~t
+
+_:4
+,we c write any vector _% _;x .k (x1,
+''', x;n")~t _: z
+                                    #hac
+_%
+
+x1_;e1+x2_;e2+''' +x;n"_;e;n
+
+_:4
+,3sequ5tly1 if
+_%
+
+,t(_;e1)   .k (a11, a21, ''', a;m"1")~t,
+,t(_;e2)   .k (a12, a22, ''', a;m"2")~t,
+'''
+,t(_;e;n") .k (a;1n, a;2n, ''', a;mn")~t
+
+_:1
+!n
+
+
+
+
+
+
+
+
+
+                                    #had
+_%
+
+,t(_;x)                                
+                      .k
+,t(x1_;e1+x2_;e2+''' +x;n"_;e;n")
+.k x1,t(_;e1)+x2,t(_;e2)+'''
++x;n",t(_;e;n")
+.k (".,s%k .k #1<n}a;1k"x;k, ''', ".,s%k
+.k #1<n}a;mk"x;k")~t"
+.k ,a_;x
+
+_:4
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hae
+7777777777777777777777777777777777777777
+,example #ab4a
+  ,if we let _% ,t"1 `;,r~2 $o `;,r~2 _:
+2 ! map giv5 by
+_%
+
+,t(x1, x2) .k (2x1+5x2, -4x1+3x2)
+
+_:1
+! axioms t ;,t m/ satisfy to 2 a l9e>
+trans=ma;n >e easily v}ifi$4 ,! column
+vectors _% ,t_;e1 .k (2, -4)~t _: &
+_% ,t_;e2 .k (5, 3)~t _: tell u t ;,t is
+giv5 by ! matrix
+_%
+
+,a .k ,(#2  #5,)
+      ,(-#4 #3,)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,s9ce we >e 9t}e/$ 9 gr|ps ( matrices1
+we ne$ to "k : matrices h multiplicative
+9v}ses4 ,recall t an _% n`*n _:     #haf
+matrix ,a is ~19v}tible exactly :5 "!
+exi/s ano!r matrix _% ,a~-1 _: s* t
+_% ,a,a~-1 .k ,a~-1",a .k ,i _:1 ":
+_%
+
+,i .k ,(#1  #0  ''' #0 ,)
+      ,(#0  #1  ''' #0 ,)
+      ,(''' ''' ''' ''',)
+      ,(#0  #0  ''' #1 ,)
+
+_:
+is ! _% n`*n _: id5t;y matrix4 ,f l9e>
+algebra we "k t ,a is 9v}tible if & only
+if ! det}m9ant ( ,a is nonz}o4 ,"s"ts an
+9v}tible matrix is sd to 2 ~1nons+ul>4
+
+
+
+
+
+
+
+
+
+                                    #hag
+7777777777777777777777777777777777777777
+,example #ab4b
+  ,if ,a is ! matrix
+_%
+
+,(#2 #1,)
+,(#5 #3,)
+
+_:1
+!n ! 9v}se ( ,a is
+_%
+
+,a~-1 .k ,(#3  -#1,)
+         ,(-#5 #2 ,)
+
+_:4
+,we >e gu>ante$  t _% ,a~-1 _: exi/s1
+s9ce _% det (,a) .k #2*3-5*1 .k #1 _: is
+nonz}o4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,"s o!r facts ab det}m9ants w al prove
+use;l 9 ! c|rse ( ? *apt}4 ,let ,a & ;,b
+2 _% n`*n _: matrices4 ,f l9e> algebra
+we h ! foll{+ prop}ties (           #hah
+det}m9ants4
+_4 4 ,! det}m9ant is a homomorphism 9to
+! multiplicative gr|p ( r1l numb}s2 t
+is1 _% det (,a,b) .k (det ,a)(det
+,b) _:4
+_4 4 ,if ,a is an 9v}tible matrix1 !n
+_% det (,a~-1") .k #1_/det ,a _:4
+_4 4 ,if we def9e ! transpose ( a matrix
+_% ,a .k (a;ij") _: to 2 _% ,a~t .k
+(a;ji") _:1 !n _% det (,a~t") .k det
+,a _:4
+_4 4 ,let ;,t 2 ! l9e> trans=ma;n
+associat$ ) an _% n`*n _: matrix ,a4 ,!n
+;,t multiplies volumes by a factor (
+_% |det ,a| _:4 ,9 ! case (
+_% `;,r~2 _:1 ? m1ns t ;,t multiplies
+>1s by _% |det ,a| _:4
+  ,l9e> maps1 matrices1 & det}m9ants >e
+cov}$ 9 any ele;t>y l9e> algebra text2
+h{"e1 if y h n _h a c|rse 9 l9e>
+algebra1 x is a /rai<t=w>d process to
+v}ify ~! prop}ties directly =
+_% #2`*2 _: matrices1 ! case ) : we >e
+mo/ 3c}n$4
+                                    #hai
+      ,! ,g5}al & ,special ,l9e> ,gr|ps
+  ,! set ( all _% n`*n _: 9v}tible
+matrices =ms a gr|p call$ ! ~7g5}al l9e>
+gr|p~'4 ,we w d5ote ? gr|p by
+_% ,g,l;n"(`;,r) _:4 ,! g5}al l9e> gr|p
+has s"eal important subgr|ps4 ,!
+multiplicative prop}ties ( ! det}m9ant
+imply t ! set ( matrices ) det}m9ant "o
+is a subgr|p ( ! g5}al l9e> gr|p4 ,/at$
+ano!r way1 suppose t _% det (,a) .k
+#1 _: & _% det (,b) .k #1 _:4 ,!n _% det
+(,a,b) .k det (,a)det (,b) .k #1 _: &
+_% det (,a~-1") .k #1_/det ,a .k #1 _:4
+,? subgr|p is call$ ! ~7special l9e>
+gr|p~' & is d5ot$ by
+_% ,s,l;n"(`;,r) _:4
+
+7777777777777777777777777777777777777777
+,example #ab4c
+  ,giv5 a _% #2`*2 _: matrix
+
+
+
+
+                                    #hbj
+_%
+
+,a .k ,(a b,)
+      ,(c d,)
+
+_:1
+! det}m9ant ( ,a is _% ad-bc _:4 ,! gr|p
+_% ,g,l2(`;,r) _: 3si/s ( ~? matrices 9
+: _% ad-bc /.k #0 _:4 ,! 9v}se ( ,a is
+_%
+
+,a~-1 .k ?1/ad-bc#,(d  -b,)
+                  ,(-c a ,)
+
+_:4
+,if ,a is 9 _% ,s,l2(`;,r) _:1 !n
+_%
+
+,a~-1 .k ,(d  -b,)
+         ,(-c a ,)
+
+_:4
+,geometrically1 _% ,s,l2(`;,r) _: is !
+gr|p t pres}ves ! >1s ( p>allelograms4
+,let                                #hba
+_%
+
+,a .k ,(#1 #1,)
+      ,(#0 #1,)
+
+_:
+2 9 _% ,s,l2(`;,r) _:4 ,9 ,figure #ab4d1
+! unit squ>e correspond+ to ! vectors
+_% _;x .k (1, 0)~t _: & _% _;y .k (0,
+1)~t _: is tak5  by ,a to ! p>allelogram
+) sides _% (1, 0)~t _: & _% (1, 1)~t _:2
+t is1 _% ,a_;x .k (1, 0)~t _: & _% ,a_;y
+.k (1, 1)~t _:4 ,notice t ~! two
+p>allelograms h ! same >ea4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+      ,figure #ab4d4 _% ,s,l2(`;,r) _:
+    act+ on ! unit squ>e
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+       `.<,image3 matrix-sl#br-a4 ,a
+     squ>e on set ( axes ) ! left $ge a
+     vector f ! orig9 to "<#j1a">   #hbb
+     & bottom $ge a vector f ! orig9 to
+     "<#a1j">4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hbc
+       `.<,replace ? page ) ,image3
+     matrix-sl#br-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hbd
+       `.<panel3 #b_/#b`.>
+       `.<,image3 matrix-sl#br-;b4 ,a
+     p>allelogram on set ( axes ) ! left
+     $ge a vector f ! orig9 to "<#a1a">
+     & bottom $ge a vector f ! orig9 to
+     "<#a1j">4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hbe
+       `.<,replace ? page ) ,image3
+     matrix-sl#br-b4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hbf
+       `.<side-by-side3 5d`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,! ,or?ogonal ,gr|p _% ,o(n) _:
+  ,ano!r subgr|p ( _% ,g,l;n"(`;,r) _:
+is ! or?ogonal gr|p4 ,a matrix ,a is
+~1or?ogonal if _% ,a~-1 .k ,a~t _:4 ,!
+~1or?ogonal ~1gr|p 3si/s ( ! set ( all
+or?ogonal matrices4 ,we write
+_% ,o(n) _: = ! _% n`*n _: or?ogonal
+gr|p4  ,we l1ve z an ex}cise ! pro( t
+_% ,o(n) _: is a subgr|p (
+_% ,g,l;n"(`;,r) _:4
+
+
+
+
+
+
+
+
+
+
+                                    #hbg
+7777777777777777777777777777777777777777
+,example #ab4e
+  ,! foll{+ matrices >e or?ogonal3
+_%
+
+,(#3_/5 -#4_/5,),  ,(#1_/2  ->3}_/2,),
+,(-#1_/>2} #0       #1_/>2},)
+,(#4_/5 #3_/5 ,)   ,(>3}_/2 #1_/2  ,) 
+,(#1_/>6}  -#2_/>6} #1_/>6},)
+                                      
+,(#1_/>3}  #1_/>3}  #1_/>3},)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,"! is a m geometric way ( view+ !
+gr|p _% ,o(n) _:4 ,! or?ogonal matrices
+>e exactly ~? matrices t pres}ve ! l5g?
+( vectors4 ,we c def9e ! l5g? ( a vector
+us+ ! ~7,euclid1n 9n} product~'1 or
+~1dot ~1product1 ( two vectors4 ,!
+,euclid1n 9n} product ( two vectors
+_% _;x .k (x1, ''', x;n")~t _: & _% _;y
+.k (y1, ''', y;n")~t _: is
+                                    #hbh
+_%
+
+..(_;x, _;y..) .k _;x~t"_;y .k (x1, x2,
+''', x;n"),(y1 ,) .k x1y1+''' +x;n"y;n
+                                       
+         ,(y2 ,)
+                                       
+         ,(''',)
+                                       
+         ,(y;n,)
+
+_:4
+,we def9e ! l5g? ( a vector _% _;x .k
+(x1, ''', x;n")~t _: to 2
+_%
+
+||_;x|| .k >..(_;x, _;x..)} .k >x1~2+'''
++x;n~2"}
+
+_:4
+,associat$ ) ! no;n ( ! l5g? ( a vector
+is ! idea ( ! 4t.e 2t two vectors4 ,we
+def9e ! ~14t.e 2t two vectors _% _;x _:
+& _% _;y _: to 2 _% ||_;x-_;y|| _:4 ,we
+l1ve z an ex}cise ! pro( ( !        #hbi
+foll{+ proposi;n ab ! prop}ties (
+,euclid1n 9n} products4
+
+7777777777777777777777777777777777777777
+,proposi;n #ab4f
+  ,let _% _;x _:1 _% _;y _:1 & _% _;w _:
+2 vectors 9 _% `;,r~n _: & _% .a `e
+`;,r _:4 ,!n
+#a4 _% ..(_;x, _;y..) .k ..(_;y,
+_;x..) _:4
+#b4 _% ..(_;x, _;y+_;w..) .k ..(_;x,
+_;y..)+..(_;x, _;w..) _:4
+#c4 _% ..(.a_;x, _;y..) .k ..(_;x,
+.a_;y..) .k .a..(_;x, _;y..) _:4
+#d4 _% ..(_;x, _;x..) .1: #0 _: )
+equal;y exactly :5 _% _;x .k #0 _:4
+#e4 ,if _% ..(_;x, _;y..) .k #0 _: = all
+_% _;x _: 9 _% `;,r~n _:1 !n _% _;y .k
+#0 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                    #hcj
+7777777777777777777777777777777777777777
+,example #ab4g
+  ,! vector _% _;x .k (3, 4)~t _: has
+l5g? _% >3~2"+4~2"} .k #5 _:4 ,we c al
+see t ! or?ogonal matrix
+_%
+
+,a .k ,(#3_/5 -#4_/5,)
+      ,(#4_/5 #3_/5 ,)
+
+_:
+pres}ves ! l5g? ( ? vector4 ,! vector
+_% ,a_;x .k (-7_/5, 24_/5)~t _: al has
+l5g? #e4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,s9ce _% det (,a,a~t") .k det (,i) .k
+#1 _: & _% det (,a) .k det (,a~t") _:1 !
+det}m9ant ( any or?ogonal matrix is ei
+#a or _% -#1 _:4 ,3sid} ! column vectors
+
+
+
+
+                                    #hca
+_%
+
+_;a;j .k ,(a;1j",)
+         ,(a;2j",)
+         ,('''  ,)
+         ,(a;nj ,)
+
+_:
+( ! or?ogonal matrix _% ,a .k
+(a;ij") _:4 ,s9ce _% ,a,a~t .k ,i _:1
+_% ..(_;a;r, _;a;s"..) .k .d;rs _:1 ":
+_%
+
+.d;rs .k .,(#1 r .k s
+         .,(#0 r /.k s
+
+_:
+is ! ,kroneck} delta4 ,acly1 column
+vectors ( an or?ogonal matrix all h l5g?
+#a2 & ! ,euclid1n 9n} product ( 4t9ct
+column vectors is z}o4 ,any set (
+vectors satisfy+ ~! prop}ties is call$
+an ~1or?onormal ~1set4 ,3v}sely1 giv5 an
+_% n`*n _: matrix ,a ~: columns =m an
+or?onormal set1 x foll{s t          #hcb
+_% ,a~-1 .k ,a~t _:4
+  ,we say t a matrix ,a is
+~14t.e-pres}v+1 ~1l5g?-pres}v+1 or ~19n}
+~1product-pres}v+ :5 _% ||,a_;x-,a_;y||
+.k ||_;x-_;y|| _:1 _% ||,a_;x|| .k
+||_;x|| _:1 or _% ..(,a_;x, ,a_;y..) .k
+..(_;x, _;y..) _:1 respectively4 ,!
+foll{+ !orem1 : "*izes ! or?ogonal gr|p1
+says t ~! no;ns >e ! same4
+
+7777777777777777777777777777777777777777
+,!orem #ab4h
+  ,let ,a 2 an _% n`*n _: matrix4 ,!
+foll{+ /ate;ts >e equival5t4
+#a4 ,! columns ( ! matrix ,a =m an
+or?onormal set4
+#b4 _% ,a~-1 .k ,a~t _:4
+#c4 ,= vectors _% _;x _: & _% _;y _:1
+_% ..(,a_;x, ,a_;y..) .k ..(_;x, _;y..)
+_:4
+#d4 ,= vectors _% _;x _: & _% _;y _:1
+_% ||,a_;x-,a_;y|| .k ||_;x-_;y|| _:4
+#e4 ,= any vector _% _;x _:1
+_% ||,a_;x|| .k ||_;x|| _:4
+                                    #hcc
+,pro(4 ,we h alr %{n "<#a"> & "<#b"> to
+2 equival5t4
+  _% (2) $33oo (3) _:4
+_%
+
+..(,a_;x, ,a_;y..)  .k (,a_;x)~t",a_;y
+.k _;x~t",a~t",a_;y
+.k _;x~t"_;y
+.k ..(_;x, _;y..)
+
+_:4
+  _% (3) $33oo (2) _:4 ,s9ce
+_%
+
+..(_;x, _;x..)           .k ..(,a_;x,
+,a_;x..)
+.k _;x~t",a~t",a_;x
+.k ..(_;x, ,a~t",a_;x..)
+
+_:1
+we "k t _% ..(_;x, (,a~t",a-,i)_;x..) .k
+#0 _: = all _% _;x _:4 ,"!=e1
+_% ,a~t",a-,i .k #0 _: or _% ,a~-1 .k
+,a~t _:4
+  _% (3) $33oo (4) _:4 ,if ,a is    #hcd
+9n} product-pres}v+1 !n ,a is
+4t.e-pres}v+1 s9ce
+_%
+
+||,a_;x-,a_;y||~2"                .k
+||,a(_;x-_;y)||~2"
+.k ..(,a(_;x-_;y), ,a(_;x-_;y)..)
+.k ..(_;x-_;y, _;x-_;y..)
+.k ||_;x-_;y||~2
+
+_:4
+  _% (4) $33oo (5) _:4 ,if ,a is
+4t.e-pres}v+1 !n ,a is l5g?-pres}v+4
+,lett+ _% _;y .k #0 _:1 we h
+_%
+
+||,a_;x|| .k ||,a_;x-,a_;y|| .k
+||_;x-_;y|| .k ||_;x||
+
+_:4
+  _% (5) $33oo (3) _:4 ,we use ! foll{+
+id5t;y to %{ t l5g?-pres}v+ implies 9n}
+product-pres}v+3
+
+                                    #hce
+_%
+
+..(_;x, _;y..) .k
+?1/2#`(||_;x+_;y||~2"-||_;x||~2"-||_;y|-
+|~2"`)
+
+_:4
+,obs}ve t
+_%
+
+..(,a_;x, ,a_;y..)                     
+                .k
+?1/2#`(||,a_;x+,a_;y||~2"-||,a_;x||~2"--
+||,a_;y||~2"`)
+.k
+?1/2#`(||,a(_;x+_;y)||~2"-||,a_;x||~2"--
+||,a_;y||~2"`)
+.k
+?1/2#`(||_;x+_;y||~2"-||_;x||~2"-||_;y|-
+|~2"`)
+.k ..(_;x, _;y..)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+                                    #hcf
+7777777777777777777777777777777777777777
+      ,figure #ab4i4 _% ,o(2) _: act+ on
+    _% `;,r~2 _:
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+       `.<,image3 matrix-o#b-a4 ,two
+     side-by figures4 ,! figure on !
+     left is a set ( axes ) an >r{ po9t+
+     up & "r f ! orig9 to "<a;1b"> & !
+     second >r{ po9t+ d{n & "r f ! orig9
+     to a po9t "<a1 -;b">4 ,! figure on
+     ! "r is a set ( axes ) an >r{ po9t$
+     up & "r f ! orig9 to "<cos9e !ta1
+     s9e !ta"> & an >r{ po9t up & left
+     at a "r angle to ! f/ vector f !
+     orig9 to "<s9e !ta1 m9us cos9e
+     !ta">4`.>
+
+
+
+
+
+
+
+                                    #hcg
+       `.<,replace ? page ) ,image3
+     matrix-o#b-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hch
+       `.<panel3 #b_/#b`.>
+       `.<,image3 matrix-o#b-;b4 ,two
+     side-by figures4 ,! figure on !
+     left is a set ( axes ) an >r{ po9t+
+     up & "r f ! orig9 to "<a;1b"> & !
+     second >r{ po9t+ d{n & "r f ! orig9
+     to a po9t "<a1 -;b">4 ,! figure on
+     ! "r is a set ( axes ) an >r{ po9t$
+     up & "r f ! orig9 to "<cos9e !ta1
+     s9e !ta"> & an >r{ po9t up & left
+     at a "r angle to ! f/ vector f !
+     orig9 to "<s9e !ta1 m9us cos9e
+     !ta">4`.>
+
+
+
+
+
+
+
+
+
+
+
+                                    #hci
+       `.<,replace ? page ) ,image3
+     matrix-o#b-b4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hdj
+       `.<side-by-side3 5d`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ab4aj
+  ,let u exam9e ! or?ogonal gr|p on
+_% `;,r~2 _: a bit m closely4 ,an ele;t
+_% ,a `e ,o(2) _: is det}m9$ by xs ac;n
+on _% _;e1 .k (1, 0)~t _: & _% _;e2 .k
+(0, 1)~t _:4 ,if _% ,a_;e1 .k (a,
+b)~t _:1 !n _% a~2"+b~2 .k #1 _:1 s9ce !
+l5g? ( a vector m/ 2 pres}v$ :5 x is
+multipli$ by ,a4 ,s9ce multiplica;n ( an
+ele;t ( _% ,o(2) _: pres}ves l5g? &
+or?ogonal;y1 _% ,a_;e2 .k +-(-b,
+a)~t _:4 ,if we *oose _% ,a_;e2 .k (-b,
+a)~t _:1 !n
+_%
+
+,a .k ,(a -b,) .k ,(cos .? -sin .?,),
+      ,(b a ,)    ,(sin .? cos .? ,)
+
+_:
+": _% #0 "k: .? "k #2.p _:4 ,!      #hda
+matrix ,a rotates a vector 9
+_% `;,r~2 _: c.t}clockwise ab ! orig9 by
+an angle ( _% .? _: "<,figure #ab4i">4
+  ,if we *oose _% ,a_;e2 .k (b,
+-a)~t _:1 !n we obta9 ! matrix
+_%
+
+,b .k ,(a b ,) .k ,(cos .? sin .? ,)_4
+      ,(b -a,)    ,(sin .? -cos .?,)
+
+_:
+,"h1 _% det ,b .k -#1 _: &
+_%
+
+,b~2 .k ,(#1 #0,)_4
+        ,(#0 #1,)
+
+_:
+,a reflec;n ab ! horizontal axis is giv5
+by ! matrix
+
+
+
+
+                                    #hdb
+_%
+
+,c .k ,(#1 #0 ,),
+      ,(#0 -#1,)
+
+_:
+& _% ,b .k ,a,c _: "<see
+,figure #ab4i">4 ,?us1 a reflec;n ab a
+l9e _% `;l _: is simply a reflec;n ab !
+horizontal axis foll{$ by a rota;n4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,two ( ! o!r matrix or matrix-relat$
+gr|ps t we w 3sid} >e ! special
+or?ogonal gr|p  & ! gr|p ( ,euclid1n
+mo;ns4 ,! ~7special or?ogonal gr|p~'1
+_% ,s,o(n) _:1 is j ! 9t}sec;n (
+_% ,o(n) _: & _% ,s,l;n"(`;,r) _:2 t is1
+~? ele;ts 9 _% ,o(n) _: ) det}m9ant "o4
+,! ~1,euclid1n ~1gr|p1 _% ,e(n) _:1 c 2
+writt5 z ord}$ pairs _% (,a, _;x) _:1 ":
+,a is 9 _% ,o(n) _: & _% _;x _: is 9
+_% `;,r~n _:4 ,we def9e multiplica;n by
+
+                                    #hdc
+_%
+
+(,a, _;x)(,b, _;y) .k (,a,b, ,a_;y+_;x)
+
+_:4
+,! id5t;y ( ! gr|p is _% (,i, _#0) _:2 !
+9v}se ( _% (,a, _;x) _: is _% (,a~-1,
+-,a~-1"_;x) _:4 ,9 ,ex}cise #ab4d4f1 y
+>e ask$ to *eck t _% ,e(n) _: is 9de$ a
+gr|p "u ? op}a;n4
+
+7777777777777777777777777777777777777777
+      ,figure #ab4aa4 ,transla;ns 9
+    _% `;,r~2 _:
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+       `.<,image3
+     matrix-r#b-transla;ns-a4 ,a set (
+     axes ) an >r{ po9t+ up & "r f !
+     orig9 to a po9t x4`.>
+
+
+
+
+                                    #hdd
+       `.<,replace ? page ) ,image3
+     matrix-r#b-transla;ns-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hde
+       `.<panel3 #b_/#b`.>
+       `.<,image3
+     matrix-r#b-transla;ns-;b4 ,a set (
+     axes ) an >r{ ( ! same l5g? & same
+     direc;n z 9 ! previ|s diagram f a
+     po9t to ! "r & abv ! orig9 to a
+     po9t ;x "6 y4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hdf
+       `.<,replace ? page ) ,image3
+     matrix-r#b-transla;ns-b4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hdg
+       `.<side-by-side3 5d`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #ab4b ,symmetry
+  ,an ~1isometry or ~1rigid ~1mo;n 9
+_% `;,r~n _: is a 4t.e-pres}v+ func;n ;f
+f _% `;,r~n _: to _% `;,r~n _:4 ,? m1ns
+t ;f m/ satisfy
+_%
+
+||f(_;x)-f(_;y)|| .k ||_;x-_;y||
+
+_:
+= all _% _;x, _;y `e `;,r~n _:4 ,x is n
+di6icult to %{ t ;f m/ 2 a "o-to-"o map4
+,by ,!orem #ab4h1 any ele;t 9
+_% ,o(n) _: is an isometry on
+_% `;,r~n _:2 h{"e1 _% ,o(n) _: does n
+9clude all possible isometries on
+_% `;,r~n _:4 ,transla;n by a vector
+_% _;x _:1 _% ,t;_;y"(_;x) .k _;x+_;y _:
+is al an isometry "<,figure #ab4aa">2
+h{"e1 ;,t _c 2 9 _% ,o(n) _: s9ce x is n
+a l9e> map4                         #hdh
+  ,we >e mo/ly 9t}e/$ 9 isometries 9
+_% `;,r~2 _:4 ,9 fact1 ! only isometries
+9 _% `;,r~2 _: >e rota;ns & reflec;ns ab
+! orig91 transla;ns1 & comb9a;ns ( !
+two4 ,= example1 a ~1glide ~1reflec;n is
+a transla;n foll{$ by a reflec;n
+"<,figure #ab4ab">4 ,9 _% `;,r~n _: all
+isometries >e giv5 9 ! same mann}4 ,!
+pro( is v easy to g5}alize4
+
+7777777777777777777777777777777777777777
+      ,figure #ab4ab4 ,glide reflec;ns
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+       `.<,image3
+     matrix-glide-reflec;ns-a4 ,a set (
+     axes ) an >r{ po9t+ up & "r f !
+     orig9 to a po9t x4`.>
+
+
+
+
+
+
+                                    #hdi
+       `.<,replace ? page ) ,image3
+     matrix-glide-reflec;ns-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hej
+       `.<panel3 #b_/#b`.>
+       `.<,image3
+     matrix-glide-reflec;ns-;b4 ,a set (
+     axes ) an >r{ ( ! same l5g? b po9t+
+     d{n & "r f a po9t on ! horizontal
+     axis to a po9t ,t"<x">4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hea
+       `.<,replace ? page ) ,image3
+     matrix-glide-reflec;ns-b4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #heb
+       `.<side-by-side3 5d`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ab4ac
+  ,an isometry ;f t fixes ! orig9 9
+_% `;,r~2 _: is a l9e> trans=ma;n4 ,9
+"picul>1 ;f is giv5 by an ele;t 9
+_% ,o(2) _:4
+
+,pro(4 ,let ;f 2 an isometry 9
+_% `;,r~2 _: fix+ ! orig94 ,we w f/ %{ t
+;f pres}ves 9n} products4 ,s9ce _% f(0)
+.k #0 _:1 _% ||f(_;x)|| .k ||_;x|| _:2
+"!=e1
+
+
+
+
+
+
+
+
+                                    #hec
+_%
+
+||_;x||~2"-2..(f(_;x),
+f(_;y)..)+||_;y||~2" .k
+||f(_;x)||~2"-2..(f(_;x),
+f(_;y)..)+||f(_;y)||~2"
+.k ..(f(_;x)-f(_;y), f(_;x)-f(_;y)..)
+.k ||f(_;x)-f(_;y)||~2"
+.k ||_;x-_;y||~2"
+.k ..(_;x-_;y, _;x-_;y..)
+.k ||_;x||~2"-2..(_;x, _;y..)+||_;y||~2
+
+_:4
+,3sequ5tly1
+_%
+
+..(f(_;x), f(_;y)..) .k ..(_;x, _;y..)
+
+_:4
+,n{ let _% _;e1 _: & _% _;e2 _: 2 _% (1,
+0)~t _: & _% (0, 1)~t _:1 respectively4
+,if
+
+
+                                    #hed
+_%
+
+_;x .k (x1, x2) .k x1_;e1+x2_;e2
+
+_:1
+!n
+_%
+
+f(_;x) .k ..(f(_;x),
+f(_;e1)..)f(_;e1)+..(f(_;x),
+f(_;e2)..)f(_;e2) .k x1f(_;e1)+x2f(_;e2)
+
+_:4
+,! l9e>;y ( ;f easily foll{s4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,= any >bitr>y isometry1 ;f1
+_% ,t;_;x"f _: w fix ! orig9 = "s vector
+_% _;x _: 9 _% `;,r~2 _:2 h;e1
+_% ,t;_;x"f(_;y) .k ,a_;y _: = "s matrix
+_% ,a `e ,o(2) _:4 ,3sequ5tly1 _% f(_;y)
+.k ,a_;y+_;x _:4 ,giv5 ! isometries
+
+
+                                    #hee
+_%
+
+f(_;y) .k ,a_;y+_;x1
+g(_;y) .k ,b_;y+_;x2
+
+_:1
+_! composi;n is
+_%
+
+f(g(_;y)) .k f(,b_;y+_;x2) .k
+,a,b_;y+,a_;x2+_;x1
+
+_:4
+,? la/ computa;n all{s u to id5tify !
+gr|p ( isometries on _% `;,r~2 _: )
+_% ,e(2) _:4
+
+7777777777777777777777777777777777777777
+,!orem #ab4ad
+  ,! gr|p ( isometries on _% `;,r~2 _:
+is ! ,euclid1n gr|p1 _% ,e(2) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a ~1symmetry ~1gr|p 9 _% `;,r~n _: is
+a subgr|p ( ! gr|p ( isometries     #hef
+on _% `;,r~n _: t fixes a set ( po9ts
+_% ,x _"k `;,r~n _:4 ,x is important to
+r1lize t ! symmetry gr|p ( ;,x dep5ds
+.1bo? on _% `;,r~n _: & on ;,x4 ,=
+example1 ! symmetry gr|p ( ! orig9 9
+_% `;,r~1 _: is _% `;,z2 _:1 b !
+symmetry gr|p ( ! orig9 9 _% `;,r~2 _:
+is _% ,o(2) _:4
+
+7777777777777777777777777777777777777777
+,!orem #ab4ae
+  ,! only f9ite symmetry gr|ps 9
+_% `;,r~2 _: >e _% `;,z;n _: &
+_% ,d;n _:4
+
+,pro(4 ,we simply ne$ to f9d all ( !
+f9ite subgr|ps ;,g ( _% ,e(2) _:4 ,any
+f9ite symmetry gr|p ;,g 9 _% `;,r~2 _:
+m/ fix ! orig9  & m/ 2 a f9ite subgr|p (
+_% ,o(2) _:1 s9ce transla;ns & glide
+reflec;ns h 9f9ite ord}4 ,by
+,example #ab4aj1 ele;ts 9 _% ,o(2) _: >e
+ei rota;ns ( ! =m
+
+                                    #heg
+_%
+
+,r;.? .k ,(cos .? -sin .?,)
+         ,(sin .? cos .? ,)
+
+_:
+or reflec;ns ( ! =m
+_%
+
+,t;.f .k ,(cos .f -sin .f,),(#1 #0 ,) .k
+,(cos .f sin .f ,)
+         ,(sin .f cos .f ,),(#0 -#1,)  
+,(sin .f -cos .f,)
+
+_:4
+,notice t _% det (,r;.?") .k #1 _:1
+_% det (,t;.f") .k -#1 _:1 & _% ,t;.f~2
+.k ,i _:4 ,we c divide ! pro( up 9to two
+cases4 ,9 ! f/ case1 all ( ! ele;ts 9
+;,g h det}m9ant "o4 ,9 ! second case1 "!
+exi/s at l1/ "o ele;t 9 ;,g ) det}m9ant
+_% -#1 _:4
+  ,case #a4 ,! det}m9ant ( e ele;t 9 ;,g
+is "o4 ,9 ? case e ele;t 9 ;,g m/ 2 a
+rota;n4 ,s9ce ;,g is f9ite1 "! is   #heh
+a smalle/ angle1 say _% .?0 _:1 s* t !
+correspond+ ele;t _% ,r;.?0 _: is !
+smalle/ rota;n 9 ! positive direc;n4 ,we
+claim t _% ,r;.?0 _: g5}ates ;,g4 ,if n1
+!n = "s positive 9teg} ;n "! is an angle
+_% .?1 _: 2t _% n.?0 _: &
+_% (n+1).?0 _:4 ,if s1 !n
+_% (n+1).?0-.?1 _: corresponds to a
+rota;n small} ?an _% .?0 _:1 : 3tradicts
+! m9imal;y ( _% .?0 _:4
+  ,case #b4 ,! gr|p ;,g 3ta9s a reflec;n
+;,t4 ,! k}nel ( ! homomorphism _% .f"1
+,g $o .(-1, 1.) _: giv5 by _% ,a $|33o
+det (,a) _: 3si/s ( ele;ts ~: det}m9ant
+is #a4 ,"!=e1 _% |,g_/ker .f| .k #2 _:4
+,we "k t ! k}nel is cyclic by ! f/ case
+& is a subgr|p ( ;,g (1 say1 ord} ;n4
+,h;e1 _% |,g| .k #2n _:4 ,! ele;ts ( ;,g
+>e
+_%
+
+,r;.?, ''', ,r;.?~n-1, ,t,r;.?, ''',
+,t,r;.?~n-1
+
+_:4                                 #hei
+,~! ele;ts satisfy ! rela;n
+_%
+
+,t,r;.?",t .k ,r;.?~-1
+
+_:4
+,3sequ5tly1 ;,g m/ 2 isomorphic to
+_% ,d;n _: 9 ? case4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,! ,wallpap} ,gr|ps
+  ,suppose t we wi% to /udy wallpap}
+patt}ns 9 ! plane or cry/als 9 ?ree
+dim5.ns4 ,wallpap} patt}ns >e simply
+rep1t+ patt}ns 9 ! plane
+"<,figure #ab4af">4 ,! analogs (
+wallpap} patt}ns 9 _% `;,r~3 _: >e
+cry/als1 : we c ?9k ( z rep1t+ patt}ns (
+molecules 9 ?ree dim5.ns
+"<,figure #ab4ag">4 ,! ma!matical
+equival5t ( a wallpap} or cry/al patt}n
+is call$ a lattice4
+
+                                    #hfj
+7777777777777777777777777777777777777777
+      ,figure #ab4af4 ,a wallpap} patt}n
+    9 _% `;,r~2 _:
+       `.<,a wallpap} ( *evrons ) ! top
+     r{ ( *evrons po9t+ d{nw>d1 ! second
+     r{ ( *evrons po9t+ upw>ds1 & s
+     on4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hfa
+       `.<,replace ? page ) ,figure
+     #ab4af4 ,a wallpap} patt}n 9
+     _% `;,r~2 _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hfb
+7777777777777777777777777777777777777777
+      ,figure #ab4ag4 ,a cry/al /ructure
+    9 _% `;,r~3 _:
+       `.<,a ?ree-dim5.nal lattice (
+     cubes t >e slant$ to ! "r4  ,!
+     v}tices >e hi<li<t$ ) small fill$
+     circles4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hfc
+       `.<,replace ? page ) ,figure
+     #ab4ag4 ,a cry/al /ructure 9
+     _% `;,r~3 _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hfd
+  ,let u exam9e wallpap} patt}ns 9 !
+plane a ll m closely4 ,suppose t
+_% _;x _: & _% _;y _: >e l9e>ly 9dep5d5t
+vectors 9 _% `;,r~2 _:2 t is1 "o vector
+_c 2 a scal> multiple ( ! o!r4 ,a
+~1lattice ( _% _;x _: & _% _;y _: is !
+set ( all l9e> comb9a;ns
+_% m_;x+n_;y _:1 ": ;m & ;n >e 9teg}s4
+,! vectors _% _;x _: & _% _;y _: >e sd
+to 2 a ~1basis = ! lattice4
+  ,notice t a lattice c h s"eal bases4
+,= example1 ! vectors _% (1, 1)~t _: &
+_% (2, 0)~t _: h !  same lattice z !
+vectors _% (-1, 1)~t _: & _% (-1,
+-1)~t _: "<,figure #ab4ah">4 ,h{"e1 any
+lattice is completely det}m9$ by a
+basis4 ,giv5 two bases = ! same lattice1
+say _% .(_;x1, _;x2.) _: & _% .(_;y1,
+_;y2.) _:1 we c write
+_%
+
+_;y1 .k .a1_;x1+.a2_;x2
+_;y2 .k .b1_;x1+.b2_;x2
+
+_:1                                 #hfe
+": _% .a1 _:1 _% .a2 _:1 _% .b1 _:1 &
+_% .b2 _: >e 9teg}s4 ,! matrix
+correspond+ to ? trans=ma;n is
+_%
+
+,u .k ,(.a1 .a2,)
+      ,(.b1 .b2,)
+
+_:4
+,if we wi% to give _% _;x1 _: &
+_% _;x2 _: 9 t}ms ( _% _;y1 _: &
+_% _;y2 _:1 we ne$ only calculate
+_% ,u~-1 _:2 t is1
+_%
+
+,u~-1"(_;y1%_;y2) .k (_;x1%_;x2)
+
+_:4
+,s9ce ;,u has 9teg} 5tries1 _% ,u~-1 _:
+m/ al h 9teg} 5tries2 h;e ! det}m9ants (
+bo? ;,u & _% ,u~-1 _: m/ 2 9teg}s4 ,2c
+_% ,u,u~-1 .k ,i _:1
+
+
+                                    #hff
+_%
+
+det (,u,u~-1") .k det (,u)det (,u~-1")
+.k #1_2
+
+_:
+3sequ5tly1 _% det (,u) .k +-1 _:4 ,a
+matrix ) det}m9ant _% +-1 _: & 9teg}
+5tries is call$ ~1unimodul>4 ,= example1
+! matrix
+_%
+
+,(#3 #1,)
+,(#5 #2,)
+
+_:
+is unimodul>4 ,x %d 2 cle> t "! is a
+m9imum l5g? = vectors 9 a lattice4
+
+
+
+
+
+
+                                    #hfg
+7777777777777777777777777777777777777777
+      ,figure #ab4ah4 ,a lattice 9 
+    _% `;,r~2 _:
+       `.<,a lattice ( p>allelograms
+     slant$ to ! "r4  ,"! >e f|r >r{s1
+     ea* 2g9n+ 9 ! c5t} at ! orig9 &
+     po9t+ to ! "r to "<#b1j">1 po9t+ up
+     & "r to "<#a1a">1 po9t+ up & left
+     to "< m9us "o1 "o">1 & po9t+ d{n &
+     left to "<m9us "o1 m9us "o">4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hfh
+       `.<,replace ? page ) ,figure
+     #ab4ah4 ,a lattice 9  _% `;,r~2 _:
+     `.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hfi
+  ,we c classify lattices by /udy+ _!
+symmetry gr|ps4 ,! symmetry gr|p ( a
+lattice is ! subgr|p ( _% ,e(2) _: t
+maps ! lattice to xf4 ,we 3sid} two
+lattices 9 _% `;,r~2 _: to 2 equival5t
+if !y h ! same symmetry gr|p4 ,simil>ly1
+classifica;n ( cry/als 9 _% `;,r~3 _: is
+a3ompli%$ by associat+ a symmetry gr|p1
+call$ a ~1space ~1gr|p1 ) ea* type (
+cry/al4 ,two lattices >e 3sid}$ di6}5t
+if _! space gr|ps >e n ! same4 ,!
+natural "q t n{ >ises is h{ _m space
+gr|ps exi/4
+  ,a space gr|p is compos$ ( two "ps3 a
+~1transla;n ~1subgr|p & a ~1po9t4 ,!
+transla;n subgr|p is an 9f9ite abelian
+subgr|p ( ! space gr|p made up ( !
+transla;nal symmetries ( ! cry/al2 !
+po9t gr|p is a f9ite gr|p 3si/+ (
+rota;ns & reflec;ns ( ! cry/al ab a
+po9t4 ,m specifically1 a space gr|p is a
+subgr|p ( _% ,g _"k ,e(2) _: ~:
+transla;ns >e a set ( ! =m _% .((,i,
+t)_3t `e ,l.) _:1 ": ;,l is a lattice4
+,space gr|ps >e1 ( c|rse1 9f9ite4   #hgj
+,us+ geometric >gu;ts1 we c prove !
+foll{+ !orem "<see .<#e.> or .<#f.>">4
+
+7777777777777777777777777777777777777777
+,!orem #ab4ai
+  ,e transla;n gr|p 9 _% `;,r~2 _: is
+isomorphic to _% `;,z`*`;,z _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! po9t gr|p ( ;,g is _% ,g0 .k
+.(,a_3(,a, b) `e ,g for some b.) _:4 ,9
+"picul>1 _% ,g0 _: m/ 2 a subgr|p (
+_% ,o(2) _:4 ,suppose t _% _;x _: is a
+vector 9 a lattice ;,l ) space gr|p ;,g1
+transla;n gr|p ;,h1 & po9t gr|p
+_% ,g0 _:4 ,= any ele;t _% (,a, _;y) _:
+9 ;,g1
+_%
+
+(,a, _;y)(,i, _;x)(,a, _;y)~-1"      .k
+(,a, ,a_;x+_;y)(,a~-1, -,a~-1"_;y)
+.k (,a,a~-1, -,a,a~-1"_;y+,a_;x+_;y)
+.k (,i, ,a_;x)_2
+
+_:                                  #hga
+h;e1 _% (,i, ,a_;x) _: is 9 ! transla;n
+gr|p ( ;,g4 ,m specifically1 _% ,a_;x _:
+m/ 2 9 ! lattice ;,l4 ,x is important to
+note t _% ,g0 _: is n usually a subgr|p
+( ! space gr|p ;,g2 h{"e1 if ;,t is !
+transla;n subgr|p ( ;,g1 !n _% ,g_/,t
+`:.k ,g0 _:4 ,! pro( ( ! foll{+ !orem c
+2 f.d 9 .<#b.>1 .<#e.>1 or .<#f.>4
+
+7777777777777777777777777777777777777777
+,!orem #ab4bj
+  ,! po9t gr|p 9 ! wallpap} gr|ps is
+isomorphic to _% `;,z;n _: or
+_% ,d;n _:1 ": _% n .k #1, #2, #3, #4,
+#6 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,to answ} ! "q ( h{ ! po9t gr|ps & !
+transla;n gr|ps c 2 comb9$1 we m/ look
+at ! di6}5t types ( lattices4 ,lattices
+c 2 classifi$ by ! /ructure ( a s+le
+lattice cell4 ,! possible cell %apes >e
+p>allelogram1 rectangul>1 squ>e1
+rhombic1 & hexagonal "<,figure #ab4ba">4
+,! wallpap} gr|ps c n{ 2            #hgb
+classifi$ ac to ! types ( reflec;ns t
+o3ur 9 ea* gr|p3 ~! >e ord9>ily
+reflec;ns1 glide reflec;ns1 bo?1 or n"o4
+
+7777777777777777777777777777777777777777
+      ,figure #ab4ba4 ,types ( lattices
+    9  _% `;,r~2 _:
+       `.<,"! >e two r{s ( figures4  ,!
+     left top figure is a lattice (
+     squ>es1 ! middle top figure is a
+     lattice ( rectangles t >e n squ>es1
+     ! "r top figure is  a lattice (
+     rhombuses slant$ to ! left4 ,!
+     bottom left figure is a lattice (
+     p>allelograms t >e n rhombuses
+     slant$ to ! left4  ,! bottom "r
+     figure is a lattice ( equilat}al
+     triangles1 six ( : make up a regul>
+     hexagon4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                    #hgc
+       `.<,replace ? page ) ,figure
+     #ab4ba4 ,types ( lattices 9 
+     _% `;,r~2 _:`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hgd
+7777777777777777777777777777777777777777
+      ,table #ab4bb4 ,! #ag wallpap}
+    gr|ps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hge
+  ,nota;n &3 ;2 ;2 ,reflec;ns or
+  ,space ,gr|ps3 ,po9t ,gr|p2 ,lattice
+  ,type2 ,glide ,reflec;ns8
+  p#a3 _% `;,z1 _:;2 p>allelogram2 n"o
+  p#b3 _% `;,z2 _:;2 p>allelogram2 n"o
+  p#c3 _% `;,z3 _:;2 hexagonal2 n"o
+  p#d3 _% `;,z4 _:;2 squ>e2 n"o
+  p#f3 _% `;,z6 _:;2 hexagonal2 n"o
+  pm3 _% ,d1 _:;2 rectangul>2 reflec;ns
+  pg3 _% ,d1 _:;2 rectangul>2 glide
+  reflec;ns
+  cm3 _% ,d1 _:;2 rhombic2 bo?
+  pmm3 _% ,d2 _:;2 rectangul>2 reflec;ns
+  pmg3 _% ,d2 _:;2 rectangul>2 glide
+  reflec;ns
+  pgg3 _% ,d2 _:;2 rectangul>2 bo?
+  c#bmm3 _% ,d2 _:;2 rhombic2 bo?
+  p#cm#a1 p#cam3 _% ,d3 _:;2 hexagonal2
+  bo?
+  p#dm1 p#d;g3 _% ,d4 _:;2 squ>e2 bo?
+  p#fm3 _% ,d6 _:;2 hexagonal2 bo?
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                    #hgf
+7777777777777777777777777777777777777777
+,!orem #ab4bc
+  ,"! >e exactly #ag wallpap} gr|ps4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+      ,figure #ab4bd4 ,! wallpap} gr|ps
+    p#dm & p#d;g
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+       `.<,image3 matrix-p#dm-p#d;g-a4
+     ,a squ>e on set ( axes ) ! left $ge
+     a vector f ! orig9 to "<#j1a"> &
+     bottom $ge a vector f ! orig9 to
+     "<#a1j">4`.>
+
+
+
+
+
+
+
+
+                                    #hgg
+       `.<,replace ? page ) ,image3
+     matrix-p#dm-p#d;g-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hgh
+       `.<panel3 #b_/#b`.>
+       `.<,image3 matrix-p#dm-p#d;g-;b4
+     ,a p>allelogram on set ( axes ) !
+     left $ge a vector f ! orig9 to
+     "<#a1a"> & bottom $ge a vector f !
+     orig9 to "<#a1j">4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hgi
+       `.<,replace ? page ) ,image3
+     matrix-p#dm-p#d;g-b4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hhj
+       `.<side-by-side3 5d`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! #ag wallpap} gr|ps >e li/$ 9
+,table #ab4bb4 ,! gr|ps p#cm#a & p#cam c
+2 4t+ui%$ by :e!r or n all ( _! ?reefold
+c5t}s lie on ! reflec;n axes3 ~? (
+p#cm#a m/1 ":as ~? ( p#cam may n4
+,simil>ly1 ! f|rfold c5t}s ( p#dm m/ lie
+on ! reflec;n axes ":as ~? ( p#d;g ne$ n
+"<,figure #ab4bd">4 ,! complete pro( ( ?
+!orem c 2 f.d 9 s"eal ( ! ref};es at !
+5d ( ? *apt}1 9clud+ .<#e.>1 .<#f.>1
+.<#aj.>1 & .<#aa.>4
+
+      ,hi/orical ,note
+  ,symmetry gr|ps h 9trigu$ ma!maticians
+= a l;g "t4 ,leon>do da ,v9ci 0 probably
+! f/ p}son to "k all ( ! po9t gr|ps4 ,at
+! ,9t}na;nal ,3gress ( ,ma!maticians 9
+#aijj1 ,david ,hilb}t gave a n{-fam|s
+address |tl9+ #bc problems to guide
+ma!matics 9 ! tw5tie? c5tury4 ,hilb}t's
+ei<te5? problem ask$ :e!r or n
+cry/allographic gr|ps 9 ;n          #hha
+dim5.ns 7 alw f9ite4 ,9 #aiaj1 ;,l4
+,bieb}ba* prov$ t cry/allographic gr|ps
+>e f9ite 9 e dim5.n4 ,f9d+ | h{ _m ( ~!
+gr|ps "! >e 9 ea* dim5.n is ano!r matt}4
+,9 _% `;,r~3 _: "! >e #bcj di6}5t space
+gr|ps2 9 _% `;,r~4 _: "! >e #dghc4 ,no
+"o has be5 able to compute ! numb} (
+space gr|ps = _% `;,r~5 _: & 2y4 ,x is
+9t}e/+ to note t ! cry/allographic gr|ps
+7 f.d ma!matically = _% `;,r~3 _: 2f !
+#bcj di6}5t types ( cry/als 7 actually
+4cov}$ 9 nature4
+
+    #ab4c ,r1d+ ,"qs
+
+#a4 ,:at is a nons+ul> matrix8 ,give an
+example ( a _% #2`*2 _: nons+ul> matrix4
+,h{ d y "k yr example is nons+ul>8
+
+#b4 ,:at is an isometry 9 _% `;,r~n _:;8
+,c y give an example ( an isometry 9
+_% `;,r~2 _:;8
+
+#c4 ,:at is an or?onormal set ( vectors8
+                                    #hhb
+#d4 ,:at is ! di6};e 2t ! or?ogonal gr|p
+& ! special or?ogonal gr|p8
+
+#e4 ,:at is a lattice8
+
+    #ab4d ,ex}cises
+
+#a4 ,prove ! id5t;y
+_%
+
+..(_;x, _;y..) .k
+?1/2#`(||_;x+_;y||~2"-||_;x||~2"-||_;y|-
+|~2"`)
+
+_:4
+
+
+
+
+
+
+
+
+
+                                    #hhc
+_%
+
+?1/2#`(||_;x+_;y||~2"+||_;x||~2"-||_;y|-
+|~2"`)                       .k
+?1/2#`(..(x+y,
+x+y..)-||_;x||~2"-||_;y||~2"`)
+.k ?1/2#`(||_;x||~2"+2..(x,
+y..)+||_;y||~2"-||_;x||~2"-||_;y||~2"`)
+.k ..(_;x, _;y..)
+
+_:4
+
+#b4 ,%{ t _% ,o(n) _: is a gr|p4
+
+#c4 ,prove t ! foll{+ matrices >e
+or?ogonal4 ,>e any ( ~! matrices 9
+_% ,s,o(n) _:;8
+_%
+
+,(#1_/>2} -#1_/>2},)
+,(#1_/>2} #1_/>2} ,)
+
+_:
+
+                                    #hhd
+_%
+
+,(#1_/>5}  #2_/>5},)
+,(-#2_/>5} #1_/>5},)
+
+_:
+_%
+
+,(#4_/5  #0  #3_/5,)
+,(-#3_/5 #0  #4_/5,)
+,(#0     -#1 #0   ,)
+
+_:
+_%
+
+,(#1_/3  #2_/3 -#2_/3,)
+,(-#2_/3 #2_/3 #1_/3 ,)
+,(#2_/3  #1_/3 #2_/3 ,)
+
+_:
+
+,h9t4 "<a"> is 9 _% ,s,o(2) _:2 "<;c">
+is n 9 _% ,o(3) _:4
+
+#d4 ,det}m9e ! symmetry gr|p (      #hhe
+ea* ( ! figures 2l4
+       `.<,image3
+     ex}cise-symmetry-gr|ps4 ,"! >e two
+     figures 9 ! top r{ & "o figure on
+     bottom4  ,! top left figure1 a1  is
+     a rectangle4  ,9side ! rectangle is
+     an oval 9 ! l{} left & a solid
+     circle 9 ! upp} "r4  ,! top "r
+     figure1 ;c1 is "! 9t}sect+ circles
+     ( ! same radii4  ,! bottom middle
+     figure1 ;b1 is a l>ge squ>e ) ! two
+     diagonals4  ,! midpo9ts ( ! l>ge
+     squ>e >e ! v}tices ( a small}
+     9scrib$ squ>e4`.>
+
+
+
+
+
+
+
+
+
+
+                                    #hhf
+       `.<,replace ? page ) ,image3
+     ex}cise-symmetry-gr|ps4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hhg
+#e4 ,let _% _;x _:1 _% _;y _:1 &
+_% _;w _: 2 vectors 9 _% `;,r~n _: &
+_% .a `e `;,r _:4 ,prove ea* ( ! foll{+
+prop}ties ( 9n} products4
+a4 _% ..(_;x, _;y..) .k ..(_;y,
+_;x..) _:4
+;b4 _% ..(_;x, _;y+_;w..) .k ..(_;x,
+_;y..)+..(_;x, _;w..) _:4
+;c4 _% ..(.a_;x, _;y..) .k ..(_;x,
+.a_;y..) .k .a..(_;x, _;y..) _:4
+;d4 _% ..(_;x, _;x..) .1: #0 _: )
+equal;y exactly :5 _% _;x .k #0 _:4
+;e4 ,if _% ..(_;x, _;y..) .k #0 _: = all
+_% _;x _: 9 _% `;,r~n _:1 !n _% _;y .k
+#0 _:4
+
+,h9t4 "<a"> _% ..(_;x, _;y..) .k ..(_;y,
+_;x..) _:4
+
+#f4 ,v}ify t
+
+
+
+
+                                    #hhh
+_%
+
+,e(n) .k .((,a, _;x)_3,a `e ,o(n) and
+_;x `e `;,r~n".)
+
+_:
+is a gr|p4
+
+#g4 ,prove t _% .((2, 1), (1, 1).) _: &
+_% .((12, 5), (7, 3).) _: >e bases = !
+same lattice4
+
+,h9t4 ,use ! unimodul> matrix
+_%
+
+,(#5 #2,)
+,(#2 #1,)
+
+_:4
+
+#h4 ,let ;,g 2 a subgr|p ( _% ,e(2) _: &
+suppose t ;,t is ! transla;n subgr|p (
+;,g4 ,prove t ! po9t gr|p ( ;,g is
+isomorphic to _% ,g_/,t _:4
+                                    #hhi
+#i4 ,let _% ,a `e ,s,l2(`;,r) _: &
+suppose t ! vectors _% _;x _: &
+_% _;y _: =m two sides ( a p>allelogram
+9 _% `;,r~2 _:4 ,prove t ! >ea ( ?
+p>allelogram is ! same z ! >ea ( !
+p>allelogram ) sides _% ,a_;x _: &
+_% ,a_;y _:4
+
+#aj4 ,prove t _% ,s,o(n) _: is a normal
+subgr|p ( _% ,o(n) _:4
+
+,h9t4 ,%{ t ! k}nel ( ! map _% det"1
+,o(n) $o `;,r~`# _: is _% ,s,o(n) _:4
+
+#aa4 ,%{ t any isometry ;f 9
+_% `;,r~n _: is a "o-to-"o map4
+
+#ab4 ,prove or 4prove3 an ele;t 9
+_% ,e(2) _: ( ! =m _% (,a, _;x) _:1 ":
+_% _;x /.k #0 _:1 has 9f9ite ord}4
+
+#ac4 ,prove or 4prove3 ,"! exi/s an
+9f9ite abelian subgr|p ( _% ,o(n) _:4
+
+,h9t4 ,true4                        #hij
+#ad4 ,let _% _;x .k (x1, x2) _: 2 a po9t
+on ! unit circle 9 _% `;,r~2 _:2 t is1
+_% x1~2"+x2~2 .k #1 _:4 ,if _% ,a `e
+,o(2) _:1 %{ t _% ,a_;x _: is al a po9t
+on ! unit circle4
+
+#ae4 ,let ;,g 2 a gr|p ) a subgr|p ;,h
+"<n necess>ily normal"> & a normal
+subgr|p ;,n4 ,!n ;,g is a ~1semidirect
+~1product ( ;,n by ;,h if
+_4 4 _% ,h.%,n .k .(id.) _:2
+_4 4 _% ,h,n .k ,g _:4
+,%{ t ea* ( ! foll{+ is true4
+a4 _% ,s3 _: is ! semidirect product (
+_% ,a3 _: by _% ,h .k .((1), (#1
+#2).) _:4
+;b4 ,! quat}nion gr|p1 _% ,q8 _:1 _c 2
+writt5 z a semidirect product4
+;c4 _% ,e(2) _: is ! semidirect product
+( _% ,o(2) _: by ;,h1 ": ;,h 3si/s ( all
+transla;ns 9 _% `;,r~2 _:4
+
+#af4 ,det}m9e : ( ! #ag wallpap} gr|ps
+pres}ves ! symmetry ( ! patt}n 9
+,figure #ab4af4                     #hia
+#ag4 ,det}m9e : ( ! #ag wallpap} gr|ps
+pres}ves ! symmetry ( ! patt}n 9
+,figure #ab4be4
+
+,h9t4 _% p"6m _:
+
+7777777777777777777777777777777777777777
+      ,figure #ab4be4 ,lattice =
+    ,ex}cise #ab4d4ag
+       `.<,a lattices ( hexagons4  ,ea*
+     hexagon is divid$ 9to ?ree
+     rhombuses4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                    #hib
+       `.<,replace ? page ) ,figure
+     #ab4be4 ,lattice =
+     ,ex}cise #ab4d4ag`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hic
+#ah4 ,f9d ! rota;n gr|p ( a dodecah$ron4
+
+#ai4 ,= ea* ( ! #ag wallpap} gr|ps1 draw
+a wallpap} patt}n hav+ t gr|p z a
+symmetry gr|p4
+
+    #ab4e ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,coxet}1 ;,h4 ;,m4 & ,mos}1
+  ;,,,w4 o4 ;j4,' .7,g5}ators & ,rela;ns
+  = ,4crete ,gr|ps.'1 #crd $4
+  ,spr+}-,v}lag1 ,new ,york1 #aigb4
+.<#b.>  ,grove1 ;,l4 ;,c4 & ,b5son1 ;,c4
+  ;,t4 .7,f9ite ,reflec;n ,gr|ps.'4 #bnd
+  $4 ,spr+}-,v}lag1 ,new ,york1 #aihe4
+.<#c.>  ,hill}1 ;,h4 8,cry/allography &
+  ,cohomology ( ,gr|ps10 .7,am}ican
+  ,ma!matical ,mon?ly.' ~1#ic "<#aihf">1
+  #gfe,-#gi4
+.<#d.>  ,lockwood1 ;,e4 ;,h4 &
+  ,macmillan1 ;,r4 ;,h4 .1,geometric
+  .1,symmetry4 ,cambridge ,univ}s;y
+  ,press1 ,cambridge1 #aigh4
+.<#e.>  ,mackiw1 ;,g4 .7,applica;ns (
+  ,ab/ract ,algebra.'4 ,wiley1 ,new
+  ,york1 #aihe4                     #hid
+.<#f.>  ,m>t91  ;,g4 .7,trans=ma;n
+  ,gr|ps3  ,an ,9troduc;n to ,symmetry.'
+  4  ,spr+}-,v}lag1 ,new ,york1 #aihb4
+.<#g.>  ,milnor1 ;,j4 8,hilb}t's
+  ,problem #ah3 ,on ,cry/allographic
+  ,gr|ps1 ,funda;tal ,doma9s1 & ,sp"h
+  ,pack+10 .7;t ,proce$+s ( ,symposia 9
+  ,pure ,ma!matics.' ~1#ah1 ,am}ican
+  ,ma!matical ,society1 #aigf4
+.<#h.>  ,phillips1 ;,f4 ;,c4 .7,an
+  ,9troduc;n to ,cry/allography.'4 #dth
+  $4 ,wiley1 ,new ,york1 #aiga4
+.<#i.>  ,rose1 ;,b4 ,i4 & ,/af=d1 ;,r4
+  ;,d4 8,an ,ele;t>y ,c|rse 9
+  ,ma!matical ,symmetry10 .7,am}ican
+  ,ma!matical ,mon?ly.' ~1#hh "<#aihj">1
+  #ed,-#fd4
+.<#aj.>  ,s*atts*neid}1 ;,d4 8,! ,plane
+  ,symmetry ,gr|ps3 ,_! ,recogni;n & ,_!
+  ,nota;n10 .7,am}ican ,ma!matical
+  ,mon?ly.' ~1#he "<#aigh">1 #dci,-#ej4
+.<#aa.>  ,s*w>z5b}g}1 ;,r4 ;,l4 8,! #ag
+  ,plane ,symmetry ,gr|ps10
+  .1,ma!matical .1,gazette ~1#eh
+  "<#aigd">1 #abc,-#ca4             #hie
+.<#ab.>  ,weyl1 ;,h4 .1,symmetry4
+  ,pr9ceton ,univ}s;y ,press1 ,pr9ceton1
+  ,,nj1 #aieb4
+
+    #ab4f ,sage
+  ,"! is no ,sage mat}ial = ? *apt}4
+
+    #ab4g ,sage ,ex}cises
+  ,"! >e no ,sage ex}cises = ? *apt}4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #hif
+

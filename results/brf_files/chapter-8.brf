@@ -1,0 +1,2776 @@
+       #h ,algebraic ,cod+ ,!ory
+
+  ,cod+ !ory is an applica;n ( algebra t
+has 2come 9cr1s+ly important ov} ! la/
+s"eal decades4 ,:5 we transmit data1 we
+>e 3c}n$ ab s5d+ a message ov} a *annel
+t cd 2 a6ect$ by 8noise40 ,we wi% to 2
+able to 5code & decode ! 9=ma;n 9 a
+mann} t w all{ ! detec;n1 & possibly !
+correc;n1 ( }rors caus$ by noise4 ,?
+situa;n >ises 9 _m >1s ( communica;ns1
+9clud+ radio1 teleph"o1 televi.n1
+comput} communica;ns1 & digital m$ia
+te*nology4 ,probabil;y1 comb9atorics1
+gr|p !ory1 l9e> algebra1 & polynomial
+r+s ov} f9ite fields all play important
+roles 9 cod+ !ory4
+
+    #h4a ,}ror-,detect+ & ,correct+
+    ,codes
+  ,let u exam9e a simple model ( a
+communica;ns sy/em = transmitt+ & rcvg
+cod$ messages "<,figure #h4a">4
+
+                                    #ebf
+7777777777777777777777777777777777777777
+      ,figure #h4a4 ,5cod+ & decod+
+    messages
+       `.<,a v}tical fl{ *>t ": an
+     ;m-digit message is pass$ to an
+     5cod} : is repres5t$ by a rectangle
+     to 2come an ;n-digit code~w : is
+     pass$ to a transmitt} t is al
+     repres5t$ by a rectangle4  ,!
+     |tcome ( ! transmitt} may h noise &
+     is pass$ to ! rcvr : is prepres5t$
+     by a rectangle4  ,! rcvr passes an
+     ;n-digit rcvd ~w to a decod} t is
+     repres5t$ by a rectangle4  ,!
+     decod} produces an ;m-digit rcvd ~w
+     or an }ror4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+                                    #ebg
+       `.<,replace ? page ) ,figure
+     #h4a4 ,5cod+ & decod+ messages`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ebh
+  ,uncod$ messages may 2 compos$ ( lrs
+or "*s1 b typically !y 3si/ ( b9>y
+;m-tuples4 ,~! messages >e 5cod$ 9to
+code~ws1 3si/+ ( b9>y ;n-tuples1 by a
+device call$ an ~15cod}4 ,! message is
+transmitt$ & !n decod$4 ,we w 3sid} !
+o3urr;e ( }rors dur+ transmis.n4 ,an
+~1}ror o3urs if "! is a *ange 9 "o or m
+bits 9 ! code~w4 ,a ~1decod+ ~1s*eme is
+a me?od t ei 3v}ts an >bitr>ily rcvd
+;n-tuple 9to a m1n+;l decod$ message or
+gives an }ror message = t ;n-tuple4 ,if
+! rcvd message is a code~w "<"o ( !
+special ;n-tuples all{$ to 2
+transmitt$">1 !n ! decod$ message m/ 2 !
+unique message t 0 5cod$ 9to ! code~w4
+,= rcvd non-code~ws1 ! decod+ s*eme w
+give an }ror 9dica;n1 or1 if we >e m
+cl"e1 w actually try to correct ! }ror &
+recon/ruct ! orig9al message4 ,|r goal
+is to transmit }ror-free messages z
+*1ply & qkly z possible4
+
+7777777777777777777777777777777777777777
+,example #h4b                       #ebi
+  ,"o possible cod+ s*eme wd 2 to s5d a
+message s"eal "ts & to comp>e ! rcvd
+copies ) "o ano!r4 ,suppose t ! message
+to 2 5cod$ is a b9>y ;n-tuple _% (x1,
+x2, ''', x;n") _:4 ,! message is 5cod$
+9to a b9>y _% #3n _:-tuple by simply
+rep1t+ ! message ?ree "ts3
+_%
+
+(x1, x2, ''', x;n") $|33o (x1, x2, ''',
+x;n, x1, x2, ''', x;n, x1, x2, ''',
+x;n")
+
+_:4
+,to decode ! message1 we *oose z ! i?
+digit ! "o t appe>s 9 ! i? place 9 at
+l1/ two ( ! ?ree transmis.ns4 ,=
+example1 if ! orig9al message is
+_% (0110) _:1 !n ! transmitt$ message w
+2 _% (#0110 #0110 #0110) _:4 ,if "! is a
+transmis.n }ror 9 ! fif? digit1 !n !
+rcvd code~w w 2 _% (#0110 #1110
+#0110) _:1 : w 2 correctly decod$ z
+_% (0110) _:4;9#aa  ,? triple-repeti;n
+me?od w automatically detect &      #ecj
+correct all s+le }rors1 b x is sl{ &
+9e6ici5t3 to s5d a message 3si/+ ( ;n
+bits1 _% #2n _: extra bits >e requir$1 &
+we c only detect & correct s+le }rors4
+,we w see t x is possible to f9d an
+5cod+ s*eme t w 5code a message ( ;n
+bits 9to ;m bits ) ;m m* small} ?an
+_% #3n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #h4c
+  ~1,ev5 ~1p>;y1 a commonly us$ cod+
+s*eme1 is m* m e6ici5t ?an ! simple
+repeti;n s*eme4 ,! ,,ascii "<,am}ican
+,/&>d ,code = ,9=ma;n ,9t}*ange"> cod+
+sy/em uses b9>y #h-tuples1 yield+
+_% #2~8 .k #256 _: possible #h-tuples4
+,h{"e1 only sev5 bits >e ne$$ s9ce "! >e
+only _% #2~7 .k #128 _: ,,ascii "*s4
+,:at c or %d 2 d"o ) ! extra bit8 ,us+ !
+full ei<t bits1 we c detect s+le
+transmis.n }rors4 ,= example1 ! ,,ascii
+codes = ,a1 ;,b1 & ;,c >e           #eca
+_%
+
+,a .k #65;10 .k #01000001;2,
+,b .k #66;10 .k #01000010;2,
+,c .k #67;10 .k #01000011;2
+
+_:4
+,notice t ! leftmo/ bit is alw set to
+#j2 t is1 ! #abh ,,ascii "*s h codes
+_%
+
+#00000000;2" .k #0;10,
+'''
+#01111111;2" .k #127;10
+
+_:4
+,! bit c 2 us$ = }ror *eck+ on ! o!r
+sev5 bits4 ,x is set to ei #j or #a s t
+! total numb} ( #a bits 9 ! repres5ta;n
+( a "* is ev54 ,us+ ev5 p>;y1 ! codes =
+,a1 ;,b1 & ;,c n{ 2come
+
+
+
+                                    #ecb
+_%
+
+,a .k #01000001;2,
+,b .k #01000010;2,
+,c .k #11000011;2
+
+_:4
+,suppose an ,a is s5t & a transmis.n
+}ror 9 ! six? bit is caus$ by noise ov}
+! communica;n *annel s t  _% (#0100
+#0101) _: is rcvd4 ,we "k an }ror has
+o3urr$ s9ce ! rcvd ~w has an odd numb} (
+#as1 & we c n{ reque/ t ! code~w 2
+transmitt$ ag4 ,:5 us$ = }ror *eck+1 !
+leftmo/ bit is call$ a ~7p>;y *eck bit~'
+4
+  ,by f> ! mo/ common }ror-detect+ codes
+us$ 9 comput}s >e bas$ on ! addi;n ( a
+p>;y bit4 ,typically1 a comput} /ores
+9=ma;n 9 ;m-tuples call$ ~1~ws4 ,common
+~w l5g?s >e #h1 #af1 & #cb bits4 ,"o bit
+9 ! ~w is set aside z ! p>;y *eck bit1 &
+is n us$ to /ore 9=ma;n4 ,? bit is set
+to ei #j or #a1 dep5d+ on ! numb} ( #as
+9 ! ~w4                             #ecc
+  ,add+ a p>;y *eck bit all{s ! detec;n
+( all s+le }rors 2c *ang+ a s+le bit ei
+9cr1ses or decr1ses ! numb} ( #as by "o1
+& 9 ei case ! p>;y has be5 *ang$ f ev5
+to odd1 s ! new ~w is n a code~w4 "<,we
+cd al 3/ruct an }ror detec;n s*eme bas$
+on ~1odd ~1p>;y;2 t is1 we cd set ! p>;y
+*eck bit s t a code~w alw has an odd
+numb} ( #as4">
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! ev5 p>;y sy/em is easy to imple;t1
+b has two drawbacks4 ,f/1 multiple }rors
+>e n detectable4 ,suppose an ,a is s5t &
+! f/ & sev5? bits >e *ang$ f #j to #a4
+,! rcvd ~w is a code~w1 b w 2 decod$ 9to
+a ;,c 9/1d ( an ,a4 ,second1 we d n h !
+abil;y to correct }rors4 ,if ! #h-tuple
+_% (#1001 #1000) _: is rcvd1 we "k t an
+}ror has o3urr$1 b we h no idea : bit
+has be5 *ang$4 ,we w n{ 9ve/igate a cod+
+s*eme t w n only all{ u to detect
+transmis.n }rors b w actually correct !
+}rors4
+                                    #ecd
+7777777777777777777777777777777777777777
+,example #h4d
+  ,suppose t |r orig9al message is ei a
+#j or a #a1 & t #j 5codes to _% (000) _:
+& #a 5codes to _% (111) _:4 ,if only a
+s+le }ror o3urs dur+ transmis.n1 we c
+detect & correct ! }ror4 ,= example1 if
+a _% (101) _: is rcvd1 !n ! second bit
+m/ h be5 *ang$ f a #a to a #j4 ,!
+orig9ally transmitt$ code~w m/ h be5
+_% (111) _:4 ,? me?od w detect & correct
+all s+le }rors4
+
+7777777777777777777777777777777777777777
+      ,table #h4e4 ,a repeti;n code
+
+  ,transmitt$3 ,rcvd ,~w2222222
+  ,code~w3 #jjj2 #jja2 #jaj2 #jaa2 #ajj2
+  #aja2 #aaj2 #aaa
+  #jjj3 #j2 #a2 #a2 #b2 #a2 #b2 #b2 #c
+  #aaa3 #c2 #b2 #b2 #a2 #b2 #a2 #a2 #j
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,9 ,table #h4e1 we pres5t all possible
+~ws t mi<t 2 rcvd = ! transmitt$    #ece
+code~ws _% (000) _: & _% (111) _:4
+,table #h4e al %{s ! numb} ( bits by :
+ea* rcvd #c-tuple di6}s f ea* orig9al
+code~w4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,maximum-,likelihood ,decod+
+  ,! cod+ s*eme pres5t$ 9 ,example #h4d
+is n a complete solu;n to ! problem 2c x
+does n a3.t = ! possibil;y ( multiple
+}rors4 ,= example1 ei a "<#jjj"> or a
+"<#aaa"> cd 2 s5t & a "<#jja"> rcvd4 ,we
+h no m1ns ( decid+ f ! rcvd ~w :e!r "! 0
+a s+le }ror 9 ! ?ird bit or two }rors1
+"o 9 ! f/ bit & "o 9 ! second4 ,no matt}
+:at cod+ s*eme is us$1 an 9correct
+message cd 2 rcvd4 ,we cd transmit a
+"<#jjj">1 h }rors 9 all ?ree bits1 & rcv
+! code~w "<#aaa">4 ,x is important to
+make explicit assump;ns ab ! likelihood
+& 4tribu;n ( transmis.n }rors s t1 9 a
+"picul> applica;n1 x w 2 "kn :e!r a giv5
+}ror detec;n s*eme is appropriate4 ,we w
+assume t transmis.n }rors >e r>e1   #ecf
+&1 t :5 !y d o3ur1 !y o3ur 9dep5d5tly 9
+ea* bit2 t is1 if ;p is ! probabil;y (
+an }ror 9 "o bit & ;q is ! probabil;y (
+an }ror 9 a di6}5t bit1 !n ! probabil;y
+( }rors o3urr+ 9 bo? ( ~! bits at ! same
+"t is _% pq _:4 ,we w al assume t a rcvd
+;n-tuple is decod$ 9to a code~w t is
+close/ to x2 t is1 we assume t ! rcvr
+uses ~1maximum-likelihood ~1decod+4;9#ab
+
+7777777777777777777777777777777777777777
+      ,figure #h4f4 ,b9>y symmetric
+    *annel
+       `.<,a s*ematic diagram ": a z}o
+     has probabilty ;p t x w 2 decod$ z
+     a z}o & probabil;y ;q t x w 2
+     decod$ z a "o1 : >e repres5t$ by
+     >r{s f #j to #j & #a to #a1
+     respectively4  ,a "o has probabilty
+     ;p t x w 2 decod$ z a "o &
+     probabil;y ;q t x w 2 decod$ z a
+     z}o1 : >e repres5t$ by >r{s f #a to
+     #a & #j to #a1 respectively4`.>
+gggggggggggggggggggggggggggggggggggggggg
+                                    #ecg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ech
+       `.<,replace ? page ) ,figure
+     #h4f4 ,b9>y symmetric *annel`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #eci
+  ,a ~7b9>y symmetric *annel~' is a
+model t 3si/s ( a transmitt} capable (
+s5d+ a b9>y signal1 ei a #j or a #a1 tgr
+) a rcvr4 ,let ;p 2 ! probabil;y t !
+signal is correctly rcvd4 ,!n _% q .k
+#1-p _: is ! probabil;y ( an 9correct
+recep;n4 ,if a #a is s5t1 !n !
+probabil;y t a #a is rcvd is ;p & !
+probabil;y t a #j is rcvd is ;q
+"<,figure #h4f">4 ,! probabil;y t no
+}rors o3ur dur+ ! transmis.n ( a b9>y
+code~w ( l5g? ;n is _% p~n _:4 ,=
+example1 if _% p .k #0.999 _: & a
+message 3si/+ ( #aj1jjj bits is s5t1 !n
+! probabil;y ( a p}fect transmis.n is
+_%
+
+(0.999)~10, 000 `:`: #0.00005
+
+_:4
+
+7777777777777777777777777777777777777777
+,!orem #h4g
+  ,if a b9>y ;n-tuple _% (x1, ''',
+x;n") _: is transmitt$ acr a b9>y   #edj
+symmetric *annel ) probabil;y ;p t no
+}ror w o3ur 9 ea* coord9ate1 !n !
+probabil;y t "! >e }rors 9 exactly ;k
+coord9ates is
+_%
+
+(n%k)q~k"p~n-k
+
+_:4
+
+,pro(4 ,fix ;k di6}5t coord9ates4 ,we f/
+compute ! probabil;y t an }ror has
+o3urr$ 9 ? fix$ set ( coord9ates4 ,!
+probabil;y ( an }ror o3urr+ 9 a "picul>
+"o ( ~! ;k coord9ates is ;q2 !
+probabil;y t an }ror w n o3ur 9 any ( !
+rema9+ _% n-k _: coord9ates is ;p4 ,!
+probabil;y ( ea* ( ~! ;n 9dep5d5t ev5ts
+is _% q~k"p~n-k _:4 ,! numb} ( possible
+}ror patt}ns ) exactly ;k }rors o3urr+
+is equal to
+
+
+
+                                    #eda
+_%
+
+(n%k) .k ?n& /k& (n-k)&#
+
+_:1
+! numb} ( comb9a;ns ( ;n ?+s tak5 ;k at
+a "t4 ,ea* ( ~! }ror patt}ns has
+probabil;y _% q~k"p~n-k _: ( o3urr+2
+h;e1 ! probabil;y ( all ( ~! }ror
+patt}ns is
+_%
+
+(n%k)q~k"p~n-k
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #h4h
+  ,suppose t _% p .k #0.995 _: & a
+#ejj-bit message is s5t4 ,! probabil;y t
+! message 0 s5t }ror-free is
+
+                                    #edb
+_%
+
+p~n .k (0.995)~500 `:`: #0.082
+
+_:4
+,! probabil;y ( exactly "o }ror o3urr+
+is
+_%
+
+(n%#1)qp~n-1 .k #500(0.005)(0.995)~499
+`:`: #0.204
+
+_:4
+,! probabil;y ( exactly two }rors is
+_%
+
+(n%#2)q~2"p~n-2 .k
+?500*499/2#(0.005)~2"(0.995)~498 `:`:
+#0.257
+
+_:4
+,! probabil;y ( m ?an two }rors is
+approximately
+
+                                    #edc
+_%
+
+#1-0.082-0.204-0.257 .k #0.457
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,block ,codes
+  ,if we >e to develop e6ici5t
+}ror-detect+ & }ror-correct+ codes1 we w
+ne$ m sophi/icat$ ma!matical tools4
+,gr|p !ory  w all{ fa/} me?ods ( 5cod+ &
+decod+ messages4 ,a code is an _% (n,
+m) _:-~1block ~1code if ! 9=ma;n t is to
+2 cod$ c 2 divid$ 9to blocks ( ;m b9>y
+digits1 ea* ( : c 2 5cod$ 9to ;n b9>y
+digits4 ,m specifically1 an _% (n, m) _:
+-block code 3si/s ( an ~15cod+ ~1func;n
+_%
+
+,e"1 `;,z2~m $o `;,z2~n
+
+_:
+& a ~1decod+ ~1func;n               #edd
+_%
+
+,d"1 `;,z2~n $o `;,z2~m
+
+_:4
+,a ~1code~w is any ele;t 9 ! image (
+;,e4 ,we al require t ;,e 2 "o-to-"o s t
+two 9=ma;n blocks w n 2 5cod$ 9to ! same
+code~w4 ,if |r code is to 2
+}ror-correct+1 !n ;,d m/ 2 onto4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ede
+7777777777777777777777777777777777777777
+,example #h4i
+  ,! ev5-p>;y cod+ sy/em develop$ to
+detect s+le }rors 9 ,,ascii "*s is an
+_% (8, 7) _:-block code4 ,! 5cod+ func;n
+is
+_%
+
+,e(x7, x6, ''', x1) .k (x8, x7, ''', x1)
+
+_:1
+": _% x8 .k x7+x6+''' +x1 _: ) addi;n 9
+_% `;,z2 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let _% _;x .k (x1, ''', x;n") _: &
+_% _;y .k (y1, ''', y;n") _: 2 b9>y
+;n-tuples4 ,! ~1,hamm+ ~14t.e or ~14t.e1
+_% d(_;x, _;y) _:1 2t _% _;x _: &
+_% _;y _: is ! numb} ( bits 9 :
+_% _;x _: & _% _;y _: di6}4 ,! 4t.e 2t
+two code~ws is ! m9imum numb} (
+transmis.n }rors requir$ to *ange "o
+code~w 9to ! o!r4 ,! ~1m9imum ~14t.e = a
+code1 _% d;min _:1 is ! m9imum (    #edf
+all 4t.es _% d(_;x, _;y) _:1 ":
+_% _;x _: & _% _;y _: >e 4t9ct code~ws4
+,! ~1wei<t1 _% w(_;x) _:1 ( a b9>y
+code~w _% _;x _: is ! numb} ( #as 9
+_% _;x _:4 ,cle>ly1 _% w(_;x) .k d(_;x,
+_#0) _:1 ": _% _#0 .k (00 ''' 0) _:4
+
+7777777777777777777777777777777777777777
+,example #h4aj
+  ,let _% _;x .k (10101) _:1 _% _;y .k
+(11010) _:1 & _% _;z .k (00011) _: 2 all
+( ! code~ws 9 "s code ;,c4 ,!n we h !
+foll{+ ,hamm+ 4t.es3
+_%
+
+d(_;x, _;y) .k #4,  d(_;x, _;z) .k #3,
+d(_;y, _;z) .k #3
+
+_:4
+,! m9imum 4t.e  = ? code is #c4 ,we al h
+! foll{+ wei<ts3
+
+
+
+                                    #edg
+_%
+
+w(_;x) .k #3,  w(_;y) .k #3,  w(_;z) .k
+#2
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! foll{+ proposi;n li/s "s basic
+prop}ties ab ! wei<t ( a code~w & ! 4t.e
+2t two code~ws4 ,! pro( is left z an
+ex}cise4
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #edh
+7777777777777777777777777777777777777777
+,proposi;n #h4aa
+  ,let _% _;x _:1 _% _;y _:1 & _% _;z _:
+2 b9>y ;n-tuples4 ,!n
+#a4 _% w(_;x) .k d(_;x, _#0) _:2
+#b4 _% d(_;x, _;y) .1: #0 _:2
+#c4 _% d(_;x, _;y) .k #0 _: exactly :5
+_% _;x .k _;y _:2
+#d4 _% d(_;x, _;y) .k d(_;y, _;x) _:2
+#e4 _% d(_;x, _;y) "k: d(_;x,
+_;z)+d(_;z, _;y) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! wei<ts 9 a "picul> code >e usually
+m* easi} to compute ?an ! ,hamm+ 4t.es
+2t all code~ws 9 ! code4 ,if a code is
+set up c>e;lly1 we c use ? fact to |r
+advantage4
+  ,suppose t _% _;x .k (1101) _: &
+_% _;y .k (1100) _: >e code~ws 9 "s
+code4 ,if we transmit _% (1101) _: & an
+}ror o3urs 9 ! "rmo/ bit1 !n "<#aajj"> w
+2 rcvd4 ,s9ce _% (1100) _: is a code~w1
+! decod} w decode _% (1100) _: z !
+transmitt$ message4 ,? code is      #edi
+cle>ly n v appropriate = }ror detec;n4
+,! problem is t _% d(_;x, _;y) .k #1 _:4
+,if _% _;x .k (1100) _: & _% _;y .k
+(1010) _: >e code~ws1 !n _% d(_;x, _;y)
+.k #2 _:4 ,if _% _;x _: is transmitt$ &
+a s+le }ror o3urs1 !n _% _;y _: c n"e 2
+rcvd4 ,table #h4ab gives ! 4t.es 2t all
+#d-bit code~ws 9 : ! f/ ?ree bits c>ry
+9=ma;n & ! f|r? is an ev5 p>;y *eck bit4
+,we c see t ! m9imum 4t.e "h is #b2 h;e1
+! code is suitable z a s+le }ror-detect+
+code4
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #eej
+7777777777777777777777777777777777777777
+      ,table #h4ab4 ,4t.es 2t #d-bit
+    code~ws
+
+  3 #jjjj2 #jjaa2 #jaja2 #jaaj2 #ajja2
+  #ajaj2 #aajj2 #aaaa
+  #jjjj3 #j2 #b2 #b2 #b2 #b2 #b2 #b2 #d
+  #jjaa3 #b2 #j2 #b2 #b2 #b2 #b2 #d2 #b
+  #jaja3 #b2 #b2 #j2 #b2 #b2 #d2 #b2 #b
+  #jaaj3 #b2 #b2 #b2 #j2 #d2 #b2 #b2 #b
+  #ajja3 #b2 #b2 #b2 #d2 #j2 #b2 #b2 #b
+  #ajaj3 #b2 #b2 #d2 #b2 #b2 #j2 #b2 #b
+  #aajj3 #b2 #d2 #b2 #b2 #b2 #b2 #j2 #b
+  #aaaa3 #d2 #b2 #b2 #b2 #b2 #b2 #b2 #j
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,to det}m9e exactly :at ! }ror-detect+
+& }ror-correct+ capabilities = a code
+>e1 we ne$ to analyze ! m9imum 4t.e = !
+code4 ,let _% _;x _: & _% _;y _: 2
+code~ws4 ,if _% d(_;x, _;y) .k #1 _: &
+an }ror o3urs ": _% _;x _: & _% _;y _:
+di6}1 !n _% _;x _: is *ang$ to
+_% _;y _:4 ,! rcvd code~w is _% _;y _: &
+no }ror message is giv54 ,n{        #eea
+suppose _% d(_;x, _;y) .k #2 _:4 ,!n a
+s+le }ror _c *ange _% _;x _: to
+_% _;y _:4 ,"!=e1 if _% d;min .k #2 _:1
+we h ! abil;y to detect s+le }rors4
+,h{"e1 suppose t _% d(_;x, _;y) .k
+#2 _:1 _% _;y _: is s5t1 & a noncode~w
+_% _;z _: is rcvd s* t
+_%
+
+d(_;x, _;z) .k d(_;y, _;z) .k #1
+
+_:4
+,!n ! decod} _c decide 2t _% _;x _: &
+_% _;y _:4 ,ev5 ?|< we >e aw>e t an }ror
+has o3urr$1 we d n "k :at ! }ror is4
+  ,suppose _% d;min .1: #3 _:4 ,!n !
+maximum-likelihood decod+ s*eme corrects
+all s+le }rors4 ,/>t+ ) a code~w
+_% _;x _:1 an }ror 9 ! transmis.n ( a
+s+le bit gives _% _;y _: ) _% d(_;x,
+_;y) .k #1 _:1 b _% d(_;z, _;y) .1:
+#2 _: = any o!r code~w _% _;z /.k
+_;x _:4 ,if we d n require ! correc;n (
+}rors1 !n we c detect multiple }rors :5
+a code has a m9imum 4t.e t is       #eeb
+grt} ?an or equal to #c4
+
+7777777777777777777777777777777777777777
+,!orem #h4ac
+  ,let ;,c 2 a code ) _% d;min .k
+#2n+1 _:4 ,!n ;,c c correct any ;n or
+few} }rors4 ,fur!rmore1 any _% #2n _: or
+few} }rors c 2 detect$ 9 ;,c4
+
+,pro(4 ,suppose t a code~w _% _;x _: is
+s5t & ! ~w _% _;y _: is rcvd ) at mo/ ;n
+}rors4 ,!n _% d(_;x, _;y) "k: n _:4 ,if
+_% _;z _: is any code~w o!r ?an
+_% _;x _:1 !n
+_%
+
+#2n+1 "k: d(_;x, _;z) "k: d(_;x,
+_;y)+d(_;y, _;z) "k: n+d(_;y, _;z)
+
+_:4
+,h;e1 _% d(_;y, _;z) .1: n+1 _: &
+_% _;y _: w 2 correctly decod$ z
+_% _;x _:4 ,n{ suppose t _% _;x _: is
+transmitt$ & _% _;y _: is rcvd & t at
+l1/ "o }ror  has o3urr$1 b n m      #eec
+?an _% #2n _: }rors4 ,!n _% #1 "k:
+d(_;x, _;y) "k: #2n _:4 ,s9ce ! m9imum
+4t.e 2t code~ws is _% #2n+1 _:1
+_% _;y _: _c 2 a code~w4 ,3sequ5tly1 !
+code c detect 2t #a & _% #2n _: }rors4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #h4ad
+  ,9 ,table #h4ae1 ! code~ws _% _;c1 .k
+(00000) _:1 _% _;c2 .k (00111) _:1
+_% _;c3 .k (11100) _:1 & _% _;c4 .k
+(11011) _: det}m9e a s+le }ror-correct+
+code4
+
+
+
+
+
+
+
+
+
+                                    #eed
+7777777777777777777777777777777777777777
+      ,table #h4ae4 ,hamm+ 4t.es = an
+    }ror-correct+ code
+
+  3 #jjjjj2 #jjaaa2 #aaajj2 #aajaa
+  #jjjjj3 #j2 #c2 #c2 #d
+  #jjaaa3 #c2 #j2 #d2 #c
+  #aaajj3 #c2 #d2 #j2 #c
+  #aajaa3 #d2 #c2 #c2 #j
+gggggggggggggggggggggggggggggggggggggggg
+
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,hi/orical ,note
+  ,mod}n cod+ !ory 2gan 9 #aidh ) ;,c4
+,%annon's pap}1 8,a ,ma!matical ,!ory (
+,9=ma;n0 .<#g.>4 ,? pap} (f}$ an example
+( an algebraic code1 & ,%annon's ,!orem
+proclaim$ exactly h{ gd codes cd 2
+expect$ to be4 ,ri*>d ,hamm+ 2gan "w+ )
+l9e> codes at ,bell ,labs 9 ! late
+#aidjs & e>ly #aiejs af 2com+ fru/rat$
+2c ! programs t he 0 runn+ cd n recov} f
+simple }rors g5}at$ by noise4       #eee
+,cod+ !ory has gr{n trem5d|sly 9 ! pa/
+s"eal decades4 .7,! ,!ory (
+,}ror-,correct+ ,codes.'1 by
+,mac,williams & ,sloane .<#e.>1 publi%$
+9 #aigg1 alr 3ta9$ ov} #aejj ref};es4
+,l9e> codes "<,re$-,mull} _% (32, 6) _:
+-block codes"> 7 us$ on ,,nasa's ,m>9}
+space probes4 ,m rec5t space probes s* z
+,voyag} h us$ :at >e call$ 3volu;n
+codes4 ,curr5tly1 v active rese>* is 2+
+d"o ) ,goppa codes1 : >e h1vily dep5d5t
+on algebraic geometry4
+
+    #h4b ,l9e> ,codes
+  ,to ga9 m k ( a "picul> code & develop
+m e6ici5t te*niques ( 5cod+1 decod+1 &
+}ror detec;n1 we ne$ to add addi;nal
+/ructure to |r codes4 ,"o way to
+a3ompli% ? is to require t ! code al 2 a
+gr|p4 ,a ~1gr|p ~1code is a code t is al
+a subgr|p ( _% `;,z2~n _:4
+  ,to *eck t a code is a gr|p code1 we
+ne$ only v}ify "o ?+4 ,if we add any two
+ele;ts 9 ! code1 ! result m/ 2 an
+;n-tuple t is ag 9 ! code4 ,x is    #eef
+n nec to *eck t ! 9v}se ( ! ;n-tuple is
+9 ! code1 s9ce e code~w is xs {n 9v}se1
+nor is x nec to *eck t _% _#0 _: is a
+code~w4 ,= 9/.e1
+_%
+
+(11000101)+(11000101) .k (00000000)
+
+_:4
+
+7777777777777777777777777777777777777777
+,example #h4af
+  ,suppose t we h a code t 3si/s ( !
+foll{+ #g-tuples3
+
+
+
+
+
+
+
+
+
+
+                                    #eeg
+_%
+
+(0000000)   (0001111)   (0010101) 
+(0011010)
+(0100110)   (0101001)   (0110011) 
+(0111100)
+(1000011)   (1001100)   (1010110) 
+(1011001)
+(1100101)   (1101010)   (1110000) 
+(1111111)
+
+_:4
+,x is a /rai<t=w>d ?|< t$i|s task to
+v}ify t ? code is al a subgr|p (
+_% `;,z2~7 _: &1 "!=e1 a gr|p code4 ,?
+code is a s+le }ror-detect+ & s+le
+}ror-correct+  code1 b x is a l;g &
+t$i|s process to compute all ( ! 4t.es
+2t  pairs ( code~ws to det}m9e t
+_% d;min .k #3 _:4 ,x is m* easi} to see
+t ! m9imum wei<t ( all ! nonz}o code~ws
+is #c4 ,z we w soon see1 ? is no
+co9cid;e4 ,h{"e1 ! rela;n%ip 2t wei<ts &
+4t.es 9 a "picul> code is h1vily dep5d5t
+on ! fact t ! code is a gr|p4       #eeh
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #h4ag
+  ,let _% _;x _: & _% _;y _: 2 b9>y
+;n-tuples4 ,!n _% w(_;x+_;y) .k d(_;x,
+_;y) _:4
+
+,pro(4 ,suppose t _% _;x _: & _% _;y _:
+>e b9>y ;n-tuples4 ,!n ! 4t.e 2t
+_% _;x _: & _% _;y _: is exactly ! numb}
+( places 9 : _% _;x _: & _% _;y _: di6}4
+,b _% _;x _: & _% _;y _: di6} 9 a
+"picul> coord9ate exactly :5 ! sum 9 !
+coord9ate is #a1 s9ce
+_%
+
+#1+1 .k #0
+#0+0 .k #0
+#1+0 .k #1
+#0+1 .k #1
+
+_:4
+,3sequ5tly1 ! wei<t ( ! sum m/ 2    #eei
+! 4t.e 2t ! two code~ws4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #h4ah
+  ,let _% d;min _: 2 ! m9imum 4t.e = a
+gr|p code ;,c4 ,!n _% d;min _: is !
+m9imum wei<t ( all ! nonz}o code~ws 9
+;,c4 ,t is1
+_%
+
+d;min .k min .(w(_;x)_3_;x /.k _#0.)
+
+_:4
+
+,pro(4 ,obs}ve t
+
+
+
+
+
+
+
+                                    #efj
+_%
+
+d;min"                                
+.k min .(d(_;x, _;y)_3_;x /.k _;y.)
+.k min .(d(_;x, _;y)_3_;x+_;y /.k _#0.)
+.k min .(w(_;x+_;y)_3_;x+_;y /.k _#0.)
+.k min .(w(_;z)_3_;z /.k _#0.)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,l9e> ,codes
+  ,f ,example #h4af1 x is n{ easy to
+*eck t ! m9imum nonz}o wei<t is #c2 h;e1
+! code does 9de$ detect & correct all
+s+le }rors4 ,we h n{ r$uc$ ! problem (
+f9d+ 8gd0 codes to t ( g5}at+ gr|p
+codes4 ,"o easy way to g5}ate gr|p codes
+is to employ a bit ( matrix !ory4
+  ,def9e ! ~19n} ~1product ( two b9>y
+;n-tuples to 2
+
+
+                                    #efa
+_%
+
+_;x*_;y .k x1y1+''' +x;n"y;n
+
+_:1
+": _% _;x .k (x1, x2, ''', x;n")~t _: &
+_% _;y .k (y1, y2, ''', y;n")~t _: >e
+column vectors4;9#ac  ,= example1 if
+_% _;x .k (011001)~t _: & _% _;y .k
+(110101)~t _:1 !n _% _;x*_;y .k #0 _:4
+,we c al look at an 9n} product z !
+product ( a r{ matrix ) a column matrix2
+t is1
+_%
+
+_;x*_;y                       .k
+_;x~t"_;y
+.k ,(x1 x2 ''' x;n",),(y1  ,)
+                     ,(y2  ,)
+                     ,(''' ,)
+                     ,(y;n",)
+.k x1y1+x2y2+''' +x;n"y;n
+
+_:4
+                                    #efb
+7777777777777777777777777777777777777777
+,example #h4ai
+  ,suppose t ! ~ws to 2 5cod$ 3si/ ( all
+b9>y #c-tuples & t |r 5cod+ s*eme is
+ev5-p>;y4 ,to 5code an >bitr>y #c-tuple1
+we add a f|r? bit to obta9 an ev5 numb}
+( #as4 ,notice t an >bitr>y ;n-tuple
+_% _;x .k (x1, x2, ''', x;n")~t _: has
+an ev5 numb} ( #as exactly :5
+_% x1+x2+''' +x;n .k #0 _:2 h;e1 a
+#d-tuple _% _;x .k (x1, x2, x3, x4)~t _:
+has an ev5 numb} ( #as if _% x1+x2+x3+x4
+.k #0 _:1 or
+_%
+
+_;x*_#1 .k _;x~t"_#1 .k ,(x1 x2 x3
+x4,),(#1,) .k #0
+                                     
+,(#1,)
+                                     
+,(#1,)
+                                     
+,(#1,)
+
+_:4                                 #efc
+,? example l1ds u to hope t "! is a
+3nec;n 2t matrices & cod+ !ory4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let _% `;,m;m`*n"(`;,z2) _: d5ote !
+set ( all _% m`*n _: matrices ) 5tries 9
+_% `;,z2 _:4 ,we d matrix op}a;ns z
+usual except t all |r addi;n &
+multiplica;n op}a;ns o3ur 9 _% `;,z2 _:4
+,def9e ! ~1null ~1space ( a matrix _% ,h
+`e `;,m;m`*n"(`;,z2) _: to 2 ! set ( all
+b9>y ;n-tuples _% _;x _: s* t _% ,h_;x
+.k _#0 _:4 ,we d5ote ! null space ( a
+matrix ;,h by _% ,null(,h) _:4
+
+7777777777777777777777777777777777777777
+,example #h4bj
+  ,suppose t
+_%
+
+,h .k ,(#0 #1 #0 #1 #0,)
+      ,(#1 #1 #1 #1 #0,)
+      ,(#0 #0 #1 #1 #1,)
+
+_:4                                 #efd
+,= a #e-tuple _% _;x .k (x1, x2, x3, x4,
+x5)~t _: to 2 9 ! null space ( ;,h1
+_% ,h_;x .k _#0 _:4 ,equival5tly1 !
+foll{+ sy/em ( equa;ns m/ 2 satisfi$3
+_%
+
+x2+x4       .k #0
+x1+x2+x3+x4 .k #0
+x3+x4+x5    .k #0
+
+_:4
+,! set ( b9>y #e-tuples satisfy+ ~!
+equa;ns is
+_%
+
+(00000) (11110) (10101) (01011)
+
+_:4
+,? code is easily det}m9$ to 2 a gr|p
+code4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+                                    #efe
+7777777777777777777777777777777777777777
+,!orem #h4ba
+  ,let ;,h 2 9 _% `;,m;m`*n"(`;,z2) _:4
+,!n ! null space ( ;,h is a gr|p code4
+
+,pro(4 ,s9ce ea* ele;t ( _% `;,z2~n _:
+is xs {n 9v}se1 ! only ?+ t r1lly ne$s
+to 2 *eck$ "h is closure4 ,let _% _;x,
+_;y `e ,null(,h) _: = "s matrix ;,h 9
+_% `;,m;m`*n"(`;,z2) _:4 ,!n _% ,h_;x .k
+_#0 _: & _% ,h_;y .k _#0 _:4 ,s
+_%
+
+,h(_;x+_;y) .k ,h_;x+,h_;y .k _#0+_#0 .k
+_#0
+
+_:4
+,h;e1 _% _;x+_;y _: is 9 ! null space (
+;,h & "!=e m/ 2 a code~w4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a code is a ~1l9e> ~1code if x is
+det}m9$ by ! null space ( "s matrix
+_% ,h `e `;,m;m`*n"(`;,z2) _:4
+                                    #eff
+7777777777777777777777777777777777777777
+,example #h4bb
+  ,let ;,c 2 ! code giv5 by ! matrix
+_%
+
+,h .k ,(#0 #0 #0 #1 #1 #1,)
+      ,(#0 #1 #1 #0 #1 #1,)
+      ,(#1 #0 #1 #0 #0 #1,)
+
+_:4
+,suppose t ! #f-tuple _% _;x .k
+(010011)~t _: is rcvd4 ,x is a simple
+matt} ( matrix multiplica;n to det}m9e
+:e!r or n _% _;x _: is a code~w4 ,s9ce
+_%
+
+,h_;x .k ,(#0,)
+         ,(#1,)
+         ,(#1,)
+
+_:1
+! rcvd ~w is n a code~w4 ,we m/ ei
+attempt to correct ! ~w or reque/ t x 2
+transmitt$ ag4
+ggggggggggggggggggggggggggggggggg   #efg
+
+
+    #h4c ,p>;y-,*eck & ,g5}ator
+    ,matrices
+  ,we ne$ to f9d a sy/ematic way (
+g5}at+ l9e> codes z well z fa/ me?ods (
+decod+4 ,by exam9+ ! prop}ties ( a
+matrix ;,h & by c>e;lly *oos+ ;,h1 x is
+possible to develop v e6ici5t me?ods (
+5cod+ & decod+ messages4 ,to ? 5d1 we w
+9troduce /&>d g5}ator & canonical
+p>;y-*eck matrices4
+  ,suppose t ;,h is an _% m`*n _: matrix
+) 5tries 9 _% `;,z2 _: & _% n .1 m _:4
+,if ! la/ ;m columns ( ! matrix =m !
+_% m`*m _: id5t;y matrix1 _% ,i;m _:1 !n
+! matrix is a ~7canonical p>;y-*eck
+matrix~'4 ,m specifically1 _% ,h .k
+(,a|,i;m") _:1 ": ,a is ! _% m`*(n-m) _:
+matrix
+
+
+
+
+                                    #efh
+_%
+
+,(a11    a12    ''' a;#1, n-m",)
+,(a21    a22    ''' a;#2, n-m",)
+,('''    '''    ''' '''       ,)
+,(a;m"1" a;m"2" ''' a;m, n-m  ,)
+
+_:
+& _% ,i;m _: is ! _% m`*m _: id5t;y
+matrix
+_%
+
+,(#1  #0  ''' #0 ,)
+,(#0  #1  ''' #0 ,)
+,(''' ''' ''' ''',)
+,(#0  #0  ''' #1 ,)
+
+_:4
+,) ea* canonical p>;y-*eck matrix we c
+associate an _% n`*(n-m) _: ~7/&>d
+g5}ator matrix~'
+
+
+
+                                    #efi
+_%
+
+,g .k (?,i;n-m"/,a#)
+
+_:4
+,|r goal w 2 to %{ t an _% _;x _:
+satisfy+ _% ,g_;x .k _;y _: exi/s if &
+only if _% ,h_;y .k _#0 _:4 ,giv5 a
+message block _% _;x _: to 2 5cod$1 !
+matrix ;,g w all{ u to qkly 5code x 9to
+a l9e> code~w _% _;y _:4
+
+7777777777777777777777777777777777777777
+,example #h4bc
+  ,suppose t we h ! foll{+ ei<t ~ws to 2
+5cod$3
+_%
+
+(000), (001), (010), ''', (111)
+
+_:4
+,=
+
+
+                                    #egj
+_%
+
+,a .k ,(#0 #1 #1,)
+      ,(#1 #1 #0,)
+      ,(#1 #0 #1,)
+
+_:1
+! associat$ /&>d g5}ator & canonical
+p>;y-*eck matrices >e
+_%
+
+,g .k ,(#1 #0 #0,)
+      ,(#0 #1 #0,)
+      ,(#0 #0 #1,)
+      ,(#0 #1 #1,)
+      ,(#1 #1 #0,)
+      ,(#1 #0 #1,)
+
+_:
+&
+
+
+
+
+                                    #ega
+_%
+
+,h .k ,(#0 #1 #1 #1 #0 #0,)
+      ,(#1 #1 #0 #0 #1 #0,)
+      ,(#1 #0 #1 #0 #0 #1,)
+
+_:1
+respectively4
+  ,obs}ve t ! r{s 9 ;,h  repres5t ! p>;y
+*ecks on c}ta9 bit posi;ns 9 a #f-tuple4
+,! #as 9 ! id5t;y matrix s}ve z p>;y
+*ecks = ! #as 9 ! same r{4 ,if _% _;x .k
+(x1, x2, x3, x4, x5, x6) _:1 !n
+_%
+
+_#0 .k ,h_;x .k ,(x2+x3+x4,)
+                ,(x1+x2+x5,)
+                ,(x1+x3+x6,)
+
+_:1
+: yields a sy/em ( equa;ns3
+
+
+
+                                    #egb
+_%
+
+x2+x3+x4 .k #0
+x1+x2+x5 .k #0
+x1+x3+x6 .k #0
+
+_:4
+,"h _% x4 _: s}ves z a *eck bit =
+_% x2 _: & _% x3 _:2 _% x5 _: is a *eck
+bit = _% x1 _: & _% x2 _:2 & _% x6 _: is
+a *eck bit = _% x1 _: & _% x3 _:4 ,!
+id5t;y matrix keeps _% x4 _:1 _% x5 _:1
+& _% x6 _: f hav+ to *eck on ea* o!r4
+,h;e1 _% x1 _:1 _% x2 _:1 & _% x3 _: c 2
+>bitr>y b _% x4 _:1 _% x5 _:1 & _% x6 _:
+m/ 2 *os5 to 5sure p>;y4 ,! null space (
+;,h is easily comput$ to 2
+_%
+
+(000000) (001101) (010110) (011011)
+(100011) (101110) (110101) (111000)_4
+
+_:
+,an ev5 easi} way to compute ! null
+space is ) ! g5}ator matrix ;,g     #egc
+"<,table #h4bd">4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+      ,table #h4bd4 ,a matrix-g5}at$
+    code
+
+  ,message ,~w _% _;x _:3 ,code~w
+  _% ,g_;x _:
+  #jjj3 #jjjjjj
+  #jja3 #jjaaja
+  #jaj3 #jajaaj
+  #jaa3 #jaajaa
+  #ajj3 #ajjjaa
+  #aja3 #ajaaaj
+  #aaj3 #aajaja
+  #aaa3 #aaajjj
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+                                    #egd
+7777777777777777777777777777777777777777
+,!orem #h4be
+  ,if _% ,h `e `;,m;m`*n"(`;,z2) _: is a
+canonical p>;y-*eck matrix1 !n
+_% ,null(,h) _: 3si/s ( all _% _;x `e
+`;,z2~n _: ~: f/ _% n-m _: bits >e
+>bitr>y b ~: la/ ;m bits >e det}m9$ by
+_% ,h_;x .k _#0 _:4 ,ea* ( ! la/ ;m bits
+s}ves z an ev5 p>;y *eck bit = "s ( ! f/
+_% n-m _: bits4 ,h;e1 ;,h gives rise to
+an _% (n, n-m) _:-block code4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we l1ve ! pro( ( ? !orem z an
+ex}cise4 ,9 li<t ( ! !orem1 ! f/
+_% n-m _: bits 9 _% _;x _: >e call$
+~19=ma;n ~1bits & ! la/ ;m bits >e call$
+~1*eck ~1bits4 ,9 ,example #h4bc1 ! f/
+?ree bits >e ! 9=ma;n bits & ! la/ ?ree
+>e ! *eck bits4
+
+7777777777777777777777777777777777777777
+,!orem #h4bf
+  ,suppose t ;,g is an _% n`*k _: /&>d
+g5}ator matrix4 ,!n _% ,c .k        #ege
+.(_;y_3,g_;x .k _;y for _;x `e
+`;,z2~k".) _: is an _% (n, k) _:-block
+code4 ,m specifically1 ;,c is a gr|p
+code4
+
+,pro(4 ,let _% ,g_;x1 .k _;y1 _: &
+_% ,g_;x2 .k _;y2 _: 2 two code~ws4 ,!n
+_% _;y1+_;y2 _: is 9 ;,c s9ce
+_%
+
+,g(_;x1+_;x2) .k ,g_;x1+,g_;x2 .k
+_;y1+_;y2
+
+_:4
+,we m/ al %{ t two message blocks _c 2
+5cod$ 9to ! same code~w4 ,t is1 we m/ %{
+t if _% ,g_;x .k ,g_;y _:1 !n _% _;x .k
+_;y _:4 ,suppose t _% ,g_;x .k ,g_;y _:4
+,!n
+_%
+
+,g_;x-,g_;y .k ,g(_;x-_;y) .k _#0
+
+_:4
+,h{"e1 ! f/ ;k coord9ates 9         #egf
+_% ,g(_;x-_;y) _: >e exactly _% x1-y1,
+''', x;k"-y;k _:1 s9ce !y >e det}m9$ by
+! id5t;y matrix1 _% ,i;k _:1 "p ( ;,g4
+,h;e1 _% ,g(_;x-_;y) .k _#0 _: exactly
+:5 _% _;x .k _;y _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,2f we c prove ! rela;n%ip 2t
+canonical p>;y-*eck matrices & /&>d
+g5}at+ matrices1 we ne$ to prove a
+lemma4
+
+7777777777777777777777777777777777777777
+,lemma #h4bg
+  ,let _% ,h .k (,a|,i;m") _: 2 an
+_% m`*n _: canonical p>;y-*eck matrix &
+_% ,g .k (?,i;n-m"/,a#) _: 2 !
+correspond+ _% n`*(n-m) _: /&>d g5}ator
+matrix4 ,!n _% ,h,g .k _#0 _:4
+
+,pro(4 ,let _% ,c .k ,h,g _:4 ,!
+_% ij _:th 5try 9 ;,c is
+
+
+                                    #egg
+_%
+
+c;ij"                                  
+                             .k ".,s%k
+.k #1<n}h;ik"g;kj"
+.k ".,s%k .k #1<n-m}h;ik"g;kj"+".,s%k .k
+n-m+1<n}h;ik"g;kj"
+.k ".,s%k .k #1<n-m}a;ik".d;kj"+".,s%k
+.k n-m+1<n}.d;i-(m-n), k"a;kj"
+.k a;ij"+a;ij"
+.k #0
+
+_:1
+":
+_%
+
+.d;ij .k .,(#1 i .k j
+         .,(#0 i /.k j
+
+_:
+is ! ,kroneck} delta4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                    #egh
+7777777777777777777777777777777777777777
+,!orem #h4bh
+  ,let _% ,h .k (,a|,i;m") _: 2 an
+_% m`*n _: canonical p>;y-*eck matrix &
+let _% ,g .k (?,i;n-m"/,a#) _: 2 !
+_% n`*(n-m) _: /&>d g5}ator matrix
+associat$ ) ;,h4 ,let ;,c 2 ! code
+g5}at$ by ;,g4 ,!n _% _;y _: is 9 ;,c if
+& only if _% ,h_;y .k _#0 _:4 ,9
+"picul>1 ;,c is a l9e> code ) canonical
+p>;y-*eck matrix ;,h4
+
+,pro(4 ,f/ suppose t _% _;y `e ,c _:4
+,!n _% ,g_;x .k _;y _: = "s _% _;x `e
+`;,z2~m _:4 ,by ,lemma #h4bg1 _% ,h_;y
+.k ,h,g_;x .k _#0 _:4
+  ,3v}sely1 suppose t _% _;y .k (y1,
+''', y;n")~t _: is 9 ! null space ( ;,h4
+,we ne$ to f9d an _% _;x _: 9
+_% `;,z2~n-m _: s* t _% ,g_;x~t .k
+_;y _:4 ,s9ce _% ,h_;y .k _#0 _:1 !
+foll{+ set ( equa;ns m/ 2 satisfi$3
+
+
+                                    #egi
+_%
+
+a11y1+a12y2+''' +a;#1,
+n-m"y;n-m"+y;n-m+1"      .k #0
+a21y1+a22y2+''' +a;#2,
+n-m"y;n-m"+y;n-m+2"      .k #0
+'''
+a;m"1"y1+a;m"2"y2+''' +a;m,
+n-m"y;n-m"+y;n-m+m" .k #0
+
+_:4
+,equival5tly1 _% y;n-m+1, ''', y;n _: >e
+det}m9$ by _% y1, ''', y;n-m _:3
+_%
+
+y;n-m+1" .k a11y1+a12y2+''' +a;#1,
+n-m"y;n-m"
+y;n-m+2" .k a21y1+a22y2+''' +a;#2,
+n-m"y;n-m"
+'''
+y;n"     .k a;m"1"y1+a;m"2"y2+''' +a;m,
+n-m"y;n-m
+
+_:4
+,3sequ5tly1 we c let _% x;i .k      #ehj
+y;i _: = _% i .k #1, ''', n-m _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,x wd 2 help;l if we cd compute !
+m9imum 4t.e ( a l9e> code directly f xs
+matrix ;,h 9 ord} to det}m9e !
+}ror-detect+ & }ror-correct+
+capabilities ( ! code4 ,suppose t
+_%
+
+_;e1   .k (100 ''' 00)~t"
+_;e2   .k (010 ''' 00)~t"
+'''
+_;e;n" .k (000 ''' 01)~t
+
+_:
+>e ! ;n-tuples 9 _% `;,z2~n _: ( wei<t
+#a4 ,= an _% m`*n _: b9>y matrix ;,h1
+_% ,h_;e;i _: is exactly ! i? column ( !
+matrix ;,h4
+
+
+
+
+                                    #eha
+7777777777777777777777777777777777777777
+,example #h4bi
+  ,obs}ve t
+_%
+
+,(#1 #1 #1 #0 #0,),(#0,) .k ,(#1,)
+,(#1 #0 #0 #1 #0,),(#1,)    ,(#0,)
+,(#1 #1 #0 #0 #1,),(#0,)    ,(#1,)
+                  ,(#0,)
+                  ,(#0,)
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we /ate ? result 9 ! foll{+ proposi;n
+& l1ve ! pro( z an ex}cise4
+
+
+
+
+
+
+
+
+                                    #ehb
+7777777777777777777777777777777777777777
+,proposi;n #h4cj
+  ,let _% _;e;i _: 2 ! b9>y ;n-tuple ) a
+#a 9 ! i? coord9ate & #j's else": &
+suppose t _% ,h `e `;,m;m`*n"(`;,z2) _:4
+,!n _% ,h_;e;i _: is ! i? column ( !
+matrix ;,h4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #h4ca
+  ,let ;,h 2 an _% m`*n _: b9>y matrix4
+,!n ! null space ( ;,h is a s+le
+}ror-detect+ code if & only if no column
+( ;,h 3si/s 5tirely ( z}os4
+
+,pro(4 ,suppose t _% ,null(,h) _: is a
+s+le }ror-detect+ code4 ,!n ! m9imum
+4t.e ( ! code m/ 2 at l1/ #b4 ,s9ce !
+null space is a gr|p code1 x is su6ici5t
+to require t ! code 3ta9 no code~ws (
+less ?an wei<t #b o!r ?an ! z}o code~w4
+,t is1 _% _;e;i _: m/ n 2 a code~w =
+_% i .k #1, ''', n _:4 ,s9ce        #ehc
+_% ,h_;e;i _: is ! i? column ( ;,h1 !
+only way 9 : _% _;e;i _: cd 2 9 ! null
+space ( ;,h wd 2 if ! i? column 7 all
+z}os1 : is impossible2 h;e1 ! code m/ h
+! capabil;y to detect at l1/ s+le }rors4
+  ,3v}sely1 suppose t no column ( ;,h is
+! z}o column4 ,by ,proposi;n #h4cj1
+_% ,h_;e;i /.k _#0 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #h4cb
+  ,if we 3sid} ! matrices
+_%
+
+,h1 .k ,(#1 #1 #1 #0 #0,)
+       ,(#1 #0 #0 #1 #0,)
+       ,(#1 #1 #0 #0 #1,)
+
+_:
+&
+
+
+                                    #ehd
+_%
+
+,h2 .k ,(#1 #1 #1 #0 #0,)
+       ,(#1 #0 #0 #0 #0,)
+       ,(#1 #1 #0 #0 #1,)
+
+_:1
+!n ! null space ( _% ,h1 _: is a s+le
+}ror-detect+ code & ! null space (
+_% ,h2 _: is n4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we c ev5 d bett} ?an ,!orem #h4ca4 ,?
+!orem gives u 3di;ns on a matrix ;,h t
+tell u :5 ! m9imum wei<t ( ! code =m$ by
+! null space ( ;,h is #b4 ,we c al
+det}m9e :5 ! m9imum 4t.e ( a l9e> code
+is #c by exam9+ ! correspond+ matrix4
+
+7777777777777777777777777777777777777777
+,example #h4cc
+  ,if we let
+
+
+                                    #ehe
+_%
+
+,h .k ,(#1 #1 #1 #0,)
+      ,(#1 #0 #0 #1,)
+      ,(#1 #1 #0 #0,)
+
+_:
+& want to det}m9e :e!r or n ;,h is !
+canonical p>;y-*eck matrix = an
+}ror-correct+ code1 x is nec to make
+c}ta9 t _% ,null(,h) _: does n 3ta9 any
+#d-tuples ( wei<t #b4 ,t is1
+_% (1100) _:1 _% (1010) _:1
+_% (1001) _:1 _% (0110) _:1
+_% (0101) _:1 & _% (0011) _: m/ n 2 9
+_% ,null(,h) _:4 ,! next !orem /ates t
+we c 9de$ det}m9e t ! code g5}at$ by ;,h
+is }ror-correct+ by exam9+ ! columns (
+;,h4 ,notice 9 ? example t n only does
+;,h h no z}o columns1 b al t no two
+columns >e ! same4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                    #ehf
+7777777777777777777777777777777777777777
+,!orem #h4cd
+  ,let ;,h 2 a b9>y matrix4 ,! null
+space ( ;,h is a s+le }ror-correct+ code
+if & only if ;,h does n 3ta9 any z}o
+columns & no two columns ( ;,h >e
+id5tical4
+
+,pro(4 ,! ;n-tuple _% _;e;i"+_;e;j _:
+has #as 9 ! i? & j? 5tries & #js else":1
+& _% w(_;e;i"+_;e;j") .k #2 _: = _% i
+/.k j _:4 ,s9ce
+_%
+
+_#0 .k ,h(_;e;i"+_;e;j") .k
+,h_;e;i"+,h_;e;j
+
+_:
+c only o3ur if ! i? & j? columns >e
+id5tical1 ! null space ( ;,h is a s+le
+}ror-correct+ code4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,suppose n{ t we h a canonical
+p>;y-*eck matrix ;,h ) ?ree r{s4    #ehg
+,!n we mi<t ask h{ _m m columns we c add
+to ! matrix & / h a null space t is a
+s+le }ror-detect+ & s+le }ror-correct+
+code4 ,s9ce ea* column has ?ree 5tries1
+"! >e _% #2~3 .k #8 _: possible 4t9ct
+columns4 ,we _c add ! columns
+_%
+
+,(#0,), ,(#1,), ,(#0,), ,(#0,)
+,(#0,)  ,(#0,)  ,(#1,)  ,(#0,)
+,(#0,)  ,(#0,)  ,(#0,)  ,(#1,)
+
+_:4
+,s we c add z _m z f|r columns & /
+ma9ta9 a m9imum 4t.e ( #c4
+  ,9 g5}al1 if ;,h is an _% m`*n _:
+canonical p>;y-*eck matrix1 !n "! >e
+_% n-m _: 9=ma;n posi;ns 9 ea* code~w4
+,ea* column has ;m bits1 s "! >e
+_% #2~m _: possible 4t9ct columns4 ,x is
+nec t ! columns _% _#0, _;e1, ''',
+_;e;m _: 2 exclud$1 l1v+
+_% #2~m"-(1+m) _: rema9+ columns =
+9=ma;n if we >e / to ma9ta9 ! abil;y n
+only to detect b al to correct      #ehh
+s+le }rors4
+
+    #h4d ,e6ici5t ,decod+
+  ,we >e n{ at ! /age ": we >e able to
+g5}ate l9e> codes t detect & correct
+}rors fairly easily1 b x is / a "t-3sum+
+process to decode a rcvd ;n-tuple &
+det}m9e : is ! close/ code~w1 2c ! rcvd
+;n-tuple m/ 2 comp>$ to ea* possible
+code~w to det}m9e ! prop} decod+4 ,? c 2
+a s}i|s imp$i;t if ! code is v l>ge4
+
+7777777777777777777777777777777777777777
+,example #h4ce
+  ,giv5 ! b9>y matrix
+_%
+
+,h .k ,(#1 #1 #1 #0 #0,)
+      ,(#0 #1 #0 #1 #0,)
+      ,(#1 #0 #0 #0 #1,)
+
+_:
+& ! #e-tuples _% _;x .k (11011)~t _: &
+_% _;y .k (01011)~t _:1 we c compute
+                                    #ehi
+_%
+
+,h_;x .k ,(#0,) and ,h_;y .k ,(#1,)
+         ,(#0,)              ,(#0,)
+         ,(#0,)              ,(#1,)
+
+_:4
+,h;e1 _% _;x _: is a code~w & _% _;y _:
+is n1 s9ce _% _;x _: is 9 ! null space &
+_% _;y _: is n4 ,notice t _% ,h_;y _: is
+id5tical to ! f/ column ( ;,h4 ,9 fact1
+? is ": ! }ror o3urr$4 ,if we flip ! f/
+bit 9 _% _;y _: f #j to #a1 !n we obta9
+_% _;x _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,if ;,h is an _% m`*n _: matrix &
+_% _;x `e `;,z2~n _:1 !n we say t !
+~1syndrome ( _% _;x _: is _% ,h_;x _:4
+,! foll{+ proposi;n all{s ! qk detec;n &
+correc;n ( }rors4
+
+
+
+                                    #eij
+7777777777777777777777777777777777777777
+,proposi;n #h4cf
+  ,let ! _% m`*n _: b9>y matrix ;,h
+det}m9e a l9e> code & let _% _;x _: 2 !
+rcvd ;n-tuple4 ,write _% _;x _: z _% _;x
+.k _;c+_;e _:1 ": _% _;c _: is !
+transmitt$ code~w & _% _;e _: is !
+transmis.n }ror4 ,!n ! syndrome
+_% ,h_;x _: ( ! rcvd code~w _% _;x _: is
+al ! syndrome ( ! }ror _% _;e _:4
+
+,pro(4 ,! pro( foll{s f ! fact t
+_%
+
+,h_;x .k ,h(_;c+_;e) .k ,h_;c+,h_;e .k
+_#0+,h_;e .k ,h_;e
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,? proposi;n tells u t ! syndrome ( a
+rcvd ~w dep5ds solely on ! }ror & n on !
+transmitt$ code~w4 ,! pro( ( ! foll{+
+!orem foll{s immly f ,proposi;n #h4cf &
+f ! fact t _% ,h_;e _: is ! i?      #eia
+column ( ! matrix ;,h4
+
+7777777777777777777777777777777777777777
+,!orem #h4cg
+  ,let _% ,h `e `;,m;m`*n"(`;,z2) _: &
+suppose t ! l9e> code correspond+ to ;,h
+is s+le }ror-correct+4 ,let _% _;r _: 2
+a rcvd ;n-tuple t 0 transmitt$ ) at mo/
+"o }ror4 ,if ! syndrome ( _% _;r _: is
+_% _#0 _:1 !n no }ror has o3urr$2
+o!rwise1 if ! syndrome ( _% _;r _: is
+equal to "s column ( ;,h1 say ! i?
+column1 !n ! }ror has o3urr$ 9 ! i? bit4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #h4ch
+  ,3sid} ! matrix
+
+
+
+
+
+                                    #eib
+_%
+
+,h .k ,(#1 #0 #1 #1 #0 #0,)
+      ,(#0 #1 #1 #0 #1 #0,)
+      ,(#1 #1 #1 #0 #0 #1,)
+
+_:
+& suppose t !  #f-tuples _% _;x .k
+(111110)~t _:1 _% _;y .k (111111)~t _:1
+& _% _;z .k (010111)~t _: h be5 rcvd4
+,!n
+_%
+
+,h_;x .k ,(#1,), ,h_;y .k ,(#1,), ,h_;z
+.k ,(#1,)
+         ,(#1,)           ,(#1,)       
+  ,(#0,)
+         ,(#1,)           ,(#0,)       
+  ,(#0,)
+
+_:4
+,h;e1 _% _;x _: has an }ror 9 ! ?ird bit
+& _% _;z _: has an }ror 9 ! f|r? bit4 ,!
+transmitt$ code~ws = _% _;x _: &
+_% _;z _: m/ h be5 _% (110110) _:   #eic
+& _% (010011) _:1 respectively4 ,!
+syndrome ( _% _;y _: does n o3ur 9 any (
+! columns ( ! matrix ;,h1 s multiple
+}rors m/ h o3urr$ to produce _% _;y _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,coset ,decod+
+  ,we c use gr|p !ory to obta9 ano!r way
+( decod+ messages4 ,a l9e> code ;,c is a
+subgr|p ( _% `;,z2~n _:4 ~1,coset or
+~1/&>d ~1decod+ uses ! cosets ( ;,c 9
+_% `;,z2~n _: to imple;t
+maximum-likelihood decod+4 ,suppose t
+;,c is an _% (n, m) _:-l9e> code4 ,a
+coset ( ;,c 9 _% `;,z2~n _: is writt5 9
+! =m _% _;x+,c _:1 ": _% _;x `e
+`;,z2~n _:4 ,by ,lagrange's ,!orem
+"<,!orem #f4aj">1 "! >e _% #2~n-m _:
+4t9ct cosets ( ;,c 9 _% `;,z2~n _:4
+
+
+
+
+                                    #eid
+7777777777777777777777777777777777777777
+,example #h4ci
+  ,let ;,c 2 ! _% (5, 3) _:-l9e> code
+giv5 by ! p>;y-*eck matrix
+_%
+
+,h .k ,(#0 #1 #1 #0 #0,)
+      ,(#1 #0 #0 #1 #0,)
+      ,(#1 #1 #0 #0 #1,)
+
+_:4
+,! code 3si/s ( ! code~ws
+_%
+
+(00000) (01101) (10011) (11110)
+
+_:4
+,"! >e _% #2~5-2 .k #2~3 _: cosets ( ;,c
+9 _% `;,z2~5 _:1 ea* ) ord} _% #2~2 .k
+#4 _:4 ,~! cosets >e li/$ 9
+,table #h4dj4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                    #eie
+7777777777777777777777777777777777777777
+      ,table #h4dj4 ,cosets ( ;,c
+
+  ,coset3 ,coset
+  ,repres5tative3
+  ;,c3
+  _% (00000)(01101)(10011)(11110) _:
+  _% (10000)+,c _:3
+  _% (10000)(11101)(00011)(01110) _:
+  _% (01000)+,c _:3
+  _% (01000)(00101)(11011)(10110) _:
+  _% (00100)+,c _:3
+  _% (00100)(01001)(10111)(11010) _:
+  _% (00010)+,c _:3
+  _% (00010)(01111)(10001)(11100) _:
+  _% (00001)+,c _:3
+  _% (00001)(01100)(10010)(11111) _:
+  _% (10100)+,c _:3
+  _% (00111)(01010)(10100)(11001) _:
+  _% (00110)+,c _:3
+  _% (00110)(01011)(10101)(11000) _:
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,|r task is to f9d | h{ "k+ ! cosets
+mi<t help u to decode a message4    #eif
+,suppose t _% _;x _: 0 ! orig9al code~w
+s5t & t _% _;r _: is ! ;n-tuple rcvd4
+,if _% _;e _: is ! transmis.n }ror1 !n
+_% _;r .k _;e+_;x _: or1 equival5tly1
+_% _;x .k _;e+_;r _:4 ,h{"e1 ? is
+exactly ! /ate;t t _% _;r _: is an ele;t
+9 ! coset _% _;e+,c _:4 ,9
+maximum-likelihood decod+ we expect !
+}ror _% _;e _: to 2 z small z possible2
+t is1 _% _;e _: w h ! l1/ wei<t4 ,an
+;n-tuple ( l1/ wei<t 9 a coset is call$
+a ~1coset ~1l1d}4 ,once we h det}m9$ a
+coset l1d} = ea* coset1 ! decod+ process
+2comes a task ( calculat+ _% _;r+_;e _:
+to obta9 _% _;x _:4
+
+
+
+
+
+
+
+
+
+                                    #eig
+7777777777777777777777777777777777777777
+,example #h4da
+  ,9 ,table #h4dj1 notice t we h *os5 a
+repres5tative ( ! l1/ possible wei<t =
+ea* coset4 ,~! repres5tatives >e coset
+l1d}s4 ,n{ suppose t _% _;r .k
+(01111) _: is ! rcvd ~w4 ,to decode
+_% _;r _:1 we f9d t x is 9 ! coset
+_% (00010)+,c _:2 h;e1 ! orig9ally
+transmitt$ code~w m/ h be5 _% (01101) .k
+(01111)+(00010) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,a pot5tial problem ) ? me?od ( decod+
+is t we mi<t h to exam9e e coset = !
+rcvd code~w4 ,! foll{+ proposi;n gives a
+me?od ( imple;t+ coset decod+4 ,x /ates
+t we c associate a syndrome ) ea* coset2
+h;e1 we c make a table t designates a
+coset l1d} correspond+ to ea* syndrome4
+,s* a li/ is call$ a  ~1decod+ ~1table4
+
+
+
+                                    #eih
+7777777777777777777777777777777777777777
+      ,table #h4db4 ,syndromes = ea*
+    coset
+
+  ,syndrome3 ,coset ,l1d}
+  _% (000) _:3 _% (00000) _:
+  _% (001) _:3 _% (00001) _:
+  _% (010) _:3 _% (00010) _:
+  _% (011) _:3 _% (10000) _:
+  _% (100) _:3 _% (00100) _:
+  _% (101) _:3 _% (01000) _:
+  _% (110) _:3 _% (00110) _:
+  _% (111) _:3 _% (10100) _:
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                    #eii
+7777777777777777777777777777777777777777
+,proposi;n #h4dc
+  ,let ;,c 2 an _% (n, k) _:-l9e> code
+giv5 by ! matrix ;,h & suppose t
+_% _;x _: & _% _;y _: >e 9
+_% `;,z2~n _:4 ,!n _% _;x _: & _% _;y _:
+>e 9 ! same coset ( ;,c if & only if
+_% ,h_;x .k ,h_;y _:4 ,t is1 two
+;n-tuples >e 9 ! same coset if & only if
+_! syndromes >e ! same4
+
+,pro(4 ,two ;n-tuples _% _;x _: &
+_% _;y _: >e 9 ! same coset ( ;,c
+exactly :5 _% _;x-_;y `e ,c _:2 h{"e1 ?
+is equival5t to _% ,h(_;x-_;y) .k #0 _:
+or _% ,h_;x .k ,h_;y _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+                                    #fjj
+7777777777777777777777777777777777777777
+,example #h4dd
+  ,table #h4db is a decod+ table = !
+code ;,c giv5 9 ,example #h4ci4 ,if
+_% _;x .k (01111) _: is rcvd1 !n xs
+syndrome c 2 comput$ to 2
+_%
+
+,h_;x .k ,(#0,)
+         ,(#1,)
+         ,(#0,)
+
+_:4
+,exam9+ ! decod+ table1 we det}m9e t !
+coset l1d} is _% (00010) _:4 ,x is n{
+easy to decode ! rcvd code~w4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,giv5 an _% (n, k) _:-block code1 ! "q
+>ises ( :e!r or n coset decod+ is a
+manag1ble s*eme4 ,a decod+ table
+requires a li/ ( cosets & syndromes1 "o
+= ea* ( ! _% #2~n-k _: cosets ( ;,c4
+,suppose t we h a _% (32, 24) _:-block
+code4 ,we h a huge numb} (          #fja
+code~ws1 _% #2~24 _:1 yet "! >e only
+_% #2~32-24 .k #2~8 .k #256 _: cosets4
+
+    #h4e ,r1d+ ,"qs
+
+#a4 ,suppose a b9>y code has m9imum 4t.e
+_% d .k #6 _:4 ,h{ _m }rors c 2 detect$8
+,h{ _m }rors c 2 correct$8
+
+#b4 ,expla9 :y x is impossible = !
+#h-bit /r+ ) decimal value _% #56;10 _:
+to 2 an ,,ascii code = a "*4 ,assume !
+leftmo/ bit ( ! /r+ is 2+ us$ z a
+p>;y-*eck bit4
+
+#c4 ,suppose we rcv ! #h-bit /r+ )
+decimal value _% #56;10 _: :5 we >e
+expect+ ,,ascii "*s ) a p>;y-*eck bit 9
+! f/ bit "<leftmo/">4 ,we "k an }ror has
+o3urr$ 9 transmis.n4 ,give "o ( !
+probable guesses = ! "* : 0 actually s5t
+"<o!r ?an ,8#h,0">1 "u ! assump;n t any
+9dividual bit is r>ely s5t 9 }ror4
+,expla9 ! logic ( yr answ}4 "<,y may ne$
+to 3sult a table ( ,,ascii values   #fjb
+onl9e4">
+
+#d4 ,suppose a l9e> code ;,c is cr1t$ z
+! null space ( ! p>;y-*eck matrix
+_%
+
+,h .k `,(#0 #1 #0 #1 #0`,)
+      `,(#1 #1 #1 #1 #0`,)
+      `,(#0 #0 #1 #1 #1`,)
+
+_:
+,!n _% x .k #11100 _: is n a code~w4
+,describe a computa;n1 & give ! result (
+t computa;n1 : v}ifies t ;x is n a
+code~w ( ! code ;,c4
+
+#e4 ,= ;,h & ;x z 9 ! previ|s "q1
+suppose t ;x is rcvd z a message4 ,give
+a maximum likelihood decod+ ( ! rcvd
+message4
+
+    #h4f ,ex}cises
+
+#a4 ,:y is ! foll{+ 5cod+ s*eme n
+a3eptable8                          #fjc
+  ,9=ma;n3 #j2 #a2 #b2 #c2 #d2 #e2 #f2
+  #g2 #h
+  ,code~w3 #jjj2 #jja2 #jaj2 #jaa2 #aja2
+  #aaj2 #aaa2 #jjj2 #jja
+
+#b4 ,)|t do+ any addi;n1 expla9 :y !
+foll{+ set ( #d-tuples 9 _% `;,z2~4 _:
+_c 2 a gr|p code4
+_%
+
+(0110) (1001) (1010) (1100)
+
+_:
+
+,h9t4 ,? _c 2 a gr|p code s9ce _% (0000)
+/`e ,c _:4
+
+#c4 ,compute ! ,hamm+ 4t.es 2t ! foll{+
+pairs ( ;n-tuples4
+a4 _% (011010), (011100) _:
+;b4 _% (11110101), (01010100) _:
+;c4 _% (00110), (01111) _:
+;d4 _% (1001), (0111) _:
+
+,h9t4 "<a"> #b2 "<;c"> #b4          #fjd
+#d4 ,compute ! wei<ts ( ! foll{+
+;n-tuples4
+a4 _% (011010) _:
+;b4 _% (11110101) _:
+;c4 _% (01111) _:
+;d4 _% (1011) _:
+
+,h9t4 "<a"> #c2 "<;c"> #d4
+
+#e4 ,suppose t a l9e> code ;,c has a
+m9imum wei<t ( #g4 ,:at >e !
+}ror-detec;n & }ror-correc;n
+capabilities ( ;,c8
+
+#f4 ,9 ea* ( ! foll{+ codes1 :at is !
+m9imum 4t.e = ! code8 ,:at is ! be/
+situa;n we mi<t hope = 9 3nec;n ) }ror
+detec;n & }ror correc;n8
+a4
+_% (011010)(011100)(110111)(110000) _:
+;b4
+_% (011100)(011011)(111011)(100011)(000-
+000)(010101)(110100)(110011) _:
+;c4
+_% (000000)(011100)(110101)(1100-   #fje
+01) _:
+;d4
+_% (0110110)(0111100)(1110000)(1111111)-
+(1001001)(1000011)(0001111)(0000000) _:
+
+,h9t4 "<a"> _% d;min .k #2 _:2 "<;c">
+_% d;min .k #1 _:4
+
+#g4 ,compute ! null space ( ea* ( !
+foll{+ matrices4 ,:at type ( _% (n,
+k) _:-block codes >e ! null spaces8 ,c y
+f9d a matrix "<n necess>ily a /&>d
+g5}ator matrix"> t g5}ates ea* code8 ,>e
+yr g5}ator matrices unique8
+_%
+
+,(#0 #1 #0 #0 #0,)
+,(#1 #0 #1 #0 #1,)
+,(#1 #0 #0 #1 #0,)
+
+_:
+
+
+
+                                    #fjf
+_%
+
+,(#1 #0 #1 #0 #0 #0,)
+,(#1 #1 #0 #1 #0 #0,)
+,(#0 #1 #0 #0 #1 #0,)
+,(#1 #1 #0 #0 #0 #1,)
+
+_:
+_%
+
+,(#1 #0 #0 #1 #1,)
+,(#0 #1 #0 #1 #1,)
+
+_:
+_%
+
+,(#0 #0 #0 #1 #1 #1 #1,)
+,(#0 #1 #1 #0 #0 #1 #1,)
+,(#1 #0 #1 #0 #1 #0 #1,)
+,(#0 #1 #1 #0 #0 #1 #1,)
+
+_:
+
+,h9t4
+a4 _% (00000), (00101), (10011),    #fjg
+(10110) _:
+_%
+
+,g .k ,(#0 #1,)
+      ,(#0 #0,)
+      ,(#1 #0,)
+      ,(#0 #1,)
+      ,(#1 #1,)
+
+_:
+;b4 _% (000000), (010111), (101101),
+(111010) _:
+_%
+
+,g .k ,(#1 #0,)
+      ,(#0 #1,)
+      ,(#1 #0,)
+      ,(#1 #1,)
+      ,(#0 #1,)
+      ,(#1 #1,)
+
+_:
+
+#h4 ,3/ruct a _% (5, 2) _:-block code4
+,4cuss bo? ! }ror-detec;n &         #fjh
+}ror-correc;n capabilities ( yr code4
+
+#i4 ,let ;,c 2 ! code obta9$ f ! null
+space ( ! matrix
+_%
+
+,h .k ,(#0 #1 #0 #0 #1,)
+      ,(#1 #0 #1 #0 #1,)
+      ,(#0 #0 #1 #1 #1,)
+
+_:4
+,decode ! message
+_%
+
+#01111 #10101 #01110 #00011
+
+_:
+if possible4
+
+,h9t4 ,multiple }rors o3ur 9 "o ( ! rcvd
+~ws4
+
+#aj4 ,suppose t a #ajjj-bit b9>y message
+is transmitt$4 ,assume t ! probabil;y (
+a s+le }ror is ;p & t ! }rors       #fji
+o3urr+ 9 di6}5t bits >e 9dep5d5t ( "o
+ano!r4 ,if _% p .k #0.01 _:1 :at is !
+probabil;y ( m ?an "o }ror o3urr+8 ,:at
+is ! probabil;y ( exactly two }rors
+o3urr+8 ,rep1t ? problem = _% p .k
+#0.0001 _:4
+
+#aa4 ,: matrices >e canonical p>;y-*eck
+matrices8 ,= ~? matrices t >e canonical
+p>;y-*eck matrices1 :at >e ! correspond+
+/&>d g5}ator matrices8 ,:at >e !
+}ror-detec;n & }ror-correc;n
+capabilities ( ! code g5}at$ by ea* ( ~!
+matrices8
+_%
+
+,(#1 #1 #0 #0 #0,)
+,(#0 #0 #1 #0 #0,)
+,(#0 #0 #0 #1 #0,)
+,(#1 #0 #0 #0 #1,)
+
+_:
+
+
+                                    #faj
+_%
+
+,(#0 #1 #1 #0 #0 #0,)
+,(#1 #1 #0 #1 #0 #0,)
+,(#0 #1 #0 #0 #1 #0,)
+,(#1 #1 #0 #0 #0 #1,)
+
+_:
+_%
+
+,(#1 #1 #1 #0,)
+,(#1 #0 #0 #1,)
+
+_:
+_%
+
+,(#0 #0 #0 #1 #0 #0 #0,)
+,(#0 #1 #1 #0 #1 #0 #0,)
+,(#1 #0 #1 #0 #0 #1 #0,)
+,(#0 #1 #1 #0 #0 #0 #1,)
+
+_:
+
+,h9t4 "<a"> ,a canonical p>;y-*eck
+matrix ) /&>d g5}ator matrix        #faa
+_%
+
+,g .k ,(#1,)
+      ,(#1,)
+      ,(#0,)
+      ,(#0,)
+      ,(#1,)
+
+_:4
+  "<;c"> ,a canonical p>;y-*eck matrix )
+/&>d g5}ator matrix
+_%
+
+,g .k ,(#1 #0,)
+      ,(#0 #1,)
+      ,(#1 #1,)
+      ,(#1 #0,)
+
+_:4
+
+#ab4 ,li/ all possible syndromes = !
+codes g5}at$ by ea* ( ! matrices 9
+,ex}cise #h4f4aa4
+
+,h9t4 "<a"> ,all possible           #fab
+syndromes o3ur4
+
+#ac4 ,let
+_%
+
+,h .k ,(#0 #1 #1 #1 #1,)
+      ,(#0 #0 #0 #1 #1,)
+      ,(#1 #0 #1 #0 #1,)
+
+_:4
+,compute ! syndrome caus$ by ea* ( !
+foll{+ transmis.n }rors4
+a4 ,an }ror 9 ! f/ bit4
+;b4 ,an }ror 9 ! ?ird bit4
+;c4 ,an }ror 9 ! la/ bit4
+;d4 ,}rors 9 ! ?ird & f|r? bits4
+
+#ad4 ,let ;,c 2 ! gr|p code 9
+_% `;,z2~3 _: def9$ by ! code~ws
+_% (000) _: & _% (111) _:4 ,compute !
+cosets ( ;,c 9 _% `;,z2~3 _:4 ,:y 0 "!
+no ne$ to specify "r or left cosets8
+,give ! s+le transmis.n }ror1 if any1 to
+: ea* coset corresponds4
+                                    #fac
+#ae4 ,= ea* ( ! foll{+ matrices1 f9d !
+cosets ( ! correspond+ code ;,c4 ,give a
+decod+ table = ea* code if possible4
+_%
+
+,(#0 #1 #0 #0 #0,)
+,(#1 #0 #1 #0 #1,)
+,(#1 #0 #0 #1 #0,)
+
+_:
+_%
+
+,(#0 #0 #1 #0 #0,)
+,(#1 #1 #0 #1 #0,)
+,(#0 #1 #0 #1 #0,)
+,(#1 #1 #0 #0 #1,)
+
+_:
+_%
+
+,(#1 #0 #0 #1 #1,)
+,(#0 #1 #0 #1 #1,)
+
+_:
+                                    #fad
+_%
+
+,(#1 #0 #0 #1 #1 #1 #1,)
+,(#1 #1 #1 #0 #0 #1 #1,)
+,(#1 #0 #1 #0 #1 #0 #1,)
+,(#1 #1 #1 #0 #0 #1 #0,)
+
+_:
+
+,h9t4 "<a"> ;,c1 _% (10000)+,c _:1
+_% (01000)+,c _:1 _% (00100)+,c _:1
+_% (00010)+,c _:1 _% (11000)+,c _:1
+_% (01100)+,c _:1 _% (01010)+,c _:4 ,a
+decod+ table does n exi/ = ;,c s9ce ? is
+only a s+le }ror-detect+ code4
+
+#af4 ,let _% _;x _:1 _% _;y _:1 &
+_% _;z _: 2 b9>y ;n-tuples4 ,prove ea* (
+! foll{+ /ate;ts4
+a4 _% w(_;x) .k d(_;x, _#0) _:
+;b4 _% d(_;x, _;y) .k d(_;x+_;z,
+_;y+_;z) _:
+;c4 _% d(_;x, _;y) .k w(_;x-_;y) _:
+
+#ag4 ,a ~1metric on a set ;,x is    #fae
+a map _% d"1 ,x`*,x $o `;,r _: satisfy+
+! foll{+ 3di;ns4
+a4 _% d(_;x, _;y) .1: #0 _: = all
+_% _;x, _;y `e ,x _:2
+;b4 _% d(_;x, _;y) .k #0 _: exactly :5
+_% _;x .k _;y _:2
+;c4 _% d(_;x, _;y) .k d(_;y, _;x) _:2
+;d4 _% d(_;x, _;y) "k: d(_;x,
+_;z)+d(_;z, _;y) _:4
+,9 o!r ~ws1 a metric is simply a
+g5}aliza;n ( ! no;n ( 4t.e4 ,prove t
+,hamm+ 4t.e is a metric on
+_% `;,z2~n _:4 ,decod+ a message
+actually r$uces to decid+ : is ! close/
+code~w 9 t}ms ( 4t.e4
+
+#ah4 ,let ;,c 2 a l9e> code4 ,%{ t ei !
+i? coord9ates 9 ! code~ws ( ;,c >e all
+z}os or exactly half ( !m >e z}os4
+
+#ai4 ,let ;,c 2 a l9e> code4 ,%{ t ei e
+code~w has ev5 wei<t or exactly half ( !
+code~ws h ev5 wei<t4
+
+,h9t4 ,let _% _;x `e ,c _: h odd    #faf
+wei<t & def9e a map f ! set ( odd
+code~ws to ! set ( ev5 code~ws by _% _;y
+$|33o _;x+_;y _:4 ,%{ t ? map is a
+bijec;n4
+
+#bj4 ,%{ t ! code~ws ( ev5 wei<t 9 a
+l9e> code ;,c >e al a l9e> code4
+
+#ba4 ,if we >e to use an }ror-correct+
+l9e> code to transmit ! #abh ,,ascii
+"*s1 :at size matrix m/ 2 us$8 ,:at size
+matrix m/ 2 us$ to transmit ! ext5d$
+,,ascii "* set ( #bef "*s8 ,:at if we
+require only }ror detec;n 9 bo? cases8
+
+#bb4 ,f9d ! canonical p>;y-*eck matrix t
+gives ! ev5 p>;y *eck bit code ) ?ree
+9=ma;n posi;ns4 ,:at is ! matrix = sev5
+9=ma;n posi;ns8 ,:at >e ! correspond+
+/&>d g5}ator matrices8
+
+#bc4 ,h{ _m *eck posi;ns >e ne$$ = a
+s+le }ror-correct+ code ) #bj 9=ma;n
+posi;ns8 ,) #cb 9=ma;n posi;ns8
+                                    #fag
+,h9t4 ,= #bj 9=ma;n posi;ns1 at l1/ #f
+*eck bits >e ne$$ to 5sure an
+}ror-correct+ code4
+
+#bd4 ,let _% _;e;i _: 2 ! b9>y ;n-tuple
+) a #a 9 ! i? coord9ate & #j's else": &
+suppose t _% ,h `e `;,m;m`*n"(`;,z2) _:4
+,%{ t _% ,h_;e;i _: is ! i? column ( !
+matrix ;,h4
+
+#be4 ,let ;,c 2 an _% (n, k) _:-l9e>
+code4 ,def9e ! ~1dual or ~1or?ogonal
+~1code ( ;,c  to 2
+_%
+
+,c~$p .k .(_;x `e `;,z2~n_3_;x*_;y .k #0
+for all _;y `e ,c.)
+
+_:4
+a4 ,f9d ! dual code ( ! l9e> code ;,c ":
+;,c is giv5 by ! matrix
+
+
+
+                                    #fah
+_%
+
+,(#1 #1 #1 #0 #0,)
+,(#0 #0 #1 #0 #1,)
+,(#1 #0 #0 #1 #0,)
+
+_:4
+;b4 ,%{ t _% ,c~$p _: is an _% (n,
+n-k) _:-l9e> code4
+;c4 ,f9d ! /&>d g5}ator & p>;y-*eck
+matrices ( ;,c & _% ,c~$p _:4 ,:at
+happ5s 9 g5}al8 ,prove yr 3jecture4
+
+#bf4 ,let ;,h 2 an _% m`*n _: matrix ov}
+_% `;,z2 _:1 ": ! i? column is ! numb} i
+writt5 9 b9>y ) ;m bits4 ,! null space (
+s* a matrix is call$ a ~1,hamm+ ~1code4
+a4 ,%{  t ! matrix
+_%
+
+,h .k ,(#0 #0 #0 #1 #1 #1,)
+      ,(#0 #1 #1 #0 #0 #1,)
+      ,(#1 #0 #1 #0 #1 #0,)
+
+_:                                  #fai
+g5}ates a ,hamm+ code4 ,:at >e !
+}ror-correct+ prop}ties ( a ,hamm+ code8
+;b4 ,! column correspond+ to ! syndrome
+al m>ks ! bit t 0 9 }ror2 t is1 ! i?
+column ( ! matrix is i writt5 z a b9>y
+numb}1 & ! syndrome immly tells u : bit
+is 9 }ror4 ,if ! rcvd ~w is
+_% (101011) _:1 compute ! syndrome4 ,9 :
+bit did ! }ror o3ur 9 ? case1 & :at
+code~w 0 orig9ally transmitt$8
+;c4 ,give a b9>y matrix ;,h = ! ,hamm+
+code ) six 9=ma;n posi;ns & f|r *eck
+posi;ns4 ,:at >e ! *eck posi;ns & :at >e
+! 9=ma;n posi;ns8 ,5code ! messages
+_% (101101) _: & _% (001001) _:4 ,decode
+! rcvd ~ws _% (0010000101) _: &
+_% (0000101100) _:4 ,:at >e ! possible
+syndromes = ? code8
+;d4 ,:at is ! numb} ( *eck bits & !
+numb} ( 9=ma;n bits 9 an _% (m, n) _:
+-block ,hamm+ code8 ,give bo? an upp} &
+a l{} b.d on ! numb} ( 9=ma;n bits 9
+t}ms ( ! numb} ( *eck bits4 ,hamm+ codes
+hav+ ! maximum possible numb} ( 9=ma;n
+bits ) ;k *eck bits >e call$        #fbj
+~1p}fect4 ,e possible syndrome except
+_% _#0 _: o3urs z a column4 ,if ! numb}
+( 9=ma;n bits is less ?an ! maximum1 !n
+! code is call$ ~1%ort5$4 ,9 ? case1
+give an example %{+ t "s syndromes c
+repres5t multiple }rors4
+
+    #h4g ,programm+ ,ex}cises
+
+#a4 ,write a program to imple;t a
+_% (16, 12) _:-l9e> code4 ,yr program %d
+2 able to 5code & decode messages us+
+coset decod+4 ,once yr program is
+writt51 write a program to simulate a
+b9>y symmetric *annel ) transmis.n
+noise4 ,comp>e ! results ( yr simula;n )
+! !oretically pr$ict$ }ror probabil;y4
+
+    #h4h ,ref};es & ,su7e/$ ,r1d+s
+.<#a.>  ,blake1 ,i4 ;,f4 8,codes &
+  ,designs10 .1,ma!matics .1,magaz9e
+  ~1#eb "<#aigi">1 #ha,-#ie4
+.<#b.>  ,hill1 ;,r4 .7,a ,f/ ,c|rse 9
+  ,cod+ ,!ory.'4 ,ox=d ,univ}s;y ,press1
+  ,ox=d1 #aiij4                     #fba
+.<#c.>  ,lev9son1 ;,n4 8,cod+ ,!ory3 ,a
+  ,c.t}example to ;,g4 ;,h4 ,h>dy's
+  ,3cep;n ( ,appli$ ,ma!matics10
+  .7,am}ican ,ma!matical ,mon?ly.' ~1#gg
+  "<#aigj">1 #bdi,-#eh4
+.<#d.>  ,lidl1 ;,r4 & ,pilz1 ;,g4
+  .7,appli$ ,ab/ract ,algebra.'4 #bnd $4
+  ,spr+}1 ,new ,york1 #aiih4
+.<#e.>  ,mac,williams1 ;,f4 ;,j4 &
+  ,sloane1 ;,,,n4 ;j4 a4,' .7,! ,!ory (
+  ,}ror-,correct+ ,codes.'4 ,nor?-,holl&
+  ,ma!matical ,libr>y1 #af1 ,elsevi}1
+  ,am/}dam1 #aihc4
+.<#f.>  ,roman1 ;,s4 .7,cod+ & ,9=ma;n
+  ,!ory.'4 ,spr+}-,v}lag1 ,new ,york1
+  #aiib4
+.<#g.>  ,%annon1 ;,,,c4 ;e4 8a,'
+  ,ma!matical ,!ory ( ,communica;n10
+  .7,bell ,sy/em ,te*nical ,j|rnal.'
+  ~1#bg "<#aidh">1 #cgi,-#dbc1
+  #fbc,-#ef4
+.<#h.>  ,?ompson1 ;,t4 ;,m4 .7,f
+  ,}ror-,correct+ ,codes "? ,sp"h ,pack+
+  to ,simple ,gr|ps.'4 ,c>us ,monograph
+  ,s}ies1 ,no4 #ba4 ,ma!matical     #fbb
+  ,associa;n ( ,am}ica1 ,wa%+ton1 ,,dc1
+  #aihc4
+.<#i.>  van ,l9t1 ;,j4 ;,h4 .7,9troduc;n
+  to ,cod+ ,!ory.'4 ,spr+}1 ,new ,york1
+  #aiii4
+
+    #h4i ,sage
+  ,sage has a full suite ( l9e> codes &
+a v>iety ( me?ods t may 2 us$ to
+9ve/igate !m4
+
+      ,3/ruct+ ,l9e> ,codes
+  ,! `#1codes object c 2 us$ to get a
+3cise li/+ ( ! available imple;t$ codes4
+,type `#1codes4 & press ! `#1,tab key &
+mo/ 9t}faces to ,sage w give y a li/4 ,y
+c !n use a "q m>k at ! 5d ( a me?od "n
+to le>n ab ! v>i|s p>amet}s4
+
+`#1codes4
+
+  ,we w use ! classic b9>y ,hamm+ _% (7,
+4) _: code z an illu/ra;n4  8,b9>y0 m1ns
+we h vectors ) j #j's & #a's1 ! #g is !
+l5g? & m1ns ! vectors h #g          #fbc
+coord9ates1 & ! #d is ! dim5.n1 m1n+ ?
+code has _% #2~4 .k #16 _: vectors
+compris+ ! code4 ,! docu;ta;n assumes we
+"k a few ?+s f lat} 9 ! c|rse4 ,we use
+`#1,,gf"<#b"> to specify t |r code is
+b9>y ,- ? w make m s5se at ! 5d ( !
+c|rse4 ,a second p>amet} is `#2;r & we c
+see f ! =mulas 9 ! docum5a;n t sett+
+`#1r"7#c w give l5g? #g4
+
+`#7;,h "7 codes4,hamm+,code"<,,gf"<#b">1
+#c">2 ;,h`#'
+-----------------
+`#7.<#g1 #d.> ,hamm+ ,code ov}
+,,gf"<#b">`#'
+
+
+      ,prop}ties ( ,l9e> ,codes
+  ,we c exam9e ! ,hamm+ code we j built4
+,f/ ! dim5.n4
+
+`#1,h4dim5.n"<">
+-----------------
+`#2#d
+                                    #fbd
+  ,! code is small 5 t we c li/ all !
+code~ws4
+
+`#1,h4li/"<">
+-----------------
+`#7.<"<#j1 #j1 #j1 #j1 #j1 #j1 #j">1
+"<#a1 #j1 #j1 #j1 #j1 #a1 #a">1 "<#j1
+#a1 #j1 #j1 #a1 #j1 #a">1`#'
+ `#7"<#a1 #a1 #j1 #j1 #a1 #a1 #j">1
+"<#j1 #j1 #a1 #j1 #a1 #a1 #j">1 "<#a1
+#j1 #a1 #j1 #a1 #j1 #a">1`#'
+ `#7"<#j1 #a1 #a1 #j1 #j1 #a1 #a">1
+"<#a1 #a1 #a1 #j1 #j1 #j1 #j">1 "<#j1
+#j1 #j1 #a1 #a1 #a1 #a">1`#'
+ `#7"<#a1 #j1 #j1 #a1 #a1 #j1 #j">1
+"<#j1 #a1 #j1 #a1 #j1 #a1 #j">1 "<#a1
+#a1 #j1 #a1 #j1 #j1 #a">1`#'
+ `#7"<#j1 #j1 #a1 #a1 #j1 #j1 #a">1
+"<#a1 #j1 #a1 #a1 #j1 #a1 #j">1 "<#j1
+#a1 #a1 #a1 #a1 #j1 #j">1`#'
+ `#7"<#a1 #a1 #a1 #a1 #a1 #a1 #a">.>`#'
+
+  ,! m9imum 4t.e is p}h "o ( ! mo/
+important prop}ties4 ,hamm+ codes alw h
+m9imum 4t.e _% d .k #3 _:1 s !y     #fbe
+>e alw s+le }ror-correct+4
+
+`#1,h4m9imum.-di/.e"<">
+-----------------
+`#2#c
+
+  ,we "k t ! p>;y-*eck matrix & !
+g5}ator matrix >e use;l = ! 3/ruc;n1
+descrip;n & analysis ( l9e> codes4 ,!
+,sage me?od "ns >e j a bit cryptic4
+,sage has ext5sive r|t9es = analyz+
+matrices ) ele;ts f di6}5t fields1 s we
+p}=m m* ( ! subsequ5t analysis ( ~!
+matrices )9 ,sage4
+
+`#7;,c "7 ,h4p>;y.-*eck.-matrix"<">2
+;,c`#'
+-----------------
+`#1.<#a"j"a"j"a"j"a.>
+`#1.<#j"a"a"j"j"a"a.>
+`#1.<#j"j"j"a"a"a"a.>
+
+  ,! g5}ator matrix "h 9 ! text has
+.1columns t >e code~ws1 & l9e> comb9a;ns
+( ! columns "<! column space ( !    #fbf
+matrix"> >e code~ws4 ,9 ,sage ! g5}ator
+matrix has .1r{s t >e code~ws & ! r{
+space ( ! matrix is ! code4 ,s "h is
+ano!r place ": we ne$ to m5tally
+translate 2t a *oice made 9 ! text & a
+*oice made by ! ,sage develop}s4
+
+`#7;,g "7 ,h4g5}ator.-matrix"<">2 ;,g`#'
+-----------------
+`#1.<#a"j"j"j"j"a"a.>
+`#1.<#j"a"j"j"a"j"a.>
+`#1.<#j"j"a"j"a"a"j.>
+`#1.<#j"j"j"a"a"a"a.>
+
+  ,"h is a "pial te/ t ~! two matrices
+>e correct1 ex}cis+ ,lemma #h4bg4
+,notice t we ne$ to use ! transpose ( !
+g5}ator matrix1 = r1sons describ$ abv4
+
+`#7,c"9,g4transpose"<"> "7"7
+z}o.-matrix"<#c1 #d">`#'
+-----------------
+`#1,true
+
+  ,note t ! p>;y-*eck may n 2       #fbg
+canonical & ! g5}ator matrix may n 2
+/&>d4 ,sage c produce a g5}ator matrix t
+has a set ( columns t =ms an id5t;y
+matrix1 ?|< no gu>antee is made t ~!
+columns >e ! f/ columns4 "<,columns1 n
+r{s4"> ,s* a matrix is sd to 2
+~1sy/ematic1 & ! ,sage me?od is
+`#1;4sy/ematic.-g5}ator.-matrix"<">4
+
+`#1,h4sy/ematic.-g5}ator.-matrix"<">
+-----------------
+`#1.<#a"j"j"j"j"a"a.>
+`#1.<#j"a"j"j"a"j"a.>
+`#1.<#j"j"a"j"a"a"j.>
+`#1.<#j"j"j"a"a"a"a.>
+
+
+      ,decod+ ) a ,l9e> ,code
+  ,we c decode rcvd messages orig9at+ f
+a l9e> code4 ,suppose we rcv ! l5g? #g
+b9>y vector `#2;r4
+
+
+
+                                    #fbh
+`#7;r "7 vector"<,,gf"<#b">1 .<#a1 #a1
+#a1 #a1 #j1 #j1 #a.>">2 ;r`#'
+-----------------
+`#7"<#a1 #a1 #a1 #a1 #j1 #j1 #a">`#'
+
+  ,we c recognize t "o or m }rors has
+o3ur$1 s9ce `#2;r is n 9 ! code1 z !
+next computa;n does n yield ! z}o
+vector4
+
+`#1,c"9r
+-----------------
+`#7"<#a1 #a1 #j">`#'
+
+  ,a l9e> code has a `#1;4decode me?od4
+,y may *oose f s"eal di6}5t algori?ms1
+:ile ! ,hamm+ codes h _! {n cu/om
+algori?m4 ,! default algori?m is
+syndrome decod+4
+
+`#1,h4decode.-to.-code"<r">
+-----------------
+`#7"<#a1 #a1 #j1 #a1 #j1 #j1 #a">`#'
+
+  ,s if we >e will+ to assume t     #fbi
+only "o }ror o3ur$ "<: we mi<t1 if !
+probabil;y ( an 9divual 5try ( ! vector
+2+ 9 }ror is v l{">1 !n we see t an }ror
+o3ur$ 9 ! ?ird posi;n4
+  ,rememb} t x cd happ5 t "! 0 m ?an j
+"o }ror4 ,= example1 suppose ! message 0
+! same z 2f & }rors o3urr$ 9 ! ?ird1
+fif? & six? loca;ns4
+
+`#7message "7 vector"<,,gf"<#b">1 .<#a1
+#a1 #j1 #a1 #j1 #j1 #a.>">`#'
+`#7}rors "7 vector"<,,gf"<#b">1 .<#j1
+#j1 #a1 #j1 #a1 #a1 #j.>">`#'
+`#7rcvd "7 message "6 }rors`#'
+`#1rcvd
+-----------------
+`#7"<#a1 #a1 #a1 #a1 #a1 #a1 #a">`#'
+
+  ,x !n appe>s t we h rcvd a code~w1 s
+we assume no }rors at all1 & decode
+9correctly4
+
+
+
+                                    #fcj
+`#7,h4decode.-to.-code"<receiv$"> "7"7
+message`#'
+-----------------
+`#1,false
+
+
+`#7,h4decode.-to.-code"<receiv$"> "7"7
+rcvd`#'
+-----------------
+`#1,true
+
+
+    #h4aj ,sage ,ex}cises
+
+#a4 ,cr1te ! "<b9>y"> ,golay code ) !
+`#1codes4,golay,code"<"> 3/ructor4 ,r1d
+! docu;ta;n to 2 sure y build ! b9>y
+v}.n "<n t}n>y">1 & d n build ! ext5d$
+v}.n "<: is ! default">4
+a4 ,use ,sage me?ods to compute ! l5g?1
+dim5.n & m9imum 4t.e ( ! code4
+;b4 ,h{ _m }rors c ? code detect8 ,h{ _m
+c x correct8
+;c4 ,f9d a nonz}o code~w & 9troduce ?ree
+}rors by add+ a vector ) ?ree       #fca
+#a's "<yr *oice"> to cr1te a rcvd
+message4 ,%{ t ! message is decod$
+prop}ly4
+;d4 ,recycle yr *oices f ! previ|s "p1 b
+n{ add "o m }ror4 ,does ! new rcvd
+message get decod$ prop}ly8
+
+#b4 ,"o te*nique = improv+ ! "*i/ics ( a
+code is to add an ov}all p>;y-*eck bit1
+m* l ! l"o p>;y-*eck bit ( ! ,,ascii
+code describ$ 9 ,example #h4c4 ,s* codes
+>e ref}r$ to z ! ~1ext5d$ v}.n ( !
+orig9al4
+a4 ,3/ruct ! "<b9>y"> ,golay code &
+obta9 ! p>;y-*eck matrix4 ,use ,sage
+comm&s to 5l>ge ? matrix to cr1te a new
+p>;y *eck matrix t has an addi;nal
+ov}all p>;y-*eck bit4 ,y may f9d !
+matrix me?ods `#1;4aug;t"<"> &
+`#1;4/ack"<"> use;l1 z well z !
+3/ructors `#1z}o.-vector"<"> &
+`#1"os.-matrix"<">"<rememb}+ t we
+specify ! b9>y 5tries z 2+ f ! field
+`#1,,gf"<#b">4">
+  ,cr1te ! ext5d$ code by supply+   #fcb
+yr 5l>g$ p>;y-*eck matrix to !
+`#1codes4from.-p>;y.-*eck.-matrix"<">
+3/ructor & compute ! l5g?1 dim5.n &
+m9imum 4t.e ( ! ext5d$ code4
+;b4 ,h{ >e ! prop}ties ( ? new code
+bett}8 ,at :at co/8
+;c4 ,n{ cr1te ! ext5d$ "<b9>y"> ,golay
+code ) ! ,sage 3/ructor
+`#1codes4,golay,code"<"> & ! correct
+key~w to obta9 ! ext5d$ v}.n4 ,) luck1 !
+sort$ li/s ( yr code~ws & ,sage's
+code~ws w 2 equal4 ,if n1 ! l9e> code
+me?od `#1;4is.-p}muta;n.-equival5t"<">
+%d return `#1,true to 9dicate t yr code
+& ,sage's >e j re>range;ts ( ea* o!r4
+
+#c4 .1,note3 ,? problem is on holi"d "<z
+( ,sage #f4g">1 :ile "s bu7y ,sage code
+= ! m9imum 4t.e ( a ,hamm+ code gets
+sort$ |4 ,! `#7;r "7 #b`#' case produces
+an }ror message & = `#7;r `> #e`#' !
+computa;n ( ! m9imum 4t.e has 2come
+9tol}ably sl{4 ,s x is a bit h>d} to
+make a r1sonable 3jecture f j #c cases4
+  ,! dual ( an _% (n, k) _: block   #fcc
+code is =m$ z all ! set ( all b9>y
+vectors : >e or?ogonal to e vector ( !
+orig9al code4 ,ex}cise #h4f4be describes
+? 3/ruc;n & asks ab "s ( xs prop}ties4
+  ,y c 3/ruct ! dual ( a code 9 ,sage )
+! `#1;4dual.-code"<"> me?od4 ,3/ruct !
+b9>y ,hamm+ codes1 & _! duals1 ) !
+p>amet} `#2;r rang+ f `#2#b to `#2#e1
+9clusive4 ,build a table ) six columns
+"<p}h employ+ ! `#1html4table"<">
+func;n"> t li/s ;r1 ! l5g? ( ! codes1 !
+dim5.ns ( ! orig9al & ! dual1 & ! m9imum
+4t.es ( ! org9al & ! dual4
+  ,3jecture =mulas = ! dim5.n & m9imum
+4t.e ( ! dual ( ! ,hamm+ code z
+expres.ns 9 ! p>amet} ;r4
+
+#d4 ,a code ) m9imum 4t.e ;d is call$
+~1p}fect if e possible vector is )9
+,hamm+ 4t.e _% (d-1)_/2 _: ( "s code~w4
+,if we exp& |r no;n ( geometry to a3.t =
+! ,hamm+ 4t.e z ! metric1 !n we c sp1k (
+a sp"h ( radius ;r >.d a vector "<or
+code~w4 ,= a code ( l5g? ;n1 s* a sp"h w
+3ta9                                #fcd
+_%
+
+#1+(n%#1)+(n%#2)+''' +(n%r)
+
+_:
+vectors )9 9 x4 ,= a p}fect code1 !
+sp"hs ( radius ;d c5t}$ at ! code~ws ( !
+code w exactly "pi;n ! 5tire set ( all
+possible vectors4 "<,? is ! 3nec;n t
+m1ns t cod+ !ory me%es ) sp"h pack+
+problems4">
+  ,a 3sequ;e ( a code ( dim5.n ;k 2+
+p}fect is t
+_%
+
+#2~k"((n%#0)+(n%#1)+(n%#2)+'''
++(n%?d-1/2#)) .k #2~n
+
+_:
+,3v}sely1 if a code has m9imum 4t.e ;d &
+! 3di;n abv is true1 !n ! code is
+p}fect4
+  ,write a ,py?on func;n1 "nd
+`#1is.-p}fect"<"> : a3epts a l9e> code z
+9put & returns `#1,true or          #fce
+`#1,false4 ,demon/rate yr func;n by
+*eck+ t ! "<b9>y"> ,golay code is
+p}fect1 & !n use a loop to v}ify t !
+"<b9>y"> ,hamm+ codes >e p}fect = all
+l5g?s 2l #cb4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #fcf
+

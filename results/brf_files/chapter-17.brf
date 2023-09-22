@@ -1,0 +1,2201 @@
+            #ag ,polynomials
+
+  ,mo/ p >e fairly famili> ) polynomials
+by ! "t !y 2g9 to /udy ab/ract algebra4
+,:5 we exam9e polynomial expres.ns s* z
+_%
+
+p(x) .k x~3"-3x+2
+q(x) .k #3x~2"-6x+5
+
+_:1
+we h a pretty gd idea ( :at
+_% p(x)+q(x) _: & _% p(x)q(x) _: m1n4
+,we j add & multiply polynomials z
+func;ns2 t is1
+_%
+
+(p+q)(x)                    .k p(x)+q(x)
+.k (x~3"-3x+2)+(3x~2"-6x+5)
+.k x~3"+3x~2"-9x+7
+
+_:
+&
+
+                                   #abji
+_%
+
+(pq)(x)                             .k
+p(x)q(x)
+.k (x~3"-3x+2)(3x~2"-6x+5)
+.k #3x~5"-6x~4"-4x~3"+24x~2"-27x+10
+
+_:4
+,x is probably no surprise t polynomials
+=m a r+4 ,9 ? *apt} we % emphasize !
+algebraic /ructure ( polynomials by
+/udy+ polynomial r+s4 ,we c prove _m
+results = polynomial r+s t >e simil> to
+! !orems we prov$ = ! 9teg}s4 ,analogs (
+prime numb}s1 ! divi.n algori?m1 & !
+,euclid1n algori?m exi/ = polynomials4
+
+    #ag4a ,polynomial ,r+s
+  ,"?|t ? *apt} we % assume t ;,r is a
+commutative r+ ) id5t;y4 ,any expres.n (
+! =m
+
+
+
+                                   #abaj
+_%
+
+f(x) .k ".,s%i .k #0<n}a;i"x~i .k
+a0+a1x+a2x~2+''' +a;n"x~n
+
+_:1
+": _% a;i" `e ,r _: & _% a;n /.k #0 _:1
+is call$ a ~7polynomial ov} ;,r~' )
+~19det}m9ate ;x4 ,! ele;ts _% a0, a1,
+''', a;n _: >e call$ ! ~1coe6ici5ts (
+;f4 ,! coe6ici5t _% a;n _: is call$ !
+~1l1d+ ~1coe6ici5t4 ,a polynomial is
+call$ ~1monic if ! l1d+ coe6ici5t is #a4
+,if ;n is ! l>ge/ nonnegative numb} = :
+_% a;n /.k #0 _:1 we say t ! ~1degree (
+;f is ;n & write _% deg f(x) .k n _:4
+,if no s* ;n exi/s,-t is1 if _% f .k
+#0 _: is ! z}o polynomial,-!n ! degree (
+;f is def9$ to 2 _% -,= _:4 ,we w d5ote
+! set ( all polynomials ) coe6ici5ts 9 a
+r+ ;,r by _% ,r`(x`) _:4  ,two
+polynomials >e equal exactly :5 _!
+correspond+ coe6ici5ts >e equal2 t is1
+if we let
+                                   #abaa
+_%
+
+p(x) .k a0+a1x+''' +a;n"x~n"
+q(x) .k b0+b1x+''' +b;m"x~m
+
+_:1
+!n _% p(x) .k q(x) _: if & only if
+_% a;i .k b;i _: = all _% i .1: #0 _:4
+  ,to %{ t ! set ( all polynomials =ms a
+r+1 we m/ f/ def9e addi;n &
+multiplica;n4 ,we def9e ! sum ( two
+polynomials z foll{s4 ,let
+_%
+
+p(x) .k a0+a1x+''' +a;n"x~n"
+q(x) .k b0+b1x+''' +b;m"x~m
+
+_:4
+,!n ! sum ( _% p(x) _: & _% q(x) _: is
+_%
+
+p(x)+q(x) .k c0+c1x+''' +c;k"x~k
+
+_:1
+": _% c;i .k a;i"+b;i _: = ea*     #abab
+i4 ,we def9e ! product ( _% p(x) _: &
+_% q(x) _: to 2
+_%
+
+p(x)q(x) .k c0+c1x+''' +c;m+n"x~m+n
+
+_:1
+":
+_%
+
+c;i .k ".,s%k .k #0<i}a;k"b;i-k .k
+a0b;i"+a1b;i-1+''' +a;i-1"b1+a;i"b0
+
+_:
+= ea* i4 ,notice t 9 ea* case "s ( !
+coe6ici5ts may 2 z}o4
+
+7777777777777777777777777777777777777777
+,example #ag4a
+  ,suppose t
+_%
+
+p(x) .k #3+0x+0x~2"+2x~3"+0x~4
+
+_:                                 #abac
+&
+_%
+
+q(x) .k #2+0x-x~2"+0x~3"+4x~4
+
+_:
+>e polynomials 9 _% `;,z`(x`) _:4 ,if !
+coe6ici5t ( "s t}m 9 a polynomial is
+z}o1 !n we usually j omit t t}m4 ,9 ?
+case we  wd write _% p(x) .k #3+2x~3 _:
+& _% q(x) .k #2-x~2"+4x~4 _:4 ,! sum (
+~! two polynomials is
+_%
+
+p(x)+q(x) .k #5-x~2"+2x~3"+4x~4
+
+_:4
+,! product1
+_%
+
+p(x)q(x) .k (3+2x~3")(2-x~2"+4x~4") .k
+#6-3x~2"+4x~3"+12x~4"-2x~5"+8x~7
+
+_:1
+c 2 calculat$ ei by det}m9+ !      #abad
+_% c;i _:;s 9 ! def9i;n or by simply
+multiply+ polynomials 9 ! same way z we
+h alw d"o4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ag4b
+  ,let
+_%
+
+p(x) .k #3+3x~3" and q(x) .k
+#4+4x~2"+4x~4
+
+_:
+2 polynomials 9 _% `;,z12`(x`) _:4 ,!
+sum ( _% p(x) _: & _% q(x) _: is
+_% #7+4x~2"+3x~3"+4x~4 _:4 ,! product (
+! two polynomials is  ! z}o polynomial4
+,? example tells u t we c n expect
+_% ,r`(x`) _: to 2 an 9tegral doma9 if
+;,r is n an 9tegral doma94
+gggggggggggggggggggggggggggggggggggggggg
+
+                                   #abae
+7777777777777777777777777777777777777777
+,!orem #ag4c
+  ,let ;,r 2 a commutative r+ ) id5t;y4
+,!n _% ,r`(x`) _: is a commutative r+ )
+id5t;y4
+
+,pro(4 ,|r f/ task is to %{ t
+_% ,r`(x`) _: is an abelian gr|p "u
+polynomial addi;n4 ,! z}o polynomial1
+_% f(x) .k #0 _:1 is ! additive id5t;y4
+,giv5 a polynomial _% p(x) .k ".,s%i .k
+#0<n}a;i"x~i _:1 ! 9v}se ( _% p(x) _: is
+easily v}ifi$ to 2 _% -p(x) .k ".,s%i .k
+#0<n}(-a;i")x~i .k -".,s%i .k
+#0<n}a;i"x~i _:4 ,commutativ;y &
+associativ;y foll{ immly f ! def9i;n (
+polynomial addi;n & f ! fact t addi;n 9
+;,r is bo? commutative & associative4
+  ,to %{ t polynomial multiplica;n is
+associative1 let
+
+
+
+
+                                   #abaf
+_%
+
+p(x) .k ".,s%i .k #0<m}a;i"x~i,
+q(x) .k ".,s%i .k #0<n}b;i"x~i,
+r(x) .k ".,s%i .k #0<p}c;i"x~i
+
+_:4
+,!n
+_%
+
+`(p(x)q(x)`)r(x)                       
+                                       
+ .k `((".,s%i .k #0<m}a;i"x~i")(".,s%i
+.k #0<n}b;i"x~i")`)(".,s%i .k
+#0<p}c;i"x~i")
+.k `(".,s%i .k #0<m+n}(".,s%j .k
+#0<i}a;j"b;i-j")x~i"`)(".,s%i .k
+#0<p}c;i"x~i")
+.k ".,s%i .k #0<m+n+p}`(".,s%j .k
+#0<i}(".,s%k .k
+#0<j}a;k"b;j-k")c;i-j"`)x~i"
+.k ".,s%i .k #0<m+n+p}(".,s%j+k+l .k
+i}a;j"b;k"c;l")x~i"
+.k ".,s%i .k #0<m+n+p}`(".,s%j .k
+#0<i}a;j"(".,s%k .k                #abag
+#0<i-j}b;k"c;i-j-k")`)x~i"
+.k (".,s%i .k #0<m}a;i"x~i")`(".,s%i .k
+#0<n+p}(".,s%j .k #0<i}b;j"c;i-j")x~i"`)
+.k (".,s%i .k #0<m}a;i"x~i")`((".,s%i .k
+#0<n}b;i"x~i")(".,s%i .k
+#0<p}c;i"x~i")`)
+.k p(x)`(q(x)r(x)`)
+
+_:
+,! commutativ;y & 4tribu;n prop}ties (
+polynomial multiplica;n >e prov$ 9 a
+simil> mann}4 ,we % l1ve ! pro(s ( ~!
+prop}ties z an ex}cise4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,proposi;n #ag4d
+  ,let _% p(x) _: & _% q(x) _: 2
+polynomials 9 _% ,r`(x`) _:1 ": ;,r is
+an 9tegral doma94 ,!n _% deg p(x)+deg
+q(x) .k deg (p(x)q(x)) _:4 ,fur!rmore1
+_% ,r`(x`) _: is an 9tegral doma94
+
+,pro(4 ,suppose t we h two         #abah
+nonz}o polynomials
+_%
+
+p(x) .k a;m"x~m+''' +a1x+a0
+
+_:
+&
+_%
+
+q(x) .k b;n"x~n+''' +b1x+b0
+
+_:
+) _% a;m /.k #0 _: & _% b;n /.k #0 _:4
+,! degrees ( _% p(x) _: & _% q(x) _: >e
+;m & ;n1 respectively4 ,! l1d+ t}m (
+_% p(x)q(x) _: is _% a;m"b;n"x~m+n _:1 :
+_c 2 z}o s9ce ;,r is an 9tegral doma92
+h;e1 ! degree ( _% p(x)q(x) _: is
+_% m+n _:1 & _% p(x)q(x) /.k #0 _:4
+,s9ce _% p(x) /.k #0 _: & _% q(x) /.k
+#0 _: imply t _% p(x)q(x) /.k #0 _:1 we
+"k t _% ,r`(x`) _: m/ al 2 an 9tegral
+doma94
+gggggggggggggggggggggggggggggggggggggggg
+                                   #abai
+  ,we al want to 3sid} polynomials 9 two
+or m v>iables1 s* z _% x~2"-3xy+2y~3 _:4
+,let ;,r 2 a r+ & suppose t we >e giv5
+two 9det}m9ates ;x & ;y4 ,c}ta9ly we c
+=m ! r+ _% (,r`(x`))`(y`) _:4 ,x is
+/rai<t=w>d b p}h t$i|s to %{ t
+_% (,r`(x`))`(y`) `:.k ,r(`(y`))`(x`)
+_:4 ,we % id5tify ~! two r+s by ?
+isomorphism & simply write _% ,r`(x,
+y`) _:4 ,! r+ _% ,r`(x, y`) _: is call$
+! ~7r+ ( polynomials 9 two 9det}m9ates
+;x & ;y ) coe6ici5ts 9~' ;,r4 ,we c
+def9e ! ~7r+ ( polynomials 9~' ;n
+~79det}m9ates ) coe6ici5ts 9~' ;,r
+simil>ly4 ,we % d5ote ? r+ by _% ,r`(x1,
+x2, ''', x;n"`) _:4
+
+7777777777777777777777777777777777777777
+,!orem #ag4e
+  ,let ;,r 2 a commutative r+ ) id5t;y &
+_% .a `e ,r _:4 ,!n we h a r+
+homomorphism  _% .f;.a"1 ,r`(x`) $o
+,r _: def9$ by
+
+                                   #abbj
+_%
+
+f;.a"(p(x)) .k p(.a) .k a;n".a~n+'''
++a1.a+a0
+
+_:1
+": _% p(x) .k a;n"x~n+''' +a1x+a0 _:4
+
+,pro(4 ,let _% p(x) .k ".,s%i .k
+#0<n}a;i"x~i _: & _% q(x) .k ".,s%i .k
+#0<m}b;i"x~i _:4 ,x is easy to %{ t
+_% f;.a"(p(x)+q(x)) .k
+f;.a"(p(x))+f;.a"(q(x)) _:4 ,to %{ t
+multiplica;n is pres}v$ "u ! map
+_% .f;.a _:1 obs}ve t
+
+
+
+
+
+
+
+
+
+                                   #abba
+_%
+
+f;.a"(p(x))f;.a"(q(x))                 
+               .k p(.a)q(.a)
+.k (".,s%i .k #0<n}a;i".a~i")(".,s%i .k
+#0<m}b;i".a~i")
+.k ".,s%i .k #0<m+n}(".,s%k .k
+#0<i}a;k"b;i-k").a~i"
+.k f;.a"(p(x)q(x))
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! map _% .f;.a"1 ,r`(x`) $o ,r _: is
+call$ ! ~1evalua;n ~1homomorphism at
+_% .a _:4
+
+    #ag4b ,! ,divi.n ,algori?m
+  ,recall t ! divi.n algori?m = 9teg}s
+"<,!orem #b4i"> says t if a & ;b >e
+9teg}s ) _% b .1 #0 _:1 !n "! exi/
+unique 9teg}s ;q & ;r s* t _% a .k
+bq+r _:1 ": _% #0 "k: r "k b _:4 ,!
+algori?m by : ;q & ;r >e f.d is j l;g
+divi.n4 ,a simil> !orem exi/s =    #abbb
+polynomials4 ,! divi.n algori?m =
+polynomials has s"eal important
+3sequ;es4 ,s9ce xs pro( is v simil> to !
+correspond+ pro( = 9teg}s1 x is wor?:ile
+to review ,!orem #b4i at ? po9t4
+
+7777777777777777777777777777777777777777
+,!orem #ag4f ,divi.n ,algori?m4
+  ,let _% f(x) _: & _% g(x) _: 2
+polynomials 9 _% ,f`(x`) _:1 ": ;,f is a
+field &  _% g(x) _: is a nonz}o
+polynomial4 ,!n "! exi/ unique
+polynomials _% q(x), r(x) `e ,f`(x`) _:
+s* t
+_%
+
+f(x) .k g(x)q(x)+r(x)
+
+_:1
+": ei  _% deg r(x) "k deg g(x) _: or
+_% r(x) _: is ! z}o polynomial4
+
+,pro(4 ,we w f/ 3sid} ! exi/;e (
+_% q(x) _: & _% r(x) _:4 ,if _% f(x) _:
+is ! z}o polynomial1 !n            #abbc
+_%
+
+#0 .k #0*g(x)+0_2
+
+_:
+h;e1 bo? ;q & ;r m/ al 2 ! z}o
+polynomial4 ,n{ suppose t _% f(x) _: is
+n ! z}o polynomial & t _% deg f(x) .k
+n _: & _% deg g(x) .k m _:4 ,if _% m .1
+n _:1 !n we c let _% q(x) .k #0 _: &
+_% r(x) .k f(x) _:4 ,h;e1 we may assume
+t _% m "k: n _: & proce$ by 9duc;n on
+;n4 ,if
+_%
+
+f(x) .k a;n"x~n"+a;n-1"x~n-1+''' +a1x+a0
+g(x) .k b;m"x~m"+b;m-1"x~m-1+''' +b1x+b0
+
+_:
+! polynomial
+_%
+
+f'(x) .k f(x)-?a;n"/b;m"#x~n-m"g(x)
+
+_:                                 #abbd
+has degree less ?an ;n or is ! z}o
+polynomial4 ,by 9duc;n1 "! exi/
+polynomials _% q'(x) _: & _% r(x) _: s*
+t
+_%
+
+f'(x) .k q'(x)g(x)+r(x)
+
+_:1
+": _% r(x) .k #0 _: or ! degree (
+_% r(x) _: is less ?an ! degree (
+_% g(x) _:4 ,n{ let
+_%
+
+q(x) .k q'(x)+?a;n"/b;m"#x~n-m
+
+_:4
+,!n
+_%
+
+f(x) .k g(x)q(x)+r(x)
+
+_:1
+) _% r(x) _: ! z}o polynomial or _% deg
+r(x) "k deg g(x) _:4               #abbe
+  ,to %{ t  _% q(x) _: & _% r(x) _: >e
+unique1 suppose t "! exi/ two o!r
+polynomials _% q1(x) _: & _% r1(x) _: s*
+t _% f(x) .k g(x)q1(x)+r1(x) _: ) _% deg
+r1(x) "k deg g(x) _: or _% r1(x) .k
+#0 _:1 s t
+_%
+
+f(x) .k g(x)q(x)+r(x) .k g(x)q1(x)+r1(x)
+
+_:1
+&
+_%
+
+g(x)`(q(x)-q1(x)`) .k r1(x)-r(x)
+
+_:4
+,if _% q(x)-q1(x) _: is n ! z}o
+polynomial1 !n
+_%
+
+deg (g(x)`(q(x)-q1(x)`)) .k deg
+(r1(x)-r(x)) .1: deg g(x)
+
+_:4                                #abbf
+,h{"e1 ! degrees ( bo? _% r(x) _: &
+_% r1(x) _: >e /rictly less ?an ! degree
+( _% g(x) _:2 "!=e1 _% r(x) .k r1(x) _:
+& _% q(x) .k q1(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ag4g
+  ,! divi.n algori?m m}ely =malizes l;g
+divi.n ( polynomials1 a task we h be5
+famili> ) s9ce hi< s*ool4 ,= example1
+suppose t we divide _% x~3"-x~2"+2x-3 _:
+by _% x-2 _:4
+
+
+
+
+
+
+
+
+
+
+                                   #abbg
+  3 ;2 ;2 _% x~2 _:;2 _% + _:;2 ;x2
+  _% + _:;2 #d2 ;2
+  ;x3 _% - _:;2 #b2 _% x~3 _:;2 _% - _:
+  ;2 _% x~2 _:;2 _% + _:;2 _% #2x _:;2
+  _% - _:;2 #c
+  3 ;2 ;2 _% x~3 _:;2 _% - _:;2
+  _% #2x~2 _:;2 ;2 ;2 ;2
+  3 ;2 ;2 ;2 ;2 _% x~2 _:;2 _% + _:;2
+  _% #2x _:;2 _% - _:;2 #c
+  3 ;2 ;2 ;2 ;2 _% x~2 _:;2 _% - _:;2
+  _% #2x _:;2 ;2
+  3 ;2 ;2 ;2 ;2 ;2 ;2 _% #4x _:;2
+  _% - _:;2 #c
+  3 ;2 ;2 ;2 ;2 ;2 ;2 _% #4x _:;2
+  _% - _:;2 #h
+  3 ;2 ;2 ;2 ;2 ;2 ;2 ;2 ;2 #e
+  ,h;e1 _% x~3"-x~2"+2x-3 .k
+(x-2)(x~2"+x+4)+5 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let _% p(x) _: 2 a polynomial 9
+_% ,f`(x`) _: & _% .a `e ,f _:4 ,we say
+t _% .a _: is a ~1z}o or ~1root (
+_% p(x) _: if _% p(x) _: is 9 ! k}nel (
+! evalua;n homomorphism            #abbh
+_% .f;.a _:4 ,all we >e r1lly say+ "h is
+t _% .a _: is a z}o ( _% p(x) _: if
+_% p(.a) .k #0 _:4
+
+7777777777777777777777777777777777777777
+,coroll>y #ag4h
+  ,let ;,f 2 a field4 ,an ele;t _% .a `e
+,f _: is a z}o ( _% p(x) `e ,f`(x`) _:
+if & only if _% x-.a _: is a factor (
+_% p(x) _: 9 _% ,f`(x`) _:4
+
+,pro(4 ,suppose t _% .a `e ,f _: &
+_% p(.a) .k #0 _:4 ,by ! divi.n
+algori?m1 "! exi/ polynomials _% q(x) _:
+& _% r(x) _: s* t
+_%
+
+p(x) .k (x-.a)q(x)+r(x)
+
+_:
+& ! degree ( _% r(x) _: m/ 2 less ?an !
+degree ( _% x-.a _:4 ,s9ce ! degree (
+_% r(x) _: is less ?an #a1 _% r(x) .k
+a _: = _% a `e ,f _:2 "!=e1
+                                   #abbi
+_%
+
+p(x) .k (x-.a)q(x)+a
+
+_:4
+,b
+_%
+
+#0 .k p(.a) .k #0*q(.a)+a .k a_2
+
+_:
+3sequ5tly1 _% p(x) .k (x-.a)q(x) _:1 &
+_% x-.a _: is a factor ( _% p(x) _:4
+  ,3v}sely1 suppose t _% x-.a _: is a
+factor ( _% p(x) _:2 say _% p(x) .k
+(x-.a)q(x) _:4 ,!n _% p(.a) .k #0*q(.a)
+.k #0 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ag4i
+  ,let ;,f 2 a field4 ,a nonz}o
+polynomial _% p(x) _: ( degree ;n 9
+_% ,f`(x`) _: c h at mo/ ;n        #abcj
+4t9ct z}os 9 ;,f4
+
+,pro(4 ,we w use 9duc;n on ! degree (
+_% p(x) _:4 ,if _% deg p(x) .k #0 _:1 !n
+_% p(x) _: is a 3/ant polynomial & has
+no z}os4 ,let _% deg p(x) .k #1 _:4 ,!n
+_% p(x) .k ax+b _: = "s a & ;b 9 ;,f4
+,if _% .a1 _: & _% .a2 _: >e z}os (
+_% p(x) _:1 !n _% a.a1+b .k a.a2+b _: or
+_% .a1 .k .a2 _:4
+  ,n{ assume t _% deg p(x) .1 #1 _:4 ,if
+_% p(x) _: does n h a z}o 9 ;,f1 !n we
+>e d"o4 ,on ! o!r h&1 if _% .a _: is a
+z}o ( _% p(x) _:1 !n _% p(x) .k
+(x-.a)q(x) _: = "s _% q(x) `e ,f`(x`) _:
+by ,coroll>y #ag4h4 ,! degree (
+_% q(x) _: is _% n-1 _: by
+,proposi;n #ag4d4 ,let _% .b _: 2 "s o!r
+z}o ( _% p(x) _: t is 4t9ct f _% .a _:4
+,!n _% p(.b) .k (.b-.a)q(.b) .k #0 _:4
+,s9ce _% .a /.k .b _: & ;,f is a field1
+_% q(.b) .k #0 _:4 ,by |r 9duc;n
+hypo!sis1 _% q(x) _: c h at mo/
+_% n-1 _: z}os 9 ;,f t >e 4t9ct f
+_% .a _:4 ,"!=e1 _% p(x) _: has    #abca
+at mo/ ;n 4t9ct z}os 9 ;,f4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,let ;,f 2 a field4 ,a monic
+polynomial _% d(x) _: is a ~7grte/
+common divisor~' ( polynomials _% p(x),
+q(x) `e ,f`(x`) _: if _% d(x) _: ev5ly
+divides bo? _% p(x) _: & _% q(x) _:2 &1
+if = any o!r polynomial _% d'(x) _:
+divid+ bo? _% p(x) _: & _% q(x) _:1
+_% d'(x)|d(x) _:4 ,we write _% d(x) .k
+gcd (p(x), q(x)) _:4 ,two polynomials
+_% p(x) _: & _% q(x) _: >e ~1relatively
+~1prime if _% gcd (p(x), q(x)) .k #1 _:4
+
+7777777777777777777777777777777777777777
+,proposi;n #ag4aj
+  ,let ;,f 2 a field & suppose t
+_% d(x) _: is a grte/ common divisor (
+two polynomials _% p(x) _: & _% q(x) _:
+9 _% ,f`(x`) _:4 ,!n "! exi/ polynomials
+_% r(x) _: & _% s(x) _: s* t
+
+
+                                   #abcb
+_%
+
+d(x) .k r(x)p(x)+s(x)q(x)
+
+_:4
+,fur!rmore1 ! grte/ common divisor ( two
+polynomials is unique4
+
+,pro(4 ,let _% d(x) _: 2 ! monic
+polynomial ( smalle/ degree 9 ! set
+_%
+
+,s .k .(f(x)p(x)+g(x)q(x)_3f(x), g(x) `e
+,f`(x`).)
+
+_:4
+,we c write _% d(x) .k
+r(x)p(x)+s(x)q(x) _: = two polynomials 
+_% r(x) _: & _% s(x) _: 9 _% ,f`(x`) _:4
+,we ne$ to %{ t _% d(x) _: divides bo?
+_% p(x) _: & _% q(x) _:4 ,we % f/ %{ t
+_% d(x) _: divides _% p(x) _:4 ,by !
+divi.n algori?m1 "! exi/ polynomials
+_% a(x) _: & _% b(x) _: s* t _% p(x) .k
+a(x)d(x)+b(x) _:1 ": _% b(x) _:    #abcc
+is ei ! z}o polynomial or _% deg b(x) "k
+deg d(x) _:4 ,"!=e1
+_%
+
+b(x)                                .k
+p(x)-a(x)d(x)
+.k p(x)-a(x)(r(x)p(x)+s(x)q(x))
+.k p(x)-a(x)r(x)p(x)-a(x)s(x)q(x)
+.k p(x)(1-a(x)r(x))+q(x)(-a(x)s(x))
+
+_:
+is a l9e> comb9a;n ( _% p(x) _: &
+_% q(x) _: & "!=e m/ 2 9 ;,s4 ,h{"e1
+_% b(x) _: m/ 2 ! z}o polynomial s9ce
+_% d(x) _: 0 *os5 to 2 ( smalle/ degree2
+3sequ5tly1 _% d(x) _: divides
+_% p(x) _:4 ,a symmetric >gu;t %{s t
+_% d(x) _: m/ al divide _% q(x) _:2 h;e1
+_% d(x) _: is a common divisor (
+_% p(x) _: & _% q(x) _:4
+  ,to %{ t _% d(x) _: is a grte/ common
+divisor ( _% p(x) _: & _% q(x) _:1
+suppose t _% d'(x) _: is ano!r common
+divisor ( _% p(x) _: & _% q(x) _:4 ,we w
+%{ t _% d'(x)|d(x) _:4 ,s9ce       #abcd
+_% d'(x) _: is a common divisor (
+_% p(x) _: & _% q(x) _:1 "! exi/
+polynomials _% u(x) _: & _% v(x) _: s* t
+_% p(x) .k u(x)d'(x) _: & _% q(x) .k
+v(x)d'(x) _:4 ,"!=e1
+_%
+
+d(x)                           .k
+r(x)p(x)+s(x)q(x)
+.k r(x)u(x)d'(x)+s(x)v(x)d'(x)
+.k d'(x)`(r(x)u(x)+s(x)v(x)`)
+
+_:4
+,s9ce _% d'(x)|d(x) _:1 _% d(x) _: is a
+grte/ common divisor ( _% p(x) _: &
+_% q(x) _:4
+  ,f9ally1 we m/ %{ t ! grte/ common
+divisor ( _% p(x) _: & _% q(x) _: is
+unique4 ,suppose t _% d'(x) _: is ano!r
+grte/ common divisor ( _% p(x) _: &
+_% q(x) _:4 ,we h j %{n t "! exi/
+polynomials _% u(x) _: & _% v(x) _: 9
+_% ,f`(x`) _: s* t _% d(x) .k
+d'(x)`(r(x)u(x)+s(x)v(x)`) _:4 ,s9ce
+                                   #abce
+_%
+
+deg d(x) .k deg d'(x)+deg
+`(r(x)u(x)+s(x)v(x)`)
+
+_:
+& _% d(x) _: & _% d'(x) _: >e bo? grte/
+common divisors1 _% deg d(x) .k deg
+d'(x) _:4 ,s9ce _% d(x) _: & _% d'(x) _:
+>e bo? monic polynomials ( ! same
+degree1 x m/ 2 ! case t _% d(x) .k
+d'(x) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,notice ! simil>;y 2t ! pro( (
+,proposi;n #ag4aj & ! pro( (
+,!orem #b4aj4
+
+    #ag4c ,irr$ucible ,polynomials
+  ,a noncon/ant polynomial _% f(x) `e
+,f`(x`) _: is ~1irr$ucible ov} a field
+;,f if _% f(x) _: _c 2 express$ z a
+product ( two polynomials _% g(x) _: &
+_% h(x) _: 9 _% ,f`(x`) _:1 ": ! degrees
+( _% g(x) _: & _% h(x) _: >e bo?   #abcf
+small} ?an ! degree ( _% f(x) _:4
+,irr$ucible polynomials func;n z !
+8prime numb}s0 ( polynomial r+s4
+
+7777777777777777777777777777777777777777
+,example #ag4aa
+  ,! polynomial _% x~2"-2 `e
+`;,q`(x`) _: is irr$ucible s9ce x _c 2
+factor$ any fur!r ov} ! ra;nal numb}s4
+,simil>ly1 _% x~2"+1 _: is irr$ucible
+ov} ! r1l numb}s4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #abcg
+7777777777777777777777777777777777777777
+,example #ag4ab
+  ,! polynomial _% p(x) .k
+x~3"+x~2"+2 _: is irr$ucible ov}
+_% `;,z3`(x`) _:4 ,suppose t ?
+polynomial 0 r$ucible ov}
+_% `;,z3`(x`) _:4 ,by ! divi.n algori?m
+"! wd h to 2 a factor ( ! =m _% x-a _:1
+": a is "s ele;t 9 _% `;,z3`(x`) _:4
+,h;e1 x wd h to 2 true t _% p(a) .k
+#0 _:4 ,h{"e1
+_%
+
+p(0) .k #2
+p(1) .k #1
+p(2) .k #2
+
+_:4
+,"!=e1 _% p(x) _: has no z}os 9
+_% `;,z3 _: & m/ 2 irr$ucible4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,lemma #ag4ac                      #abch
+  ,let _% p(x) `e `;,q`(x`) _:4 ,!n
+_%
+
+p(x) .k ?r/s#(a0+a1x+''' +a;n"x~n")
+
+_:1
+": _% r, s, a0, ''', a;n _: >e 9teg}s1 !
+_% a;i _:';s >e relatively prime1 & ;r &
+;s >e relatively prime4
+
+,pro(4 ,suppose t
+_%
+
+p(x) .k ?b0/c0#+?b1/c1#x+'''
++?b;n"/c;n"#x~n
+
+_:1
+": ! _% b;i _:';s & ! _% c;i _:';s >e
+9teg}s4 ,we c rewrite _% p(x) _: z
+_%
+
+p(x) .k ?1/c0 ''' c;n"#(d0+d1x+'''
++d;n"x~n")
+
+_:1                                #abci
+": _% d0, ''', d;n _: >e 9teg}s4 ,let ;d
+2 ! grte/ common divisor ( _% d0, ''',
+d;n _:4 ,!n
+_%
+
+p(x) .k ?d/c0 ''' c;n"#(a0+a1x+'''
++a;n"x~n")
+
+_:1
+": _% d;i .k da;i _: & ! _% a;i _:';s >e
+relatively prime4 ,r$uc+ _% d_/(c0 '''
+c;n") _: to xs l{e/ t}ms1 we c write
+_%
+
+p(x) .k ?r/s#(a0+a1x+''' +a;n"x~n")
+
+_:1
+": _% gcd (r, s) .k #1 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ag4ad ,gauss's ,lemma4
+  ,let _% p(x) `e `;,z`(x`) _: 2 a monic
+polynomial s* t _% p(x) _:         #abdj
+factors 9to a product ( two polynomials
+_% .a(x) _: & _% .b(x) _: 9
+_% `;,q`(x`) _:1 ": ! degrees ( bo?
+_% .a(x) _: & _% .b(x) _: >e less ?an !
+degree ( _% p(x) _:4 ,!n _% p(x) .k
+a(x)b(x) _:1 ": _% a(x) _: & _% b(x) _:
+>e monic polynomials 9 _% `;,z`(x`) _: )
+_% deg .a(x) .k deg a(x) _: & _% deg
+.b(x) .k deg b(x) _:4
+
+,pro(4 ,by ,lemma #ag4ac1 we c assume t
+_%
+
+.a(x) .k ?c1/d1#(a0+a1x+''' +a;m"x~m")
+.k ?c1/d1#.a1(x)
+.b(x) .k ?c2/d2#(b0+b1x+''' +b;n"x~n")
+.k ?c2/d2#.b1(x)
+
+_:1
+": ! _% a;i _:';s >e relatively prime &
+! _% b;i _:';s >e relatively prime4
+,3sequ5tly1
+
+
+                                   #abda
+_%
+
+p(x) .k .a(x).b(x) .k
+?c1c2/d1d2#.a1(x).b1(x) .k
+?c/d#.a1(x).b1(x)
+
+_:1
+": _% c_/d _: is ! product (
+_% c1_/d1 _: & _% c2_/d2 _: express$ 9
+l{e/ t}ms4 ,h;e1 _% dp(x) .k
+c.a1(x).b1(x) _:4
+  ,if _% d .k #1 _:1 !n _% ca;m"b;n .k
+#1 _: s9ce _% p(x) _: is a monic
+polynomial4 ,h;e1 ei _% c .k #1 _: or
+_% c .k -#1 _:4 ,if _% c .k #1 _:1 !n ei
+_% a;m .k b;n .k #1 _: or _% a;m .k b;n
+.k -#1 _:4 ,9 ! f/ case _% p(x) .k
+.a1(x).b1(x) _:1 ": _% .a1(x) _: &
+_% .b1(x) _: >e monic polynomials )
+_% deg .a(x) .k deg .a1(x) _: & _% deg
+.b(x) .k deg .b1(x) _:4 ,9 ! second case
+_% a(x) .k -.a1(x) _: & _% b(x) .k
+-.b1(x) _: >e ! correct monic
+polynomials s9ce _% p(x) .k
+(-.a1(x))(-.b1(x)) .k a(x)b(x)     #abdb
+_:4 ,! case 9 : _% c .k -#1 _: c 2 h&l$
+simil>ly4
+  ,n{ suppose t _% d /.k #1 _:4 ,s9ce
+_% gcd (c, d) .k #1 _:1 "! exi/s a prime
+;p s* t _% p|d _: & _% p/|c _:4 ,al1
+s9ce ! coe6ici5ts ( _% .a1(x) _: >e
+relatively prime1 "! exi/s a coe6ici5t
+_% a;i _: s* t _% p/|a;i _:4 ,simil>ly1
+"! exi/s a coe6ici5t _% b;j _: (
+_% .b1(x) _: s* t _% p/|b;j _:4 ,let
+_% .a'1(x) _: & _% .b'1(x) _: 2 !
+polynomials 9 _% `;,z;p"`(x`) _: obta9$
+by r$uc+ ! coe6ici5ts ( _% .a1(x) _: &
+_% .b1(x) _: modulo ;p4 ,s9ce _% p|d _:1
+_% .a'1(x).b'1(x) .k #0 _: 9
+_% `;,z;p"`(x`) _:4 ,h{"e1 ? is
+impossible s9ce nei _% .a'1(x) _: nor
+_% .b'1(x) _: is ! z}o polynomial &
+_% `;,z;p"`(x`) _: is an 9tegral doma94
+,"!=e1 _% d .k #1 _: & ! !orem is prov54
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ag4ae                   #abdc
+  ,let _% p(x) .k x~n"+a;n-1"x~n-1+'''
++a0 _: 2 a polynomial ) coe6ici5ts 9
+_% `;,z _: & _% a0 /.k #0 _:4 ,if
+_% p(x) _: has a z}o 9 _% `;,q _:1 !n
+_% p(x) _: al has a z}o _% .a _: 9
+_% `;,z _:4 ,fur!rmore1 _% .a _: divides
+_% a0 _:4
+
+,pro(4 ,let _% p(x) _: h a z}o _% a `e
+`;,q _:4 ,!n _% p(x) _: m/ h a l9e>
+factor _% x-a _:4 ,by ,gauss's ,lemma1
+_% p(x) _: has a factoriza;n ) a l9e>
+factor 9 _% `;,z`(x`) _:4 ,h;e1 = "s
+_% .a `e `;,z _:
+_%
+
+p(x) .k (x-.a)(x~n-1+ '''-a0_/.a)
+
+_:4
+,?us _% a0_/.a `e `;,z _: & s
+_% .a|a0 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                   #abdd
+7777777777777777777777777777777777777777
+,example #ag4af
+  ,let _% p(x) .k x~4"-2x~3"+x+1 _:4 ,we
+% %{ t _% p(x) _: is irr$ucible ov}
+_% `;,q`(x`) _:4 ,assume t _% p(x) _: is
+r$ucible4 ,!n ei _% p(x) _: has a l9e>
+factor1 say _% p(x) .k (x-.a)q(x) _:1 ":
+_% q(x) _: is a polynomial ( degree
+?ree1 or _% p(x) _: has two quadratic
+factors4
+  ,if _% p(x) _: has a l9e> factor 9
+_% `;,q`(x`) _:1 !n x has a z}o 9
+_% `;,z _:4 ,by ,coroll>y #ag4ae1 any
+z}o m/ divide #a & "!=e m/ 2 _% +-1 _:2
+h{"e1 _% p(1) .k #1 _: & _% p(-1) .k
+#3 _:4 ,3sequ5tly1 we h elim9at$ !
+possibil;y t _% p(x) _: has any l9e>
+factors4
+  ,"!=e1 if _% p(x) _: is r$ucible x m/
+factor 9to two quadratic polynomials1
+say
+
+
+
+                                   #abde
+_%
+
+p(x)                                   
+  .k (x~2"+ax+b)(x~2"+cx+d)
+.k
+x~4"+(a+c)x~3"+(ac+b+d)x~2"+(ad+bc)x+bd
+
+_:1
+": ea* factor is 9 _% `;,z`(x`) _: by
+,gauss's ,lemma4 ,h;e1
+_%
+
+a+c    .k -#2
+ac+b+d .k #0
+ad+bc  .k #1
+bd     .k #1
+
+_:4
+,s9ce _% bd .k #1 _:1 ei _% b .k d .k
+#1 _: or _% b .k d .k -#1 _:4 ,9 ei case
+_% b .k d _: & s
+
+
+
+                                   #abdf
+_%
+
+ad+bc .k b(a+c) .k #1
+
+_:4
+,s9ce _% a+c .k -#2 _:1 we "k t _% -#2b
+.k #1 _:4 ,? is impossible s9ce ;b is an
+9teg}4 ,"!=e1 _% p(x) _: m/ 2 irr$ucible
+ov} _% `;,q _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ag4ag ,eis5/e9's ,crit}ion4
+  ,let ;p 2 a prime & suppose t
+_%
+
+f(x) .k a;n"x~n+''' +a0 `e `;,z`(x`)
+
+_:4
+,if _% p|a;i _: = _% i .k #0, #1, ''',
+n-1 _:1 b _% p/|a;n _: & _% p~2"/|a0 _:1
+!n _% f(x) _: is irr$ucible ov}
+_% `;,q _:4
+                                   #abdg
+,pro(4 ,by ,gauss's ,lemma "<see
+,!orem #ag4ag & ,lemma #ah4bf">1 we ne$
+only %{ t _% f(x) _: does n factor 9to
+polynomials ( l{} degree 9
+_% `;,z`(x`) _:4 ,let
+_%
+
+f(x) .k (b;r"x~r+''' +b0)(c;s"x~s+'''
++c0)
+
+_:
+2 a factoriza;n 9 _% `;,z`(x`) _:1 )
+_% b;r _: & _% c;s _: n equal to z}o &
+_% r, s "k n _:4 ,s9ce _% p~2 _: does n
+divide _% a0 .k b0c0 _:1 ei _% b0 _: or
+_% c0 _: is n divisible by ;p4 ,suppose
+t _% p/|b0 _: & _% p|c0 _:4 ,s9ce
+_% p/|a;n _: & _% a;n .k b;r"c;s _:1 nei
+_% b;r _: nor _% c;s _: is divisible by
+;p4 ,let ;m 2 ! smalle/ value ( ;k s* t
+_% p/|c;k _:4 ,!n
+
+
+
+                                   #abdh
+_%
+
+a;m .k b0c;m"+b1c;m-1+''' +b;m"c0
+
+_:
+is n divisible by ;p1 s9ce ea* t}m on !
+"r-h& side ( ! equa;n is divisible by ;p
+except = _% b0c;m _:4 ,"!=e1 _% m .k
+n _: s9ce _% a;i _: is divisible by ;p =
+_% m "k n _:4 ,h;e1 _% f(x) _: _c 2
+factor$ 9to polynomials ( l{} degree &
+"!=e m/ 2 irr$ucible4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+                                   #abdi
+7777777777777777777777777777777777777777
+,example #ag4ah
+  ,! polynomial
+_%
+
+f(x) .k #16x~5"-9x~4"+3x~2"+6x-21
+
+_:
+is easily se5 to 2 irr$ucible ov}
+_% `;,q _: by ,eis5/e9's ,crit}ion if we
+let _% p .k #3 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,eis5/e9's ,crit}ion is m use;l 9
+3/ruct+ irr$ucible polynomials ( a c}ta9
+degree ov} _% `;,q _: ?an 9 det}m9+ !
+irr$ucibil;y ( an >bitr>y polynomial 9
+_% `;,q`(x`) _:3 giv5 an >bitr>y
+polynomial1 x is n v likely t we c apply
+,eis5/e9's ,crit}ion4 ,! r1l value (
+,!orem #ag4ag is t we n{ h an easy me?od
+( g5}at+ irr$ucible polynomials ( any
+degree4
+
+                                   #abej
+      ,id1ls 9 _% ,f`(x`) _:
+  ,let ;,f 2 a field4 ,recall t a
+pr9cipal id1l 9 _% ,f`(x`) _: is an id1l
+_% ..(p(x)..) _: g5}at$ by "s polynomial
+_% p(x) _:2 t is1
+_%
+
+..(p(x)..) .k .(p(x)q(x)_3q(x) `e
+,f`(x`).)
+
+_:4
+
+7777777777777777777777777777777777777777
+,example #ag4ai
+  ,! polynomial _% x~2 _: 9
+_% ,f`(x`) _: g5}ates ! id1l
+_% ..(x~2"..) _: 3si/+ ( all polynomials
+) no 3/ant t}m or t}m ( degree #a4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ag4bj
+  ,if ;,f is a field1 !n e id1l 9
+_% ,f`(x`) _: is a pr9cipal        #abea
+id1l4
+
+,pro(4 ,let ,i 2 an id1l (
+_% ,f`(x`) _:4 ,if ,i is ! z}o id1l1 !
+!orem is easily true4 ,suppose t ,i is a
+nontrivial id1l 9 _% ,f`(x`) _:1 & let
+_% p(x) `e ,i _: 2 a nonz}o ele;t (
+m9imal degree4 ,if _% deg p(x) .k #0 _:1
+!n _% p(x) _: is a nonz}o 3/ant & #a m/
+2 9 ,i4 ,s9ce #a g5}ates all (
+_% ,f`(x`) _:1 _% ..(1..) .k ,i .k
+,f`(x`) _: & ,i is ag a pr9cipal id1l4
+  ,n{ assume t _% deg p(x) .1: #1 _: &
+let _% f(x) _: 2 any ele;t 9 ,i4 ,by !
+divi.n algori?m "! exi/ _% q(x) _: &
+_% r(x) _: 9 _% ,f`(x`) _: s* t _% f(x)
+.k p(x)q(x)+r(x) _: & _% deg r(x) "k deg
+p(x) _:4 ,s9ce _% f(x), p(x) `e ,i _: &
+,i is an id1l1 _% r(x) .k
+f(x)-p(x)q(x) _: is al 9 ,i4 ,h{"e1 s9ce
+we *ose _% p(x) _: to 2 ( m9imal degree1
+_% r(x) _: m/ 2 ! z}o polynomial4 ,s9ce
+we c write any ele;t _% f(x) _: 9 ,i z
+_% p(x)q(x) _: = "s _% q(x) `e
+,f`(x`) _:1 x m/ 2 ! case t        #abeb
+_% ,i .k ..(p(x)..) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ag4ba
+  ,x is n ! case t e id1l 9 ! r+
+_% ,f`(x, y`) _: is a pr9cipal id1l4
+,3sid} ! id1l ( _% ,f`(x, y`) _: g5}at$
+by ! polynomials ;x & ;y4 ,? is ! id1l (
+_% ,f`(x, y`) _: 3si/+ ( all polynomials
+) no 3/ant t}m4 ,s9ce bo? ;x & ;y >e 9 !
+id1l1 no s+le polynomial c g5}ate !
+5tire id1l4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,!orem #ag4bb
+  ,let ;,f 2 a field & suppose t _% p(x)
+`e ,f`(x`) _:4 ,!n ! id1l g5}at$ by
+_% p(x) _: is maximal if & only if
+_% p(x) _: is irr$ucible4
+
+,pro(4 ,suppose t _% p(x) _:       #abec
+g5}ates a maximal id1l ( _% ,f`(x`) _:4
+,!n _% ..(p(x)..) _: is al a prime id1l
+( _% ,f`(x`) _:4 ,s9ce a maximal id1l m/
+2 prop}ly 3ta9$ 9side _% ,f`(x`) _:1
+_% p(x) _: _c 2 a 3/ant polynomial4 ,let
+u assume t _% p(x) _: factors 9to two
+polynomials ( less} degree1 say _% p(x)
+.k f(x)g(x) _:4 ,s9ce _% ..(p(x)..) _:
+is a prime id1l "o ( ~! factors1 say
+_% f(x) _:1 is 9 _% ..(p(x)..) _: & "!=e
+2 a multiple ( _% p(x) _:4 ,b ? wd imply
+t _% ..(p(x)..) _"k ..(f(x)..) _:1 : is
+impossible s9ce _% ..(p(x)..) _: is
+maximal4
+  ,3v}sely1 suppose t _% p(x) _: is
+irr$ucible ov} _% ,f`(x`) _:4 ,let ,i 2
+an id1l 9 _% ,f`(x`) _: 3ta9+
+_% ..(p(x)..) _:4 ,by ,!orem #ag4bj1 ,i
+is a pr9cipal id1l2 h;e1 _% ,i .k
+..(f(x)..) _: = "s _% f(x) `e
+,f`(x`) _:4 ,s9ce _% p(x) `e ,i _:1 x m/
+2 ! case t _% p(x) .k f(x)g(x) _: = "s
+_% g(x) `e ,f`(x`) _:4 ,h{"e1 _% p(x) _:
+is irr$ucible2 h;e1 ei _% f(x) _: or
+_% g(x) _: is a 3/ant              #abed
+polynomial4 ,if _% f(x) _: is 3/ant1 !n
+_% ,i .k ,f`(x`) _: & we >e d"o4 ,if
+_% g(x) _: is 3/ant1 !n _% f(x) _: is a
+3/ant multiple ( ,i & _% ,i .k
+..(p(x)..) _:4 ,?us1 "! >e no prop}
+id1ls ( _% ,f`(x`) _: t prop}ly 3ta9
+_% ..(p(x)..) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,hi/orical ,note
+  ,"?|t hi/ory1 ! solu;n ( polynomial
+equa;ns has be5 a *all5g+ problem4 ,!
+,babylonians knew h{ to solve ! equa;n
+_% ax~2"+bx+c .k #0 _:4 ,om> ,khayyam
+"<#ajdh,-#aaca"> devis$ me?ods ( solv+
+cubic equa;ns "? ! use ( geometric
+3/ruc;ns & 3ic sec;ns4 ,! algebraic
+solu;n ( ! g5}al cubic equa;n
+_% ax~3"+bx~2"+cx+d .k #0 _: 0 n 4cov}$
+until ! sixte5? c5tury4 ,an ,italian
+ma!matician1 ,luca ,pacioli "<ca4
+#adde,-#aeji">1 wrote 9 .7,summa de
+,>i?metica.' t ! solu;n ( ! cubic 0
+impossible4 ,? 0 tak5 z a          #abee
+*all5ge by ! re/ ( ! ma!matical
+commun;y4
+  ,scipi"o del ,f}ro "<#adfe,-#aebf">1 (
+! ,univ}s;y ( ,bologna1 solv$ !
+8depress$ cubic10
+_%
+
+ax~3"+cx+d .k #0
+
+_:4
+,he kept 8 solu;n an absolute secret4 ,?
+may seem surpris+ td1 :5 ma!maticians >e
+usually v eag} to publi% _! results1 b 9
+! "ds ( ! ,italian ,r5aiss.e secrecy 0
+cu/om>y4 ,academic appo9t;ts 7 n easy to
+secure & dep5d$ on ! abil;y to prevail 9
+public 3te/s4 ,s* *all5ges cd 2 issu$ at
+any "t4 ,3sequ5tly1 any major new 4cov}y
+0 a valuable w1pon 9 s* a 3te/4 ,if an
+oppon5t pres5t$ a li/ ( problems to 2
+solv$1 del ,f}ro cd 9 turn pres5t a li/
+( depress$ cubics4 ,he kept ! secret ( 8
+4cov}y "?|t 8 life1 pass+ x on only on 8
+d1?b$ to 8 /ud5t ,antonio ,fior "<ca4
+#aejf,-8">4                        #abef
+  ,al? ,fior 0 n ! equal ( 8 t1*}1 he
+immly issu$ a *all5ge to ,ni3olo
+,fontana "<#adii,-#aeeg">4 ,fontana 0
+"kn z ,t>taglia "<! ,/amm}}">4 ,z a y|?
+he _h su6}$ a bl{ f ! s~w ( a ,fr5*
+soldi} dur+ an attack on 8 village4 ,he
+surviv$ ! savage w.d1 b 8 spee* 0
+p}man5tly impair$4 ,t>taglia s5t ,fior a
+li/ ( #cj v>i|s ma!matical problems2
+,fior c.t}$ by s5d+ ,t>taglia a li/ (
+#cj depress$ cubics4 ,t>taglia wd ei
+solve all #cj ( ! problems or absolutely
+fail4 ,af m* ef=t ,t>taglia f9ally
+su3e$$ 9 solv+ ! depress$ cubic & def1t$
+,fior1 :o fad$ 9to obscur;y4
+  ,at ? po9t ano!r ma!matician1 ,g}olamo
+,c>dano "<#aeja,-#aegf">1 5t}$ ! /ory4
+,c>dano wrote to ,t>taglia1 be7+ hm = !
+solu;n to ! depress$ cubic4 ,t>taglia
+refus$ s"eal ( 8 reque/s1 !n f9ally
+rev1l$ ! solu;n to ,c>dano af ! latt}
+swore an oa? n to publi% ! secret or to
+pass x on to any"o else4 ,us+ ! k t he
+_h obta9$ f ,t>taglia1 ,c>dano ev5tually
+solv$ ! g5}al cubic                #abeg
+_%
+
+ax~3"+bx~2"+cx+d .k #0
+
+_:4
+,c>dano %>$ ! secret ) 8 /ud5t1
+,ludovico ,f}r>i "<#aebb,-#aefe">1 :o
+solv$ ! g5}al qu>tic equa;n1
+_%
+
+ax~4"+bx~3"+cx~2"+dx+e .k #0
+
+_:4
+,9 #aedc1 ,c>dano & ,f}r>i exam9$ del
+,f}ro's pap}s & 4cov}$ t he _h al solv$
+! depress$ cubic4 ,c>dano felt t ?
+reliev$ hm ( 8 obliga;n to ,t>taglia1 s
+he proce$$ to publi% ! solu;ns 9 .1,>s
+.1,magna "<#aede">1 9 : he gave cr$it to
+del ,f}ro = solv+ ! special case ( !
+cubic4 ,? result$ 9 a bitt} 4pute 2t
+,c>dano & ,t>taglia1 :o publi%$ ! /ory (
+! oa? a ye> lat}4
+
+                                   #abeh
+    #ag4d ,r1d+ ,"qs
+
+#a4 ,suppose _% p(x) _: is a polynomial
+( degree ;n ) coe6ici5ts f any field4
+,h{ _m roots c _% p(x) _: h8 ,h{ does ?
+g5}alize yr hi< s*ool algebra exp}i;e8
+
+#b4 ,:at is ! def9i;n ( an irr$ucible
+polynomial8
+
+#c4 ,f9d ! rema9d} ~u divi.n (
+_% #8x~5"-18x~4"+20x~3"-25x~2"+20 _: by
+_% #4x~2"-x-2 _:4
+
+#d4 ,a s+le !orem 9 ? *apt} 3nects _m (
+! id1s ( ? *apt} to _m ( ! id1s ( !
+previ|s *apt}4 ,/ate a p>aphras$ v}.n (
+? !orem4
+
+#e4 ,e>ly 9 ? *apt}1 we say1 8,we c
+prove _m results = polynomial r+s t >e
+simil> to ! !orems we prov$ = ! 9teg}s40
+,write a %ort essay "<or a v l;g
+p>agraph"> ju/ify+ ? ass};n4
+                                   #abei
+    #ag4e ,ex}cises
+
+#a4 ,li/ all ( ! polynomials ( degree #c
+or less 9 _% `;,z2`(x`) _:4
+
+#b4 ,compute ea* ( ! foll{+4
+a4 _% (5x~2"+3x-4)+(4x~2"-x+9) _: 9
+_% `;,z12`(x`) _:
+;b4 _% (5x~2"+3x-4)(4x~2"-x+9) _: 9
+_% `;,z12`(x`) _:
+;c4 _% (7x~3"+3x~2"-x)+(6x~2"-8x+4) _: 9
+_% `;,z9`(x`) _:
+;d4 _% (3x~2"+2x-4)+(4x~2"+2) _: 9
+_% `;,z5`(x`) _:
+;e4 _% (3x~2"+2x-4)(4x~2"+2) _: 9
+_% `;,z5`(x`) _:
+;f4 _% (5x~2"+3x-2)~2 _: 9
+_% `;,z12`(x`) _:
+
+,h9t4 "<a"> _% #9x~2"+2x+5 _:2 "<;b">
+_% #8x~4"+7x~3"+2x~2"+7x _:4
+
+#c4 ,use ! divi.n algori?m to f9d
+_% q(x) _: & _% r(x) _: s* t _% a(x) .k
+q(x)b(x)+r(x) _: ) _% deg r(x)     #abfj
+"k deg b(x) _: = ea* ( ! foll{+ pairs (
+polynomials4
+a4 _% a(x) .k #5x~3"+6x~2"-3x+4 _: &
+_% b(x) .k x-2 _: 9 _% `;,z7`(x`) _:
+;b4 _% a(x) .k #6x~4"-2x~3"+x~2"-3x+1 _:
+& _% b(x) .k x~2"+x-2 _: 9
+_% `;,z7`(x`) _:
+;c4 _% a(x) .k #4x~5"-x~3"+x~2"+4 _: &
+_% b(x) .k x~3"-2 _: 9 _% `;,z5`(x`) _:
+;d4 _% a(x) .k x~5"+x~3"-x~2"-x _: &
+_% b(x) .k x~3"+x _: 9 _% `;,z2`(x`) _:
+
+,h9t4 "<a"> _% #5x~3"+6x~2"-3x+4 .k
+(5x~2"+2x+1)(x-2)+6 _:2 "<;c">
+_% #4x~5"-x~3"+x~2"+4 .k
+(4x~2"+4)(x~3"+3)+4x~2"+2 _:4
+
+#d4 ,f9d ! grte/ common divisor ( ea* (
+! foll{+ pairs _% p(x) _: & _% q(x) _: (
+polynomials4 ,if _% d(x) .k gcd (p(x),
+q(x)) _:1 f9d two polynomials _% a(x) _:
+& _% b(x) _: s* t _% a(x)p(x)+b(x)q(x)
+.k d(x) _:4
+a4 _% p(x) .k x~3"-6x~2"+14x-15 _: &
+_% q(x) .k x~3"-8x~2"+21x-18 _:1   #abfa
+": _% p(x), q(x) `e `;,q`(x`) _:
+;b4 _% p(x) .k x~3"+x~2"-x+1 _: &
+_% q(x) .k x~3"+x-1 _:1 ": _% p(x), q(x)
+`e `;,z2`(x`) _:
+;c4 _% p(x) .k x~3"+x~2"-4x+4 _: &
+_% q(x) .k x~3"+3x-2 _:1 ": _% p(x),
+q(x) `e `;,z5`(x`) _:
+;d4 _% p(x) .k x~3"-2x+4 _: & _% q(x) .k
+#4x~3"+x+3 _:1 ": _% p(x), q(x) `e
+`;,q`(x`) _:
+
+#e4 ,f9d all ( ! z}os = ea* ( ! foll{+
+polynomials4
+a4 _% #5x~3"+4x~2"-x+9 _: 9
+_% `;,z12`(x`) _:
+;b4 _% #3x~3"-4x~2"-x+4 _: 9
+_% `;,z5`(x`) _:
+;c4 _% #5x~4"+2x~2"-3 _: 9
+_% `;,z7`(x`) _:
+;d4 _% x~3"+x+1 _: 9 _% `;,z2`(x`) _:
+
+,h9t4 "<a"> ,no z}os 9 _% `;,z12 _:2
+"<;c"> #c1 #d4
+
+#f4 ,f9d all ( ! units 9           #abfb
+_% `;,z`(x`) _:4
+
+#g4 ,f9d a unit _% p(x) _: 9
+_% `;,z4`(x`) _: s* t _% deg p(x) .1
+#1 _:4
+
+,h9t4 ,look at _% (2x+1) _:4
+
+#h4 ,: ( ! foll{+ polynomials >e
+irr$ucible ov} _% `;,q`(x`) _:;8
+a4 _% x~4"-2x~3"+2x~2"+x+4 _:
+;b4 _% x~4"-5x~3"+3x-2 _:
+;c4 _% #3x~5"-4x~3"-6x~2"+6 _:
+;d4 _% #5x~5"-6x~4"-3x~2"+9x-15 _:
+
+,h9t4 "<a"> ,r$ucible2 "<;c">
+irr$ucible4
+
+#i4 ,f9d all ( ! irr$ucible polynomials
+( degrees #b & #c 9 _% `;,z2`(x`) _:4
+
+#aj4 ,give two di6}5t factoriza;ns (
+_% x~2"+x+8 _: 9 _% `;,z10`(x`) _:4
+
+,h9t4 ,"o factoriza;n is           #abfc
+_% x~2"+x+8 .k (x+2)(x+9) _:4
+
+#aa4 ,prove or 4prove3 ,"! exi/s a
+polynomial _% p(x) _: 9 _% `;,z6`(x`) _:
+( degree ;n ) m ?an ;n 4t9ct z}os4
+
+#ab4 ,if ;,f is a field1 %{ t _% ,f`(x1,
+''', x;n"`) _: is an 9tegral doma94
+
+#ac4 ,%{ t ! divi.n algori?m does n hold
+= _% `;,z`(x`) _:4 ,:y does x fail8
+
+,h9t4 ,! 9teg}s _% `;,z _: d n =m a
+field4
+
+#ad4 ,prove or 4prove3 _% x~p"+a _: is
+irr$ucible = any _% a `e `;,z;p _:1 ":
+;p is prime4
+
+,h9t4 ,false4
+
+#ae4 ,let _% f(x) _: 2 irr$ucible 9
+_% ,f`(x`) _:1 ": ;,f is a field4 ,if
+_% f(x)|p(x)q(x) _:1 prove t ei
+_% f(x)|p(x) _: or                 #abfd
+_% f(x)|q(x) _:4
+
+#af4 ,suppose t ;,r & ;,s >e isomorphic
+r+s4 ,prove t _% ,r`(x`) `:.k
+,s`(x`) _:4
+
+,h9t4 ,let _% .f"1 ,r $o ,s _: 2 an
+isomorphism4 ,def9e _% .f:"1 ,r`(x`) $o
+,s`(x`) _: by _% "f<----}(a0+a1x+'''
++a;n"x~n") .k f(a0)+f(a1)x+'''
++f(a;n")x~n _:4
+
+#ag4 ,let ;,f 2 a field & _% a `e ,f _:4
+,if _% p(x) `e ,f`(x`) _:1 %{ t
+_% p(a) _: is ! rema9d} obta9$ :5
+_% p(x) _: is divid$ by _% x-a _:4
+
+#ah4 "<,! ,ra;nal ,root ,!orem4"> ,let
+_%
+
+p(x) .k a;n"x~n"+a;n-1"x~n-1+''' +a0 `e
+`;,z`(x`)
+
+_:1
+": _% a;n /.k #0 _:4 ,prove t if   #abfe
+_% p(r_/s) .k #0 _:1 ": _% gcd (r, s) .k
+#1 _:1 !n _% r|a0 _: & _% s|a;n _:4
+
+#ai4 ,let _% `;,q~`# _: 2 !
+multiplicative gr|p ( positive ra;nal
+numb}s4 ,prove t _% `;,q~`# _: is
+isomorphic to _% (`;,z`(x`), +) _:4
+
+#bj4 "<,cyclotomic ,polynomials4"> ,!
+polynomial
+_%
+
+.,f;n"(x) .k ?x~n"-1/x-1# .k
+x~n-1"+x~n-2+''' +x+1
+
+_:
+is call$ ! ~1cyclotomic ~1polynomial4
+,%{ t _% .,f;p"(x) _: is irr$ucible ov}
+_% `;,q _: = any prime ;p4
+
+,h9t4 ,! polynomial
+
+
+
+                                   #abff
+_%
+
+.,f;n"(x) .k ?x~n"-1/x-1# .k
+x~n-1"+x~n-2+''' +x+1
+
+_:
+is call$ ! ~1cyclotomic ~1polynomial4
+,%{ t _% .,f;p"(x) _: is irr$ucible ov}
+_% `;,q _: = any prime ;p4
+
+#ba4 ,if ;,f is a field1 %{ t "! >e
+9f9itely _m irr$ucible polynomials 9
+_% ,f`(x`) _:4
+
+#bb4 ,let ;,r 2 a commutative r+ )
+id5t;y4 ,prove t multiplica;n is
+commutative 9 _% ,r`(x`) _:4
+
+#bc4 ,let ;,r 2 a commutative r+ )
+id5t;y4 ,prove t multiplica;n is
+4tributive 9 _% ,r`(x`) _:4
+
+#bd4 ,%{ t _% x~p"-x _: has ;p 4t9ct
+z}os 9 _% `;,z;p _:1 = any prime ;p4
+,3clude t                          #abfg
+_%
+
+x~p"-x .k x(x-1)(x-2) ''' (x-(p-1))
+
+_:4
+
+#be4 ,let ;,f 2 a field & _% f(x) .k
+a0+a1x+''' +a;n"x~n _: 2 9
+_% ,f`(x`) _:4 ,def9e _% f'(x) .k
+a1+2a2x+''' +na;n"x~n-1 _: to 2 !
+~1d}ivative ( _% f(x) _:4
+a4 ,prove t
+_%
+
+(f+g)'(x) .k f'(x)+g'(x)
+
+_:4
+,3clude t we c def9e a homomorphism (
+abelian gr|ps _% ,d"1 ,f`(x`) $o
+,f`(x`) _: by _% ,d(f(x)) .k f'(x) _:4
+;b4 ,calculate ! k}nel ( ;,d if
+_% char,f .k #0 _:4
+;c4 ,calculate ! k}nel ( ;,d if
+_% char,f .k p _:4
+;d4 ,prove t                       #abfh
+_%
+
+(fg)'(x) .k f'(x)g(x)+f(x)g'(x)
+
+_:4
+;e4 ,suppose t we c factor a polynomial
+_% f(x) `e ,f`(x`) _: 9to l9e> factors1
+say
+_%
+
+f(x) .k a(x-a1)(x-a2) ''' (x-a;n")
+
+_:4
+,prove t _% f(x) _: has no rep1t$
+factors if & only if _% f(x) _: &
+_% f'(x) _: >e relatively prime4
+
+#bf4 ,let ;,f 2 a field4 ,%{ t
+_% ,f`(x`) _: is n"e a field4
+
+,h9t4 ,f9d a nontrivial prop} id1l 9
+_% ,f`(x`) _:4
+
+#bg4 ,let ;,r 2 an 9tegral doma94 ,prove
+t _% ,r`(x1, ''', x;n"`) _: is     #abfi
+an 9tegral doma94
+
+#bh4 ,let ;,r 2 a commutative r+ )
+id5t;y4 ,%{ t _% ,r`(x`) _: has a subr+
+_% ,r' _: isomorphic to ;,r4
+
+#bi4 ,let _% p(x) _: & _% q(x) _: 2
+polynomials 9 _% ,r`(x`) _:1 ": ;,r is a
+commutative r+ ) id5t;y4 ,prove t _% deg
+(p(x)+q(x)) "k: max (deg p(x), deg
+q(x)) _:4
+
+    #ag4f ,addi;nal ,ex}cises3  ,solv+ !
+    ,cubic & ,qu>tic ,equa;ns
+
+#a4 ,complete ! squ>e to solve ! g5}al
+quadratic equa;n
+_%
+
+ax~2"+bx+c .k #0
+
+_:
+to obta9
+
+                                   #abgj
+_%
+
+x .k ?-b+->b~2"-4ac}/2a#
+
+_:4
+,! ~14crim9ant ( ! quadratic equa;n
+_% .,d .k b~2"-4ac _: det}m9es ! nature
+( ! solu;ns ( ! equa;n4 ,if _% .,d .1
+#0 _:1 ! equa;n has two 4t9ct r1l
+solu;ns4 ,if _% .,d .k #0 _:1 ! equa;n
+has a s+le rep1t$ r1l root4 ,if _% .,d
+"k #0 _:1 "! >e two 4t9ct imag9>y
+solu;ns4
+
+#b4 ,%{ t any cubic equa;n ( ! =m
+_%
+
+x~3"+bx~2"+cx+d .k #0
+
+_:
+c 2 r$uc$ to ! =m _% y~3"+py+q .k #0 _:
+by mak+ ! sub/itu;n _% x .k y-b_/3 _:4
+
+#c4 ,prove t ! cube roots ( #a >e giv5
+by                                 #abga
+_%
+
+.w    .k ?-1+i>3}/2#
+.w~2" .k ?-1-i>3}/2#
+.w~3" .k #1
+
+_:4
+
+#d4 ,make ! sub/itu;n
+_%
+
+y .k z-?p/3z#
+
+_:
+= ;y 9 ! equa;n _% y~3"+py+q .k #0 _: &
+obta9 two solu;ns ,a & ;,b = _% z~3 _:4
+
+#e4 ,%{ t ! product ( ! solu;ns obta9$ 9
+"<#d"> is _% -p~3"_/27 _:1 d$uc+ t
+_% <3>,a,b} .k -p_/3 _:4
+
+#f4 ,prove t ! possible solu;ns = ;z 9
+"<#d"> >e giv5 by
+
+                                   #abgb
+_%
+
+<3>,a},  .w<3>,a},  .w~2"<3>,a},
+<3>,b},  .w<3>,b},  .w~2"<3>,b}
+
+_:
+& use ? result to %{ t ! ?ree possible
+solu;ns = ;y >e
+_%
+
+.w~i"<3>-?q/2#+.>
+?p~3"/27#+?q~2"/4#.}}+.w~2i"<3>-?q/2#-.>
+?p~3"/27#+?q~2"/4#.}}
+
+_:1
+": _% i .k #0, #1, #2 _:4
+
+#g4 ,! ~14crim9ant ( ! cubic equa;n is
+_%
+
+.,d .k ?p~3"/27#+?q~2"/4#
+
+_:4
+,%{ t _% y~3"+py+q .k #0 _:
+a4 has ?ree r1l roots1 at l1/      #abgc
+two ( : >e equal1 if _% .,d .k #0 _:4
+;b4 has "o r1l root & two 3jugate
+imag9>y roots if _% .,d .1 #0 _:4
+;c4 has ?ree 4t9ct r1l roots if _% .,d
+"k #0 _:4
+
+#h4 ,solve ! foll{+ cubic equa;ns4
+a4 _% x~3"-4x~2"+11x+30 .k #0 _:
+;b4 _% x~3"-3x+5 .k #0 _:
+;c4 _% x~3"-3x+2 .k #0 _:
+;d4 _% x~3"+x+3 .k #0 _:
+
+#i4 ,%{ t ! g5}al qu>tic equa;n
+_%
+
+x~4"+ax~3"+bx~2"+cx+d .k #0
+
+_:
+c 2 r$uc$ to
+_%
+
+y~4"+py~2"+qy+r .k #0
+
+_:
+by us+ ! sub/itu;n _% x .k         #abgd
+y-a_/4 _:4
+
+#aj4 ,%{ t
+_%
+
+(y~2"+?1/2#z)~2 .k
+(z-p)y~2"-qy+(?1/4#z~2"-r)
+
+_:4
+
+#aa4 ,%{ t ! "r-h& side (
+,ex}cise #ag4f4aj c 2 put 9 ! =m
+_% (my+k)~2 _: if & only if
+_%
+
+q~2"-4(z-p)(?1/4#z~2"-r) .k #0
+
+_:4
+
+#ab4 ,f ,ex}cise #ag4f4aa obta9 !
+~7resolv5t cubic equa;n~'
+
+
+
+                                   #abge
+_%
+
+z~3"-pz~2"-4rz+(4pr-q~2") .k #0
+
+_:4
+,solv+ ! resolv5t cubic equa;n1 put !
+equa;n f.d 9 ,ex}cise #ag4f4aj 9 ! =m
+_%
+
+(y~2"+?1/2#z)~2 .k (my+k)~2
+
+_:
+to obta9 ! solu;n ( ! qu>tic equa;n4
+
+#ac4 ,use ? me?od to solve ! foll{+
+qu>tic equa;ns4
+a4 _% x~4"-x~2"-3x+2 .k #0 _:
+;b4 _% x~4"+x~3"-7x~2"-x+6 .k #0 _:
+;c4 _% x~4"-2x~2"+4x-3 .k #0 _:
+;d4 _% x~4"-4x~3"+3x~2"-5x+2 .k #0 _:
+
+    #ag4g ,sage
+  ,sage is "picul>ly adept at build+1
+analyz+ & manipulat+ polynomial r+s4 ,we
+h se5 "s ( ? 9 ! previ|s *apt}4    #abgf
+,let's 2g9 by cr1t+ ?ree polynomial r+s
+& *eck+ "s ( _! basic prop}ties4 ,"! >e
+s"eal ways to 3/ruct polynomial r+s1 b !
+syntax us$ "h is ! mo/ /rai<t=w>d4
+
+      ,polynomial ,r+s & _! ,ele;ts
+
+`#7,r4`<x`> "7 ,9teg}s"<#h">.<.>2 ;,r`#'
+-----------------
+`#7,univ>iate ,polynomial ,r+ 9 ;x ov}
+,r+ ( 9teg}s modulo #h`#'
+
+
+`#7,s4`<y`> "7 ,,zz.<.>2 ;,s`#'
+-----------------
+`#7,univ>iate ,polynomial ,r+ 9 ;y ov}
+,9teg} ,r+`#'
+
+
+`#7,t4`<z`> "7 ,,qq.<.>2 ;,t`#'
+-----------------
+`#7,univ>iate ,polynomial ,r+ 9 ;z ov}
+,ra;nal ,field`#'
+
+  ,basic prop}ties ( r+s >e        #abgg
+availble = ~! examples4
+
+`#1,r4is.-f9ite"<">
+-----------------
+`#1,false
+
+
+`#1,r4is.-9tegral.-doma9"<">
+-----------------
+`#1,false
+
+
+`#1,s4is.-9tegral.-doma9"<">
+-----------------
+`#1,true
+
+
+`#1,t4is.-field"<">
+-----------------
+`#1,false
+
+
+
+
+                                   #abgh
+`#1,r4"*i/ic"<">
+-----------------
+`#2#h
+
+
+`#1,t4"*i/ic"<">
+-----------------
+`#2#j
+
+  ,) ! 3/ruc;n syntax us$ abv1 !
+v>iables c 2 us$ to cr1te ele;ts ( !
+polynomial r+ )|t explicit co}cion "<?|<
+we ne$ to 2 c>e;l ab 3/ant
+polynomials">4
+
+`#7;y 9 ;,s`#'
+-----------------
+`#1,true
+
+
+`#7;x 9 ;,s`#'
+-----------------
+`#1,false
+
+                                   #abgi
+`#7;q "7 "<#c_/#b"> "6
+"<#e_/#d">"9z`5#b`#'
+`#7;q 9 ;,t`#'
+-----------------
+`#1,true
+
+
+`#7#c 9 ;,s`#'
+-----------------
+`#1,true
+
+
+`#7;r "7 #c`#'
+`#1r4p>5t"<">
+-----------------
+`#1,9teg} `#1,r+
+
+
+`#7;s "7 #c"9y`5#j`#'
+`#1s4p>5t"<">
+-----------------
+`#7,univ>iate ,polynomial ,r+ 9 ;y ov}
+,9teg} ,r+`#'
+
+  ,polynomials c 2 evaluat$ l !y   #abhj
+>e func;ns1 s we c mimic ! evalua;n
+homomorphism4
+
+`#7;p "7 #c "6 #e"9x "6 #b"9x`5#b`#'
+`#1p4p>5t"<">
+-----------------
+`#7,univ>iate ,polynomial ,r+ 9 ;x ov}
+,r+ ( 9teg}s modulo #h`#'
+
+
+`#1p"<#a">
+-----------------
+`#2#b
+
+
+`#7.<p"<t"> = ;t 9 ,9teg}s"<#h">.>`#'
+-----------------
+`#7.<#c1 #b1 #e1 #d1 #g1 #f1 #a1 #j.>`#'
+
+  ,notice t `#2;p is a degree two
+polynomial1 yet "? a brute-=ce exam9a;n
+we see t ! polynomial only has "o root1
+3tr>y to |r usual expecta;ns4 ,x c 2 ev5
+m unusual4
+                                   #abha
+`#7;q "7 #d"9x`5#b"6#d"9x`#'
+`#7.<q"<t"> = ;t 9 ,9teg}s"<#h">.>`#'
+-----------------
+`#7.<#j1 #j1 #j1 #j1 #j1 #j1 #j1 #j.>`#'
+
+  ,sage c cr1te & manipulate r+s (
+polynomials 9 m ?an "o v>iable1 ?|< we w
+n h m* o3a.n to use ? func;nal;y 9 ?
+c|rse4
+
+`#7,m4`<s1 t`> "7 ,,qq.<.>2 ;,m`#'
+-----------------
+`#7,multiv>iate ,polynomial ,r+ 9 ;s1 ;t
+ov} ,ra;nal ,field`#'
+
+
+      ,irr$ucible ,polynomials
+  ,:e!r or n a polynomial factors1 tak+
+9to 3sid}a;n ! r+ us$ = xs coe6ici5ts1
+is an important topic 9 ? *apt} & _m ( !
+foll{+ *apt}s4 ,sage c factor1 & det}m9e
+irr$ucibil;y1 ov} ! 9teg}s1 ! ra;nals1 &
+f9ite fields4
+  ,f/1 ov} ! ra;nals4
+                                   #abhb
+`#7,r4`<x`> "7 ,,qq.<.>`#'
+`#7;p "7 #a_/#d"9x`5#d - x`5#c "6 x`5#b
+- ;x - #a_/#b`#'
+`#1p4is.-irr$ucible"<">
+-----------------
+`#1,true
+
+
+`#1p4factor"<">
+-----------------
+`#7"<#a_/#d"> "9 "<x`5#d - #d"9x`5#c "6
+#d"9x`5#b - #d"9x - #b">`#'
+
+
+`#7;q "7 #b"9x`5#e "6 #e_/#b"9x`5#d "6
+#c_/#d"9x`5#c - #be_/#bd"9x`5#b - ;x -
+#a_/#b`#'
+`#1q4is.-irr$ucible"<">
+-----------------
+`#1,false
+
+
+
+
+                                   #abhc
+`#1q4factor"<">
+-----------------
+`#7"<#b"> "9 "<x`5#b "6 #c_/#b"9x "6
+#c_/#d"> "9 "<x`5#c - #a_/#d"9x`5#b -
+#a_/#c">`#'
+
+  ,factor+ ov} ! 9teg}s is r1lly no
+di6}5t ?an factor+ ov} ! ra;nals4 ,? is
+! 3t5t ( ,!orem #ag4ad ,- f9d+ a
+factoriza;n ov} ! 9teg}s c 2 3v}t$ to
+f9d+ a factoriza;n ov} ! ra;nals4 ,s x
+is ) ,sage1 "! is ll di6};e 2t "w+ ov} !
+ra;nals & ! 9teg}s4 ,x is a ll di6}5t
+"w+ ov} a f9ite field4 ,com;t>y foll{s4
+
+`#7,f4`<a`> "7 ,f9ite,field"<#e`5#b">`#'
+`#7,s4`<y`> "7 ,f.<.>`#'
+`#7;p "7 #b"9y`5#e "6 #b"9y`5#d "6
+#d"9y`5#c "6 #b"9y`5#b "6 #c"9y "6 #a`#'
+`#1p4is.-irr$ucible"<">
+-----------------
+`#1,true
+
+
+                                   #abhd
+`#1p4factor"<">
+-----------------
+`#7"<#b"> "9 "<y`5#e "6 y`5#d "6
+#b"9y`5#c "6 y`5#b "6 #d"9y "6 #c">`#'
+
+
+`#7;q "7 #c"9y`5#d"6#b"9y`5#c-y"6#d2
+q4factor"<">`#'
+-----------------
+`#7"<#c"> "9 "<y`5#b "6 "<a "6 #d">"9y
+"6 #b"9a "6 #c"> "9 "<y`5#b "6 #d"9a"9y
+"6 #c"9a">`#'
+
+
+`#7;r "7
+y`5#d"6#b"9y`5#c"6#c"9y`5#b"6#d2
+r4factor"<">`#'
+-----------------
+`#7"<;y "6 #d"> "9 "<y`5#c "6 #c"9y`5#b
+"6 ;y "6 #a">`#'
+
+
+
+
+                                   #abhe
+`#7;s "7 #c"9y`5#d"6#b"9y`5#c-y"6#c2
+s4factor"<">`#'
+-----------------
+`#7"<#c"> "9 "<;y "6 #a"> "9 "<;y "6
+#c"> "9 "<;y "6 #b"9a "6 #d"> "9 "<;y "6
+#c"9a "6 #a">`#'
+
+  ,to *eck ~! factoriza;ns1 we ne$ to
+compute 9 ! f9ite field1 `#2;,f1 & s we
+ne$ to "k h{ ! symbol `#2a 2haves4 ,?
+symbol is 3sid}$ z a root ( a degree two
+polynomial ov} ! 9teg}s mod #e1 : we c
+get ) ! `#1;4modulus"<"> me?od4
+
+`#1,f4modulus"<">
+-----------------
+`#7x`5#b "6 #d"9x "6 #b`#'
+
+  ,s _% a~2"+4a+2 .k #0 _:1 or _% a~2 .k
+-#4a-3 .k a+2 _:4 ,s :5 *eck+ !
+factoriza;ns1 any"t y see an _% a~2 _: y
+c replace x by _% a+2 _:4 ,notice t by
+,coroll>y #ag4h we cd f9d ! "o l9e>
+factor ( `#2;r1 & ! f|r l9e> factors (
+`#2;s1 "? a brute-=ce se>* =       #abhf
+roots4 ,? is f1sible 2c ! field is
+f9ite4
+
+`#7.<;t = ;t 9 ;,f if r"<t">"7"7#j.>`#'
+-----------------
+`#1.<#a.>
+
+
+`#7.<;t = ;t 9 ;,f if s"<t">"7"7#j.>`#'
+-----------------
+`#7.<#b1 #c"9a "6 #a1 #d1 #b"9a "6
+#d.>`#'
+
+  ,h{"e1 `#2;q factors 9to a pair (
+degree #b polynomials1 s no am.t ( te/+
+= roots w 4cov} a factor4
+  ,) ,eis5/e9's ,crit}ion1 we c cr1te
+irr$ucible polynomials1 s* z 9
+,example #ag4ah4
+
+
+
+
+
+                                   #abhg
+`#7,w4`<w`> "7 ,,qq.<.>`#'
+`#7;p "7 #af"9w`5#e - #i"9w`5#d
+"6#c"9w`5#b "6 #f"9w -#ba`#'
+`#1p4is.-irr$ucible"<">
+-----------------
+`#1,true
+
+  ,ov} ! field _% `;,z;p _:1 ! field (
+9teg}s mod a prime ;p1 ,3way polynomials
+>e canonical *oices ( a polynomial (
+degree ;n t is irr$ucible ov}
+_% `;,z;p _:4 ,see ! ex}cises = m ab ~!
+polynomials4
+
+      ,polynomials ov} ,fields
+  ,if ;,f is a field1 !n e id1l (
+_% ,f`(x`) _: is pr9cipal
+"<,!orem #ag4bj">4 ,no?+ /ops y f giv+
+,sage two "<or m"> g5}ators to 3/ruct an
+id1l1 b ,sage w det}m9e ! ele;t to use 9
+a descrip;n ( ! id1l z a pr9cipal id1l4
+
+
+
+                                   #abhh
+`#7,w4`<w`> "7 ,,qq.<.>`#'
+`#7;r "7 -w`5#e "6 #e"9w`5#d - #d"9w`5#c
+"6 #ad"9w`5#b - #fg"9w "6 #ag`#'
+`#7;s "7 #c"9w`5#e - #ad"9w`5#d "6
+#ab"9w`5#c - #f"9w`5#b "6 ;w`#'
+`#7;,s "7 ,w4id1l"<r1 ;s">`#'
+`#2;,s
+-----------------
+`#7,pr9cipal id1l "<w`5#b - #d"9w "6
+#a"> (`#'
+`#7,univ>iate ,polynomial ,r+ 9 ;w ov}
+,ra;nal ,field`#'
+
+
+`#7"<w`5#b">"9r "6 "<#c"9w-#f">"9s 9
+;,s`#'
+-----------------
+`#1,true
+
+  ,!orem #ag4bb is ! key fact t all{s u
+to easily 3/ruct f9ite fields4 ,"h is a
+3/ruc;n ( a f9ite field ( ord} _% #7~5
+.k #16 807 _:4 ,all we ne$ is a
+polynomial ( degree #e t is irr$ucible
+ov} _% `;,z7 _:4                   #abhi
+`#7;,f "7 ,9teg}s"<#g">`#'
+`#7,r4`<x`> "7 ,f.<.>`#'
+`#7;p "7 x`5#e"6 ;x "6 #d`#'
+`#1p4is.-irr$ucible"<">
+-----------------
+`#1,true
+
+
+`#7id "7 ,r4id1l"<p">`#'
+`#7;,q "7 ,r4quoti5t"<id">2 ;,q`#'
+-----------------
+`#7,univ>iate ,quoti5t ,polynomial ,r+ 9
+xb> ov}`#'
+`#7,r+ ( 9teg}s modulo #g ) modulus
+x`5#e "6 ;x "6 #d`#'
+
+
+`#1,q4is.-field"<">
+-----------------
+`#1,true
+
+
+
+
+                                   #abij
+`#7,q4ord}"<"> "7"7 #g`5#e`#'
+-----------------
+`#1,true
+
+  ,! symbol `#1xb> is a g5}ator ( !
+field1 b "r n{ x is n a3essible4 `#1xb>
+is ! coset _% x+..(x~5"+x+4..) _:4 ,a
+bett} 3/ruc;n wd 9clude specify+ ?
+g5}ator4
+
+`#1,q4g5"<#j">
+-----------------
+`#1xb>
+
+
+`#7,q4`<t`> "7 ,r4quoti5t"<id">2 ;,q`#'
+-----------------
+`#7,univ>iate ,quoti5t ,polynomial ,r+ 9
+;t ov}`#'
+`#7,r+ ( 9teg}s modulo #g ) modulus
+x`5#e "6 ;x "6 #d`#'
+
+
+
+                                   #abia
+`#7t`5#e "6 ;t "6 #d`#'
+-----------------
+`#2#j
+
+
+`#7t`5#e "7"7 -"<t"6#d">`#'
+-----------------
+`#1,true
+
+
+`#1t`5#e
+-----------------
+`#7#f"9t "6 #c`#'
+
+
+`#7"<#c"9t`5#c "6 ;t "6 #e">"9"<t`5#b "6
+#d"9t "6 #b">`#'
+-----------------
+`#7#e"9t`5#d "6 #b"9t`5#b "6 #e"9t "6
+#e`#'
+
+
+
+
+                                   #abib
+`#7a "7 #c"9t`5#d - #f"9t`5#c "6
+#c"9t`5#b "6 #e"9t "6 #b`#'
+`#7a9v "7 a`5-#a2 a9v`#'
+-----------------
+`#7#f"9t`5#d "6 #e"9t`5#b "6 #d`#'
+
+
+`#1a"9a9v
+-----------------
+`#2#a
+
+
+    #ag4h ,sage ,ex}cises
+
+#a4 ,3sid} ! polynomial _% x~3"-3x+4 _:4
+,compute ! mo/ ?or|< factoriza;n ( ?
+polynomial ov} ea* ( ! foll{+ fields3
+"<a"> ! f9ite field _% `;,z5 _:1 "<;b">
+a f9ite field ) #abe ele;ts1 "<;c"> !
+ra;nals1 "<;d"> ! r1l numb}s & "<;e"> !
+complex numb}s4 ,to d ?1 build !
+appropriate polynomial r+1 & 3/ruct !
+polynomial z a memb} ( ? r+1 & use !
+`#1;4factor"<"> me?od4
+                                   #abic
+#b4 8,3way polynomials0 >e irr$ucible
+polynomials ov} _% `;,z;p _: t ,sage "<&
+o!r s(tw>e"> uses to build maximal id1ls
+9 polynomial r+s1 & ?us quoti5t r+s t >e
+fields4 ,r|<ly sp1k+1 !y >e 8canonical0
+*oices = ea* degree & ea* prime4 ,!
+comm& `#13way.-polynomial"<p1 `#1;n"> w
+return a database 5try t is an
+irr$ucible polynomial ( degree ;n ov}
+_% `;,z;p _:4
+  ,execute ! comm&
+`#13way.-polynomial"<#e1 `#1#d"> to
+obta9 an alleg$ly irr$ucible polynomial
+( degree #d ov} _% `;,z5 _:3 _% p .k
+x~4"+4x~2"+4x+2 _:4 ,3/ruct ! "r
+polynomial r+ "<i4e41 9 ! 9det}m9ate
+;x"> & v}ify t `#2;p is r1lly an ele;t (
+yr polynomial r+4
+  ,f/ det}m9e t ;p has no l9e> factors4
+,! only possibil;y left is t `#2;p
+factors z two quadratic polynomials ov}
+_% `;,z5 _:4 ,use a li/ compreh5.n )
+.1?ree `#1= /ate;ts to cr1te .1e
+possible quadratic polynomial ov}
+_% `;,z5 _:4 ,n{ use ? li/ to      #abid
+cr1te e possible product ( two quadratic
+polynomials & *eck to see if `#2;p is 9
+? li/4
+  ,m on ,3way polynomials is available
+at ,frank ,l~3ubeck's site;9#ag 4
+
+#c4 ,3/ruct a f9ite field ( ord} #gbi z
+a quoti5t ( a polynomial r+ by a
+pr9cipal id1l g5}at$ ) a ,3way
+polynomial4
+
+#d4 ,def9e ! polynomials _% p .k
+x~3"+2x~2"+2x+4 _: & _% q .k
+x~4"+2x~2 _: z polynomials ) coe6ici5ts
+f ! 9teg}s4 ,compute `#1gcd"<p1 `#1;q">
+& v}ify t ! result divides bo? `#2;p &
+`#2;q"<j =m a frac;n 9 ,sage & see t x
+simplifies cl1nly1 or use !
+`#1;4quo.-rem"<"> me?od">4
+  ,proposi;n #ag4aj says "! >e
+polynomials _% r(x) _: & _% s(x) _: s* t
+! grte/ common divisor equals
+_% r(x)p(x)+s(x)q(x) _:1 .7if !
+coe6ici5ts come f a field.'4 ,s9ce "h we
+h two polynomials ov} ! 9teg}s1    #abie
+9ve/igate ! results return$ by ,sage = !
+ext5d$ gcd1 `#1xgcd"<p1 `#1;q">4 ,9
+"picul>1 %{ t ! f/ result ( ! return$
+triple is a multiple ( ! gcd4 ,!n v}ify
+! 8l9e> comb9a;n0 prop}ty ( ! result4
+
+#e4 ,= a polynomial r+ ov} a field1 e
+id1l is pr9cipal4 ,2g9 ) ! r+ (
+polynomials ov} ! ra;nals4 ,exp}i;t )
+3/ruct+ id1ls us+ two g5}ators & !n see
+t ,sage 3v}ts ! id1l to a pr9cipal id1l
+) a s+le g5}ator4 "<,y c get ? g5}ator )
+! id1l me?od `#1;4g5"<">4"> ,c y expla9
+h{ ? s+le g5}ator is comput$8
+
+
+
+
+
+
+
+
+
+
+                                   #abif
+

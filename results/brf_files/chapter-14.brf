@@ -1,0 +1,2051 @@
+            #ad ,gr|p ,ac;ns
+
+  ,gr|p ac;ns g5}alize gr|p
+multiplica;n4 ,if ;,g is a gr|p & ;,x is
+an >bitr>y set1 a gr|p ac;n ( an ele;t
+_% g `e ,g _: & _% x `e ,x _: is a
+product1 _% gx _:1 liv+ 9 ;,x4 ,_m
+problems 9 algebra >e be/ 2 attack$ via
+gr|p ac;ns4 ,= example1 ! pro(s ( !
+,syl{ !orems & ( ,burnside's ,c.t+
+,!orem >e mo/ easily "u/ood :5 !y >e
+=mulat$ 9 t}ms ( gr|p ac;ns4
+
+    #ad4a ,gr|ps ,act+ on ,sets
+  ,let ;,x 2 a set & ;,g 2 a gr|p4 ,a
+~1"<left"> ~1ac;n ( ;,g on ;,x is a map
+_% ,g`*,x $o ,x _: giv5 by _% (g, x)
+$|33o gx _:1 ":
+#a4 _% ex .k x _: = all _% x `e ,x _:2
+#b4 _% (g1g2)x .k g1(g2x) _: = all _% x
+`e ,x _: & all _% g1, g2 `e ,g _:4
+,"u ~! 3sid}a;ns ;,x is call$ a
+~1;,g-set4 ,notice t we >e n requir+ ;,x
+to 2 relat$ to ;,g 9 any way4 ,x is true
+t e gr|p ;,g acts on e set ;,x by   #iea
+! trivial ac;n _% (g, x) $|33o x _:2
+h{"e1 gr|p ac;ns >e m 9t}e/+ if ! set
+;,x is "sh{ relat$ to ! gr|p ;,g4
+
+7777777777777777777777777777777777777777
+,example #ad4a
+  ,let _% ,g .k ,g,l2(`;,r) _: & _% ,x
+.k `;,r~2 _:4 ,!n ;,g acts on ;,x by
+left multiplica;n4 ,if _% v `e `;,r~2 _:
+& ,i is ! id5t;y matrix1 !n _% ,iv .k
+v _:4 ,if ,a & ;,b >e _% #2`*2 _:
+9v}tible matrices1 !n _% (,a,b)v .k
+,a(,bv) _: s9ce matrix multiplica;n is
+associative4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+                                    #ieb
+7777777777777777777777777777777777777777
+,example #ad4b
+  ,let _% ,g .k ,d4 _: 2 ! symmetry gr|p
+( a squ>e4 ,if _% ,x .k .(1, 2, 3,
+4.) _: is ! set ( v}tices ( ! squ>e1 !n
+we c 3sid} _% ,d4 _: to 3si/ ( ! foll{+
+p}muta;ns3
+_%
+
+.((1), (#1 #3), (#2 #4), (#1 #4 #3 #2),
+(#1 #2 #3 #4), (#1 #2)(#3 #4), (#1
+#4)(#2 #3), (#1 #3)(#2 #4).)
+
+_:4
+,! ele;ts ( _% ,d4 _: act on ;,x z
+func;ns4 ,! p}muta;n _% (#1 #3)(#2
+#4) _: acts on v}tex #a by s5d+ x to
+v}tex #c1 on v}tex #b by s5d+ x to v}tex
+#d1 & s on4 ,x is easy to see t !
+axioms ( a gr|p ac;n >e satisfi$4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,9 g5}al1 if ;,x is any set & ;,g is a
+subgr|p ( _% ,s;,x _:1 ! gr|p ( all
+p}muta;ns act+ on ;,x1 !n ;,x is    #iec
+a ;,g-set "u ! gr|p ac;n
+_%
+
+(.s, x) $|33o .s(x)
+
+_:
+= _% .s `e ,g _: & _% x `e ,x _:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ied
+7777777777777777777777777777777777777777
+,example #ad4c
+  ,if we let _% ,x .k ,g _:1 !n e gr|p
+;,g acts on xf by ! left regul>
+repres5ta;n2 t is1 _% (g, x) $|33o
+.l;g"(x) .k gx _:1 ":  _% .l;g _: is
+left multiplica;n3
+_%
+
+e*x .k .l;e"x .k ex .k x
+(gh)*x .k .l;gh"x .k .l;g".l;h"x .k
+.l;g"(hx) .k g*(h*x)
+
+_:4
+,if ;,h is a subgr|p ( ;,g1 !n ;,g is an
+;,h-set "u left multiplica;n by ele;ts (
+;,h4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ad4d
+  ,let ;,g 2 a gr|p & suppose t _% ,x .k
+,g _:4 ,if ;,h is a subgr|p ( ;,g1 !n
+;,g is an ;,h-set "u ~13juga;n;2    #iee
+t is1 we c def9e an ac;n ( ;,h on ;,g1
+_%
+
+,h`*,g $o ,g
+
+_:1
+via
+_%
+
+(h, g) $|33o hgh~-1
+
+_:
+= _% h `e ,h _: & _% g `e ,g _:4
+,cle>ly1 ! f/ axiom = a gr|p ac;n holds4
+,obs}v+ t
+_%
+
+(h1h2, g)              .k
+h1h2g(h1h2)~-1"
+.k h1(h2gh2~-1")h1~-1"
+.k (h1, (h2, g))
+
+_:1
+we see t ! second 3di;n is al satisfi$4
+ggggggggggggggggggggggggggggggggg   #ief
+
+
+7777777777777777777777777777777777777777
+,example #ad4e
+  ,let ;,h 2 a subgr|p ( ;,g &
+_% `;,l;,h _: ! set ( left cosets ( ;,h4
+,! set _% `;,l;,h _: is a ;,g-set "u !
+ac;n
+_%
+
+(g, x,h) $|33o gx,h
+
+_:4
+,ag1 x is easy to see t ! f/ axiom is
+true4 ,s9ce _% (gg~'")x,h .k
+g(g'x,h) _:1 ! second axiom is  al true4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,if ;,g acts on a set ;,x & _% x, y `e
+,x _:1 !n ;x is sd to 2 ~1;,g-equival5t
+to ;y if "! exi/s a _% g `e ,g _: s* t
+_% gx .k y _:4 ,we write _% x `:;,g"
+y _: or _% x `: y _: if two ele;ts >e
+;,g-equival5t4
+                                    #ieg
+7777777777777777777777777777777777777777
+,proposi;n #ad4f
+  ,let ;,x 2 a ;,g-set4 ,!n
+;,g-equival;e is an equival;e rela;n on
+;,x4
+
+,pro(4 ,! rela;n _% `: _: is reflexive
+s9ce _% ex .k x _:4 ,suppose t _% x `:
+y _: = _% x, y `e ,x _:4 ,!n "! exi/s a
+;g s* t _% gx .k y _:4 ,9 ? case
+_% g~-1"y .k x _:2 h;e1 _% y `: x _:4
+,to %{ t ! rela;n is transitive1 suppose
+t _% x `: y _: & _% y `: z _:4 ,!n "! m/
+exi/ gr|p ele;ts ;g & ;h s* t _% gx .k
+y _: & _% hy .k z _:4 ,s _% z .k hy .k
+(hg)x _:1 & ;x is equival5t to ;z4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,if ;,x is a ;,g-set1 !n ea* "pi;n (
+;,x associat$ ) ;,g-equival;e is call$
+an ~1orbit ( ;,x "u ;,g4 ,we w d5ote !
+orbit t 3ta9s an ele;t ;x ( ;,x by
+_% `;,o;x _:4
+
+                                    #ieh
+7777777777777777777777777777777777777777
+,example #ad4g
+  ,let ;,g 2 ! p}muta;n gr|p def9$ by
+_%
+
+,g .k .((1), (#1 #2 #3), (#1 #3 #2), (#4
+#5), (#1 #2 #3)(#4 #5), (#1 #3 #2)(#4
+#5).)
+
+_:
+& _% ,x .k .(1, 2, 3, 4, 5.) _:4 ,!n ;,x
+is a ;,g-set4 ,! orbits >e _% `;,o1 .k
+`;,o2 .k `;,o3 .k .(1, 2, 3.) _: &
+_% `;,o4 .k `;,o5 .k .(4, 5.) _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,n{ suppose t ;,g is a gr|p act+ on a
+set ;,x & let ;g 2 an ele;t ( ;,g4 ,!
+~7fix$ po9t set~' ( ;g 9 ;,x1 d5ot$ by
+_% ,x;g _:1 is ! set ( all _% x `e ,x _:
+s* t _% gx .k x _:4  ,we c al /udy !
+gr|p ele;ts ;g t fix a giv5 _% x `e
+,x _:4 ,? set is m ?an a subset ( ;,g1 x
+is a subgr|p4 ,? subgr|p is call$ !
+~1/abiliz} ~1subgr|p or             #iei
+~1isotropy ~1subgr|p ( ;x4 ,we w d5ote !
+/abiliz} subgr|p ( ;x by _% ,g;x _:4
+
+7777777777777777777777777777777777777777
+,rem>k #ad4h
+  ,x is important to rememb} t _% ,x;g
+_"k ,x _: & _% ,g;x _"k ,g _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ad4i
+  ,let _% ,x .k .(1, 2, 3, 4, 5, 6.) _:
+& suppose t ;,g is ! p}muta;n gr|p giv5
+by ! p}muta;ns
+_%
+
+.((1), (#1 #2)(#3 #4 #5 #6), (#3 #5)(#4
+#6), (#1 #2)(#3 #6 #5 #4).)
+
+_:4
+,!n ! fix$ po9t sets  ( ;,x "u ! ac;n (
+;,g >e
+
+                                    #ifj
+_%
+
+,x;(1) .k ,x,
+,x;(#3 #5)(#4 #6) .k .(1, 2.),
+,x;(#1 #2)(#3 #4 #5 #6) .k ,x;(#1 #2)(#3
+#6 #5 #4) .k _0
+
+_:1
+& ! /abiliz} subgr|ps >e
+_%
+
+,g1 .k ,g2 .k .((1), (#3 #5)(#4 #6).),
+,g3 .k ,g4 .k ,g5 .k ,g6 .k .((1).)
+
+_:4
+,x is easily se5 t _% ,g;x _: is a
+subgr|p ( ;,g = ea* _% x `e ,x _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+                                    #ifa
+7777777777777777777777777777777777777777
+,proposi;n #ad4aj
+  ,let ;,g 2 a gr|p act+ on a set ;,x &
+_% x `e ,x _:4 ,! /abiliz} gr|p ( ;x1
+_% ,g;x _:1 is a subgr|p ( ;,g4
+
+,pro(4 ,cle>ly1 _% e `e ,g;x _: s9ce !
+id5t;y fixes e ele;t 9 ! set ;,x4 ,let
+_% g, h `e ,g;x _:4 ,!n _% gx .k x _: &
+_% hx .k x _:4 ,s _% (gh)x .k g(hx) .k
+gx .k x _:2 h;e1 ! product ( two ele;ts
+9 _% ,g;x _: is al 9 _% ,g;x _:4
+,f9ally1 if _% g `e ,g;x _:1 !n _% x .k
+ex .k (g~-1"g)x .k (g~-1")gx .k
+g~-1"x _:4 ,s _% g~-1 _: is 9
+_% ,g;x _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,we w d5ote ! numb} ( ele;ts 9 ! fix$
+po9t set ( an ele;t _% g `e ,g _: by
+_% |,x;g"| _: & d5ote ! numb} ( ele;ts 9
+! orbit ( _% x `e ,x _: by
+_% |`;,o;x"| _:4 ,! next !orem
+demon/rates ! rela;n%ip 2t orbits ( an
+ele;t _% x `e ,x _: & ! left        #ifb
+cosets ( _% ,g;x _: 9 ;,g4
+
+7777777777777777777777777777777777777777
+,!orem #ad4aa
+  ,let ;,g 2 a f9ite gr|p & ;,x a f9ite
+;,g-set4 ,if _% x `e ,x _:1 !n
+_% |`;,o;x"| .k `(,g_3,g;x"`) _:4
+
+,pro(4 ,we "k t _% |,g|_/|,g;x"| _: is !
+numb} ( left cosets ( _% ,g;x _: 9 ;,g
+by ,lagrange's ,!orem "<,!orem #f4aj">4
+,we w def9e a bijective  map _% .f _: 2t
+! orbit _% `;,o;x _: ( ;,x & ! set (
+left cosets _% `;,l;,g;;x _: (
+_% ,g;x _: 9 ;,g4 ,let _% y `e
+`;,o;x _:4 ,!n "! exi/s a ;g 9 ;,g s* t
+_% gx .k y _:4 ,def9e _% .f _: by
+_% f(y) .k g,g;x _:4 ,to %{ t _% .f _:
+is "o-to-"o1 assume t _% f(y1) .k
+f(y2) _:4 ,!n
+_%
+
+f(y1) .k g1,g;x .k g2,g;x .k f(y2)
+
+_:1                                 #ifc
+": _% g1x .k y1 _: & _% g2x .k y2 _:4
+,s9ce _% g1,g;x .k g2,g;x _:1 "! exi/s a
+_% g `e ,g;x _: s* t _% g2 .k g1g _:1
+_%
+
+y2 .k g2x .k g1gx .k g1x .k y1_2
+
+_:
+3sequ5tly1 ! map _% .f _: is  "o-to-"o4
+,f9ally1 we m/ %{ t ! map _% .f _: is
+onto4 ,let _% g,g;x _: 2 a left coset4
+,if _% gx .k y _:1 !n _% f(y) .k
+g,g;x _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #ad4b ,! ,class ,equa;n
+  ,let ;,x 2 a f9ite ;,g-set &
+_% ,x;,g _: 2 ! set ( fix$ po9ts 9 ;,x2
+t is1
+
+
+
+
+                                    #ifd
+_%
+
+,x;,g .k .(x `e ,x_3gx .k x for all g `e
+,g.)
+
+_:4
+,s9ce ! orbits ( ! ac;n "pi;n ;,x1
+_%
+
+|,x| .k |,x;,g"|+".,s%i .k
+k<n}|`;,o;x;;i;"|
+
+_:1
+": _% x;k, ''', x;n _: >e repres5tatives
+f ! 4t9ct nontrivial orbits ( ;,x4
+  ,n{ 3sid} ! special case 9 : ;,g acts
+on xf by 3juga;n1 _% (g, x) $|33o
+gxg~-1 _:4 ,! ~1c5t} ( ;,g1
+_%
+
+,z(,g) .k .(x_3xg .k gx for all g `e
+,g.)
+
+_:1
+is ! set ( po9ts t >e fix$ by       #ife
+3juga;n4 ,! nontrivial orbits ( ! ac;n
+>e call$ ! ~13jugacy ~1classes ( ;,g4
+,if _% x1, ''', x;k _: >e repres5tatives
+f ea* ( ! nontrivial 3jugacy classes (
+;,g & _% |`;,o;x1"| .k n1, ''',
+|`;,o;x;;k;"| .k n;k _:1 !n
+_%
+
+|,g| .k |,z(,g)|+n1+''' +n;k
+
+_:4
+,! /abiliz} subgr|ps ( ea* ( ! _% x;i _:
+';s1 _% ,c(x;i") .k .(g `e ,g_3gx;i" .k
+x;i"g.) _:1 >e call$ ! ~1c5traliz}
+~1subgr|ps ( ! _% x;i _:';s4 ,f
+,!orem #ad4aa1 we obta9 ! ~1class
+~1equa;n3
+_%
+
+|,g| .k |,z(,g)|+`(,g_3,c(x1)`)+'''
++`(,g_3,c(x;k")`)
+
+_:4
+,"o ( ! 3sequ;es ( ! class equa;n is t !
+ord} ( ea* 3jugacy class m/         #iff
+divide ! ord} ( ;,g4
+
+7777777777777777777777777777777777777777
+,example #ad4ab
+  ,x is easy to *eck t  ! 3jugacy
+classes 9 _% ,s3 _: >e ! foll{+3
+_%
+
+.((1).),  .((#1 #2 #3), (#1 #3 #2).),
+.((#1 #2), (#1 #3), (#2 #3).)
+
+_:4
+,! class equa;n is _% #6 .k #1+2+3 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+                                    #ifg
+7777777777777777777777777777777777777777
+,example #ad4ac
+  ,! c5t} ( _% ,d4 _: is _% .((1), (#1
+#3)(#2 #4).) _:1 & ! 3jugacy classes >e
+_%
+
+.((#1 #3), (#2 #4).),  .((#1 #4 #3 #2),
+(#1 #2 #3 #4).),  .((#1 #2)(#3 #4), (#1
+#4)(#2 #3).)
+
+_:4
+,?us1 ! class equa;n = _% ,d4 _: is
+_% #8 .k #2+2+2+2 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ad4ad
+  ,= _% ,s;n _: x takes a bit ( "w to
+f9d ! 3jugacy classes4 ,we 2g9 ) cycles4
+,suppose t _% .s .k (a1, ''', a;k") _:
+is a cycle & let _% .t `e ,s;n _:4 ,by
+,!orem #f4af1
+
+                                    #ifh
+_%
+
+.t.s.t~-1 .k (.t(a1), ''', .t(a;k"))
+
+_:4
+,3sequ5tly1 any two cycles ( ! same l5g?
+>e 3jugate4 ,n{ let _% .s .k .s1.s2 '''
+.s;r _: 2 a cycle decomposi;n1 ": ! l5g?
+( ea* cycle _% .s;i _: is _% r;i _:4 ,!n
+_% .s _: is 3jugate to e o!r _% .t `e
+,s;n _: ~: cycle decomposi;n has ! same
+l5g?s4
+  ,! numb} ( 3jugate classes 9
+_% ,s;n _: is ! numb} ( ways 9 : ;n c 2
+"pi;n$ 9to sums ( positive 9teg}s4 ,9 !
+case ( _% ,s3 _: = example1 we c "pi;n !
+9teg} #c 9to ! foll{+ ?ree sums3
+_%
+
+#3 .k #1+1+1
+#3 .k #1+2
+#3 .k #3_2
+
+_:
+"!=e1 "! >e ?ree 3jugacy classes4   #ifi
+,"! >e v>ia;ns to problem ( f9d+ ! numb}
+( s* "pi;ns = any positive 9teg} ;n t >e
+:at comput} sci5ti/s call
+~1,,np-complete4 ,? e6ectively m1ns t !
+problem _c 2 solv$ = a l>ge ;n 2c !
+computa;ns wd 2 too "t-3sum+ = ev5 !
+l>ge/ comput}4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #igj
+7777777777777777777777777777777777777777
+,!orem #ad4ae
+  ,let ;,g 2 a gr|p ( ord} _% p~n _: ":
+;p is prime4 ,!n ;,g has a nontrivial
+c5t}4
+
+,pro(4 ,we apply ! class equa;n
+_%
+
+|,g| .k |,z(,g)|+n1+''' +n;k
+
+_:4
+,s9ce ea* _% n;i .1 #1 _: &
+_% n;i||,g| _:1 x foll{s t ;p  m/ divide
+ea* _% n;i _:4 ,al1 _% p||,g| _:2 h;e1
+;p m/ divide _% |,z(,g)| _:4 ,s9ce !
+id5t;y is alw 9 ! c5t} ( ;,g1
+_% |,z(,g)| .1: #1 _:4 ,"!=e1
+_% |,z(,g)| .1: p _:1 & "! exi/s "s _% g
+`e ,z(,g) _: s* t _% g /.k #1 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,coroll>y #ad4af                    #iga
+  ,let ;,g 2 a gr|p ( ord} _% p~2 _: ":
+;p is prime4 ,!n ;,g is abelian4
+
+,pro(4 ,by ,!orem #ad4ae1 _% |,z(,g)| .k
+p _: or _% p~2 _:4 ,suppose t
+_% |,z(,g)| .k p _:4 ,!n _% ,z(,g) _: &
+_% ,g_/,z(,g) _: bo? h ord} ;p & m/ bo?
+2 cyclic gr|ps4 ,*oos+ a g5}ator
+_% a,z(,g) _: = _% ,g_/,z(,g) _:1 we c
+write any ele;t _% g,z(,g) _: 9 !
+quoti5t gr|p z _% a~m",z(,g) _: = "s
+9teg} ;m2 h;e1 _% g .k a~m"x _: = "s ;x
+9 ! c5t} ( ;,g4 ,simil>ly1 if _% h,z(,g)
+`e ,g_/,z(,g) _:1 "! exi/s a ;y 9
+_% ,z(,g) _: s* t _% h .k a~n"y _: = "s
+9teg} ;n4 ,s9ce ;x & ;y >e 9 ! c5t} (
+;,g1 !y commute ) all o!r ele;ts ( ;,g2
+"!=e1
+_%
+
+gh .k a~m"xa~n"y .k a~m+n"xy .k
+a~n"ya~m"x .k hg
+
+_:1
+& ;,g m/ 2 abelian4 ,h;e1           #igb
+_% |,z(,g)| .k p~2 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+    #ad4c ,burnside's ,c.t+ ,!orem
+  ,suppose t we wi% to color ! v}tices (
+a squ>e ) two di6}5t colors1 say black &
+:ite4 ,we mi<t suspect t "! wd 2 _% #2~4
+.k #16 _: di6}5t color+s4 ,h{"e1 "s ( ~!
+color+s >e equival5t4 ,if we color ! f/
+v}tex black & ! rema9+ v}tices :ite1 x
+is ! same z color+ ! second v}tex black
+& ! rema9+ "os :ite s9ce we cd obta9 !
+second color+ simply by rotat+ ! squ>e
+_% #90~.* _: "<,figure #ad4ag">4
+
+7777777777777777777777777777777777777777
+      ,figure #ad4ag4 ,equival5t color+s
+    ( squ>e
+       `.<,f|r squ>es ) v}tices label$
+     clockwise ,,,bwww1 wbww1 wwwb1,' &
+     ,,wwbw 2g9n+ 9 ! upp} left
+     corn}4`.>
+gggggggggggggggggggggggggggggggggggggggg
+                                    #igc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #igd
+       `.<,replace ? page ) ,figure
+     #ad4ag4 ,equival5t color+s (
+     squ>e`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ige
+  ,burnside's ,c.t+ ,!orem (f}s a me?od
+( comput+ ! numb} ( 4t+ui%able ways 9 :
+"s?+ c 2 d"o4 ,9 addi;n to xs geometric
+applica;ns1 ! !orem has 9t}e/+
+applica;ns to >1s 9 swit*+ !ory &
+*emi/ry4 ,! pro( ( ,burnside's ,c.t+
+,!orem dep5ds on ! foll{+ lemma4
+
+7777777777777777777777777777777777777777
+,lemma #ad4ah
+  ,let ;,x 2 a ;,g-set & suppose t _% x
+`: y _:4 ,!n _% ,g;x _: is isomorphic to
+_% ,g;y _:4 ,9 "picul>1 _% |,g;x"| .k
+|,g;y"| _:4
+
+,pro(4 ,let ;,g act on ;,x by _% (g, x)
+$|33o g*x _:4 ,s9ce _% x `: y _:1 "!
+exi/s a _% g `e ,g _: s* t _% g*x .k
+y _:4 ,let _% a `e ,g;x _:4 ,s9ce
+_%
+
+gag~-1"*y .k ga*g~-1"y .k ga*x .k g*x .k
+y
+
+_:1                                 #igf
+we c def9e a map _% .f"1 ,g;x $o ,g;y _:
+by _% f(a) .k gag~-1 _:4 ,! map _% .f _:
+is a homomorphism s9ce
+_%
+
+f(ab) .k gabg~-1 .k gag~-1"gbg~-1 .k
+f(a)f(b)
+
+_:4
+,suppose t _% f(a) .k f(b) _:4 ,!n
+_% gag~-1 .k gbg~-1 _: or _% a .k b _:2
+h;e1 ! map is 9jective4 ,to %{ t
+_% .f _: is onto1 let ;b 2 9 _% ,g;y _:2
+!n _% g~-1"bg _: is 9 _% ,g;x _: s9ce
+_%
+
+g~-1"bg*x .k g~-1"b*gx .k g~-1"b*y .k
+g~-1"*y .k x_2
+
+_:
+& _% f(g~-1"bg) .k b _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+                                    #igg
+7777777777777777777777777777777777777777
+,!orem #ad4ai ,burnside4
+  ,let ;,g 2 a  f9ite gr|p act+ on a set
+;,x & let ;k d5ote ! numb} ( orbits (
+;,x4 ,!n
+_%
+
+k .k ?1/|,g|#".,s%g `e ,g}|,x;g"|
+
+_:4
+
+,pro(4 ,we look at all ! fix$ po9ts ;x (
+all ! ele;ts 9 _% g `e ,g _:2 t is1 we
+look at all ;g's & all ;x's s* t _% gx
+.k x _:4 ,if view$ 9 t}ms ( fix$ po9t
+sets1 ! numb} ( all ;g's fix+ ;x's is
+_%
+
+".,s%g `e ,g}|,x;g"|
+
+_:4
+,h{"e1 if view$ 9 t}ms ( ! /abiliz}
+subgr|ps1 ? numb} is
+
+                                    #igh
+_%
+
+".,s%x `e ,x}|,g;x|_2
+
+_:
+h;e1 _% ".,s%g `e ,g}|,x;g"| .k ".,s%x
+`e ,x}|,g;x"| _:4 ,by ,lemma #ad4ah1
+_%
+
+".,s%y `e `;,o;x"}|,g;y"| .k
+|`;,o;x"|*|,g;x"|
+
+_:4
+,by ,!orem #ad4aa & ,lagrange's ,!orem1
+? expres.n is equal  to _% |,g| _:4
+,summ+ ov} all ( ! ;k 4t9ct orbits1 we
+3clude t
+_%
+
+".,s%g `e ,g}|,x;g"| .k ".,s%x `e
+,x}|,g;x"| .k k*|,g|
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+                                    #igi
+7777777777777777777777777777777777777777
+,example #ad4bj
+  ,let _% ,x .k .(1, 2, 3, 4, 5.) _: &
+suppose t ;,g is ! p}muta;n gr|p _% ,g
+.k .((1), (#1 #3), (#1 #3)(#2 #5), (#2
+#5).) _:4 ,! orbits ( ;,x >e _% .(1,
+3.) _:1 _% .(2, 5.) _:1 & _% .(4.) _:4
+,! fix$ po9t sets >e
+_%
+
+,x;(1)"            .k ,x
+,x;(#1 #3)"        .k .(2, 4, 5.)
+,x;(#1 #3)(#2 #5)" .k .(4.)
+,x;(#2 #5)"        .k .(1, 3, 4.)
+
+_:4
+,burnside's ,!orem says t
+_%
+
+k .k ?1/|,g|#".,s%g `e ,g}|,x;g"| .k
+?1/4#(5+3+1+3) .k #3
+
+_:4
+gggggggggggggggggggggggggggggggggggggggg
+                                    #ihj
+      ,a ,geometric ,example
+  ,2f we apply ,burnside's ,!orem to
+swit*+-!ory problems1 let u exam9e !
+numb} ( ways 9 : ! v}tices ( a squ>e c 2
+color$ black or :ite4 ,notice t we c
+"s"ts obta9 equival5t color+s by simply
+apply+ a rigid mo;n to ! squ>e4 ,= 9/.e1
+z we h po9t$ |1 if we color "o ( !
+v}tices black & ! rema9+ ?ree :ite1 x
+does n matt} : v}tex 0 color$ black s9ce
+a rota;n w give an equival5t color+4
+  ,!  symmetry gr|p ( a squ>e1
+_% ,d4 _:1 is giv5 by ! foll{+
+p}muta;ns3
+_%
+
+(1)             (#1 #3)          (#2 #4)
+         (#1 #4 #3 #2)
+(#1 #2 #3 #4)   (#1 #2)(#3 #4)   (#1
+#4)(#2 #3)   (#1 #3)(#2 #4)
+
+_:
+,! gr|p ;,g acts on ! set ( v}tices
+_% .(1, 2, 3, 4.) _: 9 ! usual mann}4
+,we c describe ! di6}5t color+s     #iha
+by mapp+s f ;,x 9to _% ,y .k .(,b,
+,w.) _: ": ;,b & ;,w repres5t ! colors
+black & :ite1 respectively4 ,ea* map
+_% f"1 ,x $o ,y _: describes a way to
+color ! corn}s ( ! squ>e4 ,e _% .s `e
+,d4 _: 9duces a p}muta;n _% ".s<`:} _: (
+! possible color+s giv5 by _% ".s<`:}(f)
+.k f.*.s _: = _% f"1 ,x $o ,y _:4 ,=
+example1 suppose t ;f is def9$ by
+_%
+
+f(1) .k ,b
+f(2) .k ,w
+f(3) .k ,w
+f(4) .k ,w
+
+_:
+& _% .s .k (12)(34) _:4 ,!n
+_% ".s<`:}(f) .k f.*.s _: s5ds v}tex #b
+to ;,b & ! rema9+ v}tices to ;,w4 ,! set
+( all s* _% ".s<`:} _: is a p}muta;n
+gr|p _% ",g<`:} _: on ! set ( possible
+color+s4 ,let _% ",x<`:} _: d5ote ! set
+( all possible color+s2 t is1
+_% ",x<`:} _: is ! set ( all        #ihb
+possible maps f ;,x to ;,y4 ,n{ we m/
+compute ! numb} ( _% ",g<`:} _:
+-equival;e classes4
+#a4 _% ",x<`:};(1) .k ",x<`:} _: s9ce !
+id5t;y fixes e possible color+4
+_% |",x<`:}| .k #2~4 .k  #16 _:4
+#b4 _% ",x<`:};(#1 #2 #3 #4) _: 3si/s (
+all _% f `e ",x<`:} _: s* t ;f is
+un*ang$ by ! p}muta;n _% (#1 #2 #3
+#4) _:4 ,9 ? case _% f(1) .k f(2) .k
+f(3) .k f(4) _:1 s t all values ( ;f m/
+2 ! same2 t is1 ei _% f(x) .k ,b _: or
+_% f(x) .k ,w _: = e v}tex ;x ( ! squ>e4
+,s _% |",x<`:};(#1 #2 #3 #4)"| .k #2 _:4
+#c4 _% |",x<`:};(#1 #4 #3 #2)"| .k
+#2 _:4
+#d4 ,= _% ",x<`:};(#1 #3)(#2 #4) _:1
+_% f(1) .k f(3) _: & _% f(2) .k f(4) _:4
+,?us1 _% |",x<`:};(#1 #3)(#2 #4)"| .k
+#2~2 .k #4 _:4
+#e4 _% |",x<`:};(#1 #2)(#3 #4)"| .k
+#4 _:4
+#f4 _% |",x<`:};(#1 #4)(#2 #3)"| .k
+#4 _:4
+#g4 ,= _% ",x<`:};(#1 #3) _:1       #ihc
+_% f(1) .k f(3) _: & ! o!r corn}s c 2 (
+any color2 h;e1 _% |",x<`:};(#1 #3)"| .k
+#2~3 .k #8 _:4
+#h4 _% |",x<`:};(#2 #4)"| .k #8 _:4
+,by ,burnside's ,!orem1 we c 3clude t "!
+>e exactly
+_%
+
+?1/8#(2~4"+2~1"+2~2"+2~1"+2~2"+2~2"+2~3-
+"+2~3") .k #6
+
+_:
+ways to color ! v}tices ( ! squ>e4
+
+7777777777777777777777777777777777777777
+,proposi;n #ad4ba
+  ,let ;,g 2 a p}muta;n gr|p ( ;,x &
+_% ",x<`:} _: ! set ( func;ns f ;,x to
+;,y4 ,!n ;,g 9duces a gr|p _% ",g<`:} _:
+t p}mutes ! ele;ts ( _% ",x<`:} _:1 ":
+_% ".s<`:} `e ",g<`:} _: is def9$ by
+_% ".s<`:}(f) .k f.*.s _: = _% .s `e
+,g _: & _% f `e ",x<`:} _:4 ,fur!rmore1
+if ;n is ! numb} ( cycles 9 ! cycle
+decomposi;n ( _% .s _:1 !n          #ihd
+_% |",x<`:};.s"| .k |,y|~n _:4
+
+,pro(4 ,let _% .s `e ,g _: & _% f `e
+",x<`:} _:4 ,s9ce _% .s _: p}mutes !
+ele;ts ( ;,x1 _% f.*.s _: m/ al 2 9
+_% ",x<`:} _:4 ,suppose t ;g is ano!r
+func;n f ;,x to ;,y s* t _% ".s<`:}(f)
+.k ".s<`:}(g) _:4 ,!n = ea* _% x `e
+,x _:1
+_%
+
+f(.s(x)) .k ".s<`:}(f)(x) .k
+".s<`:}(g)(x) .k g(.s(x))
+
+_:4
+,s9ce _% .s _: is a p}muta;n ( ;,x1 e
+ele;t _% x' _: 9 ;,x is ! image ( "s ;x
+9 ;,x "u _% .s _:2 h;e1 ;f & ;g agree on
+all ele;ts ( ;,x4 ,"!=e1 _% f .k g _: &
+_% ".s<`:} _: is 9jective4 ,! map _% .s
+$|33o ".s<`:} _: is onto1 s9ce ! two
+sets >e ! same size4
+  ,suppose t _% .s _: is a p}muta;n (
+;,x ) cycle decomposi;n _% .s .k .s1.s2
+''' .s;n _:4 ,any ;f 9              #ihe
+_% ",x<`:};.s _: m/ h ! same value on
+ea* cycle ( _% .s _:4 ,s9ce "! >e ;n
+cycles & _% |,y| _: possible values =
+ea* cycle1 _% |",x<`:};.s"| .k
+|,y|~n _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+7777777777777777777777777777777777777777
+,example #ad4bb
+  ,let _% ,x .k .(1, 2, ''', 7.) _: &
+suppose t _% ,y .k .(,a, ,b, ,c.) _:4
+,if ;g is ! p}muta;n ( ;,x giv5 by
+_% (#1 #3)(#2 #4 #5) .k (#1 #3)(#2 #4
+#5)(6)(7) _:1 !n _% n .k #4 _:4 ,any
+_% f `e ",x<`:};g _: m/ h ! same value
+on ea* cycle 9 ;g4 ,"! >e _% |,y| .k
+#3 _: s* *oices = any value1 s
+_% |",x<`:};g"| .k #3~4 .k #81 _:4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+                                    #ihf
+7777777777777777777777777777777777777777
+,example #ad4bc
+  ,suppose t we wi% to color ! v}tices (
+a squ>e us+ f|r di6}5t colors4 ,by
+,proposi;n #ad4ba1 we c immly decide t
+"! >e
+_%
+
+?1/8#(4~4"+4~1"+4~2"+4~1"+4~2"+4~2"+4~3-
+"+4~3") .k #55
+
+_:
+possible ways4
+gggggggggggggggggggggggggggggggggggggggg
+
+
+      ,swit*+ ,func;ns
+  ,9 swit*+ !ory we >e 3c}n$ ) ! design
+( electronic circuits ) b9>y 9puts &
+|tputs4 ,! simple/ ( ~! circuits is a
+swit*+ func;n t has ;n 9puts & a s+le
+|tput "<,figure #ad4bd">4 ,l>ge
+electronic circuits c (t5 2 3/ruct$ by
+comb9+ small} modules ( ? k9d4 ,! 9h}5t
+problem "h is t ev5 = a simple      #ihg
+circuit a l>ge numb} ( di6}5t swit*+
+func;ns c 2 3/ruct$4 ,) only f|r 9puts &
+a s+le |tput1 we c 3/ruct #fe1ecf di6}5t
+swit*+ func;ns4 ,h{"e1 we c (t5 replace
+"o swit*+ func;n ) ano!r m}ely by p}mut+
+! 9put l1ds to ! circuit
+"<,figure #ad4be">4
+
+7777777777777777777777777777777777777777
+      ,figure #ad4bd4 ,a swit*+ func;n (
+    ;n v>iables
+       `.<,a func;n1 ;f1 repres5t$ by a
+     box ) 9puts1 x#a1 x#b1 4441 xn1 on
+     ! left1 & an |tput f"<x#a1 x#b1
+     4441 xn"> on ! "r4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+
+
+
+
+
+                                    #ihh
+       `.<,replace ? page ) ,figure
+     #ad4bd4 ,a swit*+ func;n ( ;n
+     v>iables`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #ihi
+  ,we def9e a ~1swit*+ or ~1,bool1n
+~1func;n ( ;n v>iables to 2 a func;n f
+_% `;,z2~n _: to _% `;,z2 _:4 ,s9ce any
+swit*+ func;n c h two possible values =
+ea* b9>y ;n-tuple & "! >e _% #2~n _:
+b9>y ;n-tuples1 _% #2~2~~n _: swit*+
+func;ns >e possible = ;n v>iables4 ,9
+g5}al1 all{+ p}muta;ns ( ! 9puts grtly
+r$uces ! numb} ( di6}5t k9ds ( modules t
+>e ne$$ to build a l>ge circuit4
+
+7777777777777777777777777777777777777777
+      ,figure #ad4be4 ,swit*+ func;ns 9
+    two v>iables
+       `.<side-by-side3 #b panels`.>
+       `.<panel3 #a_/#b`.>
+       `.<,image3
+     ac;ns-swit*+-two-v>iables-a4 ,!
+     func;n on ! left is repres5t$ by a
+     rectangle t has 9puts a & ;b on !
+     left & |tput f"<a1 b">4`.>
+
+
+
+                                    #iij
+       `.<,replace ? page ) ,image3
+     ac;ns-swit*+-two-v>iables-a4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #iia
+       `.<panel3 #b_/#b`.>
+       `.<,image3
+     ac;ns-swit*+-two-v>iables-;b4 ,!
+     func;n on ! "r is repres5t$ by a
+     rectangle t has 9puts a & ;b ) l1ds
+     swit*$ on ! left & an |tput f"<b1
+     a"> on ! "r4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #iib
+       `.<,replace ? page ) ,image3
+     ac;ns-swit*+-two-v>iables-b4`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    #iic
+       `.<side-by-side3 5d`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,! possible swit*+ func;ns  ) two 9put
+v>iables a & ;b >e li/$ 9 ,table #ad4bf4
+,two swit*+ func;ns ;f & ;g >e equival5t
+if ;g c 2 obta9$ f ;f by a p}muta;n ( !
+9put v>iables4 ,= example1 _% g(a, b, c)
+.k f(b, c, a) _:4 ,9 ?  case _% g `:
+f _: via ! p}muta;n _% (a, c, b) _:4 ,9
+! case ( swit*+ func;ns ( two v>iables1
+! p}muta;n _% (a, b) _: r$uces #af
+possible swit*+ func;ns to #ab equival5t
+func;ns s9ce
+_%
+
+f2  `: f4
+f3  `: f5
+f10 `: f12
+f11 `: f13
+
+_:4
+
+
+                                    #iid
+7777777777777777777777777777777777777777
+      ,table #ad4bf4 ,swit*+ func;ns 9
+    two v>iables
+
+  ,9puts3 ;2,|tputs2222222
+  3 ;2 _% f0 _:;2 _% f1 _:;2 _% f2 _:;2
+  _% f3 _:;2 _% f4 _:;2 _% f5 _:;2
+  _% f6 _:;2 _% f7 _:
+  #j3 #j2 #j2 #j2 #j2 #j2 #j2 #j2 #j2 #j
+  #j3 #a2 #j2 #j2 #j2 #j2 #a2 #a2 #a2 #a
+  #a3 #j2 #j2 #j2 #a2 #a2 #j2 #j2 #a2 #a
+  #a3 #a2 #j2 #a2 #j2 #a2 #j2 #a2 #j2 #a
+  ,9puts3 ;2,|tputs2222222
+  3 ;2 _% f8 _:;2 _% f9 _:;2 _% f10 _:;2
+  _% f11 _:;2 _% f12 _:;2 _% f13 _:;2
+  _% f14 _:;2 _% f15 _:
+  #j3 #j2 #a2 #a2 #a2 #a2 #a2 #a2 #a2 #a
+  #j3 #a2 #j2 #j2 #j2 #j2 #a2 #a2 #a2 #a
+  #a3 #j2 #j2 #j2 #a2 #a2 #j2 #j2 #a2 #a
+  #a3 #a2 #j2 #a2 #j2 #a2 #j2 #a2 #j2 #a
+gggggggggggggggggggggggggggggggggggggggg
+
+  ,= ?ree 9put v>iables "! >e _% #2~2~~3
+.k #256 _: possible swit*+ func;ns2 9 !
+case ( f|r v>iables "! >e           #iie
+_% #2~2~~4 .k #65,536 _:4 ,! numb} (
+equival;e classes is too l>ge to
+r1sonably calculate directly4 ,x is nec
+to employ ,burnside's ,!orem4
+  ,3sid} a swit*+ func;n ) ?ree possible
+9puts1 a1 ;b1 & ;c4 ,z we h m5;n$1 two
+swit*+ func;ns ;f & ;g >e equival5t if a
+p}muta;n ( ! 9put v>iables ( ;f gives
+;g4 ,x is important to notice t a
+p}muta;n ( ! swit*+ func;ns is n simply
+a p}muta;n ( ! 9put values _% .(a, b,
+c.) _:4 ,a swit*+ func;n is a set (
+|tput values = ! 9puts a1 ;b1 & ;c1 s :5
+we 3sid} equival5t swit*+ func;ns1 we >e
+p}mut+ _% #2~3 _: possible |tputs1 n j
+?ree 9put values4 ,= example1 ea* b9>y
+triple _% (a, b, c) _: has a specific
+|tput associat$ ) x4 ,! p}muta;n
+_% (acb) _: *anges |tputs z foll{s3
+
+
+
+
+
+                                    #iif
+_%
+
+(0, 0, 0) $|33o (0, 0, 0)
+(0, 0, 1) $|33o (0, 1, 0)
+(0, 1, 0) $|33o (1, 0, 0)
+'''
+(1, 1, 0) $|33o (1, 0, 1)
+(1, 1, 1) $|33o (1, 1, 1)
+
+_:4
+  ,let ;,x 2 ! set ( |tput values = a
+swit*+ func;n 9 ;n v>iables4 ,!n _% |,x|
+.k #2~n _:4 ,we c 5um}ate ~! values z
+foll{s3
+_%
+
+(0, ''', 0, 1) $|33o #0
+(0, ''', 1, 0) $|33o #1
+(0, ''', 1, 1) $|33o #2
+'''
+(1, ''', 1, 1) $|33o #2~n"-1
+
+_:4
+,n{ let u 3sid} a circuit ) f|r 9put
+v>iables & a s+le |tput4 ,suppose   #iig
+t we c p}mute ! l1ds ( any circuit ac to
+! foll{+ p}muta;n gr|p3
+_%
+
+(a),  (a, c),  (b, d),  (a, d, c, b),
+(a, b, c, d),  (a, b)(c, d),  (a, d)(b,
+c),  (a, c)(b, d)
+
+_:4
+,! p}muta;ns ( ! f|r possible 9put
+v>iables 9duce ! p}muta;ns ( ! |tput
+values 9 ,table #ad4bg4
+  ,h;e1 "! >e
+_%
+
+?1/8#(2~16"+2*2~12"+2*2~6"+3*2~10") .k
+#9616
+
+_:
+possible swit*+ func;ns ( f|r v>iables
+"u ? gr|p ( p}muta;ns4 ,? numb} w 2 ev5
+small} if we 3sid} ! full symmetric gr|p
+on f|r lrs4
+
+                                    #iih
+7777777777777777777777777777777777777777
+      ,table #ad4bg4 ,p}muta;ns ( swit*+
+    func;ns 9 f|r v>iables
+
+  ,gr|p3 ;2 ,numb}
+  ,p}muta;n3 ,swit*+ ,func;n ,p}muta;n2
+  ( ,cycles
+  _% (a) _:3 _% (0) _:;2 #af
+  _% (a, c) _:3 _% (2, 8)(3, 9)(6,
+  12)(7, 13) _:;2 #ab
+  _% (b, d) _:3 _% (1, 4)(3, 6)(9,
+  12)(11, 14) _:;2 #ab
+  _% (a, d, c, b) _:3 _% (1, 2, 4, 8)(3,
+  6.12, 9)(5, 10)(7, 14, 13, 11) _:;2 #f
+  _% (a, b, c, d) _:3 _% (1, 8, 4, 2)(3,
+  9, 12, 6)(5, 10)(7, 11, 13, 14) _:;2
+  #f
+  _% (a, b)(c, d) _:3 _% (1, 2)(4, 8)(5,
+  10)(6, 9)(7, 11)(13, 14) _:;2 #aj
+  _% (a, d)(b, c) _:3 _% (1, 8)(2, 4)(3,
+  12)(5, 10)(7, 14)(11, 13) _:;2 #aj
+  _% (a, c)(b, d) _:3 _% (1, 4)(2, 8)(3,
+  12)(6, 9)(7, 13)(11, 14) _:;2 #aj
+gggggggggggggggggggggggggggggggggggggggg
+                                    #iii
+      ,hi/orical ,note
+  ,william ,burnside 0 born 9 ,london 9
+#aheb4 ,he att5d$ ,cambridge ,univ}s;y f
+#ahga to #ahge & won ! ,smi?'s ,prize 9
+8 la/ ye>4 ,af 8 gradua;n he lectur$ at
+,cambridge4 ,he 0 made a memb} ( !
+,royal ,society 9 #ahic4 ,burnside wrote
+approximately #aej pap}s on topics 9
+appli$ ma!matics1 di6}5tial geometry1 &
+probabil;y1 b 8 mo/ fam|s 3tribu;ns 7 9
+gr|p !ory4 ,s"eal ( ,burnside's
+3jectures h /imulat$ rese>* to ? "d4 ,"o
+s* 3jecture 0 t e gr|p ( odd ord} is
+solvable2 t is1 = a gr|p ;,g ( odd ord}1
+"! exi/s a sequ;e ( subgr|ps
+_%
+
+,g .k ,h;n _.1 ,h;n-1 _.1 '''  _.1 ,h1
+_.1 ,h0 .k .(e.)
+
+_:
+s* t _% ,h;i _: is normal 9 _% ,h;i+1 _:
+& _% ,h;i+1"_/,h;i _: is abelian4 ,?
+3jecture 0 f9ally prov5 by ;,w4 ,feit &
+;,j4 ,?ompson 9 #aifc4             #ajjj
+,burnside's .7,! ,!ory ( ,gr|ps ( ,f9ite
+,ord}.'1 publi%$ 9 #ahig1 0 "o ( ! f/
+books to tr1t gr|ps 9 a mod}n 3text z
+oppos$ to p}muta;n gr|ps4 ,! second
+$i;n1 publi%$ 9 #aiaa1 is / a classic4
+
+    #ad4d ,r1d+ ,"qs
+
+#a4 ,give an 9=mal descrip;n ( a gr|p
+ac;n4
+
+#b4 ,describe ! class equa;n4
+
+#c4 ,:at >e ! gr|ps ( ord} #di8
+
+#d4 ,h{ _m swit*+ func;ns >e "! ) #e
+9puts8 "<,give bo? a simple expres.n & !
+total numb} z a s+le 9teg}4">
+
+#e4 ,! 8,hi/orical ,note0 m5;ns ! pro( (
+,burnside's ,3jecture4 ,h{ l;g 0 ! pro(8
+
+    #ad4e ,ex}cises
+
+#a4 ,examples #ad4a,-#ad4e 9 !     #ajja
+f/ sec;n ea* describe an ac;n ( a gr|p
+;,g on a set ;,x1 : w give rise to !
+equival;e rela;n def9$ by ;,g-equival;e4
+,= ea* example1 compute ! equival;e
+classes ( ! equival;e rela;n1 ! ;,g-
+~1equival;e ~1classes4
+
+,h9t4 ,example #ad4a3 #j1
+_% `;,r~2"_*.(0.) _:4 ,example #ad4b3
+_% ,x .k .(1, 2, 3, 4.) _:4
+
+#b4 ,compute all _% ,x;g _: & all
+_% ,g;x _: = ea* ( ! foll{+ p}muta;n
+gr|ps4
+a4 _% ,x .k .(1, 2, 3.) _:1 _% ,g .k ,s3
+.k .((1), (#1 #2), (#1 #3), (#2 #3), (#1
+#2 #3), (#1 #3 #2).) _:
+;b4 _% ,x .k .(1, 2, 3, 4, 5, 6.) _:1
+_% ,g .k .((1), (#1 #2), (#3 #4 #5), (#3
+#5 #4), (#1 #2)(#3 #4 #5), (#1 #2)(#3 #5
+#4).) _:
+
+,h9t4 "<a"> _% ,x;(1) .k .(1, 2, 3.) _:1
+_% ,x;(#1 #2) .k .(3.) _:1 _% ,x;(#1 #3)
+.k .(2.) _:1 _% ,x;(#2 #3) .k      #ajjb
+.(1.) _:1 _% ,x;(#1 #2 #3) .k ,x;(#1 #3
+#2) .k _0 _:4 _% ,g1 .k .((1), (#2
+#3).) _:1 _% ,g2 .k .((1), (#1 #3).) _:1
+_% ,g3 .k .((1), (#1 #2).) _:4
+
+#c4 ,compute ! ;,g-equival;e classes (
+;,x = ea* ( ! ;,g-sets 9
+,ex}cise #ad4e4b4 ,= ea* _% x `e ,x _:
+v}ify t _% |,g| .k |`;,o;x"|*|,g;x"| _:4
+
+,h9t4 "<a"> _% `;,o1 .k `;,o2 .k `;,o3
+.k .(1, 2, 3.) _:4
+
+#d4 ,let ;,g 2 ! additive gr|p ( r1l
+numb}s4 ,let ! ac;n ( _% .? `e ,g _: on
+! r1l plane _% `;,r~2 _: 2 giv5 by
+rotat+ ! plane c.t}clockwise ab ! orig9
+"? _% .? _: radians4 ,let ;,p 2 a po9t
+on ! plane o!r ?an ! orig94
+a4 ,%{ t _% `;,r~2 _: is a ;,g-set4
+;b4 ,describe geometrically ! orbit
+3ta9+ ;,p4
+;c4 ,f9d ! gr|p _% ,g;,p _:4
+
+#e4 ,let _% ,g .k ,a4 _: &         #ajjc
+suppose t ;,g acts on xf by 3juga;n2 t
+is1 _% (g, h) $|33o ghg~-1 _:4
+a4 ,det}m9e ! 3jugacy classes "<orbits">
+( ea* ele;t ( ;,g4
+;b4 ,det}m9e all ( ! isotropy subgr|ps =
+ea* ele;t ( ;,g4
+
+#f4 ,f9d ! 3jugacy classes & ! class
+equa;n = ea* ( ! foll{+ gr|ps4
+a4 _% ,s4 _:
+;b4 _% ,d5 _:
+;c4 _% `;,z9 _:
+;d4 _% ,q8 _:
+
+,h9t4 ,! 3jugacy classes = _% ,s4 _: >e
+
+
+
+
+
+
+
+
+
+                                   #ajjd
+_%
+
+`;,o;(1) .k .((1).),
+`;,o;(12) .k .((#1 #2), (#1 #3), (#1
+#4), (#2 #3), (#2 #4), (#3 #4).),
+`;,o;(#1 #2)(#3 #4) .k .((#1 #2)(#3 #4),
+(#1 #3)(#2 #4), (#1 #4)(#2 #3).),
+`;,o;(123) .k .((#1 #2 #3), (#1 #3 #2),
+(#1 #2 #4), (#1 #4 #2), (#1 #3 #4), (#1
+#4 #3), (#2 #3 #4), (#2 #4 #3).),
+`;,o;(1234) .k .((#1 #2 #3 #4), (#1 #2
+#4 #3), (#1 #3 #2 #4), (#1 #3 #4 #2),
+(#1 #4 #2 #3), (#1 #4 #3 #2).)
+
+_:4
+,! class equa;n is _% #1+3+6+6+8 .k
+#24 _:4
+
+#g4 ,write ! class equa;n = _% ,s5 _: &
+= _% ,a5 _:4
+
+#h4 ,if a squ>e rema9s fix$ 9 ! plane1
+h{ _m di6}5t ways c ! corn}s ( ! squ>e 2
+color$ if ?ree colors >e us$8
+                                   #ajje
+,h9t4
+_% (3~4"+3~1"+3~2"+3~1"+3~2"+3~2"+3~3"+-
+3~3")_/8 .k #21 _:4
+
+#i4 ,h{ _m ways c ! v}tices ( an
+equilat}al triangle 2 color$ us+ ?ree
+di6}5t colors8
+
+#aj4 ,f9d ! numb} ( ways a six-sid$ die
+c 2 3/ruct$ if ea* side is m>k$ di6}5tly
+) _% #1, ''', #6 _: dots4
+
+#aa4 ,up to a rota;n1 h{ _m ways c !
+faces ( a cube 2 color$ ) ?ree di6}5t
+colors8
+
+,h9t4 ,! gr|p ( rigid mo;ns ( ! cube c 2
+describ$ by ! all{able p}muta;ns ( ! six
+faces & is isomorphic to _% ,s4 _:4 ,"!
+>e ! id5t;y cycle1 #f p}muta;ns ) !
+/ructure _% (abcd) _: t correspond to !
+qu>t} turns1 #c p}muta;ns ) ! /ructure
+_% (ab)(cd) _: t correspond to ! half
+turns1 #f p}muta;ns ) ! /ructure
+_% (ab)(cd)(ef) _: t correspond    #ajjf
+to rotat+ ! cube ab ! c5t}s ( opposite
+$ges1 & #h p}muta;ns ) ! /ructure
+_% (abc)(def) _: t correspond to rotat+
+! cube ab opposite v}tices4
+
+#ab4 ,3sid} #ab /rai<t wires ( equal
+l5g?s ) _! 5ds sold}$ tgr to =m ! $ges (
+a cube4 ,ei silv} or copp} wire c 2 us$
+= ea* $ge4 ,h{ _m di6}5t ways c ! cube 2
+3/ruct$8
+
+#ac4 ,suppose t we color ea* ( ! ei<t
+corn}s ( a cube4 ,us+ ?ree di6}5t
+colors1 h{ _m ways c ! corn}s 2 color$
+up to a rota;n ( ! cube8
+
+#ad4 ,ea* ( ! faces ( a regul>
+tetrah$ron c 2 pa9t$ ei r$ or :ite4 ,up
+to a rota;n1 h{ _m di6}5t ways c !
+tetrah$ron 2 pa9t$8
+
+#ae4 ,suppose t ! v}tices ( a regul>
+hexagon >e to 2 color$ ei r$ or :ite4
+,h{ _m ways c ? 2 d"o up to a symmetry (
+! hexagon8                         #ajjg
+,h9t4
+_% (1*2~6"+3*2~4"+4*2~3"+2*2~2"+2*2~1")-
+_/12 .k #13 _:4
+
+#af4 ,a molecule ( b5z5e is made up (
+six c>bon atoms & six hydrog5 atoms1
+l9k$ tgr 9 a hexagonal %ape z 9
+,figure #ad4bh4
+a4 ,h{ _m di6}5t comp.ds c 2 =m$ by
+replac+ "o or m ( ! hydrog5 atoms ) a
+*lor9e atom8
+;b4 ,f9d ! numb} ( di6}5t *emical
+comp.ds t c 2 =m$ by replac+ ?ree ( !
+six hydrog5 atoms 9 a b5z5e r+ ) a
+_% ,c,h3 _: radical4
+
+7777777777777777777777777777777777777777
+      ,figure #ad4bh4 ,a b5z5e r+
+       `.<,a hexagon ) hydrog5 atoms1
+     ;,h1 atta*$ at ea* v}tex4`.>
+gggggggggggggggggggggggggggggggggggggggg
+
+
+
+                                   #ajjh
+       `.<,replace ? page ) ,figure
+     #ad4bh4 ,a b5z5e r+`.>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajji
+#ag4 ,h{ _m equival;e classes ( swit*+
+func;ns >e "! if ! 9put v>iables
+_% x1 _:1 _% x2 _:1 & _% x3 _: c 2
+p}mut$ by any p}muta;n 9 _% ,s3 _:;8
+,:at if ! 9put v>iables _% x1 _:1
+_% x2 _:1 _% x3 _:1 & _% x4 _: c 2
+p}mut$ by any p}muta;n 9 _% ,s4 _:;8
+
+,h9t4 _% (1*2~8"+3*2~6"+2*2~4")_/6 .k
+#80 _:4
+
+#ah4 ,h{ _m equival;e classes ( swit*+
+func;ns >e "! if ! 9put v>iables
+_% x1 _:1 _% x2 _:1 _% x3 _:1 & _% x4 _:
+c 2 p}mut$ by any p}muta;n 9 ! subgr|p (
+_% ,s4 _: g5}at$ by ! p}muta;n _% (x1,
+x2, x3, x4) _:;8
+
+#ai4 ,a /rip$ necktie has #ab b&s (
+color4 ,ea* b& c 2 color$ by "o ( f|r
+possible colors4 ,h{ _m possible
+di6}5t-color$ neckties >e "!8
+
+#bj4 ,a gr|p acts ~1fai?;lly on a
+;,g-set ;,x if ! id5t;y is !       #ajaj
+only ele;t ( ;,g t l1ves e ele;t ( ;,x
+fix$4 ,%{ t ;,g acts fai?;lly on ;,x if
+& only if no two 4t9ct ele;ts ( ;,g h !
+same ac;n on ea* ele;t ( ;,x4
+
+#ba4 ,let ;p 2 prime4 ,%{ t ! numb} (
+di6}5t abelian gr|ps ( ord} _% p~n _:
+"<up to isomorphism"> is ! same z !
+numb} ( 3jugacy classes 9 _% ,s;n _:4
+
+#bb4 ,let _% a `e ,g _:4 ,%{ t = any
+_% g `e ,g _:1 _% g,c(a)g~-1 .k
+,c(gag~-1") _:4
+
+,h9t4 ,use ! fact t _% x `e
+g,c(a)g~-1 _: if & only if _% g~-1"xg `e
+,c(a) _:4
+
+#bc4 ,let _% |,g| .k p~n _: 2 a
+nonabelian gr|p = ;p prime4 ,prove t
+_% |,z(,g)| "k p~n-1 _:4
+
+#bd4 ,let ;,g 2 a gr|p ) ord} _% p~n _:
+": ;p is prime & ;,x a f9ite ;,g-set4
+,if _% ,x;,g .k .(x `e ,x_3gx .k   #ajaa
+x for all g `e ,g.) _: is ! set ( ele;ts
+9 ;,x fix$ by ! gr|p ac;n1 !n prove t
+_% |,x| _l |,x;,g"|(m"o"d p) _:4
+
+#be4 ,if ;,g is a gr|p ( ord} _% p~n _:1
+": ;p is prime & _% n .1: #2 _:1 %{ t
+;,g m/ h a prop} subgr|p ( ord} ;p4 ,if
+_% n .1: #3 _:1 is x true t ;,g w h a
+prop} subgr|p ( ord} _% p~2 _:;8
+
+    #ad4f ,programm+ ,ex}cise
+
+#a4 ,write a program to compute ! numb}
+( 3jugacy classes 9 _% ,s;n _:4 ,:at is
+! l>ge/ ;n = : yr program w "w8
+
+    #ad4g ,ref};es & ,su7e/$ ,r1d+
+.<#a.>  ,bruij91 de1 ;,n4 ;,g4
+  8,p~/olya's ,!ory ( ,c.t+10 9
+  .7,appli$ ,comb9atorial ,ma!matics.'1
+  ,beck5ba*1 ;,e4 ;,f41 $4 ,wiley1 ,new
+  ,york1 #aifd4
+.<#b.>  ,eidswick1 ;,j4 ,a4 8,cubelike
+  ,puzzles,-,:at ,>e ,!y & ,h{ ,d ,y
+  ,solve ,!m80 .7,am}ican          #ajab
+  ,ma!matical ,mon?ly.' ~1#ic "<#aihf">1
+  #aeg,-#gf4
+.<#c.>  ,h>>y1 ;,f41 ,palm}1 ;,e4 ;,m41
+  & ,rob9son1 ;,r4 ;,w4 8,p~/olya's
+  ,3tribu;ns to ,*emical ,5um}a;n10 9
+  .7,*emical ,applica;ns ( ,graph
+  ,!ory.'1 ,balaban1 ,a4 ;,t41 $4
+  ,academic ,press1 ,london1 #aigf4
+.<#d.>  ,g~$ard+1 ;,l4 & ,tamb|r1 ;,t4
+  .7,algebra = ,comput} ,sci;e.'4
+  ,spr+}-,v}lag1 ,new ,york1 #aihh4
+.<#e.>  ,lauf}1 ;,h4 ;,b4 .7,4crete
+  ,ma!matics & ,appli$ ,mod}n ,algebra.'
+  4 ,,pws-,k5t1 ,bo/on1 #aihd4
+.<#f.> ,p~/olya1 ;,g4 & ,r1d1 ;,r4 ;,c4
+  .7,comb9atorial ,5um}a;n ( ,gr|ps1
+  ,graphs1 & ,*emical ,comp.ds.'4
+  ,spr+}-,v}lag1 ,new ,york1 #aihe4
+.<#g.>  ,%apiro1 ;,l4 ;,w4 8,f9ite
+  ,gr|ps ,act+ on ,sets ) ,applica;ns10
+  .1,ma!matics .1,magaz9e1 ,may,-,june
+  #aigc1 #acf,-#dg4
+
+    #ad4h ,sage
+  ,gr|ps c 2 r1liz$ 9 _m ways1     #ajac
+s* z z sets ( p}muta;ns1 z sets (
+matrices1 or z sets ( ab/ract symbols
+relat$ by c}ta9 rules "<8pres5ta;ns0"> &
+9 myriad o!r ways4 ,we h 3c5trat$ on
+p}muta;n gr|ps 2c ( _! 3crete feel1 )
+ele;ts writt5 z func;ns1 & 2c ( _! ?or|<
+imple;ta;n 9 ,sage4 ,gr|p ac;ns >e ( grt
+9t}e/ :5 ! set !y act on is ! gr|p xf1 &
+gr|p ac;ns w figure prom95tly 9 ! pro(s
+( ! ma9 results ( ! next *apt}4 ,h{"e1
+any "t we h a gr|p ac;n on a set1 we c
+view t gr|p z a p}muta;n gr|p on !
+ele;ts ( ! set4 ,s p}muta;n gr|ps >e an
+>ea ( gr|p !ory ( 9dep5d5t 9t}e/1 ) xs
+{n def9i;ns & !orems4
+  ,we w describe ,sage's comm&s
+applicable :5 a gr|p ac;n >ises
+naturally via 3juga;n1 & !n move 9to ! m
+g5}al situa;n 9 a m g5}al applica;n4
+
+      ,3juga;n z a ,gr|p ,ac;n
+  ,we mi<t ?9k we ne$ to 2 c>e;l h{
+,sage def9es 3juga;n "<_% gxg~-1 _:
+v}sus _% g~-1"xg _:"> & ! di6};e 2t
+,sage & ! text on ! ord} (         #ajad
+products4 ,h{"e1 if y look at ! def9i;n
+( ! c5t} & c5traliz} subgr|ps y c see t
+any di6};e 9 ord}+ is irrelevant4 ,"h >e
+! gr|p ac;n comm&s = ! "picul> ac;n t is
+3juga;n ( ! ele;ts ( ! gr|p4
+  ,sage has a p}muta;n gr|p me?od
+`#1;4c5t}"<"> : returns ! subgr|p ( fix$
+po9ts4 ,! p}muta;n gr|p me?od1
+`#1;4c5traliz}"<g">1 returns a subgr|p t
+is ! /abiliz} ( ! gr|p ele;t `#2;g4
+,f9ally1 ! orbits >e giv5 by 3jugacy
+classes1 b ,sage w n flood y ) ! full
+3jugacy classes & 9/1d gives back a li/
+( "o ele;t p} 3jugacy class1 !
+repres5tatives1 via ! p}muta;n gr|p
+me?od
+`#1;4conjugacy.-classes.-repres5tatives-
+"<">4 ,y c manually recon/ruct a 3jugacy
+class f a repres5tative1 z we d 9 !
+example 2l4
+  ,"h is an example ( ! abv comm&s 9
+ac;n4 ,notice t an abelian gr|p wd 2 a
+bad *oice = ? example4
+
+                                   #ajae
+`#7;,d "7 ,dih$ral,gr|p"<#h">`#'
+`#7;,c "7 ,d4c5t}"<">2 ;,c`#'
+-----------------
+`#7,subgr|p g5}at$ by
+.<"<#a1e">"<#b1f">"<#c1g">"<#d1h">.>`#'
+`#7( "<,dih$ral gr|p ( ord} #af z a
+p}muta;n gr|p">`#'
+
+
+`#1,c4li/"<">
+-----------------
+`#1.<"<">1
+`#1"<#a1e">"<#b1f">"<#c1g">"<#d1h">.>
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajaf
+`#7a "7
+,d"<,7"<#a1b">"<#c1h">"<#d1g">"<#e1f">,-
+7">`#'
+`#7,c#a "7 ,d4c5traliz}"<a">2
+,c#a4list"<">`#'
+-----------------
+`#7.<"<">1
+"<#a1b">"<#c1h">"<#d1g">"<#e1f">1
+"<#a1e">"<#b1f">"<#c1g">"<#d1h">1
+"<#a1f">"<#b1e">"<#c1d">"<#g1h">.>`#'
+
+
+`#7;b "7
+,d"<,7"<#a1b1c1d1e1f1g1h">,7">`#'
+`#7,c#b "7 ,d4c5traliz}"<b">2
+,c#b4order"<">`#'
+-----------------
+`#2#h
+
+
+
+
+
+
+                                   #ajag
+`#7,,ccr "7
+,d4conjugacy.-classes.-repres5tatives"<-
+">2 ,,ccr`#'
+-----------------
+`#7.<"<">1 "<#b1h">"<#c1g">"<#d1f">1
+"<#a1b">"<#c1h">"<#d1g">"<#e1f">1
+"<#a1b1c1d1e1f1g1h">1`#'
+ `#7"<#a1c1e1g">"<#b1d1f1h">1
+"<#a1d1g1b1e1h1c1f">1
+"<#a1e">"<#b1f">"<#c1g">"<#d1h">.>`#'
+
+
+`#7;r "7 ,,ccr.<#b.>2 ;r`#'
+-----------------
+`#1"<#a1b">"<#c1h">"<#d1g">"<#e1f">
+
+
+
+
+
+
+
+
+
+                                   #ajah
+`#73j "7 .<.>`#'
+`#7;x "7 .<3j4app5d"<g`5-#a"9r"9g"> = ;g
+9 ;,d if n g`5-#a"9r"9g 9 3j.>`#'
+`#13j
+-----------------
+`#1.<"<#a1b">"<#c1h">"<#d1g">"<#e1f">1
+ `#1"<#a1f">"<#b1e">"<#c1d">"<#g1h">1
+ `#1"<#a1h">"<#b1g">"<#c1f">"<#d1e">1
+ `#1"<#a1d">"<#b1c">"<#e1h">"<#f1g">.>
+
+  ,notice t 9 ! "o 3jugacy class 3/ruct$
+all ! ele;ts h ! same cycle /ructure1 :
+is no a3id5t4 ,notice too t `#1rep &
+`#2a >e ! same ele;t1 & ! product ( !
+ord} ( ! c5traliz} "<#d"> & ! size ( !
+3jugacy class "<#d"> equals ! ord} ( !
+gr|p "<#af">1 : is a v>iant ( ! 3clu.n (
+,!orem #ad4aa4
+  ,v}ify t ! foll{+ is a demon/ra;n ( !
+class equa;n 9 ! special case :5 ! ac;n
+is 3juga;n1 b wd 2 valid = any gr|p1 r
+?an j `#2;,d4
+
+
+                                   #ajai
+`#7sizes "7
+.<,d4ord}"<">_/,d4c5traliz}"<g">4ord}"<-
+">`#'
+             `#7= ;g 9
+,d4conjugacy.-classes.-repres5tatives"<-
+">.>`#'
+`#1sizes
+-----------------
+`#7.<#a1 #d1 #d1 #b1 #b1 #b1 #a.>`#'
+
+
+`#7,d4ord}"<"> "7"7 sum"<sizes">`#'
+-----------------
+`#1,true
+
+
+      ,graph ,automorphisms
+  ,z m5;n$1 gr|p ac;ns c 2 ev5 m 9t}e/+
+:5 ! set !y act on is di6}5t f ! gr|p
+xf4 ,"o class ( examples is ! gr|p (
+symmetries ( a geometric solid1 ": !
+objects 9 ! set >e ! v}tices ( ! object1
+or p}h "s o!r aspect s* z $ges1 faces or
+diagonals4 ,9 ? case1 ! gr|p is all ~?
+p}muta;ns t move ! solid b l1ve    #ajbj
+x fill+ ! same space 2f ! mo;n "<8rigid
+mo;ns0">4
+  ,9 ? sec;n we w exam9e "s?+ v simil>4
+,a ~1graph is a ma!matical object1 3si/+
+( v}tices & $ges1 b ! only /ructure is
+:e!r or n any giv5 pair ( v}tices >e
+jo9$ by an $ge or n4 ,! gr|p 3si/s (
+p}muta;ns ( v}tices t pres}ve !
+/ructure1 t is1 p}muta;ns ( v}tices t
+take $ges to $ges & non-$ges to
+non-$ges4 ,x is v simil> to a symmetry
+gr|p1 b "! is no no;n ( any geometric
+rela;n%ips 2+ pres}v$4
+  ,"h is an example4 ,y w ne$ to run !
+f/ compute cell to def9e ! graph & get a
+nice graphic repres5ta;n4
+
+`#7;,q "7 graphs4,cube,graph"<#c">`#'
+`#1,q4plot"<lay|t"7'spr+'">
+
+
+
+
+
+                                   #ajba
+`#7,a "7 ,q4automorphism.-gr|p"<">`#'
+`#1,a4ord}"<">
+-----------------
+`#1#dh
+
+  ,yr plot %d look l ! v}tices & $ges (
+a cube1 b may n q look regul>1 : is f9e1
+s9ce ! geometry is n relevant4 ,v}tices
+>e label$ ) /r+s ( ?ree b9>y digits1 #j
+or #a1 & any two v}tices >e 3nect$ by an
+$ge if _! /r+s di6} 9 exactly "o loca;n4
+,we mi<t expect ! gr|p ( symmetries to h
+ord} #bd1 r ?an ord} #dh1 giv5 xs
+resembl.e to a cube "<9 appe>.e & 9
+"n">4 ,h{"e1 :5 n re/rict$ to rigid
+mo;ns1 we h new p}muta;ns t pres}ve
+$ges4 ,"o 9 "picul> is to 9t}*ange two
+8opposite faces40 ,locate two #d-cycles
+opposite ( ea* o!r1 li/$ 9 ! same ord}3
+_% #000, #010, #110, #100 _: & _% #001,
+#011, #111, #101 _:4 ,notice t ea* cycle
+looks v simil>1 b all ! v}tices ( ! f/
+5d 9 a z}o & ! second cycle has v}tices
+5d+ 9 a "o4
+  ,we c cr1te explicitly !         #ajbb
+p}muta;n t 9t}*anges ~! two opposite
+faces1 us+ a text v}.n ( ! p}muta;n 9
+cycle nota;n4
+
+`#7a "7
+,a"<,7"<'#jjj'1'#jja'">"<'#jaj'1'#jaa'"-
+>"<'#aaj'1'#aaa'">"<'#ajj'1'#aja'">,7">-
+`#'
+`#7a 9 ,a`#'
+-----------------
+`#1,true
+
+  ,we c use ? gr|p to illu/rate !
+relevant ,sage comm&s = gr|p ac;ns4
+
+`#1,a4orbits"<">
+-----------------
+`#7.<.<'#jjj'1 '#jja'1 '#jaj'1 '#ajj'1
+'#jaa'1 '#aja'1 '#aaj'1 '#aaa'.>.>`#'
+
+
+`#1l5"<,a4orbits"<">.<#j.>">
+-----------------
+`#2#h
+                                   #ajbc
+  ,s ? ac;n has only "o "<big"> orbit4
+,? implies t e v}tex is 8l0 any o!r4 ,:5
+a p}muta;n gr|p 2haves ? way1 we say !
+gr|p is ~1transitive4
+
+`#1,a4is.-transitive"<">
+-----------------
+`#1,true
+
+  ,if e v}tex is 8! same0 we c compute !
+/abiliz} ( any v}tex1 s9ce !y w all 2
+isomorphic4 ,2c v}tex #jjj is ! simple/
+9 "s s5se1 we compute xs /abiliz}4
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajbd
+`#7;,s "7 ,a4/abiliz}"<'#jjj'">`#'
+`#1,s4li/"<">
+-----------------
+`#1.<"<">1
+`#1"<'#jja'1'#jaj'1'#ajj'">"<'#jaa'1'#a-
+aj'1'#aja'">1
+`#1"<'#jja'1'#ajj'1'#jaj'">"<'#jaa'1'#a-
+ja'1'#aaj'">1
+ `#1"<'#jaj'1'#ajj'">"<'#jaa'1'#aja'">1
+ `#1"<'#jja'1'#jaj'">"<'#aja'1'#aaj'">1
+ `#1"<'#jja'1'#ajj'">"<'#jaa'1'#aaj'">.>
+
+  ,t `#2;,s has #f ele;ts is no
+surprise1 s9ce ! gr|p has ord} #dh & !
+size ( ! l"o orbit is #h4 ,b we c g "o
+/ep fur!r4 ,! ?ree v}tices ( ! graph
+atta*$ directly to #jjj >e #ajj1 #jaj1
+#jja4 ,any automorphism ( ! graph t
+fixes #jjj m/ !n p}mute ! ?ree adjac5t
+v}tices4 ,"! >e _% #3&  .k #6 _:
+possible ways to d ?1 & y c *eck t ea*
+appe>s 9 "o ( ! six ele;ts ( ! /abiliz}4
+,s we c "u/& a transitive gr|p by 3sid}+
+! small} /abiliz}1 & 9 ? case we c see t
+ea* ele;t ( ! /abiliz} is          #ajbe
+det}m9$ by h{ x p}mutes ! nei<bors ( !
+/abiliz$ v}tex4
+  ,transitive gr|ps >e bo? unusual &
+important4 ,to 3tra/1 "h is a graph
+automorphism gr|p t is f> f transitive
+"<)|t 2+ trivial">4 ,a pa? is a graph t
+has all ( xs v}tices 9 a l9e4 ,run ! f/
+compute cell to see a pa? on #aa
+v}tices4
+
+`#7;,p "7 graphs4,pa?,graph"<#aa">`#'
+`#1,p4plot"<">
+
+
+`#7,a "7 ,p4automorphism.-gr|p"<">`#'
+`#1,a4li/"<">
+-----------------
+`#1.<"<">1
+`#1"<#j1aj">"<#a1i">"<#b1h">"<#c1g">"<#-
+d1f">.>
+
+  ,! automorphism gr|p is ! trivial
+id5t;y automorphism "<alw"> & an ord} #b
+p}muta;n t 8flips0 ! pa? 5d-to-5d4 ,!
+gr|p is f> f transitive & "! >e    #ajbf
+_m orbits4
+
+`#1,a4is.-transitive"<">
+-----------------
+`#1,false
+
+
+`#1,a4orbits"<">
+-----------------
+`#7"<"<#j1 #aj">1 "<#a1 #i">1 "<#b1
+#h">1 "<#c1 #g">1 "<#d1 #f">1
+"<#e1">">`#'
+
+  ,mo/ ( ! /abiliz}s >e trivial1 ) "o
+excep;n4 ,z subgr|ps ( a gr|p ( ord} #b1
+"! r1lly >e n too _m op;ns4
+
+`#1,a4/abiliz}"<#b">4list"<">
+-----------------
+`#1.<"<">.>
+
+
+
+
+                                   #ajbg
+`#1,a4/abiliz}"<#e">4list"<">
+-----------------
+`#1.<"<">1
+`#1"<#j1aj">"<#a1i">"<#b1h">"<#c1g">"<#-
+d1f">.>
+
+  ,h{ wd ? f9al example h be5 di6}5t if
+we _h us$ a pa? on #aj v}tices8
+  .1,,note3 ,"! 0 once a small bug )
+/abiliz}s 2+ cr1t$ z subgr|ps (
+symmetric gr|ps on few} symbols ?an !
+correct numb}4 ,? is fix$ 9 ,sage #d4h &
+new}4 ,note ! correct |tput 2l1 & y c
+*eck yr 9/alla;n by runn+ ~! comm&s4 ,if
+y d n see ! s+leton `#1.<#d.> 9 yr
+|tput1 y %d def9itely update yr copy (
+,sage4
+
+`#7;,g "7 ,symmetric,gr|p"<#d">`#'
+`#7;,s "7 ,g4/abiliz}"<#d">`#'
+`#1,s4orbits"<">
+-----------------
+`#7"<"<#a1 #b1 #c">1 "<#d1">">`#'
+
+                                   #ajbh
+    #ad4i ,sage ,ex}cises
+
+#a4 ,3/ruct ! ,higman-,sims graph ) !
+comm& `#1graphs4,higman,sims,graph"<">4
+,!n 3/ruct ! automorphism gr|p & det}m9e
+! ord} ( ! "o 9t}e/+ normal subgr|p ( ?
+gr|p4 ,y c try plott+ ! graph1 b !
+graphic is unlikely to 2 v 9=mative4
+
+#b4 ,? ex}cise asks y to v}ify ! class
+equa;n |tside ( ! usual situa;n ": !
+gr|p ac;n is 3juga;n4 ,3sid} ! example (
+! automorphism gr|p ( ! pa? on #aa
+v}tices4 ,f/ 3/ruct ! li/ ( orbits4 ,f
+ea* orbit1 grab ! f/ ele;t ( ! orbit z a
+repres5tative4 ,compute ! size ( ! orbit
+z ! 9dex ( ! /abiliz} ( ! repres5tative
+9 ! gr|p via ,!orem #ad4aa4 "<,yes1 y cd
+j compute ! size ( ! full orbit1 b !
+idea ( ! ex}cise is to use m
+gr|p-!oretic results4"> ,!n sum ~!
+orbit-sizes1 : %d equal ! size ( ! :ole
+v}tex set s9ce ! orbits =m a "pi;n4
+
+#c4 ,3/ruct a simple graph "<no    #ajbi
+loops or multiple $ges">1 ) at l1/ two
+v}tices & at l1/ "o $ge1 ~: automorphism
+gr|p is trivial4 ,y mi<t />t exp}i;t+ by
+draw+ pictures on pap} 2f 3/ruct+ !
+graph4 ,a comm& l ! foll{+ w let y
+3/ruct a graph f $ges4 ,! graph 2l looks
+l a triangle or #c-cycle4
+
+`#7;,g "7 ,graph"<.<"<#a1b">1 "<#b1c">1
+"<#c1a">.>">`#'
+`#1,g4plot"<">
+
+
+#d4 ,= ! foll{+ two pairs ( gr|ps1
+compute ! li/ ( 3jugacy class
+repres5tatives = ea* gr|p 9 ! pair4 ,=
+ea* "p1 comp>e & 3tra/ ! results = ! two
+gr|ps 9 ! pair1 ) ?"|;l & 9si<t;l
+com;ts4
+a4 ,! full symmetric gr|p on #e symbols1
+_% ,s5 _:1 & ! alt}nat+ gr|p on #e
+symbols1 _% ,a5 _:4
+;b4 ,! dih$ral gr|ps t >e symmetries ( a
+#g-gon & an #h-gon1 _% ,d7 _: &
+_% ,d8 _:4                         #ajcj
+#e4 ,use ! comm&
+`#1graphs4,cube,graph"<#d"> to build !
+f|r-dim5.nal cube graph1 _% ,q4 _:4 ,us+
+a pla9 `#1;4plot"<"> comm& "<)|t a spr+
+lay|t"> %d cr1te a nice plot4 ,3/ruct !
+automorphism gr|p ( ! graph1 : w provide
+a gr|p ac;n on ! v}tex set4
+a4 ,3/ruct ! orbits ( ? ac;n1 & com;t4
+;b4 ,3/ruct a /abiliz} ( a s+le v}tex
+"<: is a subgr|p ( ! full automorphism
+gr|p"> & !n 3sid} ! ac;n ( .1? gr|p on !
+v}tex set4 ,3/ruct ! orbits ( ? new
+ac;n1 & com;t c>e;lly & fully on yr
+obs}va;ns1 especially 9 t}ms ( ! v}tices
+( ! graph4
+
+#f4 ,build ! graph giv5 by ! comm&s 2l4
+,! result %d 2 a symmetric-look+ graph )
+an automorphism gr|p ( ord} #af4
+
+`#7;,g "7 graphs4,cycle,graph"<#h">`#'
+`#1,g4add.-$ges"<.<"<#j1b">1"<#a1c">1"<-
+#d1f">1"<#e1g">.>">
+`#1,g4plot"<">
+                                   #ajca
+  ,rep1t ! two "ps ( ! previ|s ex}cise1
+b r1lize t 9 ! second "p "! >e n{ two
+di6}5t /abiliz}s to cr1te1 s build bo? &
+comp>e ! di6};es 9 ! /abiliz}s & _!
+orbits4 ,cr1t+ a second plot )
+`#1,g4plot"<lay|t"7'plan>'"> mi<t
+provide extra 9si<t4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   #ajcb
+
